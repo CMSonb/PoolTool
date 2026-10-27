@@ -1,0 +1,7 @@
+record,kp_id,src_id,content,institution_id,pipeline_id,content.id,content.type,content.hasView,content.@context,content.provider,content.edmRights,content.isShownAt,content.isShownBy,content.dataProvider,content.aggregatedCHO,content.object,content.isShownBy.id,content.isShownBy.type,content.isShownBy.dcRights,content.isShownBy.creator,content.aggregatedCHO.id,content.aggregatedCHO.type,content.aggregatedCHO.title,content.aggregatedCHO.dcType,content.aggregatedCHO.extent,content.aggregatedCHO.medium,content.aggregatedCHO.created,content.aggregatedCHO.creator,content.aggregatedCHO.edmType,content.aggregatedCHO.isPartOf,content.aggregatedCHO.identifier,content.aggregatedCHO.provenance,content.aggregatedCHO.dcRights,content.aggregatedCHO.language,content.aggregatedCHO.publisher,content.aggregatedCHO.currentLocation,content.aggregatedCHO.description
+akademie-der-bildenden-kuenste-core #1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0
+akademie-der-bildenden-kuenste-core #2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0
+akademie-der-bildenden-kuenste-core #3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0
+alban-berg #1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,0
+alban-berg #2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,0
+alban-berg #3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,0,1,0,1,1,1,0,1,1,1,1,1
