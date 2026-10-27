@@ -65,12 +65,28 @@ def read_jsonl_member(archive: Path, member_name: str, limit: int | None = None)
     return records
 
 
+def split_member_name(member_name: str) -> tuple[str, str]:
+    """Dateiname <datenset>__<zeitstempel>.jsonl in (Datenset, Zeitstempel) zerlegen."""
+    dataset, _, exported_at = Path(member_name).stem.partition("__")
+    return dataset, exported_at
+
+
+def write_first_records(archive: Path, member_name: str, limit: int = 3) -> Path:
+    """Die ersten Datensätze eines beliebigen Datensets als {datenset}_first_records.json speichern."""
+    dataset, _ = split_member_name(member_name)
+    first_records = read_jsonl_member(archive, member_name, limit=limit)
+
+    target = DATA_DIR / f"{dataset}_first_records.json"
+    target.parent.mkdir(parents=True, exist_ok=True)
+    target.write_text(json.dumps(first_records, indent=2, ensure_ascii=False), encoding="utf-8")
+    return target
+
+
 def write_dataset_overview(per_dataset: dict[str, dict[str, int]], target: Path) -> Path:
     """Eine Zeile pro Datenset (.jsonl-Datei) als CSV schreiben."""
     rows = []
     for member_name, stats in per_dataset.items():
-        # Dateiname: <datenset>__<zeitstempel>.jsonl
-        dataset, _, exported_at = Path(member_name).stem.partition("__")
+        dataset, exported_at = split_member_name(member_name)
         rows.append(
             {
                 "dataset": dataset,
@@ -109,14 +125,8 @@ def main():
     write_dataset_overview(per_dataset, datasets_path)
     print(f"{len(per_dataset)} Datensets gespeichert: {datasets_path}")
 
-    first_records = read_jsonl_member(ARCHIVE_PATH, MEMBER_NAME, limit=3)
-    print(f"{len(first_records)} Datensätze geladen")
-
     # JSON-Ergebnis nicht im Terminal ausgeben, sondern in ilias_data/ speichern
-    output_path = DATA_DIR / "first_records.json"
-    output_path.write_text(
-        json.dumps(first_records, indent=2, ensure_ascii=False), encoding="utf-8"
-    )
+    output_path = write_first_records(ARCHIVE_PATH, MEMBER_NAME)
     print(f"Datensätze gespeichert: {output_path}")
 
     # Alle Datensätze der Datei laden und die Struktur als Tabelle anschauen
