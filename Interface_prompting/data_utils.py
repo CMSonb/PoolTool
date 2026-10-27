@@ -137,6 +137,16 @@ def get_record_id(record: dict, line_no: int) -> tuple[str, bool]:
     """Gibt (ID, gefunden?) zurück. Ohne ID: Ersatzbezeichnung 'Datensatz Nr. N'."""
     for key in config.ID_FIELDS:
         val = _dig(record, key)
+        if isinstance(val, list):
+            for item in val:
+                candidate = item.get("@value") if isinstance(item, dict) else item
+                if isinstance(candidate, (str, int)) and str(candidate).strip():
+                    val = candidate
+                    break
+            else:
+                val = None
+        elif isinstance(val, dict):
+            val = val.get("@value")
         if isinstance(val, (str, int)) and str(val).strip():
             return str(val), True
     return f"Datensatz Nr. {line_no}", False

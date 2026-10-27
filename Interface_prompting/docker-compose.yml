@@ -1,0 +1,11 @@
+services:
+  interface:
+    build: .
+    ports:
+      - "5000:5000"
+    environment:
+      NORM_FIELD: ${NORM_FIELD:-dcType}
+      PORT: 5000
+    volumes:
+      - ./data/vocabularies:/app/data/vocabularies
+      - ./output:/app/output

@@ -41,11 +41,18 @@ if FIELD not in FIELDS:
 # Pfad zum Knoten, der die Felder dcType/medium/subject enthält (Kulturpool-EDM-JSON).
 RECORD_PATH = ("content", "aggregatedCHO")
 
-# Welche Felder eines Datensatzes enthalten die ORIGINALE Objekt-ID?
-# Es wird der erste vorhandene Eintrag verwendet. Punkt-Notation für verschachtelte
-# Felder möglich (z. B. "content.identifier"). Bewusst NICHT kp_id, da die
-# Bezeichnung zwischen Institutionen variieren kann.
-ID_FIELDS = ["src_id"]
+# Mögliche Felder mit der ORIGINALEN Objekt-ID, in Prioritätsreihenfolge.
+# Institutionelle IDs haben je nach Quelle unterschiedliche Feldnamen. kp_id
+# wird bewusst nicht verwendet.
+ID_FIELDS = [
+    "src_id",
+    "source_id",
+    "original_id",
+    "institution_record_id",
+    "record_id",
+    "identifier",
+    "content.aggregatedCHO.identifier",
+]
 
 # Was passiert mit der Konzept-URI (z. B. Getty AAT in "id"), wenn ein Label ersetzt
 # wird und im Vokabular KEINE URI hinterlegt ist?

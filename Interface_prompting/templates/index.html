@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Kulturpool – Metadaten normalisieren</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <script src="{{ url_for('static', filename='app.js') }}" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <p class="eyebrow">Kulturpool · Datenwerkzeug</p>
+      <h1>Metadaten normalisieren</h1>
+      <p>Werte im Feld <strong>{{ field_label }}</strong> mit einem kontrollierten Vokabular abgleichen.</p>
+    </div>
+  </header>
+
+  <main>
+    <section class="panel upload-panel" aria-labelledby="upload-heading">
+      <div class="section-heading">
+        <span class="step-number">1</span>
+        <div>
+          <h2 id="upload-heading">Daten hochladen</h2>
+          <p>JSONL, NDJSON oder ein JSON-Array · maximal 2 GB</p>
+        </div>
+      </div>
+      <form id="upload-form">
+        <label class="file-picker" for="file-input">
+          <span class="file-icon" aria-hidden="true">↑</span>
+          <span id="file-name">Datei auswählen oder hier ablegen</span>
+          <input id="file-input" name="file" type="file" accept=".jsonl,.ndjson,.json" required>
+        </label>
+        <div class="upload-controls">
+          <label for="threshold">Ähnlichkeitsschwelle <output id="threshold-value">{{ threshold }}</output></label>
+          <input id="threshold" name="threshold" type="range" min="0" max="1" step="0.01" value="{{ threshold }}">
+          <button class="button button-primary" type="submit">Datei analysieren</button>
+        </div>
+      </form>
+      <p class="hint">Vokabular: <code>{{ vocab_file }}</code>. Bei <em>medium</em> werden durch Beistriche getrennte Werte einzeln abgeglichen.</p>
+      <div id="status-message" class="notice" role="status" hidden></div>
+      <ul id="warnings" class="warnings" hidden></ul>
+    </section>
+
+    <section id="workspace" class="panel workspace" aria-labelledby="review-heading" hidden>
+      <div class="section-heading">
+        <span class="step-number">2</span>
+        <div>
+          <h2 id="review-heading">Vorschläge prüfen</h2>
+          <p id="job-summary"></p>
+        </div>
+      </div>
+      <div class="review-layout">
+        <nav class="progress-panel" aria-label="Fortschritt im Vokabular">
+          <h3>Fortschritt</h3>
+          <ol id="progress-list" class="progress-list"></ol>
+        </nav>
+        <div class="review-content">
+          <div id="current-review" class="match-layout" hidden>
+            <section class="candidate-panel" aria-labelledby="candidate-heading">
+              <h3 id="candidate-heading">Mögliche Varianten</h3>
+              <p class="hint">Wählen Sie alle Varianten aus, die ersetzt werden sollen.</p>
+              <div id="candidate-list" class="candidate-list"></div>
+            </section>
+            <div class="match-arrow" aria-hidden="true">→</div>
+            <section class="target-panel" aria-labelledby="target-heading">
+              <h3 id="target-heading">Vorzugsbegriff</h3>
+              <p id="target-term" class="target-term"></p>
+              <a id="target-uri" class="target-uri" target="_blank" rel="noopener noreferrer" hidden></a>
+            </section>
+          </div>
+          <div class="review-actions">
+            <p id="selection-count" class="hint">Keine Varianten ausgewählt</p>
+            <button id="go-button" class="button button-primary" type="button" disabled>Auswahl übernehmen und weiter</button>
+          </div>
+          <section id="export-panel" class="export-panel" hidden aria-labelledby="export-heading">
+            <span class="completion-mark" aria-hidden="true">✓</span>
+            <h3 id="export-heading">Alle Vokabularbegriffe geprüft</h3>
+            <p id="export-summary"></p>
+            <div class="export-controls">
+              <label>Datenausgabe
+                <select id="data-format">
+                  <option value="json">JSON-Array</option>
+                  <option value="jsonl">JSONL</option>
+                </select>
+              </label>
+              <label>Änderungsprotokoll
+                <select id="log-format">
+                  <option value="csv">CSV</option>
+                  <option value="json">JSON</option>
+                </select>
+              </label>
+            </div>
+            <div class="export-buttons">
+              <button id="download-data" class="button button-primary" type="button">Daten herunterladen</button>
+              <button id="download-log" class="button button-secondary" type="button">Protokoll herunterladen</button>
+              <button id="download-zip" class="button button-secondary" type="button">Beides als ZIP</button>
+            </div>
+          </section>
+        </div>
+      </div>
+    </section>
+  </main>
+  <footer class="site-footer">
+    <p>Die Verarbeitung erfolgt lokal auf diesem Server. Nicht ausgewählte Werte bleiben unverändert.</p>
+    <section class="credits" aria-labelledby="credits-heading">
+      <h2 id="credits-heading">Kulturpool Hackathon 2026</h2>
+      <p class="credits-names">Astrid Pohl, Carla Schnedlitz, Ilias Kyriazis, Melissa S. Lantzberg</p>
+    </section>
+  </footer>
+</body>
+</html>

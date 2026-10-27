@@ -5,3 +5,8 @@ __pycache__
 ilias.ipynb
 full_records.tar.gz
 *.jsonl
+Interface_prompting/.venv/
+Interface_prompting/__pycache__/
+Interface_prompting/**/__pycache__/
+Interface_prompting/uploads/
+Interface_prompting/output/

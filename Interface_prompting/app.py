@@ -1,10 +1,12 @@
 """Flask-Anwendung: Normalisierung von Metadatenwerten (dcType / medium / subject)."""
 from __future__ import annotations
 
+import math
 import os
 from pathlib import Path
 
 from flask import Flask, jsonify, render_template, request, send_file
+from werkzeug.exceptions import RequestEntityTooLarge
 
 import config
 import jobs
@@ -13,6 +15,11 @@ app = Flask(__name__)
 app.config["MAX_CONTENT_LENGTH"] = config.MAX_UPLOAD_MB * 1024 * 1024
 config.UPLOAD_DIR.mkdir(parents=True, exist_ok=True)
 config.OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+
+
+@app.errorhandler(RequestEntityTooLarge)
+def file_too_large(_error):
+    return jsonify(error=f"Die Datei überschreitet das Upload-Limit von {config.MAX_UPLOAD_MB} MB."), 413
 
 
 def _job_or_404(job_id: str):
@@ -47,7 +54,9 @@ def upload():
     try:
         threshold = float(request.form.get("threshold", config.DEFAULT_THRESHOLD))
     except ValueError:
-        threshold = config.DEFAULT_THRESHOLD
+        return jsonify(error="Die Ähnlichkeitsschwelle muss eine Zahl sein."), 400
+    if not math.isfinite(threshold):
+        return jsonify(error="Die Ähnlichkeitsschwelle muss eine endliche Zahl sein."), 400
     threshold = min(max(threshold, 0.0), 1.0)
 
     job = jobs.create_job(file.filename, threshold)
