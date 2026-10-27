@@ -3,3 +3,5 @@
 ilias_data
 __pycache__
 ilias.ipynb
+full_records.tar.gz
+*.jsonl
