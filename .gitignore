@@ -1,5 +1,5 @@
 .ipynb_checkpoints
 .venv
-ilias_data/full_records.tar.gz
+ilias/data/full_records.tar.gz
 __pycache__
-ilias.ipynb
+ilias/__pycache__

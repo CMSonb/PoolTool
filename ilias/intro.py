@@ -4,7 +4,7 @@ from pathlib import Path
 
 import pandas as pd
 
-DATA_DIR = Path("ilias_data")
+DATA_DIR = Path(__file__).resolve().parent / "data"
 ARCHIVE_PATH = DATA_DIR / "full_records.tar.gz"
 
 MEMBER_NAME = "akademie-der-bildenden-kuenste-core__2026-01-14T11-50-22Z.jsonl"
@@ -103,7 +103,7 @@ def write_dataset_overview(per_dataset: dict[str, dict[str, int]], target: Path)
 
 def main():
     if not ARCHIVE_PATH.exists():
-        raise FileNotFoundError(f"{ARCHIVE_PATH} nicht gefunden — Archiv zuerst nach ilias_data/ legen.")
+        raise FileNotFoundError(f"{ARCHIVE_PATH} nicht gefunden — Archiv zuerst nach ilias/data/ legen.")
 
     count = 0
     # pro .jsonl-Datei (= einzelnes Datenset im Pool): Datensätze gesamt / mit Titel
@@ -125,7 +125,7 @@ def main():
     write_dataset_overview(per_dataset, datasets_path)
     print(f"{len(per_dataset)} Datensets gespeichert: {datasets_path}")
 
-    # JSON-Ergebnis nicht im Terminal ausgeben, sondern in ilias_data/ speichern
+    # JSON-Ergebnis nicht im Terminal ausgeben, sondern in ilias/data/ speichern
     output_path = write_first_records(ARCHIVE_PATH, MEMBER_NAME)
     print(f"Datensätze gespeichert: {output_path}")
 
