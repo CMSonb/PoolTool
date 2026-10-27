@@ -1,0 +1,369 @@
+[
+  {
+    "kp_id": "edb64872-c893-483e-a161-b60b61760e73",
+    "src_id": "at.jaegerstaetter.collections:1610",
+    "content": {
+      "id": "https://id.kulturpool.at/edb64872-c893-483e-a161-b60b61760e73/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "dcRights": [
+        {
+          "@value": "This work by Franz und Franziska Jägerstätter Institut is licensed under CC BY-NC-SA 4.0.",
+          "@language": "en"
+        }
+      ],
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": {
+        "id": "https://collections.jaegerstaetter.at/omekas/s/fs_ffji/item/1610",
+        "type": "WebResource",
+        "hasService": {
+          "id": "https://collections.jaegerstaetter.at/omekas/iiif/2/1610/manifest",
+          "type": "Service",
+          "conformsTo": [
+            {
+              "id": "http://iiif.io/api/image"
+            }
+          ],
+          "implements": {
+            "id": "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      },
+      "isShownBy": {
+        "id": "https://collections.jaegerstaetter.at/omekas/files/original/9f5c2a4f618002a887c77f3fd3e341e501440abf.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Franz und Franziska Jägerstätter Institut",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/edb64872-c893-483e-a161-b60b61760e73/cho",
+        "date": [
+          {
+            "@value": "[1980er-08-09]",
+            "@language": "de"
+          }
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Pilgern nach St. Radegund",
+            "@language": "de"
+          }
+        ],
+        "creator": [
+          {
+            "@value": "[Putz, Erna]",
+            "@language": "de"
+          }
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          {
+            "id": "https://d-nb.info/gnd/1237901022",
+            "type": "Place",
+            "prefLabel": [
+              {
+                "@value": "St. Radegund",
+                "@language": "de"
+              }
+            ]
+          }
+        ],
+        "subject": [
+          {
+            "id": "https://d-nb.info/gnd/1237901022",
+            "type": "Place",
+            "prefLabel": [
+              {
+                "@value": "St. Radegund",
+                "@language": "de"
+              }
+            ]
+          },
+          {
+            "@value": "Farbfotografie",
+            "@language": "de"
+          },
+          {
+            "@value": "Gruppenaufnahme",
+            "@language": "de"
+          },
+          {
+            "@value": "öffentliche Veranstaltung",
+            "@language": "de"
+          }
+        ],
+        "isPartOf": [
+          "Sammlung Franziska Jägerstätter"
+        ],
+        "identifier": [
+          "EP.S01.DP.3"
+        ],
+        "provenance": [
+          {
+            "@value": "Putz, Erna",
+            "@language": "de"
+          }
+        ],
+        "description": [
+          {
+            "@value": "Pilgern von Ostermiething nach St. Radegund am Jägerstättergedenktag",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "katholische-privatuni-jaegerstaetter-institut-linz",
+    "pipeline_id": "katho-linz-jaegerstaetter-core"
+  },
+  {
+    "kp_id": "d5c9b593-8ca0-4886-b04f-4e6ae32f539c",
+    "src_id": "at.jaegerstaetter.collections:1471",
+    "content": {
+      "id": "https://id.kulturpool.at/d5c9b593-8ca0-4886-b04f-4e6ae32f539c/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "dcRights": [
+        {
+          "@value": "This work by Franz und Franziska Jägerstätter Institut is licensed under CC BY-NC-SA 4.0.",
+          "@language": "en"
+        }
+      ],
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": {
+        "id": "https://collections.jaegerstaetter.at/omekas/s/fs_ffji/item/1471",
+        "type": "WebResource",
+        "hasService": {
+          "id": "https://collections.jaegerstaetter.at/omekas/iiif/2/1471/manifest",
+          "type": "Service",
+          "conformsTo": [
+            {
+              "id": "http://iiif.io/api/image"
+            }
+          ],
+          "implements": {
+            "id": "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      },
+      "isShownBy": {
+        "id": "https://collections.jaegerstaetter.at/omekas/files/original/fb97f7b14e78e5316c638e38b7ac4c9a5d6339b3.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Franz und Franziska Jägerstätter Institut",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/d5c9b593-8ca0-4886-b04f-4e6ae32f539c/cho",
+        "date": [
+          {
+            "@value": "1979-12",
+            "@language": "de"
+          }
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Fritz Hannes an Franziska Jägerstätter, Dezember 1979",
+            "@language": "de"
+          }
+        ],
+        "extent": [
+          {
+            "@value": "1 Blatt",
+            "@language": "de"
+          }
+        ],
+        "creator": [
+          {
+            "@value": "Hannes, Fritz",
+            "@language": "de"
+          },
+          {
+            "@value": "Pfarrer",
+            "@language": "de"
+          }
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          {
+            "@value": "Hutthurm",
+            "@language": "de"
+          },
+          {
+            "@value": "St. Radegund",
+            "@language": "de"
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Jägerstätter, Franziska",
+            "@language": "de"
+          }
+        ],
+        "isPartOf": [
+          "Sammlung Franziska Jägerstätter"
+        ],
+        "language": [
+          {
+            "@value": "deutsch",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "EP.S02.01.64"
+        ],
+        "provenance": [
+          {
+            "@value": "Jägerstätter, Franziska",
+            "@language": "de"
+          }
+        ],
+        "description": [
+          {
+            "@value": "wünscht eine schöne Adventszeit sowie frohe Weihnachten und ein gutes neues Jahr; legt ein kleines Christkindgeschenk bei",
+            "@language": "de"
+          },
+          {
+            "@value": "Kuvert vorhanden",
+            "@language": "de"
+          },
+          {
+            "@value": "blaue Tinte auf Papier",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "katholische-privatuni-jaegerstaetter-institut-linz",
+    "pipeline_id": "katho-linz-jaegerstaetter-core"
+  },
+  {
+    "kp_id": "b6507611-3727-4383-b235-c78841505244",
+    "src_id": "at.jaegerstaetter.collections:1377",
+    "content": {
+      "id": "https://id.kulturpool.at/b6507611-3727-4383-b235-c78841505244/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "dcRights": [
+        {
+          "@value": "This work by Franz und Franziska Jägerstätter Institut is licensed under CC BY-NC-SA 4.0.",
+          "@language": "en"
+        }
+      ],
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": {
+        "id": "https://collections.jaegerstaetter.at/omekas/s/fs_ffji/item/1377",
+        "type": "WebResource",
+        "hasService": {
+          "id": "https://collections.jaegerstaetter.at/omekas/iiif/2/1377/manifest",
+          "type": "Service",
+          "conformsTo": [
+            {
+              "id": "http://iiif.io/api/image"
+            }
+          ],
+          "implements": {
+            "id": "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      },
+      "isShownBy": {
+        "id": "https://collections.jaegerstaetter.at/omekas/files/original/dae3d2246aef11679c57aaf582c709e71dd93b3d.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Franz und Franziska Jägerstätter Institut",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/b6507611-3727-4383-b235-c78841505244/cho",
+        "date": [
+          {
+            "@value": "1975-04-08",
+            "@language": "de"
+          }
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Anton Gundlach an Franziska Jägerstätter, 08.04.1975",
+            "@language": "de"
+          }
+        ],
+        "extent": [
+          {
+            "@value": "1 Blatt",
+            "@language": "de"
+          }
+        ],
+        "creator": [
+          {
+            "@value": "Gundlach, Anton",
+            "@language": "de"
+          },
+          {
+            "@value": "Pfarrer",
+            "@language": "de"
+          }
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          {
+            "@value": "Landshut",
+            "@language": "de"
+          },
+          {
+            "@value": "St. Radegund",
+            "@language": "de"
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Jägerstätter, Franziska",
+            "@language": "de"
+          }
+        ],
+        "isPartOf": [
+          "Sammlung Franziska Jägerstätter"
+        ],
+        "language": [
+          {
+            "@value": "deutsch",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "EP.S02.01.39_b"
+        ],
+        "provenance": [
+          {
+            "@value": "Jägerstätter, Franziska",
+            "@language": "de"
+          }
+        ],
+        "description": [
+          {
+            "@value": "schreibt über die Altenfahrten nach Burghausen; möchte in St. Radegund eine Andacht halten; bittet Franziska Jägerstätter um Hilfe bezüglich einer Unterkunft in St. Radegund; hofft Franziska Jägerstätter zu treffen",
+            "@language": "de"
+          },
+          {
+            "@value": "Schreibmaschine auf Papier",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "katholische-privatuni-jaegerstaetter-institut-linz",
+    "pipeline_id": "katho-linz-jaegerstaetter-core"
+  }
+]

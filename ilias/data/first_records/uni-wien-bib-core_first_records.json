@@ -1,0 +1,434 @@
+[
+  {
+    "kp_id": "0d0d0133-c320-4b1b-8427-092de5839647",
+    "src_id": "oai:phaidra.univie.ac.at:o:2289931",
+    "content": {
+      "id": "https://id.kulturpool.at/0d0d0133-c320-4b1b-8427-092de5839647/aggregation",
+      "type": "Aggregation",
+      "object": "https://phaidra.univie.ac.at/api/object/o:2289931/thumbnail?w=600",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by/4.0/",
+      "isShownAt": "https://phaidra.univie.ac.at/o:2289931",
+      "isShownBy": {
+        "id": "https://phaidra.univie.ac.at/api/object/o:2289931/get",
+        "type": "WebResource",
+        "hasService": {
+          "id": "https://phaidra.univie.ac.at/api/imageserver?IIIF=o:2289931.tif/info.json",
+          "type": "Service",
+          "conformsTo": [
+            {
+              "id": "http://iiif.io/api/image"
+            }
+          ],
+          "implements": {
+            "id": "https://iiif.io/api/image/2/level1.json"
+          }
+        },
+        "isReferencedBy": [
+          {
+            "id": "https://phaidra.univie.ac.at/api/object/o:2289931/iiifmanifest"
+          }
+        ]
+      },
+      "dataProvider": {
+        "@value": "Universität Wien",
+        "@language": "de"
+      },
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/0d0d0133-c320-4b1b-8427-092de5839647/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Brief von der Verlagsbuchhandlung Ed. Hölzel an Wettstein, Richard",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          "Brief",
+          {
+            "@value": "Brief",
+            "@language": "de"
+          },
+          "Lettera",
+          {
+            "@value": "Lettera",
+            "@language": "it"
+          },
+          {
+            "@value": "book",
+            "@language": "en"
+          },
+          "letter (correspondence)",
+          {
+            "@value": "letter (correspondence)",
+            "@language": "en"
+          }
+        ],
+        "edmType": "TEXT",
+        "subject": [
+          {
+            "@value": "Botanik",
+            "@language": "de"
+          },
+          "Botaniker",
+          {
+            "@value": "Geschichte der Botanik",
+            "@language": "de"
+          },
+          {
+            "@value": "Geschichte der Naturwissenschaften",
+            "@language": "de"
+          },
+          {
+            "@value": "Korrespondenz",
+            "@language": "de"
+          },
+          {
+            "@value": "Nachlass",
+            "@language": "de"
+          },
+          {
+            "@value": "Naturwissenschaften",
+            "@language": "de"
+          },
+          {
+            "@value": "Prag",
+            "@language": "de"
+          },
+          {
+            "@value": "Universität",
+            "@language": "de"
+          },
+          {
+            "@value": "Wien",
+            "@language": "de"
+          },
+          {
+            "@value": "ÖFOS 2012 -- NATURWISSENSCHAFTEN (1) -- Andere Naturwissenschaften (107) -- Andere Naturwissenschaften (1070) -- Geschichte der Naturwissenschaften (107003)",
+            "@language": "de"
+          },
+          {
+            "@value": "ÖFOS 2012 -- NATURWISSENSCHAFTEN (1) -- Biologie (106) -- Biologie (1060) -- Botanik (106008)",
+            "@language": "de"
+          }
+        ],
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "https://phaidra.univie.ac.at/o:2289931"
+        ],
+        "provenance": [
+          {
+            "@value": "Wettstein, Richard Ritter von Westersheim (30.06.1863-10.08.1931; Systematische Botanik)",
+            "@language": "de"
+          }
+        ],
+        "contributor": [
+          "Richard Wettstein"
+        ],
+        "description": [
+          {
+            "@value": "Die Verlagsbuchhandlung Ed. Hölzel berichtet über den Erlass des hohen k.k. Ministeriums für Kultus und Unterricht betreffend das Werk Die Bäume und Sträucher des Waldes, von Gustav Himpel und Karl Wilhelm.",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "universitaetsbibliothek-wien",
+    "pipeline_id": "uni-wien-bib-core"
+  },
+  {
+    "kp_id": "7072a292-23f8-4745-a614-7fc64436673b",
+    "src_id": "oai:phaidra.univie.ac.at:o:2290198",
+    "content": {
+      "id": "https://id.kulturpool.at/7072a292-23f8-4745-a614-7fc64436673b/aggregation",
+      "type": "Aggregation",
+      "object": "https://phaidra.univie.ac.at/api/object/o:2290198/thumbnail?w=600",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by/4.0/",
+      "isShownAt": "https://phaidra.univie.ac.at/o:2290198",
+      "isShownBy": {
+        "id": "https://phaidra.univie.ac.at/api/object/o:2290198/get",
+        "type": "WebResource",
+        "hasService": {
+          "id": "https://phaidra.univie.ac.at/api/imageserver?IIIF=o:2290198.tif/info.json",
+          "type": "Service",
+          "conformsTo": [
+            {
+              "id": "http://iiif.io/api/image"
+            }
+          ],
+          "implements": {
+            "id": "https://iiif.io/api/image/2/level1.json"
+          }
+        },
+        "isReferencedBy": [
+          {
+            "id": "https://phaidra.univie.ac.at/api/object/o:2290198/iiifmanifest"
+          }
+        ]
+      },
+      "dataProvider": {
+        "@value": "Universität Wien",
+        "@language": "de"
+      },
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/7072a292-23f8-4745-a614-7fc64436673b/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Postkarte von Oltmanns, Johann Friedrich an Wettstein, Richard",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          "Cartolina",
+          {
+            "@value": "Cartolina",
+            "@language": "it"
+          },
+          "Postkarte",
+          {
+            "@value": "Postkarte",
+            "@language": "de"
+          },
+          {
+            "@value": "book",
+            "@language": "en"
+          },
+          "postcard",
+          {
+            "@value": "postcard",
+            "@language": "en"
+          }
+        ],
+        "edmType": "TEXT",
+        "subject": [
+          {
+            "@value": "Botanik",
+            "@language": "de"
+          },
+          "Botaniker",
+          {
+            "@value": "Geschichte der Botanik",
+            "@language": "de"
+          },
+          {
+            "@value": "Geschichte der Naturwissenschaften",
+            "@language": "de"
+          },
+          {
+            "@value": "Korrespondenz",
+            "@language": "de"
+          },
+          {
+            "@value": "Nachlass",
+            "@language": "de"
+          },
+          {
+            "@value": "Naturwissenschaften",
+            "@language": "de"
+          },
+          {
+            "@value": "Prag",
+            "@language": "de"
+          },
+          {
+            "@value": "Universität",
+            "@language": "de"
+          },
+          {
+            "@value": "Wien",
+            "@language": "de"
+          },
+          {
+            "@value": "ÖFOS 2012 -- NATURWISSENSCHAFTEN (1) -- Andere Naturwissenschaften (107) -- Andere Naturwissenschaften (1070) -- Geschichte der Naturwissenschaften (107003)",
+            "@language": "de"
+          },
+          {
+            "@value": "ÖFOS 2012 -- NATURWISSENSCHAFTEN (1) -- Biologie (106) -- Biologie (1060) -- Botanik (106008)",
+            "@language": "de"
+          }
+        ],
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "https://phaidra.univie.ac.at/o:2290198"
+        ],
+        "provenance": [
+          {
+            "@value": "Wettstein, Richard Ritter von Westersheim (30.06.1863-10.08.1931; Systematische Botanik)",
+            "@language": "de"
+          }
+        ],
+        "contributor": [
+          "Richard Wettstein"
+        ],
+        "description": [
+          {
+            "@value": "Der Botaniker Johann Friedrich Oltmanns informiert das Werk Physiologisch-systematische Untersuchungen über die Verwandschaft der Angiospermen von Carl Mez und K. Gohlke.",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "universitaetsbibliothek-wien",
+    "pipeline_id": "uni-wien-bib-core"
+  },
+  {
+    "kp_id": "15eb4f8a-f3e5-4269-aeb9-333f6cf4b170",
+    "src_id": "oai:phaidra.univie.ac.at:o:2302203",
+    "content": {
+      "id": "https://id.kulturpool.at/15eb4f8a-f3e5-4269-aeb9-333f6cf4b170/aggregation",
+      "type": "Aggregation",
+      "object": "https://phaidra.univie.ac.at/api/object/o:2302203/thumbnail?w=600",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by/4.0/",
+      "isShownAt": "https://phaidra.univie.ac.at/o:2302203",
+      "isShownBy": {
+        "id": "https://phaidra.univie.ac.at/api/object/o:2302203/get",
+        "type": "WebResource",
+        "hasService": {
+          "id": "https://phaidra.univie.ac.at/api/imageserver?IIIF=o:2302203.tif/info.json",
+          "type": "Service",
+          "conformsTo": [
+            {
+              "id": "http://iiif.io/api/image"
+            }
+          ],
+          "implements": {
+            "id": "https://iiif.io/api/image/2/level1.json"
+          }
+        },
+        "isReferencedBy": [
+          {
+            "id": "https://phaidra.univie.ac.at/api/object/o:2302203/iiifmanifest"
+          }
+        ]
+      },
+      "dataProvider": {
+        "@value": "Universität Wien",
+        "@language": "de"
+      },
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/15eb4f8a-f3e5-4269-aeb9-333f6cf4b170/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Visitenkarte von Gutzmer, August an Wettstein, Richard",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          "Cartolina",
+          {
+            "@value": "Cartolina",
+            "@language": "it"
+          },
+          "Postkarte",
+          {
+            "@value": "Postkarte",
+            "@language": "de"
+          },
+          {
+            "@value": "book",
+            "@language": "en"
+          },
+          "postcard",
+          {
+            "@value": "postcard",
+            "@language": "en"
+          }
+        ],
+        "edmType": "TEXT",
+        "subject": [
+          {
+            "@value": "Botanik",
+            "@language": "de"
+          },
+          "Botaniker",
+          {
+            "@value": "Geschichte der Botanik",
+            "@language": "de"
+          },
+          {
+            "@value": "Geschichte der Naturwissenschaften",
+            "@language": "de"
+          },
+          {
+            "@value": "Korrespondenz",
+            "@language": "de"
+          },
+          {
+            "@value": "Nachlass",
+            "@language": "de"
+          },
+          {
+            "@value": "Naturwissenschaften",
+            "@language": "de"
+          },
+          {
+            "@value": "Prag",
+            "@language": "de"
+          },
+          {
+            "@value": "Universität",
+            "@language": "de"
+          },
+          {
+            "@value": "Wien",
+            "@language": "de"
+          },
+          {
+            "@value": "ÖFOS 2012 -- NATURWISSENSCHAFTEN (1) -- Andere Naturwissenschaften (107) -- Andere Naturwissenschaften (1070) -- Geschichte der Naturwissenschaften (107003)",
+            "@language": "de"
+          },
+          {
+            "@value": "ÖFOS 2012 -- NATURWISSENSCHAFTEN (1) -- Biologie (106) -- Biologie (1060) -- Botanik (106008)",
+            "@language": "de"
+          }
+        ],
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "https://phaidra.univie.ac.at/o:2302203"
+        ],
+        "provenance": [
+          {
+            "@value": "Wettstein, Richard Ritter von Westersheim (30.06.1863-10.08.1931; Systematische Botanik)",
+            "@language": "de"
+          }
+        ],
+        "contributor": [
+          "Richard Wettstein"
+        ],
+        "description": [
+          {
+            "@value": "Der Mathematiker August Gutzmer bedankt sich für eine Zusendung.",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "universitaetsbibliothek-wien",
+    "pipeline_id": "uni-wien-bib-core"
+  }
+]

@@ -4,6 +4,7 @@ from pathlib import Path
 import pandas as pd
 
 DATA_DIR = Path(__file__).resolve().parent / "data"
+FIRST_RECORDS_DIR = DATA_DIR / "first_records"
 
 # Ebenen, aus denen jeweils die Schlüssel der ersten Ebene als Spalten übernommen werden
 LEVELS = [
@@ -27,7 +28,7 @@ def load_fields() -> pd.DataFrame:
     rows = {}
     columns: dict[tuple[str, ...], dict[str, None]] = {path: {} for path in LEVELS}
 
-    for file in sorted(DATA_DIR.glob("*_first_records.json")):
+    for file in sorted(FIRST_RECORDS_DIR.glob("*_first_records.json")):
         dataset = file.name.removesuffix("_first_records.json")
         for i, record in enumerate(json.loads(file.read_text(encoding="utf-8")), 1):
             row = {}
@@ -45,8 +46,8 @@ def load_fields() -> pd.DataFrame:
 def main():
     fields = load_fields()
 
-    # 1, wenn das Feld im Datensatz vorhanden ist, sonst 0
-    present = fields.notna().astype(int)
+    # 1, wenn das Feld im Datensatz befüllt ist (leere Listen/Strings zählen nicht), sonst 0
+    present = fields.map(lambda v: v is not None and v == v and v not in ([], {}, "")).astype(int)
 
     target = DATA_DIR / "compared_fields.csv"
     present.to_csv(target, index_label="record", encoding="utf-8")

@@ -1,0 +1,324 @@
+[
+  {
+    "kp_id": "f5dbd474-1f08-47da-b727-7c6212a9dfdc",
+    "src_id": "AT-VOMUS_605008",
+    "content": {
+      "id": "https://id.kulturpool.at/f5dbd474-1f08-47da-b727-7c6212a9dfdc/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-sa/4.0/",
+      "isShownAt": "https://sammlungen.ooemuseen.at/piresolver?id=AT-VOMUS_605008",
+      "isShownBy": {
+        "id": "https://sammlungen.ooemuseen.at/api/v1/records/AT-VOMUS_605008/files/images/0658.JPG/full/max/0/default.jpg",
+        "type": "WebResource",
+        "hasService": {
+          "id": "https://sammlungen.ooemuseen.at/api/v1/records/AT-VOMUS_605008",
+          "type": "Service",
+          "conformsTo": [
+            {
+              "id": "http://iiif.io/api/image"
+            }
+          ],
+          "implements": {
+            "id": "http://iiif.io/api/image/2/level1.json"
+          }
+        },
+        "isReferencedBy": [
+          {
+            "id": "https://sammlungen.ooemuseen.at/api/v1/records/AT-VOMUS_605008/manifest"
+          }
+        ]
+      },
+      "dataProvider": "Färbermuseum Gutau",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/f5dbd474-1f08-47da-b727-7c6212a9dfdc/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Stachel aus Gusseisen mit Loch"
+        ],
+        "dcType": [
+          {
+            "@value": "Museumsobjekt",
+            "@language": "de"
+          },
+          {
+            "@value": "artifact",
+            "@language": "en"
+          }
+        ],
+        "extent": [
+          {
+            "@value": "1,5 cm (Höhe)",
+            "@language": "de"
+          },
+          {
+            "@value": "12 cm (Breite)",
+            "@language": "de"
+          },
+          {
+            "@value": "6,5 cm (Tiefe)",
+            "@language": "de"
+          }
+        ],
+        "medium": [
+          {
+            "@value": "Eisen",
+            "@language": "de"
+          }
+        ],
+        "created": [
+          {
+            "@value": "19. Jahrhundert 3. Viertel",
+            "@language": "de"
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          "Färbermuseum Gutau"
+        ],
+        "temporal": [
+          "1851"
+        ],
+        "identifier": [
+          "0658"
+        ],
+        "description": [
+          {
+            "@value": "Stachel aus Eisen für Stachelbügeleisen.",
+            "@language": "de"
+          }
+        ]
+      },
+      "intermediateProvider": [
+        "Verbund Oberösterreichischer Museen"
+      ]
+    },
+    "institution_id": "faerbermuseum-gutau",
+    "pipeline_id": "vomus-core"
+  },
+  {
+    "kp_id": "3c24ca71-4e77-4ed8-845a-3f477569e0ea",
+    "src_id": "AT-VOMUS_205738",
+    "content": {
+      "id": "https://id.kulturpool.at/3c24ca71-4e77-4ed8-845a-3f477569e0ea/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by/4.0/",
+      "isShownAt": "https://sammlungen.ooemuseen.at/piresolver?id=AT-VOMUS_205738",
+      "isShownBy": {
+        "id": "https://sammlungen.ooemuseen.at/api/v1/records/AT-VOMUS_205738/files/images/Vk04993.JPG/full/max/0/default.jpg",
+        "type": "WebResource",
+        "hasService": {
+          "id": "https://sammlungen.ooemuseen.at/api/v1/records/AT-VOMUS_205738",
+          "type": "Service",
+          "conformsTo": [
+            {
+              "id": "http://iiif.io/api/image"
+            }
+          ],
+          "implements": {
+            "id": "http://iiif.io/api/image/2/level1.json"
+          }
+        },
+        "isReferencedBy": [
+          {
+            "id": "https://sammlungen.ooemuseen.at/api/v1/records/AT-VOMUS_205738/manifest"
+          }
+        ]
+      },
+      "dataProvider": "Museum Innviertler Volkskundehaus, Ried/Innkreis",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/3c24ca71-4e77-4ed8-845a-3f477569e0ea/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Rosenkranz"
+        ],
+        "dcType": [
+          {
+            "@value": "Museumsobjekt",
+            "@language": "de"
+          },
+          {
+            "@value": "artifact",
+            "@language": "en"
+          }
+        ],
+        "extent": [
+          {
+            "@value": "16,5 cm (Höhe)",
+            "@language": "de"
+          }
+        ],
+        "medium": [
+          {
+            "@value": "Glas",
+            "@language": "de"
+          },
+          {
+            "@value": "Glasperle/Glasstifte",
+            "@language": "de"
+          },
+          {
+            "@value": "Perlmutt",
+            "@language": "de"
+          }
+        ],
+        "created": [
+          {
+            "@value": "19. Jahrhundert",
+            "@language": "de"
+          }
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Kreuz",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          "Museum Innviertler Volkskundehaus, Ried/Innkreis"
+        ],
+        "temporal": [
+          "1801"
+        ],
+        "identifier": [
+          "Vk04993"
+        ],
+        "description": [
+          {
+            "@value": "Als Gebetsschnur und Meditationshilfe bildet der Rosenkranz eines der meistbenützten Kultgeräte der katholischen Bevölkerung. Der Rosenkranz als Gebetszählhilfe entwickelte sich parallel zum Rosenkranz als Gebetsform. Der einstige Sammler, Pfarrer Johann Veichtlbauer, schreibt dazu in seinem Katalog: Rosenkranzerl in Miniatur mit kl. schwarzen Glasperlen u. gelben Vaterunser mit Perlmutterkreuzl v. K. Tannenberger, gek. 8.4.1919, fl 1,00“",
+            "@language": "de"
+          }
+        ]
+      },
+      "intermediateProvider": [
+        "Verbund Oberösterreichischer Museen"
+      ]
+    },
+    "institution_id": "innviertler-volkskundehaus-ried-innkreis",
+    "pipeline_id": "vomus-core"
+  },
+  {
+    "kp_id": "5e574f7e-29f6-4c8b-8e8d-1a143a38d504",
+    "src_id": "AT-VOMUS_622107",
+    "content": {
+      "id": "https://id.kulturpool.at/5e574f7e-29f6-4c8b-8e8d-1a143a38d504/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-sa/4.0/",
+      "isShownAt": "https://sammlungen.ooemuseen.at/piresolver?id=AT-VOMUS_622107",
+      "isShownBy": {
+        "id": "https://sammlungen.ooemuseen.at/api/v1/records/AT-VOMUS_622107/files/images/0194.JPG/full/max/0/default.jpg",
+        "type": "WebResource",
+        "hasService": {
+          "id": "https://sammlungen.ooemuseen.at/api/v1/records/AT-VOMUS_622107",
+          "type": "Service",
+          "conformsTo": [
+            {
+              "id": "http://iiif.io/api/image"
+            }
+          ],
+          "implements": {
+            "id": "http://iiif.io/api/image/2/level1.json"
+          }
+        },
+        "isReferencedBy": [
+          {
+            "id": "https://sammlungen.ooemuseen.at/api/v1/records/AT-VOMUS_622107/manifest"
+          }
+        ]
+      },
+      "dataProvider": "Färbermuseum Gutau",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/5e574f7e-29f6-4c8b-8e8d-1a143a38d504/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Model mit großen geschnitzten Punkten"
+        ],
+        "dcType": [
+          {
+            "@value": "Museumsobjekt",
+            "@language": "de"
+          },
+          {
+            "@value": "artifact",
+            "@language": "en"
+          }
+        ],
+        "extent": [
+          {
+            "@value": "13 cm (Höhe)",
+            "@language": "de"
+          },
+          {
+            "@value": "18 cm (Breite)",
+            "@language": "de"
+          },
+          {
+            "@value": "4,5 cm (Tiefe)",
+            "@language": "de"
+          }
+        ],
+        "medium": [
+          {
+            "@value": "Holz",
+            "@language": "de"
+          },
+          {
+            "@value": "Messing",
+            "@language": "de"
+          }
+        ],
+        "created": [
+          {
+            "@value": "19. Jahrhundert 4. Viertel",
+            "@language": "de"
+          }
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Ornamente",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          "Färbermuseum Gutau"
+        ],
+        "temporal": [
+          "1876"
+        ],
+        "identifier": [
+          "0194"
+        ],
+        "description": [
+          {
+            "@value": "Model mit großen Punkten, geschnitzt. Starke Pappreste am Model. Model hatte starken Holzwurmbefall. Seitliche Griffe.",
+            "@language": "de"
+          }
+        ]
+      },
+      "intermediateProvider": [
+        "Verbund Oberösterreichischer Museen"
+      ]
+    },
+    "institution_id": "faerbermuseum-gutau",
+    "pipeline_id": "vomus-core"
+  }
+]

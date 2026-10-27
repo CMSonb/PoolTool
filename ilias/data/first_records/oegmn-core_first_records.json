@@ -1,0 +1,242 @@
+[
+  {
+    "kp_id": "20bbbcf2-03bf-411a-93e3-39395de051cd",
+    "src_id": "256125",
+    "content": {
+      "id": "https://id.kulturpool.at/20bbbcf2-03bf-411a-93e3-39395de051cd/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by/4.0/",
+      "isShownAt": "https://devill.oegmn.or.at/file/256125.pdf",
+      "isShownBy": {
+        "id": "https://thanados.openatlas.eu/api/display/256125",
+        "type": "WebResource"
+      },
+      "dataProvider": "Österreichische Gesellschaft für Mittelalter- und Neuzeitarchäologie",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/20bbbcf2-03bf-411a-93e3-39395de051cd/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "1391-10b_purchstal apud rapotenkirchen"
+        ],
+        "source": [
+          "AMA: Archiv für Mittelalterarchäologie (AMA) der Österreichischen Gesellschaft für Mittelalter- und Neuzeitarchäologie 1391-10 - ##de_##\nScan 1391-10b_purchstal; Seitenanzahl: 2; Datenerhebung N.N.; digitale Version Jacqueline Huber/Nora Siegmeth\n##_de##\n\n##en_##\nScan 1391-10b_purchstal; number of pages: 2; data acquisition by N.N.; digital version by Jacqueline Huber/Nora Siegmeth\n##_en##"
+        ],
+        "created": [
+          "2025-02-11"
+        ],
+        "edmType": "TEXT",
+        "spatial": [
+          "Austria",
+          "Niederösterreich",
+          "Purchstal apud Rapotenchirchen",
+          "Rappoltenkirchen",
+          "Sieghartskirchen",
+          "Tulln"
+        ],
+        "subject": [
+          {
+            "@value": "Wüstung",
+            "@language": "de"
+          },
+          {
+            "@value": "Abandoned Village",
+            "@language": "en"
+          },
+          "Abandoned Village",
+          "High Middle Ages",
+          "Late Middle Ages",
+          "Written Sources"
+        ],
+        "dcRights": [
+          "Österreichische Gesellschaft für Mittelalter- und Neuzeitarchäologie"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "High Middle Ages",
+          "Late Middle Ages"
+        ],
+        "identifier": [
+          "256125"
+        ],
+        "description": [
+          {
+            "@value": "Scan 1391-10b_purchstal; Seitenanzahl: 2; Datenerhebung N.N.; digitale Version Jacqueline Huber/Nora Siegmeth",
+            "@language": "de"
+          },
+          {
+            "@value": "Scan 1391-10b_purchstal; number of pages: 2; data acquisition by N.N.; digital version by Jacqueline Huber/Nora Siegmeth",
+            "@language": "en"
+          }
+        ]
+      }
+    },
+    "institution_id": "oesterreichische-gesellschaft-mittelalter-und-neuzeitarchaeologie",
+    "pipeline_id": "oegmn-core"
+  },
+  {
+    "kp_id": "d85f38c1-d509-46d3-b5fe-a617126e1e98",
+    "src_id": "256129",
+    "content": {
+      "id": "https://id.kulturpool.at/d85f38c1-d509-46d3-b5fe-a617126e1e98/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by/4.0/",
+      "isShownAt": "https://devill.oegmn.or.at/file/256129.pdf",
+      "isShownBy": {
+        "id": "https://thanados.openatlas.eu/api/display/256129",
+        "type": "WebResource"
+      },
+      "dataProvider": "Österreichische Gesellschaft für Mittelalter- und Neuzeitarchäologie",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/d85f38c1-d509-46d3-b5fe-a617126e1e98/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "1392-10b_purchstalle"
+        ],
+        "source": [
+          "AMA: Archiv für Mittelalterarchäologie (AMA) der Österreichischen Gesellschaft für Mittelalter- und Neuzeitarchäologie 1392-10 - ##de_##\nScan 1392-10b_purchstalle; Seitenanzahl: 3; Datenerhebung N.N.; digitale Version Jacqueline Huber/Nora Siegmeth\n##_de##\n\n##en_##\nScan 1392-10b_purchstalle; number of pages: 3; data acquisition by N.N.; digital version by Jacqueline Huber/Nora Siegmeth\n##_en##"
+        ],
+        "created": [
+          "2025-02-11"
+        ],
+        "edmType": "TEXT",
+        "spatial": [
+          "Atzenbrugg",
+          "Austria",
+          "Niederösterreich",
+          "Purchstalle",
+          "Tulln"
+        ],
+        "subject": [
+          {
+            "@value": "Wüstung",
+            "@language": "de"
+          },
+          {
+            "@value": "Abandoned Village",
+            "@language": "en"
+          },
+          "Abandoned Village",
+          "Late Middle Ages",
+          "Written Sources"
+        ],
+        "dcRights": [
+          "Österreichische Gesellschaft für Mittelalter- und Neuzeitarchäologie"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "Late Middle Ages"
+        ],
+        "identifier": [
+          "256129"
+        ],
+        "description": [
+          {
+            "@value": "Scan 1392-10b_purchstalle; Seitenanzahl: 3; Datenerhebung N.N.; digitale Version Jacqueline Huber/Nora Siegmeth",
+            "@language": "de"
+          },
+          {
+            "@value": "Scan 1392-10b_purchstalle; number of pages: 3; data acquisition by N.N.; digital version by Jacqueline Huber/Nora Siegmeth",
+            "@language": "en"
+          }
+        ]
+      }
+    },
+    "institution_id": "oesterreichische-gesellschaft-mittelalter-und-neuzeitarchaeologie",
+    "pipeline_id": "oegmn-core"
+  },
+  {
+    "kp_id": "3c436252-2f30-47b1-b76f-394ffbbc6f1c",
+    "src_id": "256122",
+    "content": {
+      "id": "https://id.kulturpool.at/3c436252-2f30-47b1-b76f-394ffbbc6f1c/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by/4.0/",
+      "isShownAt": "https://devill.oegmn.or.at/file/256122.pdf",
+      "isShownBy": {
+        "id": "https://thanados.openatlas.eu/api/display/256122",
+        "type": "WebResource"
+      },
+      "dataProvider": "Österreichische Gesellschaft für Mittelalter- und Neuzeitarchäologie",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/3c436252-2f30-47b1-b76f-394ffbbc6f1c/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "1389-10b_purchstal"
+        ],
+        "source": [
+          "AMA: Archiv für Mittelalterarchäologie (AMA) der Österreichischen Gesellschaft für Mittelalter- und Neuzeitarchäologie 1389-10 - ##de_##\nScan 1389-10b_purchstal; Seitenanzahl: 2; Datenerhebung N.N.; digitale Version Jacqueline Huber/Nora Siegmeth\n##_de##\n\n##en_##\nScan 1389-10b_purchstal; number of pages: 2; data acquisition by N.N.; digital version by Jacqueline Huber/Nora Siegmeth\n##_en##"
+        ],
+        "created": [
+          "2025-02-11"
+        ],
+        "edmType": "TEXT",
+        "spatial": [
+          "Amstetten",
+          "Austria",
+          "Neustadtl an der Donau",
+          "Niederösterreich",
+          "Purchstal"
+        ],
+        "subject": [
+          {
+            "@value": "Wüstung",
+            "@language": "de"
+          },
+          {
+            "@value": "Abandoned Village",
+            "@language": "en"
+          },
+          "Abandoned Village",
+          "Late Middle Ages",
+          "Written Sources"
+        ],
+        "dcRights": [
+          "Österreichische Gesellschaft für Mittelalter- und Neuzeitarchäologie"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "Late Middle Ages"
+        ],
+        "identifier": [
+          "256122"
+        ],
+        "description": [
+          {
+            "@value": "Scan 1389-10b_purchstal; Seitenanzahl: 2; Datenerhebung N.N.; digitale Version Jacqueline Huber/Nora Siegmeth",
+            "@language": "de"
+          },
+          {
+            "@value": "Scan 1389-10b_purchstal; number of pages: 2; data acquisition by N.N.; digital version by Jacqueline Huber/Nora Siegmeth",
+            "@language": "en"
+          }
+        ]
+      }
+    },
+    "institution_id": "oesterreichische-gesellschaft-mittelalter-und-neuzeitarchaeologie",
+    "pipeline_id": "oegmn-core"
+  }
+]

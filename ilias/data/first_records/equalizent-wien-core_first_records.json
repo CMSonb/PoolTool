@@ -1,0 +1,380 @@
+[
+  {
+    "kp_id": "faf6e655-4716-46e6-8087-bc72f4420bd6",
+    "src_id": "oai:handsup-web.eu:video-18887",
+    "content": {
+      "id": "https://id.kulturpool.at/faf6e655-4716-46e6-8087-bc72f4420bd6/aggregation",
+      "type": "Aggregation",
+      "object": {
+        "id": "https://handsup-web.eu/videos/oegs/thumbnails/18887.jpg",
+        "type": "WebResource",
+        "format": [
+          "image/jpeg"
+        ],
+        "description": [
+          {
+            "@value": "Vorschaubild der Gebärde",
+            "@language": "de"
+          }
+        ]
+      },
+      "hasView": [
+        {
+          "id": "https://handsup-web.eu/videos/oegs/thumbnails/18887.jpg",
+          "type": "WebResource",
+          "format": [
+            "image/jpeg"
+          ],
+          "description": [
+            {
+              "@value": "Vorschaubild der Gebärde",
+              "@language": "de"
+            }
+          ]
+        },
+        {
+          "id": "https://media0.giphy.com/media/v1.Y2lkPTQ5OGI2ZTVic2xpcmZ4cjNpOWpobTA4MjYyYTNkb2Z6ZWtrc3B5cWptNDJxcG5uMyZlcD12MV9naWZzJmN0PWc/IfAYrJOm1C1DQHHjgT/giphy.gif",
+          "type": "WebResource",
+          "format": [
+            "image/gif"
+          ],
+          "description": [
+            {
+              "@value": "Animiertes GIF der Gebärde",
+              "@language": "de"
+            }
+          ]
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "dcRights": [
+        "equalizent ST GmbH"
+      ],
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-sa/4.0/",
+      "isShownAt": "https://handsup-web.eu/videos/18887/",
+      "isShownBy": {
+        "id": "https://handsup-web.eu/videos/oegs/18887_Zwiebel_1080x1080.mp4",
+        "type": "WebResource",
+        "format": [
+          "video/mp4"
+        ]
+      },
+      "dataProvider": "equalizent ST GmbH",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/faf6e655-4716-46e6-8087-bc72f4420bd6/cho",
+        "date": [
+          "2024/2025"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Zwiebel",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          "Videoanimation"
+        ],
+        "medium": [
+          "Video"
+        ],
+        "creator": [
+          "equalizent ST GmbH / Ausstellung Hands Up"
+        ],
+        "edmType": "VIDEO",
+        "subject": [
+          {
+            "@value": "Österreichische Gebärdensprache",
+            "@language": "de"
+          },
+          {
+            "@value": "Austrian Sign Language",
+            "@language": "en"
+          },
+          {
+            "@value": "ÖGS",
+            "@language": "de"
+          },
+          {
+            "@value": "Gebärdensprache",
+            "@language": "de"
+          },
+          {
+            "@value": "UNESCO Kulturerbe",
+            "@language": "de"
+          }
+        ],
+        "language": [
+          "asq"
+        ],
+        "identifier": [
+          "handsup-oegs-video-18887"
+        ],
+        "description": [
+          {
+            "@value": "ÖGS (Österreichische Gebärdensprache) Gebärde für \"Zwiebel\" - 3D-animiert mit SiMAX Avatar",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "equalizent-wien",
+    "pipeline_id": "equalizent-wien-core"
+  },
+  {
+    "kp_id": "a324c481-306f-41dd-869a-985e2e12da78",
+    "src_id": "oai:handsup-web.eu:video-13140",
+    "content": {
+      "id": "https://id.kulturpool.at/a324c481-306f-41dd-869a-985e2e12da78/aggregation",
+      "type": "Aggregation",
+      "object": {
+        "id": "https://handsup-web.eu/videos/oegs/thumbnails/13140.jpg",
+        "type": "WebResource",
+        "format": [
+          "image/jpeg"
+        ],
+        "description": [
+          {
+            "@value": "Vorschaubild der Gebärde",
+            "@language": "de"
+          }
+        ]
+      },
+      "hasView": [
+        {
+          "id": "https://handsup-web.eu/videos/oegs/thumbnails/13140.jpg",
+          "type": "WebResource",
+          "format": [
+            "image/jpeg"
+          ],
+          "description": [
+            {
+              "@value": "Vorschaubild der Gebärde",
+              "@language": "de"
+            }
+          ]
+        },
+        {
+          "id": "https://media4.giphy.com/media/v1.Y2lkPTQ5OGI2ZTVibWJxbHNiaGx6d3R5MGVrMW44bzVrZjh4MWxveW9sdTJ6MjZjaWs4eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VAY1z9FqUNgUAhay4Z/giphy.gif",
+          "type": "WebResource",
+          "format": [
+            "image/gif"
+          ],
+          "description": [
+            {
+              "@value": "Animiertes GIF der Gebärde",
+              "@language": "de"
+            }
+          ]
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "dcRights": [
+        "equalizent ST GmbH"
+      ],
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-sa/4.0/",
+      "isShownAt": "https://handsup-web.eu/videos/13140/",
+      "isShownBy": {
+        "id": "https://handsup-web.eu/videos/oegs/13140_zwanzig_1080x1080.mp4",
+        "type": "WebResource",
+        "format": [
+          "video/mp4"
+        ]
+      },
+      "dataProvider": "equalizent ST GmbH",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/a324c481-306f-41dd-869a-985e2e12da78/cho",
+        "date": [
+          "2024/2025"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "zwanzig",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          "Videoanimation"
+        ],
+        "medium": [
+          "Video"
+        ],
+        "creator": [
+          "equalizent ST GmbH / Ausstellung Hands Up"
+        ],
+        "edmType": "VIDEO",
+        "subject": [
+          {
+            "@value": "Österreichische Gebärdensprache",
+            "@language": "de"
+          },
+          {
+            "@value": "Austrian Sign Language",
+            "@language": "en"
+          },
+          {
+            "@value": "ÖGS",
+            "@language": "de"
+          },
+          {
+            "@value": "Gebärdensprache",
+            "@language": "de"
+          },
+          {
+            "@value": "UNESCO Kulturerbe",
+            "@language": "de"
+          }
+        ],
+        "language": [
+          "asq"
+        ],
+        "identifier": [
+          "handsup-oegs-video-13140"
+        ],
+        "description": [
+          {
+            "@value": "ÖGS (Österreichische Gebärdensprache) Gebärde für \"zwanzig\" - 3D-animiert mit SiMAX Avatar",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "equalizent-wien",
+    "pipeline_id": "equalizent-wien-core"
+  },
+  {
+    "kp_id": "37e54df4-e0e3-4cf3-a92d-224e7534aadc",
+    "src_id": "oai:handsup-web.eu:video-13072",
+    "content": {
+      "id": "https://id.kulturpool.at/37e54df4-e0e3-4cf3-a92d-224e7534aadc/aggregation",
+      "type": "Aggregation",
+      "object": {
+        "id": "https://handsup-web.eu/videos/oegs/thumbnails/13072.jpg",
+        "type": "WebResource",
+        "format": [
+          "image/jpeg"
+        ],
+        "description": [
+          {
+            "@value": "Vorschaubild der Gebärde",
+            "@language": "de"
+          }
+        ]
+      },
+      "hasView": [
+        {
+          "id": "https://handsup-web.eu/videos/oegs/thumbnails/13072.jpg",
+          "type": "WebResource",
+          "format": [
+            "image/jpeg"
+          ],
+          "description": [
+            {
+              "@value": "Vorschaubild der Gebärde",
+              "@language": "de"
+            }
+          ]
+        },
+        {
+          "id": "https://media1.giphy.com/media/v1.Y2lkPTQ5OGI2ZTVic2drMDV6ZzNieGdrdHMzaWN0Z2I3M2hyYTVneGN2Zm43aWJna2t4cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2SnwxW887VKE4oWqNw/giphy.gif",
+          "type": "WebResource",
+          "format": [
+            "image/gif"
+          ],
+          "description": [
+            {
+              "@value": "Animiertes GIF der Gebärde",
+              "@language": "de"
+            }
+          ]
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "dcRights": [
+        "equalizent ST GmbH"
+      ],
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-sa/4.0/",
+      "isShownAt": "https://handsup-web.eu/videos/13072/",
+      "isShownBy": {
+        "id": "https://handsup-web.eu/videos/oegs/13072_zusammen_1080x1080.mp4",
+        "type": "WebResource",
+        "format": [
+          "video/mp4"
+        ]
+      },
+      "dataProvider": "equalizent ST GmbH",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/37e54df4-e0e3-4cf3-a92d-224e7534aadc/cho",
+        "date": [
+          "2024/2025"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "zusammen",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          "Videoanimation"
+        ],
+        "medium": [
+          "Video"
+        ],
+        "creator": [
+          "equalizent ST GmbH / Ausstellung Hands Up"
+        ],
+        "edmType": "VIDEO",
+        "subject": [
+          {
+            "@value": "Österreichische Gebärdensprache",
+            "@language": "de"
+          },
+          {
+            "@value": "Austrian Sign Language",
+            "@language": "en"
+          },
+          {
+            "@value": "ÖGS",
+            "@language": "de"
+          },
+          {
+            "@value": "Gebärdensprache",
+            "@language": "de"
+          },
+          {
+            "@value": "UNESCO Kulturerbe",
+            "@language": "de"
+          }
+        ],
+        "language": [
+          "asq"
+        ],
+        "identifier": [
+          "handsup-oegs-video-13072"
+        ],
+        "description": [
+          {
+            "@value": "ÖGS (Österreichische Gebärdensprache) Gebärde für \"zusammen\" - 3D-animiert mit SiMAX Avatar",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "equalizent-wien",
+    "pipeline_id": "equalizent-wien-core"
+  }
+]

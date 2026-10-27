@@ -1,0 +1,571 @@
+[
+  {
+    "kp_id": "e4be42ea-52af-402b-84ed-2f7fb80beb50",
+    "src_id": "at.ac.uibk.fiba.zeiller:8925",
+    "content": {
+      "id": "https://id.kulturpool.at/e4be42ea-52af-402b-84ed-2f7fb80beb50/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "dcRights": [
+        {
+          "@value": "This work by Brenner Forum together with Brenner Archiv is licensed under CC BY 4.0.",
+          "@language": "en"
+        }
+      ],
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by/4.0/",
+      "isShownAt": "https://zeiller2.literaturtirol.at/omekas/s/zeiller/item/8925",
+      "isShownBy": {
+        "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/8960/full/full/0/default.jpg",
+        "type": "WebResource",
+        "hasService": {
+          "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/8960",
+          "type": "Service",
+          "conformsTo": [
+            {
+              "id": "http://iiif.io/api/image"
+            }
+          ],
+          "implements": {
+            "id": "http://iiif.io/api/image/2/level2.json"
+          }
+        },
+        "isReferencedBy": [
+          {
+            "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/8925/manifest"
+          }
+        ]
+      },
+      "dataProvider": "Brenner-Forum – Unterstützungsverein des Forschungsinstituts Brenner-Archiv",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/e4be42ea-52af-402b-84ed-2f7fb80beb50/cho",
+        "type": "ProvidedCHO",
+        "medium": [
+          {
+            "@value": "Bronze",
+            "@language": "de"
+          }
+        ],
+        "creator": [
+          {
+            "id": "https://d-nb.info/gnd/120033151",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Zeiller, Ottmar",
+                "@language": "de"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Sonstiges (Baum, Briefbeschwerer, Kutsche)",
+            "@language": "de"
+          },
+          {
+            "id": "https://d-nb.info/gnd/4031095-4",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Kleinplastik",
+                "@language": "de"
+              }
+            ]
+          }
+        ],
+        "identifier": [
+          "ID380"
+        ],
+        "description": [
+          {
+            "@value": "Briefbeschwerer",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "verein-brenner-forum",
+    "pipeline_id": "brenner-forum-zeiller"
+  },
+  {
+    "kp_id": "f197ec48-76e2-4762-a701-c4a7b192c4b9",
+    "src_id": "at.ac.uibk.fiba.zeiller:9218",
+    "content": {
+      "id": "https://id.kulturpool.at/f197ec48-76e2-4762-a701-c4a7b192c4b9/aggregation",
+      "type": "Aggregation",
+      "hasView": [
+        {
+          "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9361/full/full/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9361",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level2.json"
+            }
+          },
+          "isReferencedBy": [
+            {
+              "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9218/manifest"
+            }
+          ]
+        },
+        {
+          "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9362/full/full/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9362",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level2.json"
+            }
+          },
+          "isReferencedBy": [
+            {
+              "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9218/manifest"
+            }
+          ]
+        },
+        {
+          "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9363/full/full/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9363",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level2.json"
+            }
+          },
+          "isReferencedBy": [
+            {
+              "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9218/manifest"
+            }
+          ]
+        },
+        {
+          "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9364/full/full/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9364",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level2.json"
+            }
+          },
+          "isReferencedBy": [
+            {
+              "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9218/manifest"
+            }
+          ]
+        },
+        {
+          "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9365/full/full/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9365",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level2.json"
+            }
+          },
+          "isReferencedBy": [
+            {
+              "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9218/manifest"
+            }
+          ]
+        },
+        {
+          "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9366/full/full/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9366",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level2.json"
+            }
+          },
+          "isReferencedBy": [
+            {
+              "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9218/manifest"
+            }
+          ]
+        },
+        {
+          "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9367/full/full/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9367",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level2.json"
+            }
+          },
+          "isReferencedBy": [
+            {
+              "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9218/manifest"
+            }
+          ]
+        },
+        {
+          "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9368/full/full/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9368",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level2.json"
+            }
+          },
+          "isReferencedBy": [
+            {
+              "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9218/manifest"
+            }
+          ]
+        },
+        {
+          "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9369/full/full/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9369",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level2.json"
+            }
+          },
+          "isReferencedBy": [
+            {
+              "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9218/manifest"
+            }
+          ]
+        },
+        {
+          "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9370/full/full/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9370",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level2.json"
+            }
+          },
+          "isReferencedBy": [
+            {
+              "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9218/manifest"
+            }
+          ]
+        },
+        {
+          "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9371/full/full/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9371",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level2.json"
+            }
+          },
+          "isReferencedBy": [
+            {
+              "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9218/manifest"
+            }
+          ]
+        },
+        {
+          "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9372/full/full/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9372",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level2.json"
+            }
+          },
+          "isReferencedBy": [
+            {
+              "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9218/manifest"
+            }
+          ]
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "dcRights": [
+        {
+          "@value": "This work by Brenner Forum together with Brenner Archiv is licensed under CC BY 4.0.",
+          "@language": "en"
+        }
+      ],
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by/4.0/",
+      "isShownAt": "https://zeiller2.literaturtirol.at/omekas/s/zeiller/item/9218",
+      "isShownBy": {
+        "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9360/full/full/0/default.jpg",
+        "type": "WebResource",
+        "hasService": {
+          "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9360",
+          "type": "Service",
+          "conformsTo": [
+            {
+              "id": "http://iiif.io/api/image"
+            }
+          ],
+          "implements": {
+            "id": "http://iiif.io/api/image/2/level2.json"
+          }
+        },
+        "isReferencedBy": [
+          {
+            "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9218/manifest"
+          }
+        ]
+      },
+      "dataProvider": "Brenner-Forum – Unterstützungsverein des Forschungsinstituts Brenner-Archiv",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/f197ec48-76e2-4762-a701-c4a7b192c4b9/cho",
+        "type": "ProvidedCHO",
+        "medium": [
+          {
+            "@value": "Holz",
+            "@language": "de"
+          }
+        ],
+        "creator": [
+          {
+            "id": "https://d-nb.info/gnd/120033151",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Zeiller, Ottmar",
+                "@language": "de"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Krippe",
+            "@language": "de"
+          },
+          {
+            "id": "https://d-nb.info/gnd/4031095-4",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Kleinplastik",
+                "@language": "de"
+              }
+            ]
+          }
+        ],
+        "identifier": [
+          "ID396"
+        ],
+        "description": [
+          {
+            "@value": "Krippenensemble (insgesamt 22 Stück)",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "verein-brenner-forum",
+    "pipeline_id": "brenner-forum-zeiller"
+  },
+  {
+    "kp_id": "5347aa6c-6754-4b90-b7d3-0cb8ffd26e06",
+    "src_id": "at.ac.uibk.fiba.zeiller:8927",
+    "content": {
+      "id": "https://id.kulturpool.at/5347aa6c-6754-4b90-b7d3-0cb8ffd26e06/aggregation",
+      "type": "Aggregation",
+      "hasView": [
+        {
+          "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9407/full/full/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9407",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level2.json"
+            }
+          },
+          "isReferencedBy": [
+            {
+              "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/8927/manifest"
+            }
+          ]
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "dcRights": [
+        {
+          "@value": "This work by Brenner Forum together with Brenner Archiv is licensed under CC BY 4.0.",
+          "@language": "en"
+        }
+      ],
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by/4.0/",
+      "isShownAt": "https://zeiller2.literaturtirol.at/omekas/s/zeiller/item/8927",
+      "isShownBy": {
+        "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9406/full/full/0/default.jpg",
+        "type": "WebResource",
+        "hasService": {
+          "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/9406",
+          "type": "Service",
+          "conformsTo": [
+            {
+              "id": "http://iiif.io/api/image"
+            }
+          ],
+          "implements": {
+            "id": "http://iiif.io/api/image/2/level2.json"
+          }
+        },
+        "isReferencedBy": [
+          {
+            "id": "http://zeiller2.literaturtirol.at/omekas/iiif/2/8927/manifest"
+          }
+        ]
+      },
+      "dataProvider": "Brenner-Forum – Unterstützungsverein des Forschungsinstituts Brenner-Archiv",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/5347aa6c-6754-4b90-b7d3-0cb8ffd26e06/cho",
+        "date": [
+          {
+            "@value": "[vor oder im Jahr 1905]",
+            "@language": "de"
+          }
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "„Dorflump“ <ModK 1905, S. Z.-Z 5>",
+            "@language": "de"
+          }
+        ],
+        "medium": [
+          {
+            "@value": "Holz",
+            "@language": "de"
+          }
+        ],
+        "creator": [
+          {
+            "id": "https://d-nb.info/gnd/120033151",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Zeiller, Ottmar",
+                "@language": "de"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "männlich",
+            "@language": "de"
+          },
+          {
+            "id": "https://d-nb.info/gnd/4031095-4",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Kleinplastik",
+                "@language": "de"
+              }
+            ]
+          }
+        ],
+        "identifier": [
+          "ID382"
+        ],
+        "description": [
+          {
+            "@value": "männlich, rechtes Bein vorne, linker Arm seitlich am Körper, rechter Arm angewinkelt, rechte Hand am Kopf, Hut",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "verein-brenner-forum",
+    "pipeline_id": "brenner-forum-zeiller"
+  }
+]

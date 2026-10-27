@@ -1,0 +1,186 @@
+[
+  {
+    "kp_id": "1f3711b3-b869-4665-ad09-428f51e2140f",
+    "src_id": "1715782501557",
+    "content": {
+      "id": "https://id.kulturpool.at/1f3711b3-b869-4665-ad09-428f51e2140f/aggregation",
+      "type": "Aggregation",
+      "object": "https://filmmuseum-archiv.jart.org:8443/jart/prj3/filmmuseum_archiv/resources/dbcon_def/uploads/kulturerbe/Slocking-Walkman_001_2024-07-23_2207247.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "dcRights": [
+        "Ashley Hans Scheirl; Ursula Pürrer"
+      ],
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://data.filmmuseum.at/object/1715782501557",
+      "isShownBy": {
+        "id": "https://filmmuseum-archiv.jart.org:8443/jart/prj3/filmmuseum_archiv/resources/dbcon_def/uploads/kulturerbe/Slocking-Walkman_001_2024-07-23_2207247.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Österreichisches Filmmuseum",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/1f3711b3-b869-4665-ad09-428f51e2140f/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Slocking Walkman"
+        ],
+        "dcType": [
+          "Film"
+        ],
+        "created": [
+          "1986"
+        ],
+        "creator": [
+          "Ursula Pürrer",
+          "Ashley Hans Scheirl",
+          "Dietmar Schipek"
+        ],
+        "edmType": "VIDEO",
+        "spatial": [
+          "Österreich"
+        ],
+        "identifier": [
+          "1715782503449"
+        ],
+        "description": [
+          {
+            "@value": "Ein Musik-Video: Drei Szenarien in einer Komposition. Slocking Walkman ist Sprit. Walkmen liegen bereit zum slocking. Der Slock ist der geile Fisch. Der rote Sprinter greift zum Gerät. Die Tankwärterin setzt an: \"Don't stop – shoot your shot.\" (Divine) (Text: Ursula Pürrer/Ashley Hans Scheirl – Offpride)",
+            "@language": "de"
+          },
+          {
+            "@value": "A music video: Three scenarios in one composition. Slocking Walkman is spirit. Walkmen are ready for slocking. The slock is the horny fish. The red sprinter reaches for the device. The gas station attendant starts: \"Don't stop - shoot your shot.\" (Divine) (Text: Ursula Pürrer/Ashley Hans Scheirl – Offpride)",
+            "@language": "en"
+          }
+        ]
+      }
+    },
+    "institution_id": "oesterreichisches-filmmuseum",
+    "pipeline_id": "oe-filmmuseum-core"
+  },
+  {
+    "kp_id": "fbefa709-69a7-4313-bb87-186e6a0c6736",
+    "src_id": "1715782501531",
+    "content": {
+      "id": "https://id.kulturpool.at/fbefa709-69a7-4313-bb87-186e6a0c6736/aggregation",
+      "type": "Aggregation",
+      "object": "https://filmmuseum-archiv.jart.org:8443/jart/prj3/filmmuseum_archiv/resources/dbcon_def/uploads/kulturerbe/Abbotess-and-the-Flying-Bone_-The_003_2024-07-23_2207420.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "dcRights": [
+        "Ashley Hans Scheirl; Dietmar Shipek"
+      ],
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://data.filmmuseum.at/object/1715782501531",
+      "isShownBy": {
+        "id": "https://filmmuseum-archiv.jart.org:8443/jart/prj3/filmmuseum_archiv/resources/dbcon_def/uploads/kulturerbe/Abbotess-and-the-Flying-Bone_-The_003_2024-07-23_2207420.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Österreichisches Filmmuseum",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/fbefa709-69a7-4313-bb87-186e6a0c6736/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "The Abbotess and the Flying Bone"
+        ],
+        "dcType": [
+          "Film"
+        ],
+        "created": [
+          "1989"
+        ],
+        "creator": [
+          "Ashley Hans Scheirl",
+          "Dietmar Schipek"
+        ],
+        "edmType": "VIDEO",
+        "spatial": [
+          "Österreich",
+          "Großbritannien"
+        ],
+        "identifier": [
+          "1715782503391"
+        ],
+        "description": [
+          {
+            "@value": "Nackte Beine. Schenkelhohe Gummistiefel. Langsam watet die Fischerin durch den reißenden Bach. Ihr dicker Zopf baumelt. Grätschende Beine. Pisse. Luftblasen tanzen auf den Stromschnellen. Ein Toter hängt zwischen den Steinen. Sie hievt ihn auf ihre Schultern, schleppt ihn in ihre Hütte. Ein schneller Schnitt und schon ist sein Finger am Angelhaken befestigt ... (Text: Elke Schüttelkopf – sixpackfilm)",
+            "@language": "de"
+          },
+          {
+            "@value": "When the fisherwoman wades through the river and briefly stops to lift up her apron to urinate and then, again, to lift the body of someone who has drowned, caught between the stones, onto her shoulders, then everything becomes clear: this woman is capable of doing anything... (Text: Elke Schüttelkopf – sixpackfilm)",
+            "@language": "en"
+          }
+        ]
+      }
+    },
+    "institution_id": "oesterreichisches-filmmuseum",
+    "pipeline_id": "oe-filmmuseum-core"
+  },
+  {
+    "kp_id": "9f482788-a058-4364-ae04-cfeb8b134cee",
+    "src_id": "1715782501563",
+    "content": {
+      "id": "https://id.kulturpool.at/9f482788-a058-4364-ae04-cfeb8b134cee/aggregation",
+      "type": "Aggregation",
+      "object": "https://filmmuseum-archiv.jart.org:8443/jart/prj3/filmmuseum_archiv/resources/dbcon_def/uploads/kulturerbe/Tigerin_002_2024-07-23_2207470.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "dcRights": [
+        "Ashley Hans Scheirl"
+      ],
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://data.filmmuseum.at/object/1715782501563",
+      "isShownBy": {
+        "id": "https://filmmuseum-archiv.jart.org:8443/jart/prj3/filmmuseum_archiv/resources/dbcon_def/uploads/kulturerbe/Tigerin_002_2024-07-23_2207470.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Österreichisches Filmmuseum",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/9f482788-a058-4364-ae04-cfeb8b134cee/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Tigerin"
+        ],
+        "dcType": [
+          "Film"
+        ],
+        "created": [
+          "1981"
+        ],
+        "creator": [
+          "Ashley Hans Scheirl"
+        ],
+        "edmType": "VIDEO",
+        "spatial": [
+          "Österreich"
+        ],
+        "identifier": [
+          "1715782503435"
+        ],
+        "description": [
+          {
+            "@value": "Wie ein Raubtier bewegt sich Scheirl, ihren nackten Körper mit einem Tigermuster bemalt in einem von einem Baugerüst gerahmten Raum der Kamera zu. Teilweise werden Tigerstreifen auf ihren Körper projiziert. Gesichter mit Grimassen, die an Kinderzeichnungen erinnern, erscheinen als Fragmente im Bild. Dahinter das (verschollene) Bild \"Selbstportrait als Tigerin\" (in Anlehnung an Maria Lassnig). (Text: Magdalena Steffan/Ashley Hans Scheirl/Silvia Eiblmayr – Kontakt Collection)",
+            "@language": "de"
+          },
+          {
+            "@value": "Scheirl moves towards the camera like a predator, her naked body painted with a tiger pattern in a room framed by scaffolding. Tiger stripes are partially projected onto her body. Faces with grimaces reminiscent of children's drawings appear as fragments in the picture. Behind it is the (lost) painting \"Selbstportrait als Tigerin\" (in reference to Maria Lassnig). (Text: Magdalena Steffan/Ashley Hans Scheirl/Silvia Eiblmayr – Kontakt Collection)",
+            "@language": "en"
+          }
+        ]
+      }
+    },
+    "institution_id": "oesterreichisches-filmmuseum",
+    "pipeline_id": "oe-filmmuseum-core"
+  }
+]

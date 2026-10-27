@@ -1,0 +1,324 @@
+[
+  {
+    "kp_id": "59eb5b43-89ee-4074-ae18-46d5b0dad943",
+    "src_id": "oai:codices.at:codex/97",
+    "content": {
+      "id": "https://id.kulturpool.at/59eb5b43-89ee-4074-ae18-46d5b0dad943/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "dcRights": [
+        "Benediktinerstift Admont"
+      ],
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://admont.codices.at/codices/97",
+      "isShownBy": {
+        "id": "https://admont.codices.at/iiif/image/9ce4a316-297e-430c-bbd8-68d9f25a93bf/full/max/0/default.jpg",
+        "type": "WebResource",
+        "hasService": {
+          "id": "https://admont.codices.at/iiif/9ce4a315-e78f-4bf1-8215-7581cc549960/manifest.json",
+          "type": "Service",
+          "conformsTo": [
+            {
+              "id": "http://iiif.io/api/image"
+            }
+          ],
+          "implements": {
+            "id": "https://iiif.io/api/image/3/level1.json"
+          }
+        },
+        "isReferencedBy": [
+          {
+            "id": "https://admont.codices.at/iiif/9ce4a315-e78f-4bf1-8215-7581cc549960/manifest.json",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "https://iiif.io/api/image/3/level1.json"
+            }
+          }
+        ]
+      },
+      "dataProvider": "Benediktinerstift Admont",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/59eb5b43-89ee-4074-ae18-46d5b0dad943/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Cod. 808 b - Liber alchymisticus",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          {
+            "@value": "Book",
+            "@language": "en"
+          },
+          {
+            "@value": "Buch",
+            "@language": "de"
+          }
+        ],
+        "extent": [
+          "390 Bl."
+        ],
+        "created": [
+          "1670"
+        ],
+        "edmType": "TEXT",
+        "subject": [
+          {
+            "@value": "Handschrift",
+            "@language": "de"
+          },
+          {
+            "@value": "Manuscript",
+            "@language": "en"
+          }
+        ],
+        "isPartOf": [
+          {
+            "@value": "Benediktinerstift Admont",
+            "@language": "de"
+          }
+        ],
+        "language": [
+          "lat",
+          "ger"
+        ],
+        "identifier": [
+          "oai:codices.at:codex/97"
+        ],
+        "description": [
+          {
+            "@value": "Ingressus ad V O A R C H A D U M I A M, quae, ut inquit Panthaeus, hebraice significat Aurum duram rubearum, hoc est duarum Cementationum perfectarum Joannis Victoris a Kyperg … Panrichters und Zeugs-Commissarii des Erzherzogsthumbs Osterreich ob der Enns. ... Lincii ... 1670 Das Buch enthält weiter alchymistische Recepte und Verse in latein. u. deutscher Sprache und Excerpte aus Werken verschiedener Alchymisten. Schön ornamentirter weißer Lederband mit Metallschliessen.",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "benediktinerstift-admont",
+    "pipeline_id": "stift-admont-core"
+  },
+  {
+    "kp_id": "03c675bf-956c-40d7-aa8d-75785d3eae18",
+    "src_id": "oai:codices.at:codex/95",
+    "content": {
+      "id": "https://id.kulturpool.at/03c675bf-956c-40d7-aa8d-75785d3eae18/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "dcRights": [
+        "Benediktinerstift Admont"
+      ],
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://admont.codices.at/codices/95",
+      "isShownBy": {
+        "id": "https://admont.codices.at/iiif/image/9ce4a20f-a8b4-45dd-8815-eee6df045d89/full/max/0/default.jpg",
+        "type": "WebResource",
+        "hasService": {
+          "id": "https://admont.codices.at/iiif/9ce4a20f-694d-443e-adfb-65dfa75bd528/manifest.json",
+          "type": "Service",
+          "conformsTo": [
+            {
+              "id": "http://iiif.io/api/image"
+            }
+          ],
+          "implements": {
+            "id": "https://iiif.io/api/image/3/level1.json"
+          }
+        },
+        "isReferencedBy": [
+          {
+            "id": "https://admont.codices.at/iiif/9ce4a20f-694d-443e-adfb-65dfa75bd528/manifest.json",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "https://iiif.io/api/image/3/level1.json"
+            }
+          }
+        ]
+      },
+      "dataProvider": "Benediktinerstift Admont",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/03c675bf-956c-40d7-aa8d-75785d3eae18/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Cod. 808 - RELATIO DE MONIALIBUS A MALIGNO SPIRITU OBSESSIS",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          {
+            "@value": "Book",
+            "@language": "en"
+          },
+          {
+            "@value": "Buch",
+            "@language": "de"
+          }
+        ],
+        "extent": [
+          "681 Bl."
+        ],
+        "created": [
+          "1713 bis 1718"
+        ],
+        "edmType": "TEXT",
+        "subject": [
+          {
+            "@value": "Handschrift",
+            "@language": "de"
+          },
+          {
+            "@value": "Manuscript",
+            "@language": "en"
+          }
+        ],
+        "isPartOf": [
+          {
+            "@value": "Benediktinerstift Admont",
+            "@language": "de"
+          }
+        ],
+        "language": [
+          "lat"
+        ],
+        "identifier": [
+          "oai:codices.at:codex/95"
+        ],
+        "description": [
+          {
+            "@value": "In Form eines von 7. Okt. 1713 bis 8. Oktober 1718 geführten Diariums wird die Besessenheit und Befreiung der Nonne Anna Ernestina de Corde Mariae (Magdalena Gräfin Thun) weitläufig erzählt. Der Verfasser ist möglicher Weise der Admonter P. Vital Wallich 1698–1719 Beichtvater zu Nonnberg. Brauner Pappband mit Pergamentrücken. [Ergänzung: rest. 1963]",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "benediktinerstift-admont",
+    "pipeline_id": "stift-admont-core"
+  },
+  {
+    "kp_id": "97c2295b-ca1b-4aca-82f5-82494de07db1",
+    "src_id": "oai:codices.at:codex/99",
+    "content": {
+      "id": "https://id.kulturpool.at/97c2295b-ca1b-4aca-82f5-82494de07db1/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "dcRights": [
+        "Benediktinerstift Admont"
+      ],
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://admont.codices.at/codices/99",
+      "isShownBy": {
+        "id": "https://admont.codices.at/iiif/image/9ce4a477-bd21-40b7-ad8a-eb6fbd205aea/full/max/0/default.jpg",
+        "type": "WebResource",
+        "hasService": {
+          "id": "https://admont.codices.at/iiif/9ce4a477-7761-469c-adc0-b6419b2bff13/manifest.json",
+          "type": "Service",
+          "conformsTo": [
+            {
+              "id": "http://iiif.io/api/image"
+            }
+          ],
+          "implements": {
+            "id": "https://iiif.io/api/image/3/level1.json"
+          }
+        },
+        "isReferencedBy": [
+          {
+            "id": "https://admont.codices.at/iiif/9ce4a477-7761-469c-adc0-b6419b2bff13/manifest.json",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "https://iiif.io/api/image/3/level1.json"
+            }
+          }
+        ]
+      },
+      "dataProvider": "Benediktinerstift Admont",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/97c2295b-ca1b-4aca-82f5-82494de07db1/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Cod. 808 d - Discursus quadragesimales",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          {
+            "@value": "Book",
+            "@language": "en"
+          },
+          {
+            "@value": "Buch",
+            "@language": "de"
+          }
+        ],
+        "extent": [
+          "278 Bl."
+        ],
+        "created": [
+          "1693"
+        ],
+        "edmType": "TEXT",
+        "subject": [
+          {
+            "@value": "Handschrift",
+            "@language": "de"
+          },
+          {
+            "@value": "Manuscript",
+            "@language": "en"
+          }
+        ],
+        "isPartOf": [
+          {
+            "@value": "Benediktinerstift Admont",
+            "@language": "de"
+          }
+        ],
+        "language": [
+          "lat"
+        ],
+        "identifier": [
+          "oai:codices.at:codex/99"
+        ],
+        "description": [
+          {
+            "@value": "P. Rochus Sroz hat die 40 Discurse eines ungenannten italienischen Autors über verschiedene Schriftstellen 1693 unter dem Titel „Jucunda distractio“ in das Lateinische übertragen und einen 41. Discurs desselben Verfassers – als Sprachprobe – im Umtexte beigefügt. Weißlederner Einband mit Metallschliessen.",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "benediktinerstift-admont",
+    "pipeline_id": "stift-admont-core"
+  }
+]

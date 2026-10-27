@@ -5,6 +5,7 @@ from pathlib import Path
 import pandas as pd
 
 DATA_DIR = Path(__file__).resolve().parent / "data"
+FIRST_RECORDS_DIR = DATA_DIR / "first_records"
 ARCHIVE_PATH = DATA_DIR / "full_records.tar.gz"
 
 MEMBER_NAME = "akademie-der-bildenden-kuenste-core__2026-01-14T11-50-22Z.jsonl"
@@ -76,10 +77,38 @@ def write_first_records(archive: Path, member_name: str, limit: int = 3) -> Path
     dataset, _ = split_member_name(member_name)
     first_records = read_jsonl_member(archive, member_name, limit=limit)
 
-    target = DATA_DIR / f"{dataset}_first_records.json"
+    target = FIRST_RECORDS_DIR / f"{dataset}_first_records.json"
     target.parent.mkdir(parents=True, exist_ok=True)
     target.write_text(json.dumps(first_records, indent=2, ensure_ascii=False), encoding="utf-8")
     return target
+
+
+def write_all_first_records(archive: Path, limit: int = 3) -> list[Path]:
+    """Die ersten Datensätze jedes Datensets in einem Durchlauf als {datenset}_first_records.json speichern."""
+    FIRST_RECORDS_DIR.mkdir(parents=True, exist_ok=True)
+    targets = []
+    with tarfile.open(archive, mode="r:gz") as tar:
+        for member in tar:
+            if not (member.isfile() and member.name.endswith(".jsonl")):
+                continue
+
+            handle = tar.extractfile(member)
+            if handle is None:
+                continue
+
+            first_records = []
+            for raw_line in handle:
+                line = raw_line.decode("utf-8").strip()
+                if line:
+                    first_records.append(json.loads(line))
+                if len(first_records) >= limit:
+                    break
+
+            dataset, _ = split_member_name(member.name)
+            target = FIRST_RECORDS_DIR / f"{dataset}_first_records.json"
+            target.write_text(json.dumps(first_records, indent=2, ensure_ascii=False), encoding="utf-8")
+            targets.append(target)
+    return targets
 
 
 def write_dataset_overview(per_dataset: dict[str, dict[str, int]], target: Path) -> Path:

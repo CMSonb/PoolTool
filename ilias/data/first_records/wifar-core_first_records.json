@@ -1,0 +1,382 @@
+[
+  {
+    "kp_id": "7fab2e7e-77ef-47a2-8c02-9e9a5475951a",
+    "src_id": "AT-WFR-PIC-GL1S491-LAT_154_074",
+    "content": {
+      "id": "https://id.kulturpool.at/7fab2e7e-77ef-47a2-8c02-9e9a5475951a/aggregation",
+      "type": "Aggregation",
+      "object": {
+        "id": "https://www.wifar.at/Wifar_Neu/Bilder/06/06_03/06_03_Lat_154/Bilder/LAT_154_074.jpg",
+        "type": "WebResource",
+        "dcType": [
+          {
+            "@value": "IMAGE",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "WIFAR - Wiener Filmarchiv der Arbeiterbewegung",
+            "@language": "de"
+          }
+        ],
+        "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": [
+          {
+            "id": "https://www.wifar.at/context/AT-WFR-PIC-GL1S491/LAT_154/AT-WFR-PIC-GL1S491-LAT_154_074.html"
+          }
+        ]
+      },
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.wifar.at/context/AT-WFR-PIC-GL1S491/LAT_154/AT-WFR-PIC-GL1S491-LAT_154_074.html",
+      "isShownBy": {
+        "id": "https://www.wifar.at/Wifar_Neu/Bilder/06/06_03/06_03_Lat_154/Bilder/LAT_154_074.jpg",
+        "type": "WebResource",
+        "dcType": [
+          {
+            "@value": "IMAGE",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "WIFAR - Wiener Filmarchiv der Arbeiterbewegung",
+            "@language": "de"
+          }
+        ],
+        "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/"
+      },
+      "dataProvider": {
+        "@value": "WIFAR - Wiener Filmarchiv der Arbeiterbewegung",
+        "@language": "de"
+      },
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/7fab2e7e-77ef-47a2-8c02-9e9a5475951a/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Stephansdom",
+            "@language": "de"
+          }
+        ],
+        "medium": [
+          {
+            "@value": "Glasdia",
+            "@language": "de"
+          },
+          {
+            "@value": "schwarz weiss",
+            "@language": "de"
+          },
+          {
+            "@value": "Fotografie",
+            "@language": "de"
+          }
+        ],
+        "created": [
+          "nach 1945"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          {
+            "@value": "Wien",
+            "@language": "de"
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Gebäude",
+            "@language": "de"
+          },
+          {
+            "@value": "Kirche",
+            "@language": "de"
+          },
+          {
+            "@value": "Stadtansicht",
+            "@language": "de"
+          }
+        ],
+        "temporal": [
+          "nach 1945"
+        ],
+        "identifier": [
+          "AT-WFR-PIC-GL1S491-LAT_154_074"
+        ],
+        "alternative": [
+          {
+            "@value": "Bildunterlagen für Diavortrag - Thema: Wien in vergangenen Jahrhunderten",
+            "@language": "de"
+          }
+        ],
+        "description": [
+          {
+            "@value": "St. Stephan mit Stahlgerüst am Dach.",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "wiener-filmarchiv-der-arbeiterbewegung",
+    "pipeline_id": "wifar-core"
+  },
+  {
+    "kp_id": "4d5f8c64-4641-466b-86d9-8e95a9cd2ccb",
+    "src_id": "AT-WFR-PIC-GL1S491-LAT_154_075",
+    "content": {
+      "id": "https://id.kulturpool.at/4d5f8c64-4641-466b-86d9-8e95a9cd2ccb/aggregation",
+      "type": "Aggregation",
+      "object": {
+        "id": "https://www.wifar.at/Wifar_Neu/Bilder/06/06_03/06_03_Lat_154/Bilder/LAT_154_075.jpg",
+        "type": "WebResource",
+        "dcType": [
+          {
+            "@value": "IMAGE",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "WIFAR - Wiener Filmarchiv der Arbeiterbewegung",
+            "@language": "de"
+          }
+        ],
+        "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": [
+          {
+            "id": "https://www.wifar.at/context/AT-WFR-PIC-GL1S491/LAT_154/AT-WFR-PIC-GL1S491-LAT_154_075.html"
+          }
+        ]
+      },
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.wifar.at/context/AT-WFR-PIC-GL1S491/LAT_154/AT-WFR-PIC-GL1S491-LAT_154_075.html",
+      "isShownBy": {
+        "id": "https://www.wifar.at/Wifar_Neu/Bilder/06/06_03/06_03_Lat_154/Bilder/LAT_154_075.jpg",
+        "type": "WebResource",
+        "dcType": [
+          {
+            "@value": "IMAGE",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "WIFAR - Wiener Filmarchiv der Arbeiterbewegung",
+            "@language": "de"
+          }
+        ],
+        "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/"
+      },
+      "dataProvider": {
+        "@value": "WIFAR - Wiener Filmarchiv der Arbeiterbewegung",
+        "@language": "de"
+      },
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/4d5f8c64-4641-466b-86d9-8e95a9cd2ccb/cho",
+        "date": [
+          "1530"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Rundansicht von Wien",
+            "@language": "de"
+          }
+        ],
+        "medium": [
+          {
+            "@value": "Glasdia",
+            "@language": "de"
+          },
+          {
+            "@value": "schwarz weiss",
+            "@language": "de"
+          },
+          {
+            "@value": "Zeichnung",
+            "@language": "de"
+          }
+        ],
+        "created": [
+          "1530"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          {
+            "@value": "Wien",
+            "@language": "de"
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Stadtbild",
+            "@language": "de"
+          },
+          {
+            "@value": "Kirche",
+            "@language": "de"
+          },
+          {
+            "@value": "Rundansicht",
+            "@language": "de"
+          }
+        ],
+        "temporal": [
+          "1530"
+        ],
+        "identifier": [
+          "AT-WFR-PIC-GL1S491-LAT_154_075"
+        ],
+        "alternative": [
+          {
+            "@value": "Bildunterlagen für Diavortrag - Thema: Wien in vergangenen Jahrhunderten",
+            "@language": "de"
+          }
+        ],
+        "description": [
+          {
+            "@value": "Wien zur Zeit der ersten Türkenbelagerung.",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "wiener-filmarchiv-der-arbeiterbewegung",
+    "pipeline_id": "wifar-core"
+  },
+  {
+    "kp_id": "f76b590b-6f9b-4abc-b5a7-de9007831440",
+    "src_id": "AT-WFR-PIC-GL1S491-LAT_154_064",
+    "content": {
+      "id": "https://id.kulturpool.at/f76b590b-6f9b-4abc-b5a7-de9007831440/aggregation",
+      "type": "Aggregation",
+      "object": {
+        "id": "https://www.wifar.at/Wifar_Neu/Bilder/06/06_03/06_03_Lat_154/Bilder/LAT_154_064.jpg",
+        "type": "WebResource",
+        "dcType": [
+          {
+            "@value": "IMAGE",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "WIFAR - Wiener Filmarchiv der Arbeiterbewegung",
+            "@language": "de"
+          }
+        ],
+        "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": [
+          {
+            "id": "https://www.wifar.at/context/AT-WFR-PIC-GL1S491/LAT_154/AT-WFR-PIC-GL1S491-LAT_154_064.html"
+          }
+        ]
+      },
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.wifar.at/context/AT-WFR-PIC-GL1S491/LAT_154/AT-WFR-PIC-GL1S491-LAT_154_064.html",
+      "isShownBy": {
+        "id": "https://www.wifar.at/Wifar_Neu/Bilder/06/06_03/06_03_Lat_154/Bilder/LAT_154_064.jpg",
+        "type": "WebResource",
+        "dcType": [
+          {
+            "@value": "IMAGE",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "WIFAR - Wiener Filmarchiv der Arbeiterbewegung",
+            "@language": "de"
+          }
+        ],
+        "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/"
+      },
+      "dataProvider": {
+        "@value": "WIFAR - Wiener Filmarchiv der Arbeiterbewegung",
+        "@language": "de"
+      },
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/f76b590b-6f9b-4abc-b5a7-de9007831440/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Schule Jedlesee",
+            "@language": "de"
+          }
+        ],
+        "medium": [
+          {
+            "@value": "Glasdia",
+            "@language": "de"
+          },
+          {
+            "@value": "schwarz weiss",
+            "@language": "de"
+          },
+          {
+            "@value": "Fotografie",
+            "@language": "de"
+          }
+        ],
+        "created": [
+          "um 1950"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          {
+            "@value": "Wien",
+            "@language": "de"
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Innenraum",
+            "@language": "de"
+          },
+          {
+            "@value": "Schule",
+            "@language": "de"
+          }
+        ],
+        "temporal": [
+          "um 1950"
+        ],
+        "identifier": [
+          "AT-WFR-PIC-GL1S491-LAT_154_064"
+        ],
+        "alternative": [
+          {
+            "@value": "Bildunterlagen für Diavortrag - Thema: Wien in vergangenen Jahrhunderten",
+            "@language": "de"
+          }
+        ],
+        "description": [
+          {
+            "@value": "Das Gebäude wurde 1898-1899 nach Plänen von Anton Drexler als Kaiser-Franz-Josefs-Jubiläums-Schule errichtet. Die Schule wurde als Bürgerschule für Knaben und Mädchen geführt.",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "wiener-filmarchiv-der-arbeiterbewegung",
+    "pipeline_id": "wifar-core"
+  }
+]

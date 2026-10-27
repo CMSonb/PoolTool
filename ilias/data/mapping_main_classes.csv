@@ -1,26 +1,26 @@
-Feldbezeichnung,EDM Feld,JSON Key
-Daten-Provider,edm:dataProvider,dataProvider
-Kontextadresse,edm:isShownAt,isShownAt
-Ressourcenadresse,edm:isShownBy,isShownBy
-Nutzungsrecht,edm:rights,edmRights
-Ansichten,edm:hasView,hasView
-Titel,dc:title,title
-Beschreibung,dc:description,description
-Identifikator,dc:identifier,identifier
-Sprache,dc:language,language
-Medientyp,edm:type,edmType
-Thema,dc:subject,subject
-Objekttyp,dc:type,dcType
-Räumlicher Bezug,dcterms:spatial,spatial
-Zeitlicher Bezug,dcterms:temporal,temporal
-Alternativer Titel,dcterms:alternative,alternative
-Erstellungsdatum,dcterms:created,created
-Datum,dc:date,date
-Bezug,dc:coverage,coverage
-Material,dcterms:medium,medium
-Maße/Dauer,dcterms:extent,extent
-Veröffentlicht durch,dc:publisher,publisher
-Ist ein Teil von,dcterms:isPartOf,isPartOf
-Schöpfer:in,dc:creator,creator
-Standort,edm:currentLocation,currentLocation
-Provenienz,dcterms:provenance,provenance
+Feldbezeichnung,EDM Feld,JSON Key,JSON Key Path
+Daten-Provider,edm:dataProvider,dataProvider,content.dataProvider
+Kontextadresse,edm:isShownAt,isShownAt,content.isShownAt
+Ressourcenadresse,edm:isShownBy,isShownBy,content.isShownBy
+Nutzungsrecht,edm:rights,edmRights,content.edmRights
+Ansichten,edm:hasView,hasView,content.hasView
+Titel,dc:title,title,content.aggregatedCHO.title
+Beschreibung,dc:description,description,content.aggregatedCHO.description
+Identifikator,dc:identifier,identifier,content.aggregatedCHO.identifier
+Sprache,dc:language,language,content.aggregatedCHO.language
+Medientyp,edm:type,edmType,content.aggregatedCHO.edmType
+Thema,dc:subject,subject,content.aggregatedCHO.subject
+Objekttyp,dc:type,dcType,content.aggregatedCHO.dcType
+Räumlicher Bezug,dcterms:spatial,spatial,content.aggregatedCHO.spatial
+Zeitlicher Bezug,dcterms:temporal,temporal,content.aggregatedCHO.temporal
+Alternativer Titel,dcterms:alternative,alternative,content.aggregatedCHO.alternative
+Erstellungsdatum,dcterms:created,created,content.aggregatedCHO.created
+Datum,dc:date,date,content.aggregatedCHO.date
+Bezug,dc:coverage,coverage,content.aggregatedCHO.coverage
+Material,dcterms:medium,medium,content.aggregatedCHO.medium
+Maße/Dauer,dcterms:extent,extent,content.aggregatedCHO.extent
+Veröffentlicht durch,dc:publisher,publisher,content.aggregatedCHO.publisher
+Ist ein Teil von,dcterms:isPartOf,isPartOf,content.aggregatedCHO.isPartOf
+Schöpfer:in,dc:creator,creator,content.aggregatedCHO.creator
+Standort,edm:currentLocation,currentLocation,content.aggregatedCHO.currentLocation
+Provenienz,dcterms:provenance,provenance,content.aggregatedCHO.provenance

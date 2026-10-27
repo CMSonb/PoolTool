@@ -1,0 +1,375 @@
+[
+  {
+    "kp_id": "642898a4-dcdc-4a89-857f-f4116f2e3266",
+    "src_id": "",
+    "content": {
+      "id": "https://id.kulturpool.at/642898a4-dcdc-4a89-857f-f4116f2e3266/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "isShownAt": "https://sammlung-online.keltenmuseum.at/detail/collection/f6e1ddf5-b2ef-4464-a63a-808e7ccedcb0",
+      "isShownBy": {
+        "id": "https://sammlung-online.keltenmuseum.at/iiif/iiif/2/9f20c134-f069-40f9-863c-88d313dbbe40/full/max/0/default.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Keltenmuseum Hallein",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/642898a4-dcdc-4a89-857f-f4116f2e3266/cho",
+        "date": [
+          {
+            "@value": "1683 - 1684",
+            "@language": "de"
+          }
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Wochen- und Schlussbericht",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          {
+            "@value": "Historisches Artefakt",
+            "@language": "de"
+          }
+        ],
+        "extent": [
+          {
+            "@value": "Tiefe: 37 mm",
+            "@language": "de"
+          },
+          {
+            "@value": "Höhe: 309 mm",
+            "@language": "de"
+          },
+          {
+            "@value": "Breite: 227 mm",
+            "@language": "de"
+          }
+        ],
+        "creator": [
+          {
+            "id": "https://sammlung-online.keltenmuseum.at/detail/person/375f4188-b5c8-486d-9c47-c61f021ec8d2",
+            "end": "1803",
+            "name": [
+              "Saline Hallein (fürsterzbischöflich)"
+            ],
+            "type": "Agent",
+            "begin": "1328",
+            "prefLabel": [
+              "Saline Hallein (fürsterzbischöflich)"
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "hasType": [
+          {
+            "id": "http://vocab.getty.edu/aat/300026030",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "documents (object genre)",
+                "@language": "en"
+              },
+              {
+                "@value": "documenten",
+                "@language": "nl"
+              },
+              {
+                "@value": "Dokument (Objektgattung)",
+                "@language": "de"
+              },
+              {
+                "@value": "documentos",
+                "@language": "es"
+              },
+              {
+                "@value": "documentos",
+                "@language": "pt"
+              }
+            ]
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Akte",
+            "@language": "de"
+          }
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          {
+            "@value": "1683 - 1684",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "HI 2023 0132"
+        ],
+        "description": [
+          {
+            "@value": "Transkription des Titels: Salz Wochen und Schlußbericht Der Hochfürstlen Salzburgen Pfleg Hallein De annis 1683 et 1684; Kassabuch aus der Verwaltung der erzbischöflichen Saline Hallein (bis 1816); Überblick über die Einnahmen und Ausgaben der Saline",
+            "@language": "de"
+          }
+        ],
+        "currentLocation": "Keltenmuseum Hallein"
+      }
+    },
+    "institution_id": "keltenmuseum-hallein",
+    "pipeline_id": "keltenmuseum-hallein-core"
+  },
+  {
+    "kp_id": "7894e1cd-14b4-4973-a70b-d7d0bb494d5b",
+    "src_id": "",
+    "content": {
+      "id": "https://id.kulturpool.at/7894e1cd-14b4-4973-a70b-d7d0bb494d5b/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "isShownAt": "https://sammlung-online.keltenmuseum.at/detail/collection/f6ea3cdd-9377-4488-aee6-cf15731e93dc",
+      "isShownBy": {
+        "id": "https://sammlung-online.keltenmuseum.at/iiif/iiif/2/88f30f6a-824c-412a-b0e9-b5c0df88162a/full/max/0/default.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Keltenmuseum Hallein",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/7894e1cd-14b4-4973-a70b-d7d0bb494d5b/cho",
+        "date": [
+          {
+            "@value": "1859",
+            "@language": "de"
+          }
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Dachprofil zum Werkgadentrakt für Ziegeleindekung ",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          {
+            "@value": "Historisches Artefakt",
+            "@language": "de"
+          }
+        ],
+        "extent": [
+          {
+            "@value": "Breite: 500 mm",
+            "@language": "de"
+          },
+          {
+            "@value": "Länge: 587 mm",
+            "@language": "de"
+          }
+        ],
+        "creator": [
+          {
+            "id": "https://sammlung-online.keltenmuseum.at/detail/person/79af5313-2742-4c53-bc63-f5452a6aa02d",
+            "end": "1918",
+            "name": [
+              "Saline Hallein (k.k. Verwaltung)"
+            ],
+            "type": "Agent",
+            "begin": "1816",
+            "prefLabel": [
+              "Saline Hallein (k.k. Verwaltung)"
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "hasType": [
+          {
+            "id": "http://vocab.getty.edu/aat/300034787",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "architectural drawings (visual works)",
+                "@language": "en"
+              },
+              {
+                "@value": "bouwtekeningen",
+                "@language": "nl"
+              },
+              {
+                "@value": "dessins d'architecture",
+                "@language": "fr"
+              },
+              {
+                "@value": "Architekturzeichnung",
+                "@language": "de"
+              },
+              {
+                "@value": "dibujos arquitectónicos",
+                "@language": "es"
+              }
+            ]
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Plan",
+            "@language": "de"
+          }
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          {
+            "@value": "1859",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "HI 2024 0295"
+        ],
+        "description": [
+          {
+            "@value": "",
+            "@language": "de"
+          }
+        ],
+        "currentLocation": "Keltenmuseum Hallein"
+      }
+    },
+    "institution_id": "keltenmuseum-hallein",
+    "pipeline_id": "keltenmuseum-hallein-core"
+  },
+  {
+    "kp_id": "6c67f8d7-b321-4409-a2b2-6857706cc9e9",
+    "src_id": "",
+    "content": {
+      "id": "https://id.kulturpool.at/6c67f8d7-b321-4409-a2b2-6857706cc9e9/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "isShownAt": "https://sammlung-online.keltenmuseum.at/detail/collection/f681bbe9-ae8e-4ef2-9a9d-46bef8cf966c",
+      "isShownBy": {
+        "id": "https://sammlung-online.keltenmuseum.at/iiif/iiif/2/ed8b7d60-7464-4c60-aa23-a2602674b853/full/max/0/default.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Keltenmuseum Hallein",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/6c67f8d7-b321-4409-a2b2-6857706cc9e9/cho",
+        "date": [
+          {
+            "@value": "1797",
+            "@language": "de"
+          }
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Die Au bei der Polstermühle, Fasselsäge",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          {
+            "@value": "Historisches Artefakt",
+            "@language": "de"
+          }
+        ],
+        "extent": [
+          {
+            "@value": "Breite: 249",
+            "@language": "de"
+          },
+          {
+            "@value": "Länge: 337",
+            "@language": "de"
+          }
+        ],
+        "creator": [
+          {
+            "id": "https://sammlung-online.keltenmuseum.at/detail/person/375f4188-b5c8-486d-9c47-c61f021ec8d2",
+            "end": "1803",
+            "name": [
+              "Saline Hallein (fürsterzbischöflich)"
+            ],
+            "type": "Agent",
+            "begin": "1328",
+            "prefLabel": [
+              "Saline Hallein (fürsterzbischöflich)"
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "hasType": [
+          {
+            "id": "http://vocab.getty.edu/aat/300034787",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "architectural drawings (visual works)",
+                "@language": "en"
+              },
+              {
+                "@value": "bouwtekeningen",
+                "@language": "nl"
+              },
+              {
+                "@value": "dessins d'architecture",
+                "@language": "fr"
+              },
+              {
+                "@value": "Architekturzeichnung",
+                "@language": "de"
+              },
+              {
+                "@value": "dibujos arquitectónicos",
+                "@language": "es"
+              }
+            ]
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Plan",
+            "@language": "de"
+          }
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          {
+            "@value": "1797",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "HI 2024 1441"
+        ],
+        "description": [
+          {
+            "@value": "",
+            "@language": "de"
+          }
+        ],
+        "currentLocation": "Keltenmuseum Hallein"
+      }
+    },
+    "institution_id": "keltenmuseum-hallein",
+    "pipeline_id": "keltenmuseum-hallein-core"
+  }
+]

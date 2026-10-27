@@ -1,0 +1,196 @@
+[
+  {
+    "kp_id": "1d46899b-d04d-4177-9ae8-21804f8ee6dc",
+    "src_id": "LM-III-008",
+    "content": {
+      "id": "https://id.kulturpool.at/1d46899b-d04d-4177-9ae8-21804f8ee6dc/aggregation",
+      "type": "Aggregation",
+      "object": "https://door.donau-uni.ac.at/api/object/o%3A4256/download",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "isShownAt": "https://www.krenek.at/krenek-online/lm-iii-008",
+      "isShownBy": {
+        "id": "https://door.donau-uni.ac.at/api/object/o:4256/preview?force=1",
+        "type": "WebResource"
+      },
+      "dataProvider": "Ernst-Krenek-Institut-Privatstiftung",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/1d46899b-d04d-4177-9ae8-21804f8ee6dc/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Fromm. Profile on myself"
+        ],
+        "dcType": [
+          "Manuskript"
+        ],
+        "medium": [
+          "Papier"
+        ],
+        "created": [
+          "1960"
+        ],
+        "creator": [
+          "Ernst Krenek"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          "Fromm Music Foundation",
+          "1960-02",
+          "Cambridge, Mass.",
+          "Zwölftontechnik",
+          "Serielle Musik",
+          "Elektronische Musik"
+        ],
+        "dcRights": [
+          "Ernst-Krenek-Institut-Privatstiftung"
+        ],
+        "publisher": [
+          "Ernst-Krenek-Institut-Privatstiftung"
+        ],
+        "identifier": [
+          "LM-III-008"
+        ],
+        "description": [
+          "Für eine Radiosendung der Fromm Foundation im Februar 1960 gibt Krenek kurze Einführungen in die gespielten Werke: Klaviersonate Nr 3, op. 92 No 4, Lamentation Jeremiae prophetae, op. 93, Eleven Transparencies, op. 142, Spiritus Intelligentiae Sanctus, op. 152, Sestina, op. 161 und The Bell Tower, op. 152."
+        ],
+        "currentLocation": "Dr.-Karl-Dorrek-Straße 30,3500 Krems an der Donau,Österreich"
+      }
+    },
+    "institution_id": "ernst-krenek-institut-privatstiftung",
+    "pipeline_id": "ernst-krenek-institut-init"
+  },
+  {
+    "kp_id": "bcbe0a62-f29e-4f1b-98de-1eeb173cd025",
+    "src_id": "LM-211-02",
+    "content": {
+      "id": "https://id.kulturpool.at/bcbe0a62-f29e-4f1b-98de-1eeb173cd025/aggregation",
+      "type": "Aggregation",
+      "object": "https://door.donau-uni.ac.at/api/object/o%3A4269/download",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "isShownAt": "https://www.krenek.at/krenek-online/lm-211-02",
+      "isShownBy": {
+        "id": "https://door.donau-uni.ac.at/api/object/o:4269/preview?force=1",
+        "type": "WebResource"
+      },
+      "dataProvider": "Ernst-Krenek-Institut-Privatstiftung",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/bcbe0a62-f29e-4f1b-98de-1eeb173cd025/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Lecture [about Kreneks late compositions and some thoughts on the new electronic music] for CBC, Vancouver, [BC, broadcast on] 12.22.1957"
+        ],
+        "dcType": [
+          "Manuskript"
+        ],
+        "medium": [
+          "Papier"
+        ],
+        "created": [
+          "1957"
+        ],
+        "creator": [
+          "Ernst Krenek"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          "Canadian Broadcasting Corporation",
+          "1957-12-22",
+          "Vancouver (British Columbia)",
+          "Zwölftontechnik",
+          "Serielle Musik",
+          "Elektronische Musik"
+        ],
+        "dcRights": [
+          "Ernst-Krenek-Institut-Privatstiftung"
+        ],
+        "publisher": [
+          "Ernst-Krenek-Institut-Privatstiftung"
+        ],
+        "identifier": [
+          "LM-211-02"
+        ],
+        "description": [
+          "Für den kanadischen Radiosender CBC präsentierte Ernst Krenek eine ausführliche Analyse seiner Orchesterstücke „Eleven Transparencies, op. 142“, die im Rahmen der Sendung übertragen wurden. Nach einführenden Worten, die sich vor allem mit der formalen Kürze der einzelnen Teile des Werks befassen, werden zunächst zwei Teile (Nr. 1 und Nr. 5) danach das ganze Werk gespielt."
+        ],
+        "currentLocation": "Dr.-Karl-Dorrek-Straße 30,3500 Krems an der Donau,Österreich"
+      }
+    },
+    "institution_id": "ernst-krenek-institut-privatstiftung",
+    "pipeline_id": "ernst-krenek-institut-init"
+  },
+  {
+    "kp_id": "2a4fef0d-53cd-4c5c-967d-7b3881149bd5",
+    "src_id": "LM-III-005",
+    "content": {
+      "id": "https://id.kulturpool.at/2a4fef0d-53cd-4c5c-967d-7b3881149bd5/aggregation",
+      "type": "Aggregation",
+      "object": "https://door.donau-uni.ac.at/api/object/o%3A4255/download",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "isShownAt": "https://www.krenek.at/krenek-online/lm-iii-005",
+      "isShownBy": {
+        "id": "https://door.donau-uni.ac.at/api/object/o%3A4255/preview",
+        "type": "WebResource"
+      },
+      "dataProvider": "Ernst-Krenek-Institut-Privatstiftung",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/2a4fef0d-53cd-4c5c-967d-7b3881149bd5/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "For Monserrat, July 1968"
+        ],
+        "dcType": [
+          "Manuskript"
+        ],
+        "medium": [
+          "Papier"
+        ],
+        "created": [
+          "1968-07"
+        ],
+        "creator": [
+          "Ernst Krenek"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          "0",
+          "1968-07",
+          "Klosteranlage des Benediktinerklosters Santa Maria de Montserrat",
+          "Kirchenmusik",
+          "Neue Musik"
+        ],
+        "dcRights": [
+          "Ernst-Krenek-Institut-Privatstiftung"
+        ],
+        "publisher": [
+          "Ernst-Krenek-Institut-Privatstiftung"
+        ],
+        "identifier": [
+          "LM-III-005"
+        ],
+        "description": [
+          "Im Zusammenhang mit der Uraufführung von Kreneks „Proprium für Mariae Geburt“, op. 202 am 22. August 1968 stehen Kreneks Überlegungen zum gespannten Verhältnis der ästhetischen Entwicklung einer Neuen Musik zu ihrer Verwendung in zeitgenössischer Kirchenmusik. In seinem Vergleich mit der einigermaßen akzeptierten modernen Architektur für Sakralbauten geht er auf den Gewöhnungseffekt ein, auf den die dauerhaft in der öffentlichen, alltäglichen Wahrnehmung präsenten modernen Kirchen vertrauen können – im Gegensatz zu den meist nur einmal gespielten Versuchen von moderner Kirchenmusik. Außerdem verweist er auf die Schwierigkeiten durch die komplexen musikalischen Strukturen Neuer Musik, die sich einerseits in den akustischen Gegebenheiten vieler Kirchen verlieren würden, als auch den Laien-Sänger:innen nicht überwindbare Schwierigkeiten bereiten."
+        ],
+        "currentLocation": "Dr.-Karl-Dorrek-Straße 30,3500 Krems an der Donau,Österreich"
+      }
+    },
+    "institution_id": "ernst-krenek-institut-privatstiftung",
+    "pipeline_id": "ernst-krenek-institut-init"
+  }
+]

@@ -1,0 +1,293 @@
+[
+  {
+    "kp_id": "ce284bf8-3aa9-4e86-9a55-382d47bd988c",
+    "src_id": "050eaeca-dfa6-45cc-9945-d9a44b8a5f4f",
+    "content": {
+      "id": "https://id.kulturpool.at/ce284bf8-3aa9-4e86-9a55-382d47bd988c/aggregation",
+      "type": "Aggregation",
+      "object": "https://images.sammlung.azw.at/raw/0f/37/0f3707ca-35ec-43a0-a433-ebe694637076.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://sammlung.azw.at/html/050eaeca-dfa6-45cc-9945-d9a44b8a5f4f",
+      "isShownBy": {
+        "id": "https://images.sammlung.azw.at/raw/0f/37/0f3707ca-35ec-43a0-a433-ebe694637076.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": {
+        "@value": "Architekturzentrum Wien",
+        "@language": "de"
+      },
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/ce284bf8-3aa9-4e86-9a55-382d47bd988c/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Josef Lackner: Pfarrkirche Glanzing mit Pfarrkindergarten",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          "Negativ"
+        ],
+        "medium": [
+          "Fotografie, Negativ, s/w, Mittelformat 6x6"
+        ],
+        "source": [
+          "N66_033_001_N_36"
+        ],
+        "created": [
+          "1970"
+        ],
+        "creator": [
+          {
+            "id": "urn:uuid:5663cbed-5be0-4159-b1bf-a46803e4848b#creator_1",
+            "type": "Agent",
+            "gender": "w",
+            "altLabel": [
+              {
+                "@value": "Fotografin",
+                "@language": "de"
+              }
+            ],
+            "prefLabel": [
+              {
+                "@value": "Karin Mack",
+                "@language": "de"
+              }
+            ],
+            "identifier": [
+              "urn:uuid:5663cbed-5be0-4159-b1bf-a46803e4848b"
+            ],
+            "dateOfBirth": "1940",
+            "placeOfBirth": "Wien"
+          }
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Architektur, Architekturfotografie",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Architekturzentrum Wien, Sammlung, Foto: Karin Mack",
+            "@language": "de"
+          }
+        ],
+        "isPartOf": [
+          "N66 Mack"
+        ],
+        "identifier": [
+          "urn:uuid:050eaeca-dfa6-45cc-9945-d9a44b8a5f4f"
+        ],
+        "description": [
+          {
+            "@value": "Josef Lackner: Pfarrkirche Glanzing mit Pfarrkindergarten, Wien, 1967–1970, Innenaufnahme, mit Personen, 1970",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "architekturzentrum-wien",
+    "pipeline_id": "azw-core"
+  },
+  {
+    "kp_id": "f92d713c-78d0-48ad-acbe-3e7a0ccd537c",
+    "src_id": "cbd23f81-c834-4e26-9617-494757a7915b",
+    "content": {
+      "id": "https://id.kulturpool.at/f92d713c-78d0-48ad-acbe-3e7a0ccd537c/aggregation",
+      "type": "Aggregation",
+      "object": "https://images.sammlung.azw.at/raw/ac/48/ac489437-71bd-4012-ab97-708fbc2ce955.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://sammlung.azw.at/html/cbd23f81-c834-4e26-9617-494757a7915b",
+      "isShownBy": {
+        "id": "https://images.sammlung.azw.at/raw/ac/48/ac489437-71bd-4012-ab97-708fbc2ce955.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": {
+        "@value": "Architekturzentrum Wien",
+        "@language": "de"
+      },
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/f92d713c-78d0-48ad-acbe-3e7a0ccd537c/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Hermann Czech, Ingrid Capaine, Volker Thurm-Nemeth: Villa Pflaum – Zubau",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          "Foto"
+        ],
+        "medium": [
+          "Fotografie, digital"
+        ],
+        "source": [
+          "3497_392_by_elmar_bertsch"
+        ],
+        "created": [
+          "2022"
+        ],
+        "creator": [
+          {
+            "id": "urn:uuid:92cb7b2c-1553-4215-a0c3-1ece55867309#creator_3063",
+            "type": "Agent",
+            "altLabel": [
+              {
+                "@value": "Fotograf",
+                "@language": "de"
+              }
+            ],
+            "prefLabel": [
+              {
+                "@value": "Elmar Bertsch",
+                "@language": "de"
+              }
+            ],
+            "identifier": [
+              "urn:uuid:92cb7b2c-1553-4215-a0c3-1ece55867309"
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Architektur",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Architekturzentrum Wien, Sammlung, Foto: Elmar Bertsch",
+            "@language": "de"
+          }
+        ],
+        "isPartOf": [
+          "FOTO Fotokonvolute"
+        ],
+        "identifier": [
+          "urn:uuid:cbd23f81-c834-4e26-9617-494757a7915b"
+        ],
+        "description": [
+          {
+            "@value": "Hermann Czech, Ingrid Capaine, Volker Thurm-Nemeth: Villa Pflaum – Zubau, Wördern, 1976–1979, Außenaufnahme, 2022",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "architekturzentrum-wien",
+    "pipeline_id": "azw-core"
+  },
+  {
+    "kp_id": "0b94d921-5b61-44c3-9f48-1f4d6c0c26ee",
+    "src_id": "45788376-fc49-49a9-89e7-31d609679745",
+    "content": {
+      "id": "https://id.kulturpool.at/0b94d921-5b61-44c3-9f48-1f4d6c0c26ee/aggregation",
+      "type": "Aggregation",
+      "object": "https://images.sammlung.azw.at/raw/8b/6e/8b6e04e8-80d9-4c4b-b50a-f96abae54ba3.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://sammlung.azw.at/html/45788376-fc49-49a9-89e7-31d609679745",
+      "isShownBy": {
+        "id": "https://images.sammlung.azw.at/raw/8b/6e/8b6e04e8-80d9-4c4b-b50a-f96abae54ba3.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": {
+        "@value": "Architekturzentrum Wien",
+        "@language": "de"
+      },
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/0b94d921-5b61-44c3-9f48-1f4d6c0c26ee/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Josef Lackner: Pfarrkirche Glanzing mit Pfarrkindergarten",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          "Negativ"
+        ],
+        "medium": [
+          "Fotografie, Negativ, s/w, Mittelformat 6x6"
+        ],
+        "source": [
+          "N66_033_001_N_37"
+        ],
+        "created": [
+          "1970"
+        ],
+        "creator": [
+          {
+            "id": "urn:uuid:5663cbed-5be0-4159-b1bf-a46803e4848b#creator_1",
+            "type": "Agent",
+            "gender": "w",
+            "altLabel": [
+              {
+                "@value": "Fotografin",
+                "@language": "de"
+              }
+            ],
+            "prefLabel": [
+              {
+                "@value": "Karin Mack",
+                "@language": "de"
+              }
+            ],
+            "identifier": [
+              "urn:uuid:5663cbed-5be0-4159-b1bf-a46803e4848b"
+            ],
+            "dateOfBirth": "1940",
+            "placeOfBirth": "Wien"
+          }
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Architektur, Architekturfotografie",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Architekturzentrum Wien, Sammlung, Foto: Karin Mack",
+            "@language": "de"
+          }
+        ],
+        "isPartOf": [
+          "N66 Mack"
+        ],
+        "identifier": [
+          "urn:uuid:45788376-fc49-49a9-89e7-31d609679745"
+        ],
+        "description": [
+          {
+            "@value": "Josef Lackner: Pfarrkirche Glanzing mit Pfarrkindergarten, Wien, 1967–1970, Innenaufnahme, mit Personen, 1970",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "architekturzentrum-wien",
+    "pipeline_id": "azw-core"
+  }
+]

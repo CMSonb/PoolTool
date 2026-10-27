@@ -1,0 +1,248 @@
+[
+  {
+    "kp_id": "3cdb266c-96d6-4397-967a-f9a7b42f8ee2",
+    "src_id": "oai:jacq.org:g5163466674",
+    "content": {
+      "id": "https://id.kulturpool.at/3cdb266c-96d6-4397-967a-f9a7b42f8ee2/aggregation",
+      "type": [
+        "WebResource",
+        "Aggregation"
+      ],
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by/4.0/",
+      "isShownAt": "https://www.gbif.org/occurrence/5163466674",
+      "isShownBy": {
+        "id": "https://osca.inatura.at/ido_breg_Allium_pallens_B36930.jpg",
+        "type": "WebResource",
+        "dcType": [
+          "StillImage"
+        ],
+        "format": [
+          "image/jpeg"
+        ],
+        "dcRights": [
+          "inatura - Erlebnis Naturschau GmbH"
+        ],
+        "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "dataProvider": "inatura - Erlebnis Naturschau Dornbirn",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/3cdb266c-96d6-4397-967a-f9a7b42f8ee2/cho",
+        "date": [
+          "1884-01-01"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Allium pallens L."
+        ],
+        "dcType": [
+          {
+            "id": "http://rs.tdwg.org/dwc/terms/PreservedSpecimen",
+            "type": "Concept",
+            "altLabel": [
+              {
+                "@value": "Preserved Specimen",
+                "@language": "en"
+              }
+            ],
+            "prefLabel": [
+              {
+                "@value": "Preserved Specimen",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "language": [
+          "und"
+        ],
+        "identifier": [
+          "https://www.gbif.org/occurrence/5163466674"
+        ],
+        "description": [
+          {
+            "@value": "A PreservedSpecimen of Allium pallens L.",
+            "@language": "en"
+          }
+        ]
+      },
+      "intermediateProvider": [
+        "JACQ - Virtual Herbaria"
+      ]
+    },
+    "institution_id": "inatura-dornbirn",
+    "pipeline_id": "inatura-jacq"
+  },
+  {
+    "kp_id": "38c85525-4256-4e43-bd6a-f913adc4e70a",
+    "src_id": "oai:jacq.org:g5163467057",
+    "content": {
+      "id": "https://id.kulturpool.at/38c85525-4256-4e43-bd6a-f913adc4e70a/aggregation",
+      "type": [
+        "WebResource",
+        "Aggregation"
+      ],
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by/4.0/",
+      "isShownAt": "https://www.gbif.org/occurrence/5163467057",
+      "isShownBy": {
+        "id": "https://osca.inatura.at/ido_breg_Aconitum_variegatum_ssp_variegatum_B3642.jpg",
+        "type": "WebResource",
+        "dcType": [
+          "StillImage"
+        ],
+        "format": [
+          "image/jpeg"
+        ],
+        "dcRights": [
+          "inatura - Erlebnis Naturschau GmbH"
+        ],
+        "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "dataProvider": "inatura - Erlebnis Naturschau Dornbirn",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/38c85525-4256-4e43-bd6a-f913adc4e70a/cho",
+        "date": [
+          "1911-07-19"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Aconitum variegatum subsp. variegatum"
+        ],
+        "dcType": [
+          {
+            "id": "http://rs.tdwg.org/dwc/terms/PreservedSpecimen",
+            "type": "Concept",
+            "altLabel": [
+              {
+                "@value": "Preserved Specimen",
+                "@language": "en"
+              }
+            ],
+            "prefLabel": [
+              {
+                "@value": "Preserved Specimen",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "creator": [
+          "Schwimmer Johann"
+        ],
+        "edmType": "IMAGE",
+        "language": [
+          "und"
+        ],
+        "identifier": [
+          "https://www.gbif.org/occurrence/5163467057"
+        ],
+        "description": [
+          {
+            "@value": "A PreservedSpecimen of Aconitum variegatum subsp. variegatum",
+            "@language": "en"
+          }
+        ]
+      },
+      "intermediateProvider": [
+        "JACQ - Virtual Herbaria"
+      ]
+    },
+    "institution_id": "inatura-dornbirn",
+    "pipeline_id": "inatura-jacq"
+  },
+  {
+    "kp_id": "8f6795be-57f2-4598-a711-21ab2b1775d8",
+    "src_id": "oai:jacq.org:g5163466704",
+    "content": {
+      "id": "https://id.kulturpool.at/8f6795be-57f2-4598-a711-21ab2b1775d8/aggregation",
+      "type": [
+        "WebResource",
+        "Aggregation"
+      ],
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by/4.0/",
+      "isShownAt": "https://www.gbif.org/occurrence/5163466704",
+      "isShownBy": {
+        "id": "https://osca.inatura.at/ido_breg_Allium_victorialis_B36922.jpg",
+        "type": "WebResource",
+        "dcType": [
+          "StillImage"
+        ],
+        "format": [
+          "image/jpeg"
+        ],
+        "dcRights": [
+          "inatura - Erlebnis Naturschau GmbH"
+        ],
+        "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "dataProvider": "inatura - Erlebnis Naturschau Dornbirn",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/8f6795be-57f2-4598-a711-21ab2b1775d8/cho",
+        "date": [
+          "1884-01-01"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Allium victorialis L."
+        ],
+        "dcType": [
+          {
+            "id": "http://rs.tdwg.org/dwc/terms/PreservedSpecimen",
+            "type": "Concept",
+            "altLabel": [
+              {
+                "@value": "Preserved Specimen",
+                "@language": "en"
+              }
+            ],
+            "prefLabel": [
+              {
+                "@value": "Preserved Specimen",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "creator": [
+          "Porta Pietro"
+        ],
+        "edmType": "IMAGE",
+        "language": [
+          "und"
+        ],
+        "identifier": [
+          "https://www.gbif.org/occurrence/5163466704"
+        ],
+        "description": [
+          {
+            "@value": "A PreservedSpecimen of Allium victorialis L.",
+            "@language": "en"
+          }
+        ]
+      },
+      "intermediateProvider": [
+        "JACQ - Virtual Herbaria"
+      ]
+    },
+    "institution_id": "inatura-dornbirn",
+    "pipeline_id": "inatura-jacq"
+  }
+]

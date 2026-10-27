@@ -1,0 +1,1301 @@
+[
+  {
+    "kp_id": "80ea41cb-6776-4724-ba76-b50ec2d10c33",
+    "src_id": "614374",
+    "content": {
+      "id": "https://id.kulturpool.at/80ea41cb-6776-4724-ba76-b50ec2d10c33/aggregation",
+      "type": "Aggregation",
+      "hasView": [
+        {
+          "id": "https://api.tmw.at/images/789808?wm=false",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://api.tmw.at/images/789809?wm=false",
+          "type": "WebResource"
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "isShownAt": "https://www.technischesmuseum.at/museum/online-sammlung#sammlung/ui//objectdetail/614374",
+      "isShownBy": {
+        "id": "https://api.tmw.at/images/789807?wm=false",
+        "type": "WebResource"
+      },
+      "dataProvider": "Technisches Museum Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/80ea41cb-6776-4724-ba76-b50ec2d10c33/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Laptop IBM PS/2 CL57 SX",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          {
+            "@value": "Laptop",
+            "@language": "de"
+          }
+        ],
+        "creator": [
+          {
+            "id": "https://d-nb.info/gnd/1042-X",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "IBM Corporation",
+                "@language": "de"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Büro",
+            "@language": "de"
+          },
+          {
+            "@value": "Mobilität",
+            "@language": "de"
+          },
+          {
+            "@value": "Kunststoff",
+            "@language": "de"
+          },
+          {
+            "@value": "akkubetrieben",
+            "@language": "de"
+          },
+          {
+            "id": "http://www.wikidata.org/entity/Q83341",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "wyświetlacz ciekłokrystaliczny",
+                "@language": "pl"
+              },
+              {
+                "@value": "pantalla de cristal líquido",
+                "@language": "es"
+              },
+              {
+                "@value": "Vedelkristallkuvar",
+                "@language": "et"
+              },
+              {
+                "@value": "Liquid crystal display",
+                "@language": "nl"
+              },
+              {
+                "@value": "LCD",
+                "@language": "sv"
+              },
+              {
+                "@value": "LCD",
+                "@language": "pt"
+              },
+              {
+                "@value": "жидкокристаллический дисплей",
+                "@language": "ru"
+              },
+              {
+                "@value": "nestekidenäyttö",
+                "@language": "fi"
+              },
+              {
+                "@value": "LCD",
+                "@language": "hr"
+              },
+              {
+                "@value": "Flydende krystalskærm",
+                "@language": "da"
+              },
+              {
+                "@value": "écran à cristaux liquides",
+                "@language": "fr"
+              },
+              {
+                "@value": "LCD",
+                "@language": "lv"
+              },
+              {
+                "@value": "display a cristalli liquidi",
+                "@language": "it"
+              },
+              {
+                "@value": "Flüssigkristallanzeige",
+                "@language": "de"
+              },
+              {
+                "@value": "liquid-crystal display",
+                "@language": "en"
+              },
+              {
+                "@value": "Displej s kvapalnými kryštálmi",
+                "@language": "sk"
+              },
+              {
+                "@value": "Afișaj cu cristale lichide",
+                "@language": "ro"
+              },
+              {
+                "@value": "pantalla de cristall líquid",
+                "@language": "ca"
+              },
+              {
+                "@value": "zaslon LCD",
+                "@language": "sl"
+              },
+              {
+                "@value": "Displej z tekutých krystalů",
+                "@language": "cs"
+              },
+              {
+                "@value": "Дисплей с течни кристали",
+                "@language": "bg"
+              },
+              {
+                "@value": "Skystakristalis vaizduoklis",
+                "@language": "lt"
+              },
+              {
+                "@value": "taispeántas leachtchriostail",
+                "@language": "ga"
+              },
+              {
+                "@value": "οθόνη υγρών κρυστάλλων",
+                "@language": "el"
+              },
+              {
+                "@value": "Kristal likidozko pantaila",
+                "@language": "eu"
+              },
+              {
+                "@value": "folyadékkristályos kijelző",
+                "@language": "hu"
+              }
+            ]
+          },
+          {
+            "id": "http://www.wikidata.org/entity/Q47604",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "MS-DOS",
+                "@language": "pl"
+              },
+              {
+                "@value": "MS-DOS",
+                "@language": "eu"
+              },
+              {
+                "@value": "MS-DOS",
+                "@language": "es"
+              },
+              {
+                "@value": "MS-DOS",
+                "@language": "hu"
+              },
+              {
+                "@value": "MS-DOS",
+                "@language": "et"
+              },
+              {
+                "@value": "MS-DOS",
+                "@language": "el"
+              },
+              {
+                "@value": "MS-DOS",
+                "@language": "ga"
+              },
+              {
+                "@value": "MS-DOS",
+                "@language": "nl"
+              },
+              {
+                "@value": "MS-DOS",
+                "@language": "sv"
+              },
+              {
+                "@value": "MS-DOS",
+                "@language": "pt"
+              },
+              {
+                "@value": "MS-DOS",
+                "@language": "ru"
+              },
+              {
+                "@value": "MS-DOS",
+                "@language": "fi"
+              },
+              {
+                "@value": "MS-DOS",
+                "@language": "hr"
+              },
+              {
+                "@value": "MS-DOS",
+                "@language": "da"
+              },
+              {
+                "@value": "MS-DOS",
+                "@language": "fr"
+              },
+              {
+                "@value": "MS-DOS",
+                "@language": "lv"
+              },
+              {
+                "@value": "MS-DOS",
+                "@language": "it"
+              },
+              {
+                "@value": "MS-DOS",
+                "@language": "de"
+              },
+              {
+                "@value": "MS-DOS",
+                "@language": "en"
+              },
+              {
+                "@value": "MS-DOS",
+                "@language": "sk"
+              },
+              {
+                "@value": "MS-DOS",
+                "@language": "ro"
+              },
+              {
+                "@value": "MS-DOS",
+                "@language": "ca"
+              },
+              {
+                "@value": "MS-DOS",
+                "@language": "cs"
+              },
+              {
+                "@value": "MS-DOS",
+                "@language": "bg"
+              },
+              {
+                "@value": "MS-DOS",
+                "@language": "lt"
+              },
+              {
+                "@value": "MS-DOS",
+                "@language": "sl"
+              }
+            ]
+          },
+          {
+            "id": "http://www.wikidata.org/entity/Q495432",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Windows 3.1",
+                "@language": "fr"
+              },
+              {
+                "@value": "Windows 3.1",
+                "@language": "lv"
+              },
+              {
+                "@value": "Windows 3.1",
+                "@language": "et"
+              },
+              {
+                "@value": "Microsoft Windows 3.1",
+                "@language": "de"
+              },
+              {
+                "@value": "Windows for Workgroups 3.1",
+                "@language": "nl"
+              },
+              {
+                "@value": "Windows 3.1",
+                "@language": "sk"
+              },
+              {
+                "@value": "Windows 3.1",
+                "@language": "en"
+              },
+              {
+                "@value": "Windows 3.1",
+                "@language": "ro"
+              },
+              {
+                "@value": "Windows 3.1",
+                "@language": "ca"
+              },
+              {
+                "@value": "Windows 3.1",
+                "@language": "sl"
+              },
+              {
+                "@value": "Windows 3.1",
+                "@language": "cs"
+              },
+              {
+                "@value": "Windows 3.1",
+                "@language": "hr"
+              },
+              {
+                "@value": "Windows 3.1",
+                "@language": "pl"
+              },
+              {
+                "@value": "Microsoft Windows 3.1",
+                "@language": "da"
+              },
+              {
+                "@value": "Windows 3.1",
+                "@language": "ru"
+              },
+              {
+                "@value": "Windows 3.1",
+                "@language": "pt"
+              },
+              {
+                "@value": "Windows 3.1",
+                "@language": "el"
+              },
+              {
+                "@value": "Windows 3.1",
+                "@language": "es"
+              },
+              {
+                "@value": "Windows 3.1",
+                "@language": "ga"
+              }
+            ]
+          },
+          {
+            "id": "http://www.wikidata.org/entity/Q20140",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "trackball",
+                "@language": "fr"
+              },
+              {
+                "@value": "trackball",
+                "@language": "ca"
+              },
+              {
+                "@value": "trackball",
+                "@language": "cs"
+              },
+              {
+                "@value": "Trackball",
+                "@language": "de"
+              },
+              {
+                "@value": "trackball",
+                "@language": "en"
+              },
+              {
+                "@value": "trackball",
+                "@language": "es"
+              },
+              {
+                "@value": "juhtkuul",
+                "@language": "et"
+              },
+              {
+                "@value": "trackball",
+                "@language": "hu"
+              },
+              {
+                "@value": "trackball",
+                "@language": "it"
+              },
+              {
+                "@value": "trackball",
+                "@language": "nl"
+              },
+              {
+                "@value": "trackball",
+                "@language": "pl"
+              },
+              {
+                "@value": "trackball",
+                "@language": "pt"
+              },
+              {
+                "@value": "trackball",
+                "@language": "ro"
+              },
+              {
+                "@value": "трекбол",
+                "@language": "ru"
+              },
+              {
+                "@value": "trackball",
+                "@language": "sk"
+              },
+              {
+                "@value": "styrkula",
+                "@language": "sv"
+              },
+              {
+                "@value": "trackball",
+                "@language": "fi"
+              },
+              {
+                "@value": "styrekugle",
+                "@language": "da"
+              },
+              {
+                "@value": "sledilna kroglica",
+                "@language": "sl"
+              }
+            ]
+          }
+        ],
+        "coverage": [
+          "1992-1993"
+        ],
+        "dcRights": [
+          {
+            "@value": "Technisches Museum Wien",
+            "@language": "de"
+          }
+        ],
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "107817",
+          "614374"
+        ],
+        "description": [
+          {
+            "@value": "Im Jahr 1992 erscheint das erste IBM-Laptop mit einem TFT-Farbbildschirm unter der Bezeichnung PS/2 CL57 SX. Es arbeitet mit einem Intel 80386SX-Mikroprozessor [...]",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "technisches-museum-wien",
+    "pipeline_id": "tmw-core"
+  },
+  {
+    "kp_id": "e4cfd35b-3623-4d2c-a276-cd43ddf2a3cc",
+    "src_id": "614377",
+    "content": {
+      "id": "https://id.kulturpool.at/e4cfd35b-3623-4d2c-a276-cd43ddf2a3cc/aggregation",
+      "type": "Aggregation",
+      "hasView": [
+        {
+          "id": "https://api.tmw.at/images/789628?wm=false",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://api.tmw.at/images/789629?wm=false",
+          "type": "WebResource"
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "isShownAt": "https://www.technischesmuseum.at/museum/online-sammlung#sammlung/ui//objectdetail/614377",
+      "isShownBy": {
+        "id": "https://api.tmw.at/images/789627?wm=false",
+        "type": "WebResource"
+      },
+      "dataProvider": "Technisches Museum Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/e4cfd35b-3623-4d2c-a276-cd43ddf2a3cc/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Tonbandgerät Bang & Olufsen Beocord 1800 Typ 4138",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          {
+            "@value": "Tonbandgerät",
+            "@language": "de"
+          }
+        ],
+        "creator": [
+          {
+            "id": "https://d-nb.info/gnd/10053295-0",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Bang & Olufsen",
+                "@language": "de"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Rundfunk",
+            "@language": "de"
+          },
+          {
+            "@value": "Metallwerkstoff",
+            "@language": "de"
+          },
+          {
+            "id": "http://www.wikidata.org/entity/Q5057302",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "sound recording process",
+                "@language": "en"
+              },
+              {
+                "@value": "enregistrament i reproducció del so",
+                "@language": "ca"
+              },
+              {
+                "@value": "Tonaufnahme",
+                "@language": "de"
+              },
+              {
+                "@value": "grabación de sonido",
+                "@language": "es"
+              },
+              {
+                "@value": "äänen tallennus",
+                "@language": "fi"
+              },
+              {
+                "@value": "enregistrement sonore",
+                "@language": "fr"
+              },
+              {
+                "@value": "registrazione del suono",
+                "@language": "it"
+              },
+              {
+                "@value": "gravação e reprodução sonora",
+                "@language": "pt"
+              },
+              {
+                "@value": "запись звука",
+                "@language": "ru"
+              },
+              {
+                "@value": "ljudinspelning",
+                "@language": "sv"
+              },
+              {
+                "@value": "hangrögzítés",
+                "@language": "hu"
+              },
+              {
+                "@value": "Ηχογράφηση",
+                "@language": "el"
+              },
+              {
+                "@value": "taifeadadh fuaime",
+                "@language": "ga"
+              },
+              {
+                "@value": "Звукозапис",
+                "@language": "bg"
+              },
+              {
+                "@value": "Înregistrare sonoră",
+                "@language": "ro"
+              },
+              {
+                "@value": "zvukový záznam",
+                "@language": "cs"
+              },
+              {
+                "@value": "Helisalvestus",
+                "@language": "et"
+              },
+              {
+                "@value": "geluidsopnameproces",
+                "@language": "nl"
+              },
+              {
+                "@value": "lydoptagelse",
+                "@language": "da"
+              },
+              {
+                "@value": "nagrywanie dźwięku",
+                "@language": "pl"
+              },
+              {
+                "@value": "Soinua grabatzeko prozesu",
+                "@language": "eu"
+              },
+              {
+                "@value": "proces snemanja zvoka",
+                "@language": "sl"
+              }
+            ]
+          },
+          {
+            "id": "http://www.wikidata.org/entity/Q638",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "music",
+                "@language": "en"
+              },
+              {
+                "@value": "musica",
+                "@language": "it"
+              },
+              {
+                "@value": "muziek",
+                "@language": "nl"
+              },
+              {
+                "@value": "música",
+                "@language": "es"
+              },
+              {
+                "@value": "muzyka",
+                "@language": "pl"
+              },
+              {
+                "@value": "Musik",
+                "@language": "de"
+              },
+              {
+                "@value": "musique",
+                "@language": "fr"
+              },
+              {
+                "@value": "musiikki",
+                "@language": "fi"
+              },
+              {
+                "@value": "música",
+                "@language": "pt"
+              },
+              {
+                "@value": "музика",
+                "@language": "bg"
+              },
+              {
+                "@value": "música",
+                "@language": "ca"
+              },
+              {
+                "@value": "hudba",
+                "@language": "cs"
+              },
+              {
+                "@value": "musik",
+                "@language": "da"
+              },
+              {
+                "@value": "μουσική",
+                "@language": "el"
+              },
+              {
+                "@value": "muusika",
+                "@language": "et"
+              },
+              {
+                "@value": "musika",
+                "@language": "eu"
+              },
+              {
+                "@value": "ceol",
+                "@language": "ga"
+              },
+              {
+                "@value": "glazba",
+                "@language": "hr"
+              },
+              {
+                "@value": "zene",
+                "@language": "hu"
+              },
+              {
+                "@value": "muzika",
+                "@language": "lt"
+              },
+              {
+                "@value": "mūzika",
+                "@language": "lv"
+              },
+              {
+                "@value": "mużika",
+                "@language": "mt"
+              },
+              {
+                "@value": "muzică",
+                "@language": "ro"
+              },
+              {
+                "@value": "музыка",
+                "@language": "ru"
+              },
+              {
+                "@value": "hudba",
+                "@language": "sk"
+              },
+              {
+                "@value": "glasba",
+                "@language": "sl"
+              },
+              {
+                "@value": "musik",
+                "@language": "sv"
+              }
+            ]
+          },
+          {
+            "id": "http://www.wikidata.org/entity/Q544858",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "magnetofon szpulowy",
+                "@language": "pl"
+              },
+              {
+                "@value": "Магнетофонна ролка",
+                "@language": "bg"
+              },
+              {
+                "@value": "Magnetòfon de bobina oberta",
+                "@language": "ca"
+              },
+              {
+                "@value": "spolebånd",
+                "@language": "da"
+              },
+              {
+                "@value": "Tonband",
+                "@language": "de"
+              },
+              {
+                "@value": "reel-to-reel audio tape",
+                "@language": "en"
+              },
+              {
+                "@value": "Magnetófono de bobina abierta",
+                "@language": "es"
+              },
+              {
+                "@value": "rullband",
+                "@language": "sv"
+              },
+              {
+                "@value": "Tape deck de rolo",
+                "@language": "pt"
+              },
+              {
+                "@value": "магнитная запись на катушке",
+                "@language": "ru"
+              },
+              {
+                "@value": "kelanauha",
+                "@language": "fi"
+              },
+              {
+                "@value": "magnétophone à bande",
+                "@language": "fr"
+              },
+              {
+                "@value": "kotoučový magnetofon",
+                "@language": "cs"
+              },
+              {
+                "@value": "Bobina aperta con nastro audio",
+                "@language": "it"
+              },
+              {
+                "@value": "tonski trak",
+                "@language": "sl"
+              }
+            ]
+          },
+          {
+            "id": "http://www.wikidata.org/entity/Q156938",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "teck",
+                "@language": "fr"
+              },
+              {
+                "@value": "Tectona",
+                "@language": "it"
+              },
+              {
+                "@value": "Teakbaum",
+                "@language": "de"
+              },
+              {
+                "@value": "Tectona grandis",
+                "@language": "en"
+              },
+              {
+                "@value": "Teak",
+                "@language": "sv"
+              },
+              {
+                "@value": "Tík",
+                "@language": "sk"
+              },
+              {
+                "@value": "Teca",
+                "@language": "ca"
+              },
+              {
+                "@value": "tiikki",
+                "@language": "fi"
+              },
+              {
+                "@value": "Tikovec",
+                "@language": "sl"
+              },
+              {
+                "@value": "teka obrovská",
+                "@language": "cs"
+              },
+              {
+                "@value": "Tikmedis",
+                "@language": "lt"
+              },
+              {
+                "@value": "Тиковое дерево",
+                "@language": "ru"
+              },
+              {
+                "@value": "Tectona grandis",
+                "@language": "pt"
+              },
+              {
+                "@value": "Teaktræ",
+                "@language": "da"
+              },
+              {
+                "@value": "Tectona grandis",
+                "@language": "es"
+              },
+              {
+                "@value": "teakboom",
+                "@language": "nl"
+              },
+              {
+                "@value": "Teczyna wyniosła",
+                "@language": "pl"
+              },
+              {
+                "@value": "téac",
+                "@language": "ga"
+              },
+              {
+                "@value": "Teka",
+                "@language": "eu"
+              },
+              {
+                "@value": "teakfa",
+                "@language": "hu"
+              },
+              {
+                "@value": "Tectona grandis",
+                "@language": "bg"
+              },
+              {
+                "@value": "Tec",
+                "@language": "ro"
+              },
+              {
+                "@value": "Suur tiikpuu",
+                "@language": "et"
+              },
+              {
+                "@value": "Obični tik",
+                "@language": "hr"
+              },
+              {
+                "@value": "τικ",
+                "@language": "el"
+              }
+            ]
+          }
+        ],
+        "coverage": [
+          "1969-1973"
+        ],
+        "dcRights": [
+          {
+            "@value": "Technisches Museum Wien",
+            "@language": "de"
+          }
+        ],
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "113149",
+          "614377"
+        ],
+        "description": [
+          {
+            "@value": "Im Jahr 1968 präsentiert der dänische Hersteller Bang & Olufsen das 2-Spur-Tonbandgerät Beocord 1800 Typ 4132 in Teakholz-Furnier. Im Jahr darauf folgt [...]",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "technisches-museum-wien",
+    "pipeline_id": "tmw-core"
+  },
+  {
+    "kp_id": "cc129bb4-01ee-43fa-bed8-0fd8c9c408d3",
+    "src_id": "614379",
+    "content": {
+      "id": "https://id.kulturpool.at/cc129bb4-01ee-43fa-bed8-0fd8c9c408d3/aggregation",
+      "type": "Aggregation",
+      "hasView": [
+        {
+          "id": "https://api.tmw.at/images/789749?wm=false",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://api.tmw.at/images/789750?wm=false",
+          "type": "WebResource"
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "isShownAt": "https://www.technischesmuseum.at/museum/online-sammlung#sammlung/ui//objectdetail/614379",
+      "isShownBy": {
+        "id": "https://api.tmw.at/images/789748?wm=false",
+        "type": "WebResource"
+      },
+      "dataProvider": "Technisches Museum Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/cc129bb4-01ee-43fa-bed8-0fd8c9c408d3/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Fotokamera Ernemann Heag VI Zweiverschluß-Camera",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          {
+            "@value": "Momentkamera",
+            "@language": "de"
+          },
+          {
+            "id": "http://www.wikidata.org/entity/Q19287978",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Klappkamera",
+                "@language": "de"
+              }
+            ]
+          },
+          {
+            "id": "http://www.wikidata.org/entity/Q1523431",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Plattenkamera",
+                "@language": "de"
+              },
+              {
+                "@value": "Desková kamera",
+                "@language": "cs"
+              }
+            ]
+          },
+          {
+            "id": "http://www.wikidata.org/entity/Q455665",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Amateurkamera",
+                "@language": "de"
+              }
+            ]
+          }
+        ],
+        "creator": [
+          {
+            "id": "https://d-nb.info/gnd/5195365-1",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Heinrich Ernemann, Aktiengesellschaft für Camera-Fabrikation (Dresden)",
+                "@language": "de"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          {
+            "id": "http://www.wikidata.org/entity/Q1731",
+            "type": "Place",
+            "prefLabel": [
+              {
+                "@value": "Dresden",
+                "@language": "de"
+              },
+              {
+                "@value": "Dresde",
+                "@language": "fr"
+              },
+              {
+                "@value": "Dresden",
+                "@language": "en"
+              },
+              {
+                "@value": "Дрезден",
+                "@language": "bg"
+              },
+              {
+                "@value": "Dresden",
+                "@language": "ca"
+              },
+              {
+                "@value": "Drážďany",
+                "@language": "cs"
+              },
+              {
+                "@value": "Dresden",
+                "@language": "da"
+              },
+              {
+                "@value": "Δρέσδη",
+                "@language": "el"
+              },
+              {
+                "@value": "Dresde",
+                "@language": "es"
+              },
+              {
+                "@value": "Dresden",
+                "@language": "et"
+              },
+              {
+                "@value": "Dresden",
+                "@language": "eu"
+              },
+              {
+                "@value": "Dresden",
+                "@language": "fi"
+              },
+              {
+                "@value": "Dresden",
+                "@language": "ga"
+              },
+              {
+                "@value": "Dresden",
+                "@language": "hr"
+              },
+              {
+                "@value": "Drezda",
+                "@language": "hu"
+              },
+              {
+                "@value": "Dresda",
+                "@language": "it"
+              },
+              {
+                "@value": "Dresdenas",
+                "@language": "lt"
+              },
+              {
+                "@value": "Drēzdene",
+                "@language": "lv"
+              },
+              {
+                "@value": "Dresden",
+                "@language": "nl"
+              },
+              {
+                "@value": "Drezno",
+                "@language": "pl"
+              },
+              {
+                "@value": "Dresden",
+                "@language": "pt"
+              },
+              {
+                "@value": "Dresda",
+                "@language": "ro"
+              },
+              {
+                "@value": "Дрезден",
+                "@language": "ru"
+              },
+              {
+                "@value": "Drážďany",
+                "@language": "sk"
+              },
+              {
+                "@value": "Dresden",
+                "@language": "sl"
+              },
+              {
+                "@value": "Dresden",
+                "@language": "sv"
+              },
+              {
+                "@value": "Dresden",
+                "@language": "mt"
+              }
+            ]
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Amateurfilm",
+            "@language": "de"
+          },
+          {
+            "@value": "Rindsleder",
+            "@language": "de"
+          },
+          {
+            "@value": "Metallwerkstoff",
+            "@language": "de"
+          },
+          {
+            "@value": "17,5-mm-Film",
+            "@language": "de"
+          },
+          {
+            "@value": "Glas",
+            "@language": "de"
+          },
+          {
+            "id": "http://www.wikidata.org/entity/Q158979",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Meliowate",
+                "@language": "pl"
+              },
+              {
+                "@value": "Meliaceae",
+                "@language": "es"
+              },
+              {
+                "@value": "Mahagonigewächse",
+                "@language": "de"
+              },
+              {
+                "@value": "Meliaceae",
+                "@language": "en"
+              },
+              {
+                "@value": "Meliaceae",
+                "@language": "nl"
+              },
+              {
+                "@value": "Meliaceae",
+                "@language": "pt"
+              },
+              {
+                "@value": "Мелиевые",
+                "@language": "ru"
+              },
+              {
+                "@value": "meliàcies",
+                "@language": "ca"
+              },
+              {
+                "@value": "mahonkikasvit",
+                "@language": "fi"
+              },
+              {
+                "@value": "zederachovité",
+                "@language": "cs"
+              },
+              {
+                "@value": "Melijiniai",
+                "@language": "lt"
+              },
+              {
+                "@value": "Paternostertræ-familien",
+                "@language": "da"
+              },
+              {
+                "@value": "Meliaceae",
+                "@language": "fr"
+              },
+              {
+                "@value": "Meliaceae",
+                "@language": "it"
+              },
+              {
+                "@value": "Mahognyväxter",
+                "@language": "sv"
+              },
+              {
+                "@value": "махагонови",
+                "@language": "bg"
+              },
+              {
+                "@value": "Meliaceae",
+                "@language": "eu"
+              },
+              {
+                "@value": "Jasenjačevke",
+                "@language": "hr"
+              },
+              {
+                "@value": "Meliaceae",
+                "@language": "ga"
+              },
+              {
+                "@value": "Meliaceae",
+                "@language": "ro"
+              }
+            ]
+          }
+        ],
+        "coverage": [
+          "1910-1910"
+        ],
+        "dcRights": [
+          {
+            "@value": "Technisches Museum Wien",
+            "@language": "de"
+          }
+        ],
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "107814",
+          "614379"
+        ],
+        "description": [
+          {
+            "@value": "Die Universalkamera Ernemann Heag VI ist mit zwei Verschlußsystemen ausgestattet. Der eingebaute Ernemann-Schlitzverschluß erlaubt Verschlußzeiten von [...]",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "technisches-museum-wien",
+    "pipeline_id": "tmw-core"
+  }
+]

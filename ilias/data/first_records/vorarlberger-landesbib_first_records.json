@@ -1,0 +1,529 @@
+[
+  {
+    "kp_id": "93212dbb-d6ae-4e8f-a38c-bb46096feb7f",
+    "src_id": "oai:alma.43ACC_VLB:990002103310308311",
+    "content": {
+      "id": "https://id.kulturpool.at/93212dbb-d6ae-4e8f-a38c-bb46096feb7f/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by/4.0/",
+      "isShownAt": "http://pid.volare.vorarlberg.at/o:14676",
+      "isShownBy": {
+        "id": "https://volare.vorarlberg.at/api/imageserver?IIIF=o:14676.tif/full/full/0/default.jpg",
+        "type": "WebResource",
+        "hasService": {
+          "id": "https://volare.vorarlberg.at/api/imageserver?IIIF=o:14676.tif",
+          "type": "Service",
+          "conformsTo": [
+            {
+              "id": "http://iiif.io/api/image"
+            }
+          ],
+          "implements": {
+            "id": "http://iiif.io/api/image/2/level1.json"
+          }
+        }
+      },
+      "dataProvider": {
+        "@value": "Vorarlberger Landesbibliothek",
+        "@language": "de"
+      },
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/93212dbb-d6ae-4e8f-a38c-bb46096feb7f/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Lech - Stubenbach am Arlberg gegen Omeshorn 2560 m. [Stubenbach bei Lech am Arlberg / Skilift gegen Omeshorn und Spuller Schafberg]"
+        ],
+        "dcType": [
+          {
+            "id": "https://d-nb.info/gnd/4045895-7",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Fotografie",
+                "@language": "de"
+              }
+            ]
+          },
+          {
+            "@value": "Landschaftsansicht",
+            "@language": "de"
+          },
+          {
+            "@value": "Ortsansicht",
+            "@language": "de"
+          },
+          {
+            "@value": "Personenaufnahme",
+            "@language": "de"
+          },
+          {
+            "@value": "Winteraufnahme",
+            "@language": "de"
+          },
+          {
+            "@value": "schwarz-weiß",
+            "@language": "de"
+          }
+        ],
+        "extent": [
+          "1 Ansichtskarte",
+          "1 Zelluloid (Negativ)",
+          "10 x 12,5 cm",
+          "10 x 14,5 cm",
+          "10,5 x 14,5 cm",
+          "11 x 15,5 cm",
+          "quer"
+        ],
+        "created": [
+          "1965"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          {
+            "@value": "Vorarlberg Arlberg Tannberg Lech",
+            "@language": "de"
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Lech",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Sammlung Risch-Lau, Vorarlberger Landesbibliothek",
+            "@language": "de"
+          }
+        ],
+        "isPartOf": [
+          {
+            "@value": "Sammlung: Risch-Lau",
+            "@language": "de"
+          },
+          {
+            "@value": "Vorarlberg-Sammlungen",
+            "@language": "de"
+          }
+        ],
+        "publisher": [
+          "Risch-Lau VLB, Bregenz"
+        ],
+        "identifier": [
+          "o:14676"
+        ],
+        "description": [
+          {
+            "@value": "Lechtal",
+            "@language": "de"
+          },
+          {
+            "@value": "Lechtaler Alpen",
+            "@language": "de"
+          },
+          {
+            "@value": "Mehlsack",
+            "@language": "de"
+          },
+          {
+            "@value": "Oberstubenbach",
+            "@language": "de"
+          },
+          {
+            "@value": "Omeshorn",
+            "@language": "de"
+          },
+          {
+            "@value": "Ortszentrum",
+            "@language": "de"
+          },
+          {
+            "@value": "Pongertle Kopf",
+            "@language": "de"
+          },
+          {
+            "@value": "Schlepplift",
+            "@language": "de"
+          },
+          {
+            "@value": "Schnee",
+            "@language": "de"
+          },
+          {
+            "@value": "Skifahrer",
+            "@language": "de"
+          },
+          {
+            "@value": "Skihang",
+            "@language": "de"
+          },
+          {
+            "@value": "Skilift",
+            "@language": "de"
+          },
+          {
+            "@value": "Spuller Schafberg",
+            "@language": "de"
+          },
+          {
+            "@value": "Stierkopf",
+            "@language": "de"
+          },
+          {
+            "@value": "Stierloch",
+            "@language": "de"
+          },
+          {
+            "@value": "Stierlochkopf",
+            "@language": "de"
+          },
+          {
+            "@value": "Stubenbach",
+            "@language": "de"
+          },
+          {
+            "@value": "Unterer Schafberg",
+            "@language": "de"
+          },
+          {
+            "@value": "Unterstubenbach",
+            "@language": "de"
+          },
+          {
+            "@value": "Zuger Mittags Spitze",
+            "@language": "de"
+          },
+          {
+            "@value": "Zugertal",
+            "@language": "de"
+          },
+          {
+            "@value": "kopiert 1966",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "vorarlberger-landesbibliothek",
+    "pipeline_id": "vorarlberger-landesbib"
+  },
+  {
+    "kp_id": "cf80f943-f7a4-419d-ac5c-3bc48650c34b",
+    "src_id": "oai:alma.43ACC_VLB:990005130480308311",
+    "content": {
+      "id": "https://id.kulturpool.at/cf80f943-f7a4-419d-ac5c-3bc48650c34b/aggregation",
+      "type": "Aggregation",
+      "hasView": [
+        {
+          "id": "https://volare.vorarlberg.at/api/imageserver?IIIF=o:322976.tif/full/full/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://volare.vorarlberg.at/api/imageserver?IIIF=o:322976.tif",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://volare.vorarlberg.at/api/imageserver?IIIF=o:322977.tif/full/full/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://volare.vorarlberg.at/api/imageserver?IIIF=o:322977.tif",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://volare.vorarlberg.at/api/imageserver?IIIF=o:322978.tif/full/full/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://volare.vorarlberg.at/api/imageserver?IIIF=o:322978.tif",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://volare.vorarlberg.at/api/imageserver?IIIF=o:322979.tif/full/full/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://volare.vorarlberg.at/api/imageserver?IIIF=o:322979.tif",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://volare.vorarlberg.at/api/imageserver?IIIF=o:322980.tif/full/full/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://volare.vorarlberg.at/api/imageserver?IIIF=o:322980.tif",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by/4.0/",
+      "isShownAt": "http://pid.volare.vorarlberg.at/o:324707",
+      "isShownBy": {
+        "id": "https://volare.vorarlberg.at/api/imageserver?IIIF=o:322975.tif/full/full/0/default.jpg",
+        "type": "WebResource",
+        "hasService": {
+          "id": "https://volare.vorarlberg.at/api/imageserver?IIIF=o:322975.tif",
+          "type": "Service",
+          "conformsTo": [
+            {
+              "id": "http://iiif.io/api/image"
+            }
+          ],
+          "implements": {
+            "id": "http://iiif.io/api/image/2/level1.json"
+          }
+        }
+      },
+      "dataProvider": {
+        "@value": "Vorarlberger Landesbibliothek",
+        "@language": "de"
+      },
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/cf80f943-f7a4-419d-ac5c-3bc48650c34b/cho",
+        "date": [
+          "2021.06.01"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "[Bregenz - Fluh - Unterstein]"
+        ],
+        "dcType": [
+          {
+            "id": "https://d-nb.info/gnd/4045895-7",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Fotografie",
+                "@language": "de"
+              }
+            ]
+          },
+          {
+            "@value": "Flugaufnahme",
+            "@language": "de"
+          },
+          {
+            "@value": "Fotografie",
+            "@language": "de"
+          },
+          {
+            "@value": "farbig",
+            "@language": "de"
+          }
+        ],
+        "extent": [
+          "6 Schrägluftbilder",
+          "quer"
+        ],
+        "created": [
+          "2021"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Bregenz",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Raumplanung/Land Vorarlberg, Vorarlberger Landesbibliothek",
+            "@language": "de"
+          }
+        ],
+        "isPartOf": [
+          {
+            "@value": "Sammlung: Schrägluftbilder/Land Vorarlberg",
+            "@language": "de"
+          },
+          {
+            "@value": "Vorarlberg-Sammlungen",
+            "@language": "de"
+          }
+        ],
+        "publisher": [
+          "Amt der Vorarlberger Landesregierung Abteilung Raumplanung, Bregenz"
+        ],
+        "identifier": [
+          "o:324707"
+        ]
+      }
+    },
+    "institution_id": "vorarlberger-landesbibliothek",
+    "pipeline_id": "vorarlberger-landesbib"
+  },
+  {
+    "kp_id": "7f34e397-32eb-4a80-93ce-348778253c68",
+    "src_id": "oai:alma.43ACC_VLB:9913505339508311",
+    "content": {
+      "id": "https://id.kulturpool.at/7f34e397-32eb-4a80-93ce-348778253c68/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by/4.0/",
+      "isShownAt": "http://pid.volare.vorarlberg.at/o:436399",
+      "isShownBy": {
+        "id": "https://volare.vorarlberg.at/api/imageserver?IIIF=o:436399.tif/full/full/0/default.jpg",
+        "type": "WebResource",
+        "hasService": {
+          "id": "https://volare.vorarlberg.at/api/imageserver?IIIF=o:436399.tif",
+          "type": "Service",
+          "conformsTo": [
+            {
+              "id": "http://iiif.io/api/image"
+            }
+          ],
+          "implements": {
+            "id": "http://iiif.io/api/image/2/level1.json"
+          }
+        }
+      },
+      "dataProvider": {
+        "@value": "Vorarlberger Landesbibliothek",
+        "@language": "de"
+      },
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/7f34e397-32eb-4a80-93ce-348778253c68/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "[Bildstein]. [Kindererholungsheim Oberbildstein, Vrlbg. ...]"
+        ],
+        "dcType": [
+          {
+            "id": "https://d-nb.info/gnd/4045895-7",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Fotografie",
+                "@language": "de"
+              }
+            ]
+          },
+          {
+            "@value": "Fotografie",
+            "@language": "de"
+          },
+          {
+            "@value": "Postkarte",
+            "@language": "de"
+          },
+          {
+            "@value": "farbig",
+            "@language": "de"
+          }
+        ],
+        "extent": [
+          "1 Ansichtskarte",
+          "10,5 x 15 cm",
+          "quer"
+        ],
+        "created": [
+          "[Erscheinungsdatum nicht ermittelbar]"
+        ],
+        "creator": [
+          {
+            "id": "https://d-nb.info/gnd/1378674014",
+            "date": [
+              "1913-1986"
+            ],
+            "type": "Agent",
+            "prefLabel": [
+              "Branz, August"
+            ],
+            "professionOrOccupation": [
+              {
+                "@value": "Photographer",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Bildstein",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Vorarlberger Landesbibliothek",
+            "@language": "de"
+          }
+        ],
+        "isPartOf": [
+          {
+            "@value": "Sammlung: Verlag Branz",
+            "@language": "de"
+          },
+          {
+            "@value": "Vorarlberg-Sammlungen",
+            "@language": "de"
+          }
+        ],
+        "publisher": [
+          "Foto Branz, Lustenau"
+        ],
+        "identifier": [
+          "o:436399"
+        ]
+      }
+    },
+    "institution_id": "vorarlberger-landesbibliothek",
+    "pipeline_id": "vorarlberger-landesbib"
+  }
+]

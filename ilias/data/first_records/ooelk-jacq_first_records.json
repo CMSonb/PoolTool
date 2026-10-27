@@ -1,0 +1,248 @@
+[
+  {
+    "kp_id": "8ebc6542-1e9d-4d1e-b95b-4eb371beb5af",
+    "src_id": "oai:jacq.org:g3884266715",
+    "content": {
+      "id": "https://id.kulturpool.at/8ebc6542-1e9d-4d1e-b95b-4eb371beb5af/aggregation",
+      "type": [
+        "WebResource",
+        "Aggregation"
+      ],
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "isShownAt": "https://www.zobodat.at/belege.php?id=100316450",
+      "isShownBy": {
+        "id": "https://www.zobodat.at/bilder/belege/00084674.jpg",
+        "type": "WebResource",
+        "dcType": [
+          "StillImage"
+        ],
+        "format": [
+          "image/jpeg"
+        ],
+        "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "dataProvider": "OÖ Landes-Kultur GmbH",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/8ebc6542-1e9d-4d1e-b95b-4eb371beb5af/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Isothecium myosuroides Brid."
+        ],
+        "dcType": [
+          {
+            "id": "http://rs.tdwg.org/dwc/terms/PreservedSpecimen",
+            "type": "Concept",
+            "altLabel": [
+              {
+                "@value": "Preserved Specimen",
+                "@language": "en"
+              }
+            ],
+            "prefLabel": [
+              {
+                "@value": "Preserved Specimen",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "creator": [
+          "anonym"
+        ],
+        "edmType": "IMAGE",
+        "isPartOf": [
+          "ZOBODAT (Zoological Botanical Database)"
+        ],
+        "language": [
+          "und"
+        ],
+        "identifier": [
+          "https://www.zobodat.at/belege.php?id=100316450"
+        ],
+        "description": [
+          {
+            "@value": "A PreservedSpecimen of Isothecium myosuroides Brid.",
+            "@language": "en"
+          }
+        ]
+      },
+      "intermediateProvider": [
+        "JACQ - Virtual Herbaria"
+      ]
+    },
+    "institution_id": "ooe-landes-kultur-gmbh",
+    "pipeline_id": "ooelk-jacq"
+  },
+  {
+    "kp_id": "9ed600cf-8625-438f-bc62-ebf0ccba304d",
+    "src_id": "oai:jacq.org:g3884254054",
+    "content": {
+      "id": "https://id.kulturpool.at/9ed600cf-8625-438f-bc62-ebf0ccba304d/aggregation",
+      "type": [
+        "WebResource",
+        "Aggregation"
+      ],
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "isShownAt": "https://www.zobodat.at/belege.php?id=100235136",
+      "isShownBy": {
+        "id": "https://www.zobodat.at/bilder/belege/gross/00242438.tif",
+        "type": "WebResource",
+        "dcType": [
+          "StillImage"
+        ],
+        "format": [
+          "image/tiff"
+        ],
+        "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "dataProvider": "OÖ Landes-Kultur GmbH",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/9ed600cf-8625-438f-bc62-ebf0ccba304d/cho",
+        "date": [
+          "2005-09-01"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Cyperus fuscus L."
+        ],
+        "dcType": [
+          {
+            "id": "http://rs.tdwg.org/dwc/terms/PreservedSpecimen",
+            "type": "Concept",
+            "altLabel": [
+              {
+                "@value": "Preserved Specimen",
+                "@language": "en"
+              }
+            ],
+            "prefLabel": [
+              {
+                "@value": "Preserved Specimen",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "creator": [
+          "Hohla Michael"
+        ],
+        "edmType": "IMAGE",
+        "isPartOf": [
+          "ZOBODAT (Zoological Botanical Database)"
+        ],
+        "language": [
+          "und"
+        ],
+        "identifier": [
+          "https://www.zobodat.at/belege.php?id=100235136"
+        ],
+        "description": [
+          {
+            "@value": "A PreservedSpecimen of Cyperus fuscus L.",
+            "@language": "en"
+          }
+        ]
+      },
+      "intermediateProvider": [
+        "JACQ - Virtual Herbaria"
+      ]
+    },
+    "institution_id": "ooe-landes-kultur-gmbh",
+    "pipeline_id": "ooelk-jacq"
+  },
+  {
+    "kp_id": "46236a88-82a5-4f26-b97c-6e748e98f3fa",
+    "src_id": "oai:jacq.org:g3885763590",
+    "content": {
+      "id": "https://id.kulturpool.at/46236a88-82a5-4f26-b97c-6e748e98f3fa/aggregation",
+      "type": [
+        "WebResource",
+        "Aggregation"
+      ],
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "isShownAt": "https://www.zobodat.at/belege.php?id=100287366",
+      "isShownBy": {
+        "id": "https://www.zobodat.at/bilder/belege/00025170.jpg",
+        "type": "WebResource",
+        "dcType": [
+          "StillImage"
+        ],
+        "format": [
+          "image/jpeg"
+        ],
+        "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "dataProvider": "OÖ Landes-Kultur GmbH",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/46236a88-82a5-4f26-b97c-6e748e98f3fa/cho",
+        "date": [
+          "1961-08-09"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Hieracium beckianum Gremli"
+        ],
+        "dcType": [
+          {
+            "id": "http://rs.tdwg.org/dwc/terms/PreservedSpecimen",
+            "type": "Concept",
+            "altLabel": [
+              {
+                "@value": "Preserved Specimen",
+                "@language": "en"
+              }
+            ],
+            "prefLabel": [
+              {
+                "@value": "Preserved Specimen",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "creator": [
+          "Metlesics Hans [Johann] Rudolf"
+        ],
+        "edmType": "IMAGE",
+        "isPartOf": [
+          "ZOBODAT (Zoological Botanical Database)"
+        ],
+        "language": [
+          "und"
+        ],
+        "identifier": [
+          "https://www.zobodat.at/belege.php?id=100287366"
+        ],
+        "description": [
+          {
+            "@value": "A PreservedSpecimen of Hieracium beckianum Gremli",
+            "@language": "en"
+          }
+        ]
+      },
+      "intermediateProvider": [
+        "JACQ - Virtual Herbaria"
+      ]
+    },
+    "institution_id": "ooe-landes-kultur-gmbh",
+    "pipeline_id": "ooelk-jacq"
+  }
+]

@@ -1,0 +1,215 @@
+[
+  {
+    "kp_id": "92a4e4e8-dbe7-431a-b2c6-6cddc5aecba7",
+    "src_id": "71652",
+    "content": {
+      "id": "https://id.kulturpool.at/92a4e4e8-dbe7-431a-b2c6-6cddc5aecba7/aggregation",
+      "type": "Aggregation",
+      "object": {
+        "id": "https://domquartier.at/fileadmin/extern/71652_Stuckfigur_Trabantenbild_I_-_Allegorie_der_Gloria_280163.jpg",
+        "type": "WebResource",
+        "dcRights": [
+          "© Residenz zu Salzburg, Prunkräume, Foto: Stürzenbaum"
+        ]
+      },
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://domquartier.at/prunkraeume-sammlung-online/stuck/stuckfigur-trabantenbild-i-allegorie-der-gloria/",
+      "isShownBy": {
+        "id": "https://domquartier.at/fileadmin/extern/71652_Stuckfigur_Trabantenbild_I_-_Allegorie_der_Gloria_280163.jpg",
+        "type": "WebResource",
+        "dcRights": [
+          "© Residenz zu Salzburg, Prunkräume, Foto: Stürzenbaum"
+        ]
+      },
+      "dataProvider": "DomQuartier Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/92a4e4e8-dbe7-431a-b2c6-6cddc5aecba7/cho",
+        "date": [
+          {
+            "@value": "um 1710",
+            "@language": "de"
+          }
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "---",
+            "@language": "en"
+          },
+          {
+            "@value": "Stuckfigur Trabantenbild I - Allegorie der Gloria",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          {
+            "@value": "Stuck",
+            "@language": "de"
+          }
+        ],
+        "edmType": "IMAGE",
+        "identifier": [
+          "71652"
+        ]
+      }
+    },
+    "institution_id": "domquartier-salzburg",
+    "pipeline_id": "domquartier-salzburg-prunkraeume"
+  },
+  {
+    "kp_id": "20ffe136-9b58-4b79-b4f4-0947866ac231",
+    "src_id": "63177",
+    "content": {
+      "id": "https://id.kulturpool.at/20ffe136-9b58-4b79-b4f4-0947866ac231/aggregation",
+      "type": "Aggregation",
+      "object": {
+        "id": "https://domquartier.at/fileadmin/extern/63177_Messbuch_-_Missae_Defunctorum_267632.jpg",
+        "type": "WebResource",
+        "dcRights": [
+          "© Residenz zu Salzburg, Prunkräume, Foto: Stürzenbaum"
+        ]
+      },
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://domquartier.at/prunkraeume-sammlung-online/buecher/messbuch-missae-defunctorum-1/",
+      "isShownBy": {
+        "id": "https://domquartier.at/fileadmin/extern/63177_Messbuch_-_Missae_Defunctorum_267632.jpg",
+        "type": "WebResource",
+        "dcRights": [
+          "© Residenz zu Salzburg, Prunkräume, Foto: Stürzenbaum"
+        ]
+      },
+      "dataProvider": "DomQuartier Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/20ffe136-9b58-4b79-b4f4-0947866ac231/cho",
+        "date": [
+          {
+            "@value": "1716",
+            "@language": "de"
+          }
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Messbuch - Missae Defunctorum",
+            "@language": "de"
+          },
+          {
+            "@value": "Missal – Missae Defunctorum",
+            "@language": "en"
+          }
+        ],
+        "dcType": [
+          {
+            "@value": "Bücher",
+            "@language": "de"
+          }
+        ],
+        "extent": [
+          {
+            "@value": "Object mass 35.80 x 23.80 cm",
+            "@language": "en"
+          },
+          {
+            "@value": "Objektmaß 35,8 x 23,8 cm",
+            "@language": "de"
+          }
+        ],
+        "edmType": "IMAGE",
+        "identifier": [
+          "63177"
+        ]
+      }
+    },
+    "institution_id": "domquartier-salzburg",
+    "pipeline_id": "domquartier-salzburg-prunkraeume"
+  },
+  {
+    "kp_id": "346fef2b-d172-4dd6-8799-0ba02234861a",
+    "src_id": "62907",
+    "content": {
+      "id": "https://id.kulturpool.at/346fef2b-d172-4dd6-8799-0ba02234861a/aggregation",
+      "type": "Aggregation",
+      "object": {
+        "id": "https://domquartier.at/fileadmin/extern/62907_Seestueck_267399.jpg",
+        "type": "WebResource",
+        "dcRights": [
+          "© Residenz zu Salzburg, Prunkräume, Foto: Stürzenbaum"
+        ]
+      },
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://domquartier.at/prunkraeume-sammlung-online/gemaelde-1/seestueck-1/",
+      "isShownBy": {
+        "id": "https://domquartier.at/fileadmin/extern/62907_Seestueck_267399.jpg",
+        "type": "WebResource",
+        "dcRights": [
+          "© Residenz zu Salzburg, Prunkräume, Foto: Stürzenbaum"
+        ]
+      },
+      "dataProvider": "DomQuartier Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/346fef2b-d172-4dd6-8799-0ba02234861a/cho",
+        "date": [
+          {
+            "@value": "um 1680",
+            "@language": "de"
+          },
+          {
+            "@value": "um 1680",
+            "@language": "en"
+          }
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Sea piece",
+            "@language": "en"
+          },
+          {
+            "@value": "Seestück",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          {
+            "@value": "Gemälde",
+            "@language": "de"
+          }
+        ],
+        "extent": [
+          {
+            "@value": "Object mass 175.00 x 182.00 cm",
+            "@language": "en"
+          },
+          {
+            "@value": "Objektmaß 175 x 182 cm",
+            "@language": "de"
+          }
+        ],
+        "edmType": "IMAGE",
+        "identifier": [
+          "62907"
+        ]
+      }
+    },
+    "institution_id": "domquartier-salzburg",
+    "pipeline_id": "domquartier-salzburg-prunkraeume"
+  }
+]

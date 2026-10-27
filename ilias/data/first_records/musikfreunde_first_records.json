@@ -1,0 +1,731 @@
+[
+  {
+    "kp_id": "f8edf558-0deb-4814-adf7-1d9837a7d32b",
+    "src_id": "evis_WMV_00000340_000044c7",
+    "content": {
+      "id": "https://id.kulturpool.at/f8edf558-0deb-4814-adf7-1d9837a7d32b/aggregation",
+      "type": "Aggregation",
+      "object": {
+        "id": "https://blobstoragekedi.blob.core.windows.net/1913-14/19140124_1930_GS_01.jpg",
+        "type": "WebResource",
+        "format": [
+          "image/jpeg"
+        ],
+        "created": [
+          "2024"
+        ],
+        "dcRights": [
+          "Gesellschaft der Musikfreunde Wien"
+        ],
+        "isReferencedBy": [
+          "https://www.musikverein.at/konzert/?id=0006533c"
+        ]
+      },
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "isShownAt": "https://www.musikverein.at/konzert/?id=0006533c",
+      "isShownBy": {
+        "id": "https://blobstoragekedi.blob.core.windows.net/1913-14/19140124_1930_GS_01.jpg",
+        "type": "WebResource",
+        "format": [
+          "image/jpeg"
+        ],
+        "created": [
+          "2024"
+        ],
+        "dcRights": [
+          "Gesellschaft der Musikfreunde Wien"
+        ],
+        "isReferencedBy": [
+          "https://www.musikverein.at/konzert/?id=0006533c"
+        ]
+      },
+      "dataProvider": {
+        "@value": "Archiv, Bibliothek und Sammlungen der Gesellschaft der Musikfreunde in Wien",
+        "@language": "de"
+      },
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/f8edf558-0deb-4814-adf7-1d9837a7d32b/cho",
+        "date": [
+          "1914-01-24"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Gesellschaft der Musikfreunde in Wien - Drittes ordentliches Gesellschaftskonzert - Haydn | 24. Januar 1914 19:30 Uhr | Musikverein, Großer Saal",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          "Archiv",
+          "KEDI"
+        ],
+        "format": [
+          "image/jpeg"
+        ],
+        "medium": [
+          {
+            "id": "https://iconclass.org/49L641",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Papier (als Schreibmaterial)",
+                "@language": "de"
+              },
+              {
+                "@value": "carta (materiali su cui scrivere)",
+                "@language": "it"
+              },
+              {
+                "@value": "papel (material de escrita)",
+                "@language": "pt"
+              },
+              {
+                "@value": "paper (writing material)",
+                "@language": "en"
+              },
+              {
+                "@value": "papier (support d'écriture); papier à lettres",
+                "@language": "fr"
+              },
+              {
+                "@value": "紙 (文房具)",
+                "@language": "jp"
+              }
+            ]
+          }
+        ],
+        "edmType": "TEXT",
+        "spatial": [
+          {
+            "id": "https://sws.geonames.org/2761369/",
+            "lat": "48.20849",
+            "long": "16.37208",
+            "type": "Place",
+            "sameAs": [
+              "http://dbpedia.org/resource/Vienna"
+            ],
+            "altLabel": [
+              {
+                "@value": "Beč",
+                "@language": "hr"
+              },
+              {
+                "@value": "Bécs",
+                "@language": "hu"
+              },
+              {
+                "@value": "Dunaj",
+                "@language": "sl"
+              },
+              {
+                "@value": "Viena",
+                "@language": "ca"
+              },
+              {
+                "@value": "Viena",
+                "@language": "pt"
+              },
+              {
+                "@value": "Vienna",
+                "@language": "en"
+              },
+              {
+                "@value": "Vienna",
+                "@language": "it"
+              },
+              {
+                "@value": "Vienne",
+                "@language": "fr"
+              },
+              {
+                "@value": "Vídeň",
+                "@language": "cs"
+              },
+              {
+                "@value": "Vín",
+                "@language": "ga"
+              },
+              {
+                "@value": "Wenen",
+                "@language": "nl"
+              },
+              {
+                "@value": "Wiedeń",
+                "@language": "pl"
+              },
+              {
+                "@value": "Wien",
+                "@language": "da"
+              },
+              {
+                "@value": "Wien",
+                "@language": "fi"
+              },
+              {
+                "@value": "Wien",
+                "@language": "sv"
+              },
+              {
+                "@value": "Βιέννη",
+                "@language": "el"
+              },
+              {
+                "@value": "Вена",
+                "@language": "ru"
+              }
+            ],
+            "isPartOf": [
+              {
+                "id": "https://sws.geonames.org/2761333/"
+              }
+            ],
+            "prefLabel": [
+              {
+                "@value": "Viedeň",
+                "@language": "sk"
+              },
+              {
+                "@value": "Viena",
+                "@language": "es"
+              },
+              {
+                "@value": "Viena",
+                "@language": "lt"
+              },
+              {
+                "@value": "Viena",
+                "@language": "ro"
+              },
+              {
+                "@value": "Viin",
+                "@language": "et"
+              },
+              {
+                "@value": "Wien",
+                "@language": "de"
+              },
+              {
+                "@value": "Wien",
+                "@language": "no"
+              },
+              {
+                "@value": "Виена",
+                "@language": "bg"
+              }
+            ]
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Konzert",
+            "@language": "de"
+          }
+        ],
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "evis_WMV_00000340_000044c7"
+        ],
+        "description": [
+          "Samstag 24. Januar 1914, 19:30 Uhr, Großer Saal\nGesellschaft der Musikfreunde in Wien - Drittes ordentliches Gesellschaftskonzert - Haydn\n\nVeranstalter\nGesellschaft der Musikfreunde in Wien\n\nBesetzung\n  Singverein der Gesellschaft der Musikfreunde in Wien, Chor\n  Wiener Tonkünstlerorchester, Orchester\n  Franz Schalk, Leitung\n  Elfriede Goette, Gesang\n  Paul Schmedes, Gesang\n  Richard Mayr, Bass\n  Rudolf Dittrich, Orgel\n\nProgramm\n  Joseph Haydn, Die Schöpfung. Oratorium in 3 Teilen, Hob. XXI:2 Haydn Joseph"
+        ],
+        "currentLocation": "Gesellschaft der Musikfreunde Wien Archiv"
+      }
+    },
+    "institution_id": "archiv-bibliothek-sammlungen-gesellschaft-musikfreunde-wien",
+    "pipeline_id": "musikfreunde"
+  },
+  {
+    "kp_id": "08ed9d19-2630-4a03-abaf-3cbd61b72b73",
+    "src_id": "evis_WMV_00000340_00001b14",
+    "content": {
+      "id": "https://id.kulturpool.at/08ed9d19-2630-4a03-abaf-3cbd61b72b73/aggregation",
+      "type": "Aggregation",
+      "object": {
+        "id": "https://blobstoragekedi.blob.core.windows.net/1888-89/18890529_2000_TSTZ.jpg",
+        "type": "WebResource",
+        "format": [
+          "image/jpeg"
+        ],
+        "created": [
+          "2024"
+        ],
+        "dcRights": [
+          "Gesellschaft der Musikfreunde Wien"
+        ],
+        "isReferencedBy": [
+          "https://www.musikverein.at/konzert/?id=000616b0"
+        ]
+      },
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "isShownAt": "https://www.musikverein.at/konzert/?id=000616b0",
+      "isShownBy": {
+        "id": "https://blobstoragekedi.blob.core.windows.net/1888-89/18890529_2000_TSTZ.jpg",
+        "type": "WebResource",
+        "format": [
+          "image/jpeg"
+        ],
+        "created": [
+          "2024"
+        ],
+        "dcRights": [
+          "Gesellschaft der Musikfreunde Wien"
+        ],
+        "isReferencedBy": [
+          "https://www.musikverein.at/konzert/?id=000616b0"
+        ]
+      },
+      "dataProvider": {
+        "@value": "Archiv, Bibliothek und Sammlungen der Gesellschaft der Musikfreunde in Wien",
+        "@language": "de"
+      },
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/08ed9d19-2630-4a03-abaf-3cbd61b72b73/cho",
+        "date": [
+          "1889-05-29"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Musikverein in Znaim - Fiby - Beethoven • Mendelssohn | 29. Mai 1889 20:00 Uhr | Städtisches Theater in Znaim, Städtisches Theater in Znaim",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          "Archiv",
+          "KEDI"
+        ],
+        "format": [
+          "image/jpeg"
+        ],
+        "medium": [
+          {
+            "id": "https://iconclass.org/49L641",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Papier (als Schreibmaterial)",
+                "@language": "de"
+              },
+              {
+                "@value": "carta (materiali su cui scrivere)",
+                "@language": "it"
+              },
+              {
+                "@value": "papel (material de escrita)",
+                "@language": "pt"
+              },
+              {
+                "@value": "paper (writing material)",
+                "@language": "en"
+              },
+              {
+                "@value": "papier (support d'écriture); papier à lettres",
+                "@language": "fr"
+              },
+              {
+                "@value": "紙 (文房具)",
+                "@language": "jp"
+              }
+            ]
+          }
+        ],
+        "edmType": "TEXT",
+        "spatial": [
+          {
+            "id": "https://sws.geonames.org/2761369/",
+            "lat": "48.20849",
+            "long": "16.37208",
+            "type": "Place",
+            "sameAs": [
+              "http://dbpedia.org/resource/Vienna"
+            ],
+            "altLabel": [
+              {
+                "@value": "Beč",
+                "@language": "hr"
+              },
+              {
+                "@value": "Bécs",
+                "@language": "hu"
+              },
+              {
+                "@value": "Dunaj",
+                "@language": "sl"
+              },
+              {
+                "@value": "Viena",
+                "@language": "ca"
+              },
+              {
+                "@value": "Viena",
+                "@language": "pt"
+              },
+              {
+                "@value": "Vienna",
+                "@language": "en"
+              },
+              {
+                "@value": "Vienna",
+                "@language": "it"
+              },
+              {
+                "@value": "Vienne",
+                "@language": "fr"
+              },
+              {
+                "@value": "Vídeň",
+                "@language": "cs"
+              },
+              {
+                "@value": "Vín",
+                "@language": "ga"
+              },
+              {
+                "@value": "Wenen",
+                "@language": "nl"
+              },
+              {
+                "@value": "Wiedeń",
+                "@language": "pl"
+              },
+              {
+                "@value": "Wien",
+                "@language": "da"
+              },
+              {
+                "@value": "Wien",
+                "@language": "fi"
+              },
+              {
+                "@value": "Wien",
+                "@language": "sv"
+              },
+              {
+                "@value": "Βιέννη",
+                "@language": "el"
+              },
+              {
+                "@value": "Вена",
+                "@language": "ru"
+              }
+            ],
+            "isPartOf": [
+              {
+                "id": "https://sws.geonames.org/2761333/"
+              }
+            ],
+            "prefLabel": [
+              {
+                "@value": "Viedeň",
+                "@language": "sk"
+              },
+              {
+                "@value": "Viena",
+                "@language": "es"
+              },
+              {
+                "@value": "Viena",
+                "@language": "lt"
+              },
+              {
+                "@value": "Viena",
+                "@language": "ro"
+              },
+              {
+                "@value": "Viin",
+                "@language": "et"
+              },
+              {
+                "@value": "Wien",
+                "@language": "de"
+              },
+              {
+                "@value": "Wien",
+                "@language": "no"
+              },
+              {
+                "@value": "Виена",
+                "@language": "bg"
+              }
+            ]
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Konzert",
+            "@language": "de"
+          }
+        ],
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "evis_WMV_00000340_00001b14"
+        ],
+        "description": [
+          "Mittwoch 29. Mai 1889, 20:00 Uhr, Städtisches Theater in Znaim\nMusikverein in Znaim - Fiby - Beethoven • Mendelssohn\n\nVeranstalter\nMusikverein in Znaim"
+        ],
+        "currentLocation": "Gesellschaft der Musikfreunde Wien Archiv"
+      }
+    },
+    "institution_id": "archiv-bibliothek-sammlungen-gesellschaft-musikfreunde-wien",
+    "pipeline_id": "musikfreunde"
+  },
+  {
+    "kp_id": "ad042274-637b-4cdc-8e00-99d9de97b963",
+    "src_id": "evis_WMV_00000340_00006710",
+    "content": {
+      "id": "https://id.kulturpool.at/ad042274-637b-4cdc-8e00-99d9de97b963/aggregation",
+      "type": "Aggregation",
+      "object": {
+        "id": "https://blobstoragekedi.blob.core.windows.net/1918-19/19181020_1530_iKMVS_02_Z.jpg",
+        "type": "WebResource",
+        "format": [
+          "image/jpeg"
+        ],
+        "created": [
+          "2024"
+        ],
+        "dcRights": [
+          "Gesellschaft der Musikfreunde Wien"
+        ],
+        "isReferencedBy": [
+          "https://www.musikverein.at/konzert/?id=000664c5"
+        ]
+      },
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "isShownAt": "https://www.musikverein.at/konzert/?id=000664c5",
+      "isShownBy": {
+        "id": "https://blobstoragekedi.blob.core.windows.net/1918-19/19181020_1530_iKMVS_02_Z.jpg",
+        "type": "WebResource",
+        "format": [
+          "image/jpeg"
+        ],
+        "created": [
+          "2024"
+        ],
+        "dcRights": [
+          "Gesellschaft der Musikfreunde Wien"
+        ],
+        "isReferencedBy": [
+          "https://www.musikverein.at/konzert/?id=000664c5"
+        ]
+      },
+      "dataProvider": {
+        "@value": "Archiv, Bibliothek und Sammlungen der Gesellschaft der Musikfreunde in Wien",
+        "@language": "de"
+      },
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/ad042274-637b-4cdc-8e00-99d9de97b963/cho",
+        "date": [
+          "1918-10-20"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Vereinigung für Bläser-Kammermusik - Mozart • Haindl • Beethoven | 20. Oktober 1918 16:00 Uhr | Musikverein, Kleiner Musikvereinssaal",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          "Archiv",
+          "KEDI"
+        ],
+        "format": [
+          "image/jpeg"
+        ],
+        "medium": [
+          {
+            "id": "https://iconclass.org/49L641",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Papier (als Schreibmaterial)",
+                "@language": "de"
+              },
+              {
+                "@value": "carta (materiali su cui scrivere)",
+                "@language": "it"
+              },
+              {
+                "@value": "papel (material de escrita)",
+                "@language": "pt"
+              },
+              {
+                "@value": "paper (writing material)",
+                "@language": "en"
+              },
+              {
+                "@value": "papier (support d'écriture); papier à lettres",
+                "@language": "fr"
+              },
+              {
+                "@value": "紙 (文房具)",
+                "@language": "jp"
+              }
+            ]
+          }
+        ],
+        "edmType": "TEXT",
+        "spatial": [
+          {
+            "id": "https://sws.geonames.org/2761369/",
+            "lat": "48.20849",
+            "long": "16.37208",
+            "type": "Place",
+            "sameAs": [
+              "http://dbpedia.org/resource/Vienna"
+            ],
+            "altLabel": [
+              {
+                "@value": "Beč",
+                "@language": "hr"
+              },
+              {
+                "@value": "Bécs",
+                "@language": "hu"
+              },
+              {
+                "@value": "Dunaj",
+                "@language": "sl"
+              },
+              {
+                "@value": "Viena",
+                "@language": "ca"
+              },
+              {
+                "@value": "Viena",
+                "@language": "pt"
+              },
+              {
+                "@value": "Vienna",
+                "@language": "en"
+              },
+              {
+                "@value": "Vienna",
+                "@language": "it"
+              },
+              {
+                "@value": "Vienne",
+                "@language": "fr"
+              },
+              {
+                "@value": "Vídeň",
+                "@language": "cs"
+              },
+              {
+                "@value": "Vín",
+                "@language": "ga"
+              },
+              {
+                "@value": "Wenen",
+                "@language": "nl"
+              },
+              {
+                "@value": "Wiedeń",
+                "@language": "pl"
+              },
+              {
+                "@value": "Wien",
+                "@language": "da"
+              },
+              {
+                "@value": "Wien",
+                "@language": "fi"
+              },
+              {
+                "@value": "Wien",
+                "@language": "sv"
+              },
+              {
+                "@value": "Βιέννη",
+                "@language": "el"
+              },
+              {
+                "@value": "Вена",
+                "@language": "ru"
+              }
+            ],
+            "isPartOf": [
+              {
+                "id": "https://sws.geonames.org/2761333/"
+              }
+            ],
+            "prefLabel": [
+              {
+                "@value": "Viedeň",
+                "@language": "sk"
+              },
+              {
+                "@value": "Viena",
+                "@language": "es"
+              },
+              {
+                "@value": "Viena",
+                "@language": "lt"
+              },
+              {
+                "@value": "Viena",
+                "@language": "ro"
+              },
+              {
+                "@value": "Viin",
+                "@language": "et"
+              },
+              {
+                "@value": "Wien",
+                "@language": "de"
+              },
+              {
+                "@value": "Wien",
+                "@language": "no"
+              },
+              {
+                "@value": "Виена",
+                "@language": "bg"
+              }
+            ]
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Konzert",
+            "@language": "de"
+          }
+        ],
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "evis_WMV_00000340_00006710"
+        ],
+        "description": [
+          "Sonntag 20. Oktober 1918, 16:00 Uhr, Kleiner Musikvereinssaal\nVereinigung für Bläser-Kammermusik - Mozart • Haindl • Beethoven\n\nVeranstalter\nVerein Salzburger Festspielhaus-Gemeinde in Wien\n\nProgramm\n  Bläser-Kammermusik-Zyklus \n  Zu Gunsten des Baufonds zur Errichtung des Festspielhauses in Salzburg \n  Erstes Konzert"
+        ],
+        "currentLocation": "Gesellschaft der Musikfreunde Wien Archiv"
+      }
+    },
+    "institution_id": "archiv-bibliothek-sammlungen-gesellschaft-musikfreunde-wien",
+    "pipeline_id": "musikfreunde"
+  }
+]

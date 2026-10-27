@@ -1,0 +1,272 @@
+[
+  {
+    "kp_id": "d3023a61-e3a6-4851-87bb-b31ec53a9819",
+    "src_id": "oai:fokus.stift-klosterneuburg.at/repos:stiftsbibliothek-vorau/AT7900-MS-168",
+    "content": {
+      "id": "https://id.kulturpool.at/d3023a61-e3a6-4851-87bb-b31ec53a9819/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "dcRights": [
+        "Stiftsbibliothek Vorau"
+      ],
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://fokus.stift-klosterneuburg.at/repos/objects/41",
+      "isShownBy": {
+        "id": "https://fokus.stift-klosterneuburg.at/repos/iiif/image/17533/full/max/0/default.jpg",
+        "type": "WebResource",
+        "hasService": {
+          "id": "https://fokus.stift-klosterneuburg.at/repos/iiif/image/17533/info.json",
+          "type": "Service",
+          "conformsTo": [
+            {
+              "id": "http://iiif.io/api/image"
+            }
+          ],
+          "implements": {
+            "id": "https://iiif.io/api/image/3/level1.json"
+          }
+        },
+        "isReferencedBy": [
+          {
+            "id": "https://fokus.stift-klosterneuburg.at/repos/objects/41/iiif/manifest.json"
+          }
+        ]
+      },
+      "dataProvider": "Augustiner Chorherrenstift Vorau",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/d3023a61-e3a6-4851-87bb-b31ec53a9819/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Vorau, Augustiner-Chorherrenstift, Ms 168",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          {
+            "@value": "manuscript",
+            "@language": "de"
+          }
+        ],
+        "created": [
+          "1401-1500"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Handschrift",
+            "@language": "de"
+          }
+        ],
+        "isPartOf": [
+          {
+            "@value": "Stiftsbibliothek Vorau",
+            "@language": "lat"
+          }
+        ],
+        "language": [
+          "la"
+        ],
+        "identifier": [
+          "41",
+          "AT7900-MS-168",
+          "oai:fokus.stift-klosterneuburg.at/repos:stiftsbibliothek-vorau/AT7900-MS-168"
+        ],
+        "description": [
+          {
+            "@value": "Mb. 24 18 ; s. XIII. ²; f. 210: quat.; cust. (I-XXVII) 1-27; vetus numeratio f. 1-208; infimus margo albus f. 104 resectus.; Or. Vor. (? cf. ms. 85). NpV s. XV. 111r.; Beschreibstoff: Pergament; Abmessungen: 24 x 18 cm; Sprache: lat",
+            "@language": "la"
+          }
+        ],
+        "currentLocation": "Stiftsbibliothek Vorau"
+      }
+    },
+    "institution_id": "chorherrenstift-vorau",
+    "pipeline_id": "vorau-klosterneuburg-repos"
+  },
+  {
+    "kp_id": "a3976ac5-0810-43a1-b634-020fba51229f",
+    "src_id": "oai:fokus.stift-klosterneuburg.at/repos:stiftsbibliothek-vorau/AT7900-MS-412",
+    "content": {
+      "id": "https://id.kulturpool.at/a3976ac5-0810-43a1-b634-020fba51229f/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "dcRights": [
+        "Stiftsbibliothek Vorau"
+      ],
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://fokus.stift-klosterneuburg.at/repos/objects/199",
+      "isShownBy": {
+        "id": "https://fokus.stift-klosterneuburg.at/repos/iiif/image/79309/full/max/0/default.jpg",
+        "type": "WebResource",
+        "hasService": {
+          "id": "https://fokus.stift-klosterneuburg.at/repos/iiif/image/79309/info.json",
+          "type": "Service",
+          "conformsTo": [
+            {
+              "id": "http://iiif.io/api/image"
+            }
+          ],
+          "implements": {
+            "id": "https://iiif.io/api/image/3/level1.json"
+          }
+        },
+        "isReferencedBy": [
+          {
+            "id": "https://fokus.stift-klosterneuburg.at/repos/objects/199/iiif/manifest.json"
+          }
+        ]
+      },
+      "dataProvider": "Augustiner Chorherrenstift Vorau",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/a3976ac5-0810-43a1-b634-020fba51229f/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Vorau, Augustiner-Chorherrenstift, Ms 412",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          {
+            "@value": "manuscript",
+            "@language": "de"
+          }
+        ],
+        "created": [
+          "1401-1500"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Handschrift",
+            "@language": "de"
+          }
+        ],
+        "isPartOf": [
+          {
+            "@value": "Stiftsbibliothek Vorau",
+            "@language": "lat"
+          }
+        ],
+        "language": [
+          "la"
+        ],
+        "identifier": [
+          "199",
+          "AT7900-MS-412",
+          "oai:fokus.stift-klosterneuburg.at/repos:stiftsbibliothek-vorau/AT7900-MS-412"
+        ],
+        "description": [
+          {
+            "@value": "Mb. 16 11 ; s. XI. -XIV.; f. I (dimidium) + 190; infimus margo albus f. 100 resectus; nonnulla f. maculata.; Or. Austr. (ex parte forsitan Germ.). NpV s. XV. 17r; 91v notula possessoris (?) erasa. 103v (in margine summo) &apos;Dilecto in christo patri ac domino F. s. salczburgensis ecclesie&apos;. Cf. Pg. n. 330 ; Wb. 631; OK 19; Schönbach, l. c., 2/42.; Beschreibstoff: Pergament; Abmessungen: 16 x 11 cm; Sprache: lat",
+            "@language": "la"
+          }
+        ],
+        "currentLocation": "Stiftsbibliothek Vorau"
+      }
+    },
+    "institution_id": "chorherrenstift-vorau",
+    "pipeline_id": "vorau-klosterneuburg-repos"
+  },
+  {
+    "kp_id": "61d26392-64c5-486c-b5d2-525a53fbcbdc",
+    "src_id": "oai:fokus.stift-klosterneuburg.at/repos:stiftsbibliothek-vorau/AT7900-MS-332",
+    "content": {
+      "id": "https://id.kulturpool.at/61d26392-64c5-486c-b5d2-525a53fbcbdc/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "dcRights": [
+        "Stiftsbibliothek Vorau"
+      ],
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://fokus.stift-klosterneuburg.at/repos/objects/142",
+      "isShownBy": {
+        "id": "https://fokus.stift-klosterneuburg.at/repos/iiif/image/58221/full/max/0/default.jpg",
+        "type": "WebResource",
+        "hasService": {
+          "id": "https://fokus.stift-klosterneuburg.at/repos/iiif/image/58221/info.json",
+          "type": "Service",
+          "conformsTo": [
+            {
+              "id": "http://iiif.io/api/image"
+            }
+          ],
+          "implements": {
+            "id": "https://iiif.io/api/image/3/level1.json"
+          }
+        },
+        "isReferencedBy": [
+          {
+            "id": "https://fokus.stift-klosterneuburg.at/repos/objects/142/iiif/manifest.json"
+          }
+        ]
+      },
+      "dataProvider": "Augustiner Chorherrenstift Vorau",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/61d26392-64c5-486c-b5d2-525a53fbcbdc/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Vorau, Augustiner-Chorherrenstift, Ms 332",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          {
+            "@value": "manuscript",
+            "@language": "de"
+          }
+        ],
+        "created": [
+          "1201-1300"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Handschrift",
+            "@language": "de"
+          }
+        ],
+        "isPartOf": [
+          {
+            "@value": "Stiftsbibliothek Vorau",
+            "@language": "lat"
+          }
+        ],
+        "language": [
+          "la"
+        ],
+        "identifier": [
+          "142",
+          "AT7900-MS-332",
+          "oai:fokus.stift-klosterneuburg.at/repos:stiftsbibliothek-vorau/AT7900-MS-332"
+        ],
+        "description": [
+          {
+            "@value": "Missale Salisburgense; Mb. 24 18 ; s. XIII. ( ca 1270 ); f. 233 (+ f. parva inserta 107a 131a 165a 179a 219a 234a): 9 x 10 + 10 (+ 10) + 10 x 10 + 10 (+ 3) + 10; cust. [I]-XIX; numeratio f. s. XV. i-ccx; infimi margines albi f. 116 131 resecti.; Or. Vor. (181r; cf. ms. 113). NpV s. XIII. ex 4v &apos;Iste Iiber est ecclesie in vorowe. Quem venerabilis Chunradus plebanus de pirchveld (Birkfeld) dedit, quem nemo aufferat, ne anathemati subiaceat&apos;; forsitan plebanus praefatus codicem dato pretio scribi fecit. Cf. Köck 80 ; OK 10.; Beschreibstoff: Pergament; Abmessungen: 24 x 18 cm; Sprache: lat",
+            "@language": "la"
+          }
+        ],
+        "currentLocation": "Stiftsbibliothek Vorau"
+      }
+    },
+    "institution_id": "chorherrenstift-vorau",
+    "pipeline_id": "vorau-klosterneuburg-repos"
+  }
+]

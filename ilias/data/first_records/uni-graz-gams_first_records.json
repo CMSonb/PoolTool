@@ -1,0 +1,1057 @@
+[
+  {
+    "kp_id": "5b96629b-5d05-4358-a062-88806751132a",
+    "src_id": "oai:at.co.ait.kulturpool:GAMS:UNIGRAZ:AT/HTTPSXXXGAMSXUNIXGRAZXATXOXHSAXLETTERX11533XCHO",
+    "content": {
+      "id": "https://id.kulturpool.at/5b96629b-5d05-4358-a062-88806751132a/aggregation",
+      "type": "Aggregation",
+      "object": {
+        "id": "https://gams.uni-graz.at/iiif/o:hsa.letter.11533%2FIMG.1/full/full/0/default.jpg",
+        "type": "WebResource",
+        "hasService": {
+          "id": "https://gams.uni-graz.at/iiif/o:hsa.letter.11533%2FIMG.1",
+          "type": "Service",
+          "conformsTo": [
+            {
+              "id": "http://iiif.io/api/image"
+            }
+          ],
+          "implements": {
+            "id": "http://iiif.io/api/image/2/level2.json"
+          }
+        },
+        "isReferencedBy": [
+          {
+            "id": "https://gams.uni-graz.at/o:hsa.letter.11533/sdef:IIIF/getManifest"
+          }
+        ]
+      },
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": "Europeana Local Austria",
+      "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "isShownAt": {
+        "id": "https://gams.uni-graz.at/o:hsa.letter.11533",
+        "type": "WebResource",
+        "format": [
+          "text/xml"
+        ],
+        "sameAs": [
+          "https://gams.uni-graz.at/o:hsa.letter.11533"
+        ],
+        "creator": [
+          {
+            "@value": "Institute of Linguistics, University of Graz",
+            "@language": "en"
+          },
+          {
+            "@value": "Institut für Sprachwissenschaft, Karl-Franzens-Universität\n                    Graz",
+            "@language": "de"
+          },
+          {
+            "id": "https://d-nb.info/gnd/807328-4",
+            "type": "Agent",
+            "sameAs": [
+              "http://viaf.org/viaf/144936583",
+              "https://isni.org/isni/0000000122600531",
+              "http://id.loc.gov/rwo/agents/n86126409",
+              "https://d-nb.info/gnd/1090619464",
+              "https://d-nb.info/gnd/1086500288"
+            ],
+            "altLabel": [
+              "Karl-Franzens-Universität Graz. Geisteswissenschaftliche Fakultät. Institut für Sprachwissenschaft",
+              "Institut für Sprachwissenschaft (Graz)",
+              "Institut für Sprachwissenschaft der Universität Graz",
+              "Institut Sprachwissenschaft (Graz)"
+            ],
+            "prefLabel": [
+              "Karl-Franzens-Universität Graz. Institut für Sprachwissenschaft"
+            ]
+          },
+          {
+            "@value": "Centre for Information Modelling - Austrian Centre for\n                    Digital Humanities, University of Graz",
+            "@language": "en"
+          },
+          {
+            "@value": "Zentrum für Informationsmodellierung - Austrian Centre for\n                    Digital Humanities, Karl-Franzens-Universität Graz",
+            "@language": "de"
+          },
+          {
+            "id": "https://d-nb.info/gnd/1137284463",
+            "type": "Agent",
+            "sameAs": [
+              "http://viaf.org/viaf/6123150172677200180003"
+            ],
+            "altLabel": [
+              "Zentrum für Informationsmodellierung",
+              "Austrian Centre for Digital Humanities",
+              "Centre for Information Modelling",
+              "Karl-Franzens-Universität Graz. Austrian Centre for Digital Humanities",
+              "Karl-Franzens-Universität Graz. Centre for Information Modelling"
+            ],
+            "prefLabel": [
+              "Karl-Franzens-Universität Graz. Zentrum für Informationsmodellierung"
+            ]
+          }
+        ],
+        "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "isShownBy": {
+        "id": "https://gams.uni-graz.at/iiif/o:hsa.letter.11533%2FIMG.1/full/full/0/default.jpg",
+        "type": "WebResource",
+        "hasService": {
+          "id": "https://gams.uni-graz.at/iiif/o:hsa.letter.11533%2FIMG.1",
+          "type": "Service",
+          "conformsTo": [
+            {
+              "id": "http://iiif.io/api/image"
+            }
+          ],
+          "implements": {
+            "id": "http://iiif.io/api/image/2/level2.json"
+          }
+        },
+        "isReferencedBy": [
+          {
+            "id": "https://gams.uni-graz.at/o:hsa.letter.11533/sdef:IIIF/getManifest"
+          }
+        ]
+      },
+      "dataProvider": "Universität Graz",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/5b96629b-5d05-4358-a062-88806751132a/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Ludwig von Hörmann zu Hörbach an Hugo Schuchardt (06-04803)",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          {
+            "@value": "letter",
+            "@language": "en"
+          },
+          {
+            "@value": "Brief",
+            "@language": "de"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300026879",
+            "note": [
+              {
+                "@value": "Pieces of correspondence that are somewhat more formal than memoranda or notes, usually on paper and delivered.",
+                "@language": "en"
+              },
+              {
+                "@value": "Úsese para correspondencia que son algo más formales que la memoranda o notas, generalmente en papel y para ser entregadas a un destinatario.",
+                "@language": "es"
+              },
+              {
+                "@value": "Wordt gebruikt voor, meestal op papier opgetekende en verzonden correspondentie die een ietwat officiëler karakter draagt dan memo's of aantekeningen.",
+                "@language": "nl"
+              },
+              {
+                "@value": "Korrespondenzstück, das etwas förmlicher ist als eine \"Notiz\" oder eine \"Mitteilung\", in der Regel auf Papier und versandt.",
+                "@language": "de"
+              }
+            ],
+            "type": "Concept",
+            "broader": "http://vocab.getty.edu/aat/300026877",
+            "altLabel": [
+              {
+                "@value": "letter (correspondence)",
+                "@language": "en"
+              },
+              {
+                "@value": "brief",
+                "@language": "nl"
+              },
+              {
+                "@value": "Briefe",
+                "@language": "de"
+              },
+              {
+                "@value": "carta (correspondencia)",
+                "@language": "es"
+              }
+            ],
+            "prefLabel": [
+              {
+                "@value": "letters (correspondence)",
+                "@language": "en"
+              },
+              {
+                "@value": "brieven (correspondentie)",
+                "@language": "nl"
+              },
+              {
+                "@value": "lettre",
+                "@language": "fr"
+              },
+              {
+                "@value": "Brief",
+                "@language": "de"
+              },
+              {
+                "@value": "cartas (correspondencia)",
+                "@language": "es"
+              }
+            ],
+            "exactMatch": "http://www.wikidata.org/entity/Q133492"
+          }
+        ],
+        "medium": [
+          {
+            "@value": "Papier",
+            "@language": "de"
+          },
+          {
+            "@value": "Paper",
+            "@language": "en"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300014109",
+            "note": [
+              {
+                "@value": "Refers generally to all types of thin matted or felted sheets or webs of fiber formed and dried on a fine screen from a pulpy water suspension. The fibers may be animal, such as hair, silk or wool, or mineral, such as asbestos, or synthetic. However most paper is made from cellulosic plant fiber, such as from wood pulp, grass, cotton, linen, and straw.",
+                "@language": "en"
+              },
+              {
+                "@value": "Se refiere en general a todo tipo de hojas o redes enmarañadas o afieltradas de fibra formadas y secadas en una filtro fino a partir de un compuesto de agua con pulpa. Las fibras pueden ser animales, como pelo, seda o lana o minerales, como asbesto, o bien sintéticas. Sin embargo, la mayor parte del papel es fabricado con fibra celulósica de plantas la pulpa de madera, pasto, lino y paja.",
+                "@language": "es"
+              },
+              {
+                "@value": "Verwijst in het algemeen naar alle typen vervilte vellen of weefsels die bestaan uit vezels, die uit in water gedompelde pulp zijn gevormd en gedroogd op een fijn schepraam. De vezels kunnen dierlijk zijn, zoals haar, zijde of wol, of mineraal, bijvoorbeeld asbest. Ook kunstvezels zijn een mogelijkheid. Het meeste papier wordt echter gemaakt van plantenvezels van bijvoorbeeld houtpulp, gras, katoen, linnen en stro.",
+                "@language": "nl"
+              },
+              {
+                "@value": "Refere-se geralmente a todos os tipos de folhas finas emaranhadas ou feltradas ou teias de fibra formadas e secas em uma tela fina a partir de uma suspensão aquosa de polpa. As fibras podem ser animais, como cabelo, seda ou lã, ou minerais, como amianto, ou sintéticas. No entanto, a maior parte do papel é feita de fibra vegetal celulósica, como polpa de madeira, grama, algodão, linho e palha. ",
+                "@language": "pt"
+              }
+            ],
+            "type": "Concept",
+            "broader": "http://vocab.getty.edu/aat/300010358",
+            "altLabel": [
+              {
+                "@value": "papers (fiber products)",
+                "@language": "en"
+              },
+              {
+                "@value": "papel de amate",
+                "@language": "es"
+              },
+              {
+                "@value": "amate",
+                "@language": "es"
+              }
+            ],
+            "prefLabel": [
+              {
+                "@value": "paper (fiber product)",
+                "@language": "en"
+              },
+              {
+                "@value": "papier",
+                "@language": "fr"
+              },
+              {
+                "@value": "papier (vezelproduct)",
+                "@language": "nl"
+              },
+              {
+                "@value": "Papier",
+                "@language": "de"
+              },
+              {
+                "@value": "carta",
+                "@language": "it"
+              },
+              {
+                "@value": "papel (papel)",
+                "@language": "es"
+              },
+              {
+                "@value": "papel",
+                "@language": "pt"
+              },
+              {
+                "@value": "papper",
+                "@language": "sv"
+              }
+            ],
+            "exactMatch": "http://www.wikidata.org/entity/Q11472"
+          }
+        ],
+        "created": [
+          "1914-05"
+        ],
+        "creator": [
+          "Hörmann zu Hörbach, Ludwig von",
+          {
+            "id": "https://viaf.org/viaf/95194635",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Hörmann zu Hörbach, Ludwig von",
+                "@language": "de"
+              }
+            ]
+          }
+        ],
+        "edmType": "TEXT",
+        "spatial": [
+          {
+            "id": "http://sws.geonames.org/2775220",
+            "lat": "47.26266",
+            "long": "11.39454",
+            "type": "Place",
+            "prefLabel": [
+              {
+                "@value": "Innsbruck",
+                "@language": "de"
+              }
+            ]
+          }
+        ],
+        "dcRights": [
+          {
+            "id": "http://creativecommons.org/publicdomain/mark/1.0/"
+          }
+        ],
+        "isPartOf": [
+          {
+            "@value": "Hugo Schuchardt Archive, Institute of Linguistics, University of Graz",
+            "@language": "en"
+          },
+          {
+            "@value": "Hugo Schuchardt Archiv, Institut für Sprachwissenschaft, Karl-Franzens-Universität Graz",
+            "@language": "de"
+          },
+          {
+            "@value": "Universität Graz - GAMS",
+            "@language": "de"
+          }
+        ],
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "https://hdl.handle.net/11471/518.10.1.11533",
+          "Universitätsbibliothek Graz Abteilung für Sondersammlungen 04803"
+        ]
+      }
+    },
+    "institution_id": "universitaet-graz",
+    "pipeline_id": "uni-graz-gams"
+  },
+  {
+    "kp_id": "f370d118-efe2-49fd-9630-11e5c61a125b",
+    "src_id": "oai:at.co.ait.kulturpool:GAMS:UNIGRAZ:AT/HTTPSXXXGAMSXUNIXGRAZXATXOXGMX1301XCHO",
+    "content": {
+      "id": "https://id.kulturpool.at/f370d118-efe2-49fd-9630-11e5c61a125b/aggregation",
+      "type": "Aggregation",
+      "object": {
+        "id": "https://gams.uni-graz.at/iiif/o:gm.1301%2FRECTO/full/full/0/default.jpg",
+        "type": "WebResource",
+        "hasService": {
+          "id": "https://gams.uni-graz.at/iiif/o:gm.1301%2FRECTO",
+          "type": "Service",
+          "conformsTo": [
+            {
+              "id": "http://iiif.io/api/image"
+            }
+          ],
+          "implements": {
+            "id": "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      },
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": "Europeana Local Austria",
+      "edmRights": "http://creativecommons.org/licenses/by-nc-nd/3.0/at/",
+      "isShownAt": {
+        "id": "https://gams.uni-graz.at/o:gm.1301",
+        "type": "WebResource",
+        "format": [
+          "text/xml"
+        ],
+        "sameAs": [
+          "https://gams.uni-graz.at/o:gm.1301"
+        ],
+        "creator": [
+          {
+            "@value": "GrazMuseum",
+            "@language": "en"
+          },
+          {
+            "@value": "GrazMuseum",
+            "@language": "de"
+          },
+          {
+            "id": "https://d-nb.info/gnd/2022740-1",
+            "type": "Agent",
+            "sameAs": [
+              "http://viaf.org/viaf/124970845",
+              "https://isni.org/isni/0000000122592746",
+              "http://www.wikidata.org/entity/Q1368160",
+              "http://id.loc.gov/rwo/agents/n80131714",
+              "https://d-nb.info/gnd/4301632-7"
+            ],
+            "altLabel": [
+              "Universalmuseum Joanneum. Stadtmuseum",
+              "Stadtmuseumgraz",
+              "Stadtmuseum Graz GmbH",
+              "Grazer Stadtmuseum",
+              "Stadtmuseum (Graz)",
+              "Steiermärkisches Landesmuseum Joanneum. Stadtmuseum"
+            ],
+            "prefLabel": [
+              "Stadtmuseum Graz"
+            ]
+          },
+          {
+            "@value": "Centre for Information Modelling - Austrian Centre for\n                    Digital Humanities, University of Graz",
+            "@language": "en"
+          },
+          {
+            "@value": "Zentrum für Informationsmodellierung - Austrian Centre\n                    for Digital Humanities, Karl-Franzens-Universität Graz",
+            "@language": "de"
+          },
+          {
+            "id": "https://d-nb.info/gnd/1137284463",
+            "type": "Agent",
+            "sameAs": [
+              "http://viaf.org/viaf/6123150172677200180003"
+            ],
+            "altLabel": [
+              "Zentrum für Informationsmodellierung",
+              "Austrian Centre for Digital Humanities",
+              "Centre for Information Modelling",
+              "Karl-Franzens-Universität Graz. Austrian Centre for Digital Humanities",
+              "Karl-Franzens-Universität Graz. Centre for Information Modelling"
+            ],
+            "prefLabel": [
+              "Karl-Franzens-Universität Graz. Zentrum für Informationsmodellierung"
+            ]
+          }
+        ],
+        "edmRights": "http://creativecommons.org/licenses/by-nc-nd/3.0/at/",
+        "description": [
+          {
+            "@value": "Funded by: Federal Ministry of Science, Research and Economy",
+            "@language": "en"
+          }
+        ]
+      },
+      "isShownBy": {
+        "id": "https://gams.uni-graz.at/iiif/o:gm.1301%2FRECTO/full/full/0/default.jpg",
+        "type": "WebResource",
+        "hasService": {
+          "id": "https://gams.uni-graz.at/iiif/o:gm.1301%2FRECTO",
+          "type": "Service",
+          "conformsTo": [
+            {
+              "id": "http://iiif.io/api/image"
+            }
+          ],
+          "implements": {
+            "id": "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      },
+      "dataProvider": "Universität Graz",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/f370d118-efe2-49fd-9630-11e5c61a125b/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Graz, Jakominiplatz",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          {
+            "@value": "postcard",
+            "@language": "en"
+          },
+          {
+            "@value": "Postkarte",
+            "@language": "de"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300026816",
+            "note": [
+              {
+                "@value": "Cards on which a message may be written or printed for mailing without an envelope, usually at a lower rate than that for letters in envelopes.",
+                "@language": "en"
+              },
+              {
+                "@value": "Tarjetas en que un mensaje puede ser escrito o impreso para ser enviado por correo sin sobre, generalmente a una tasa más baja que las de cartas en sobres.",
+                "@language": "es"
+              },
+              {
+                "@value": "Kaarten waarop een boodschap kan worden geschreven of afgedrukt, die zijn bedoeld om zonder enveloppe te worden verstuurd, meestal voor een lager bedrag dan voor brieven.",
+                "@language": "nl"
+              },
+              {
+                "@value": "Karte mit einer geschriebenen oder gedruckten Nachricht, die ohne Umschlag verschickt wird, wobei die Portokosten in der Regel niedriger sind als bei einem Brief mit Umschlag.",
+                "@language": "de"
+              }
+            ],
+            "type": "Concept",
+            "broader": "http://vocab.getty.edu/aat/300207872",
+            "altLabel": [
+              {
+                "@value": "postcard",
+                "@language": "en"
+              },
+              {
+                "@value": "post cards",
+                "@language": "en"
+              },
+              {
+                "@value": "post card",
+                "@language": "en"
+              },
+              {
+                "@value": "briefkaart",
+                "@language": "nl"
+              },
+              {
+                "@value": "carte postale",
+                "@language": "fr"
+              },
+              {
+                "@value": "Postkarten",
+                "@language": "de"
+              },
+              {
+                "@value": "cartolina postale",
+                "@language": "it"
+              },
+              {
+                "@value": "tarjeta postal",
+                "@language": "es"
+              },
+              {
+                "@value": "brevkort",
+                "@language": "sv"
+              }
+            ],
+            "prefLabel": [
+              {
+                "@value": "postcards",
+                "@language": "en"
+              },
+              {
+                "@value": "briefkaarten",
+                "@language": "nl"
+              },
+              {
+                "@value": "cartes postales",
+                "@language": "fr"
+              },
+              {
+                "@value": "Postkarte",
+                "@language": "de"
+              },
+              {
+                "@value": "tarjetas postales",
+                "@language": "es"
+              }
+            ],
+            "exactMatch": "http://www.wikidata.org/entity/Q192425"
+          }
+        ],
+        "medium": [
+          {
+            "@value": "paper",
+            "@language": "en"
+          },
+          {
+            "@value": "Papier",
+            "@language": "de"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300014109",
+            "note": [
+              {
+                "@value": "Refers generally to all types of thin matted or felted sheets or webs of fiber formed and dried on a fine screen from a pulpy water suspension. The fibers may be animal, such as hair, silk or wool, or mineral, such as asbestos, or synthetic. However most paper is made from cellulosic plant fiber, such as from wood pulp, grass, cotton, linen, and straw.",
+                "@language": "en"
+              },
+              {
+                "@value": "Se refiere en general a todo tipo de hojas o redes enmarañadas o afieltradas de fibra formadas y secadas en una filtro fino a partir de un compuesto de agua con pulpa. Las fibras pueden ser animales, como pelo, seda o lana o minerales, como asbesto, o bien sintéticas. Sin embargo, la mayor parte del papel es fabricado con fibra celulósica de plantas la pulpa de madera, pasto, lino y paja.",
+                "@language": "es"
+              },
+              {
+                "@value": "Verwijst in het algemeen naar alle typen vervilte vellen of weefsels die bestaan uit vezels, die uit in water gedompelde pulp zijn gevormd en gedroogd op een fijn schepraam. De vezels kunnen dierlijk zijn, zoals haar, zijde of wol, of mineraal, bijvoorbeeld asbest. Ook kunstvezels zijn een mogelijkheid. Het meeste papier wordt echter gemaakt van plantenvezels van bijvoorbeeld houtpulp, gras, katoen, linnen en stro.",
+                "@language": "nl"
+              },
+              {
+                "@value": "Refere-se geralmente a todos os tipos de folhas finas emaranhadas ou feltradas ou teias de fibra formadas e secas em uma tela fina a partir de uma suspensão aquosa de polpa. As fibras podem ser animais, como cabelo, seda ou lã, ou minerais, como amianto, ou sintéticas. No entanto, a maior parte do papel é feita de fibra vegetal celulósica, como polpa de madeira, grama, algodão, linho e palha. ",
+                "@language": "pt"
+              }
+            ],
+            "type": "Concept",
+            "broader": "http://vocab.getty.edu/aat/300010358",
+            "altLabel": [
+              {
+                "@value": "papers (fiber products)",
+                "@language": "en"
+              },
+              {
+                "@value": "papel de amate",
+                "@language": "es"
+              },
+              {
+                "@value": "amate",
+                "@language": "es"
+              }
+            ],
+            "prefLabel": [
+              {
+                "@value": "paper (fiber product)",
+                "@language": "en"
+              },
+              {
+                "@value": "papier",
+                "@language": "fr"
+              },
+              {
+                "@value": "papier (vezelproduct)",
+                "@language": "nl"
+              },
+              {
+                "@value": "Papier",
+                "@language": "de"
+              },
+              {
+                "@value": "carta",
+                "@language": "it"
+              },
+              {
+                "@value": "papel (papel)",
+                "@language": "es"
+              },
+              {
+                "@value": "papel",
+                "@language": "pt"
+              },
+              {
+                "@value": "papper",
+                "@language": "sv"
+              }
+            ],
+            "exactMatch": "http://www.wikidata.org/entity/Q11472"
+          }
+        ],
+        "created": [
+          "1942"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Verkehr",
+            "@language": "de"
+          },
+          {
+            "@value": "Straßenbahn",
+            "@language": "de"
+          },
+          {
+            "@value": "Flagge",
+            "@language": "de"
+          },
+          {
+            "@value": "Hakenkreuz",
+            "@language": "de"
+          },
+          {
+            "@value": "Nationalsozialismus",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "id": "http://creativecommons.org/licenses/by-nc-nd/3.0/at/"
+          }
+        ],
+        "isPartOf": [
+          {
+            "@value": "Postcard Collection, GrazMuseum",
+            "@language": "en"
+          },
+          {
+            "@value": "Postkartensammlung, GrazMuseum",
+            "@language": "de"
+          },
+          {
+            "@value": "Universität Graz - GAMS",
+            "@language": "de"
+          }
+        ],
+        "language": [
+          "deu"
+        ],
+        "identifier": [
+          "https://hdl.handle.net/11471/144.10.1301",
+          "ASK05_01301"
+        ],
+        "description": [
+          {
+            "@value": "Blick von oben auf den beflaggten Jakominiplatz in Richtung Osten",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "universitaet-graz",
+    "pipeline_id": "uni-graz-gams"
+  },
+  {
+    "kp_id": "43d7ea8a-e549-4b14-b970-148aa63354c9",
+    "src_id": "oai:at.co.ait.kulturpool:GAMS:UNIGRAZ:AT/HTTPSXXXGAMSXUNIXGRAZXATXOXHSAXLETTERX1290XCHO",
+    "content": {
+      "id": "https://id.kulturpool.at/43d7ea8a-e549-4b14-b970-148aa63354c9/aggregation",
+      "type": "Aggregation",
+      "object": {
+        "id": "https://gams.uni-graz.at/iiif/o:hsa.letter.1290%2FIMG.1/full/full/0/default.jpg",
+        "type": "WebResource",
+        "hasService": {
+          "id": "https://gams.uni-graz.at/iiif/o:hsa.letter.1290%2FIMG.1",
+          "type": "Service",
+          "conformsTo": [
+            {
+              "id": "http://iiif.io/api/image"
+            }
+          ],
+          "implements": {
+            "id": "http://iiif.io/api/image/2/level2.json"
+          }
+        },
+        "isReferencedBy": [
+          {
+            "id": "https://gams.uni-graz.at/o:hsa.letter.1290/sdef:IIIF/getManifest"
+          }
+        ]
+      },
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": "Europeana Local Austria",
+      "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "isShownAt": {
+        "id": "https://gams.uni-graz.at/o:hsa.letter.1290",
+        "type": "WebResource",
+        "format": [
+          "text/xml"
+        ],
+        "sameAs": [
+          "https://gams.uni-graz.at/o:hsa.letter.1290"
+        ],
+        "creator": [
+          {
+            "@value": "Institute of Linguistics, University of Graz",
+            "@language": "en"
+          },
+          {
+            "@value": "Institut für Sprachwissenschaft, Karl-Franzens-Universität\n                    Graz",
+            "@language": "de"
+          },
+          {
+            "id": "https://d-nb.info/gnd/807328-4",
+            "type": "Agent",
+            "sameAs": [
+              "http://viaf.org/viaf/144936583",
+              "https://isni.org/isni/0000000122600531",
+              "http://id.loc.gov/rwo/agents/n86126409",
+              "https://d-nb.info/gnd/1090619464",
+              "https://d-nb.info/gnd/1086500288"
+            ],
+            "altLabel": [
+              "Karl-Franzens-Universität Graz. Geisteswissenschaftliche Fakultät. Institut für Sprachwissenschaft",
+              "Institut für Sprachwissenschaft (Graz)",
+              "Institut für Sprachwissenschaft der Universität Graz",
+              "Institut Sprachwissenschaft (Graz)"
+            ],
+            "prefLabel": [
+              "Karl-Franzens-Universität Graz. Institut für Sprachwissenschaft"
+            ]
+          },
+          {
+            "@value": "Centre for Information Modelling - Austrian Centre for\n                    Digital Humanities, University of Graz",
+            "@language": "en"
+          },
+          {
+            "@value": "Zentrum für Informationsmodellierung - Austrian Centre for\n                    Digital Humanities, Karl-Franzens-Universität Graz",
+            "@language": "de"
+          },
+          {
+            "id": "https://d-nb.info/gnd/1137284463",
+            "type": "Agent",
+            "sameAs": [
+              "http://viaf.org/viaf/6123150172677200180003"
+            ],
+            "altLabel": [
+              "Zentrum für Informationsmodellierung",
+              "Austrian Centre for Digital Humanities",
+              "Centre for Information Modelling",
+              "Karl-Franzens-Universität Graz. Austrian Centre for Digital Humanities",
+              "Karl-Franzens-Universität Graz. Centre for Information Modelling"
+            ],
+            "prefLabel": [
+              "Karl-Franzens-Universität Graz. Zentrum für Informationsmodellierung"
+            ]
+          }
+        ],
+        "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "isShownBy": {
+        "id": "https://gams.uni-graz.at/iiif/o:hsa.letter.1290%2FIMG.1/full/full/0/default.jpg",
+        "type": "WebResource",
+        "hasService": {
+          "id": "https://gams.uni-graz.at/iiif/o:hsa.letter.1290%2FIMG.1",
+          "type": "Service",
+          "conformsTo": [
+            {
+              "id": "http://iiif.io/api/image"
+            }
+          ],
+          "implements": {
+            "id": "http://iiif.io/api/image/2/level2.json"
+          }
+        },
+        "isReferencedBy": [
+          {
+            "id": "https://gams.uni-graz.at/o:hsa.letter.1290/sdef:IIIF/getManifest"
+          }
+        ]
+      },
+      "dataProvider": "Universität Graz",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/43d7ea8a-e549-4b14-b970-148aa63354c9/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Graziadio Isaia Ascoli an Hugo Schuchardt (141-00308)",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          {
+            "@value": "letter",
+            "@language": "en"
+          },
+          {
+            "@value": "Brief",
+            "@language": "de"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300026879",
+            "note": [
+              {
+                "@value": "Pieces of correspondence that are somewhat more formal than memoranda or notes, usually on paper and delivered.",
+                "@language": "en"
+              },
+              {
+                "@value": "Úsese para correspondencia que son algo más formales que la memoranda o notas, generalmente en papel y para ser entregadas a un destinatario.",
+                "@language": "es"
+              },
+              {
+                "@value": "Wordt gebruikt voor, meestal op papier opgetekende en verzonden correspondentie die een ietwat officiëler karakter draagt dan memo's of aantekeningen.",
+                "@language": "nl"
+              },
+              {
+                "@value": "Korrespondenzstück, das etwas förmlicher ist als eine \"Notiz\" oder eine \"Mitteilung\", in der Regel auf Papier und versandt.",
+                "@language": "de"
+              }
+            ],
+            "type": "Concept",
+            "broader": "http://vocab.getty.edu/aat/300026877",
+            "altLabel": [
+              {
+                "@value": "letter (correspondence)",
+                "@language": "en"
+              },
+              {
+                "@value": "brief",
+                "@language": "nl"
+              },
+              {
+                "@value": "Briefe",
+                "@language": "de"
+              },
+              {
+                "@value": "carta (correspondencia)",
+                "@language": "es"
+              }
+            ],
+            "prefLabel": [
+              {
+                "@value": "letters (correspondence)",
+                "@language": "en"
+              },
+              {
+                "@value": "brieven (correspondentie)",
+                "@language": "nl"
+              },
+              {
+                "@value": "lettre",
+                "@language": "fr"
+              },
+              {
+                "@value": "Brief",
+                "@language": "de"
+              },
+              {
+                "@value": "cartas (correspondencia)",
+                "@language": "es"
+              }
+            ],
+            "exactMatch": "http://www.wikidata.org/entity/Q133492"
+          }
+        ],
+        "medium": [
+          {
+            "@value": "Papier",
+            "@language": "de"
+          },
+          {
+            "@value": "Paper",
+            "@language": "en"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300014109",
+            "note": [
+              {
+                "@value": "Refers generally to all types of thin matted or felted sheets or webs of fiber formed and dried on a fine screen from a pulpy water suspension. The fibers may be animal, such as hair, silk or wool, or mineral, such as asbestos, or synthetic. However most paper is made from cellulosic plant fiber, such as from wood pulp, grass, cotton, linen, and straw.",
+                "@language": "en"
+              },
+              {
+                "@value": "Se refiere en general a todo tipo de hojas o redes enmarañadas o afieltradas de fibra formadas y secadas en una filtro fino a partir de un compuesto de agua con pulpa. Las fibras pueden ser animales, como pelo, seda o lana o minerales, como asbesto, o bien sintéticas. Sin embargo, la mayor parte del papel es fabricado con fibra celulósica de plantas la pulpa de madera, pasto, lino y paja.",
+                "@language": "es"
+              },
+              {
+                "@value": "Verwijst in het algemeen naar alle typen vervilte vellen of weefsels die bestaan uit vezels, die uit in water gedompelde pulp zijn gevormd en gedroogd op een fijn schepraam. De vezels kunnen dierlijk zijn, zoals haar, zijde of wol, of mineraal, bijvoorbeeld asbest. Ook kunstvezels zijn een mogelijkheid. Het meeste papier wordt echter gemaakt van plantenvezels van bijvoorbeeld houtpulp, gras, katoen, linnen en stro.",
+                "@language": "nl"
+              },
+              {
+                "@value": "Refere-se geralmente a todos os tipos de folhas finas emaranhadas ou feltradas ou teias de fibra formadas e secas em uma tela fina a partir de uma suspensão aquosa de polpa. As fibras podem ser animais, como cabelo, seda ou lã, ou minerais, como amianto, ou sintéticas. No entanto, a maior parte do papel é feita de fibra vegetal celulósica, como polpa de madeira, grama, algodão, linho e palha. ",
+                "@language": "pt"
+              }
+            ],
+            "type": "Concept",
+            "broader": "http://vocab.getty.edu/aat/300010358",
+            "altLabel": [
+              {
+                "@value": "papers (fiber products)",
+                "@language": "en"
+              },
+              {
+                "@value": "papel de amate",
+                "@language": "es"
+              },
+              {
+                "@value": "amate",
+                "@language": "es"
+              }
+            ],
+            "prefLabel": [
+              {
+                "@value": "paper (fiber product)",
+                "@language": "en"
+              },
+              {
+                "@value": "papier",
+                "@language": "fr"
+              },
+              {
+                "@value": "papier (vezelproduct)",
+                "@language": "nl"
+              },
+              {
+                "@value": "Papier",
+                "@language": "de"
+              },
+              {
+                "@value": "carta",
+                "@language": "it"
+              },
+              {
+                "@value": "papel (papel)",
+                "@language": "es"
+              },
+              {
+                "@value": "papel",
+                "@language": "pt"
+              },
+              {
+                "@value": "papper",
+                "@language": "sv"
+              }
+            ],
+            "exactMatch": "http://www.wikidata.org/entity/Q11472"
+          }
+        ],
+        "created": [
+          "1897-10-20"
+        ],
+        "creator": [
+          "Ascoli, Graziadio Isaia",
+          {
+            "id": "https://viaf.org/viaf/44379269",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Ascoli, Graziadio Isaia",
+                "@language": "de"
+              }
+            ]
+          }
+        ],
+        "edmType": "TEXT",
+        "spatial": [
+          {
+            "id": "http://sws.geonames.org/3173435",
+            "type": "Place",
+            "prefLabel": [
+              {
+                "@value": "Mailand",
+                "@language": "de"
+              }
+            ]
+          }
+        ],
+        "dcRights": [
+          {
+            "id": "http://creativecommons.org/publicdomain/mark/1.0/"
+          }
+        ],
+        "isPartOf": [
+          {
+            "@value": "Hugo Schuchardt Archive, Institute of Linguistics, University of Graz",
+            "@language": "en"
+          },
+          {
+            "@value": "Hugo Schuchardt Archiv, Institut für Sprachwissenschaft, Karl-Franzens-Universität Graz",
+            "@language": "de"
+          },
+          {
+            "@value": "Universität Graz - GAMS",
+            "@language": "de"
+          }
+        ],
+        "language": [
+          "it"
+        ],
+        "identifier": [
+          "https://hdl.handle.net/11471/518.10.1.1290",
+          "Universitätsbibliothek Graz Abteilung für Sondersammlungen 00308"
+        ]
+      }
+    },
+    "institution_id": "universitaet-graz",
+    "pipeline_id": "uni-graz-gams"
+  }
+]

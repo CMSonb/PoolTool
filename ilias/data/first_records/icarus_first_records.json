@@ -1,0 +1,233 @@
+[
+  {
+    "kp_id": "aa52d7df-113c-4984-8fae-d923e8b7a44b",
+    "src_id": "oai:MoM:tag:www.monasterium.net,2011:/charter/AT-DASP/Urkunden/1542_III_11",
+    "content": {
+      "id": "https://id.kulturpool.at/aa52d7df-113c-4984-8fae-d923e8b7a44b/aggregation",
+      "type": "Aggregation",
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "dcRights": [
+        "St. Pölten, Diözesanarchiv; Urkunden (1214-1961)"
+      ],
+      "provider": "Kulturpool",
+      "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "isShownAt": "https://www.monasterium.net/mom/AT-DASP/Urkunden/1542_III_11/charter",
+      "isShownBy": {
+        "id": "http://images.icar-us.eu/iiif/2/img%2FAT-DASP%2FUrkunden%2FDASP___15420311_Krems.jpg/full/full/0/default.jpg",
+        "type": "WebResource",
+        "hasService": {
+          "id": "http://images.icar-us.eu/iiif/2/img%2FAT-DASP%2FUrkunden%2FDASP___15420311_Krems.jpg",
+          "type": "Service",
+          "conformsTo": [
+            {
+              "id": "http://iiif.io/api/image"
+            }
+          ],
+          "implements": {
+            "id": "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      },
+      "dataProvider": "ICARUS",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/aa52d7df-113c-4984-8fae-d923e8b7a44b/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Charter: St. Pölten, Diözesanarchiv; Urkunden (1214-1961) – 1542_III_11"
+        ],
+        "dcType": [
+          "Charter"
+        ],
+        "extent": [
+          "24x16"
+        ],
+        "issued": [
+          "1542-03-11"
+        ],
+        "medium": [
+          "Pergament"
+        ],
+        "edmType": "TEXT",
+        "isPartOf": [
+          "St. Pölten, Diözesanarchiv; Urkunden (1214-1961)"
+        ],
+        "language": [
+          "und"
+        ],
+        "identifier": [
+          "tag:www.monasterium.net,2011:/charter/AT-DASP/Urkunden/1542_III_11"
+        ],
+        "description": [
+          "Georgius Reichart iur. lic. can. Vienn. off. Pat. stellt Stephanus Vischer ex Mauttarn\n                     accolitus Pat. dioc. ein Entlassungszeugnis zur Weihe aus.\n                  "
+        ]
+      }
+    },
+    "institution_id": "icarus–internationales-zentrum-archivforschung",
+    "pipeline_id": "icarus"
+  },
+  {
+    "kp_id": "27998420-957a-4fbf-b390-13898714b754",
+    "src_id": "oai:MoM:tag:www.monasterium.net,2011:/charter/AT-DOZA/Urkunden/1679IV_08a",
+    "content": {
+      "id": "https://id.kulturpool.at/27998420-957a-4fbf-b390-13898714b754/aggregation",
+      "type": "Aggregation",
+      "hasView": [
+        {
+          "id": "http://images.icar-us.eu/iiif/2/pics%2FAT-DOZA%2FUrkunden%2FDOZA-Urkunden_16790408_a_v.jpg/full/full/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "http://images.icar-us.eu/iiif/2/pics%2FAT-DOZA%2FUrkunden%2FDOZA-Urkunden_16790408_a_v.jpg",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level2.json"
+            }
+          }
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "dcRights": [
+        "Wien, Deutschordenszentralarchiv (DOZA); Urkunden"
+      ],
+      "provider": "Kulturpool",
+      "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "isShownAt": "https://www.monasterium.net/mom/AT-DOZA/Urkunden/1679IV_08a/charter",
+      "isShownBy": {
+        "id": "http://images.icar-us.eu/iiif/2/pics%2FAT-DOZA%2FUrkunden%2FDOZA-Urkunden_16790408_a_r.jpg/full/full/0/default.jpg",
+        "type": "WebResource",
+        "hasService": {
+          "id": "http://images.icar-us.eu/iiif/2/pics%2FAT-DOZA%2FUrkunden%2FDOZA-Urkunden_16790408_a_r.jpg",
+          "type": "Service",
+          "conformsTo": [
+            {
+              "id": "http://iiif.io/api/image"
+            }
+          ],
+          "implements": {
+            "id": "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      },
+      "dataProvider": "ICARUS",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/27998420-957a-4fbf-b390-13898714b754/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Charter: Wien, Deutschordenszentralarchiv (DOZA); Urkunden – 1679IV_08a"
+        ],
+        "dcType": [
+          "Charter"
+        ],
+        "issued": [
+          "1679-04-08"
+        ],
+        "edmType": "TEXT",
+        "isPartOf": [
+          "Wien, Deutschordenszentralarchiv (DOZA); Urkunden"
+        ],
+        "language": [
+          "und"
+        ],
+        "identifier": [
+          "tag:www.monasterium.net,2011:/charter/AT-DOZA/Urkunden/1679IV_08a"
+        ],
+        "description": [
+          "noch kein Regest vorhanden"
+        ]
+      }
+    },
+    "institution_id": "icarus–internationales-zentrum-archivforschung",
+    "pipeline_id": "icarus"
+  },
+  {
+    "kp_id": "52ec6a9c-5806-4172-b787-3660c85fd6f8",
+    "src_id": "oai:MoM:tag:www.monasterium.net,2011:/charter/AT-StAKrems/Krems/StaAKr-0222",
+    "content": {
+      "id": "https://id.kulturpool.at/52ec6a9c-5806-4172-b787-3660c85fd6f8/aggregation",
+      "type": "Aggregation",
+      "hasView": [
+        {
+          "id": "http://images.icar-us.eu/iiif/2/img%2FAT-StAKrems%2FKrems%2FStAK_14300425_222_v.JPG/full/full/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "http://images.icar-us.eu/iiif/2/img%2FAT-StAKrems%2FKrems%2FStAK_14300425_222_v.JPG",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level2.json"
+            }
+          }
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "dcRights": [
+        "Krems, Stadtarchiv; Urkunden Krems (1108-1844)"
+      ],
+      "provider": "Kulturpool",
+      "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "isShownAt": "https://www.monasterium.net/mom/AT-StAKrems/Krems/StaAKr-0222/charter",
+      "isShownBy": {
+        "id": "http://images.icar-us.eu/iiif/2/img%2FAT-StAKrems%2FKrems%2FStAK_14300425_222_r.JPG/full/full/0/default.jpg",
+        "type": "WebResource",
+        "hasService": {
+          "id": "http://images.icar-us.eu/iiif/2/img%2FAT-StAKrems%2FKrems%2FStAK_14300425_222_r.JPG",
+          "type": "Service",
+          "conformsTo": [
+            {
+              "id": "http://iiif.io/api/image"
+            }
+          ],
+          "implements": {
+            "id": "http://iiif.io/api/image/2/level2.json"
+          }
+        }
+      },
+      "dataProvider": "ICARUS",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/52ec6a9c-5806-4172-b787-3660c85fd6f8/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Charter: Krems, Stadtarchiv; Urkunden Krems (1108-1844) – StaAKr-0222"
+        ],
+        "dcType": [
+          "Charter"
+        ],
+        "issued": [
+          "1430-04-25"
+        ],
+        "medium": [
+          "Papier"
+        ],
+        "creator": [
+          "Bürgermeister, Richter und Rat der Stadt Wien"
+        ],
+        "edmType": "TEXT",
+        "spatial": [
+          "Krems"
+        ],
+        "isPartOf": [
+          "Krems, Stadtarchiv; Urkunden Krems (1108-1844)"
+        ],
+        "language": [
+          "dt."
+        ],
+        "identifier": [
+          "tag:www.monasterium.net,2011:/charter/AT-StAKrems/Krems/StaAKr-0222"
+        ],
+        "description": [
+          "Bürgermeister, Richter und Rat der Stadt Wien bitten (Bitt[e]n) [den Rat der Städte\n                     Stein und Krems (Stain und Krembs)], den Erber[n] Stadtrichter Ludwig zu ersuchen,\n                     jene 8 fl. Strafe (wandl), die dieser dem Fischer Paul Veyal, einem Einwohner (mitboner)\n                     von Wien, auferlegt hat, nachdem Veyal im Scherz (von ains Schimpfs weg[e]n) im [Kremser]\n                     Bad von mehreren Frauen mit kaltem Wasser begossen und durch seinen Schreck (von erkomnuͤss\n                     und erschreknuͤss wegen) seine Wade (sein Wadel) vor den Frauen entblößt wurde, woraufhin\n                     sein Besitz beschlagnahmt wurde (in verbot genomen) und er das Geld ausborgen musste,\n                     aufzuheben. Die Aussteller empfinden dies als ungerecht (unfreuntleich).\n                  "
+        ]
+      }
+    },
+    "institution_id": "icarus–internationales-zentrum-archivforschung",
+    "pipeline_id": "icarus"
+  }
+]

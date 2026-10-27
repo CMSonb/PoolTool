@@ -1,0 +1,3226 @@
+[
+  {
+    "kp_id": "80650bf5-437b-428e-a6fc-e66ac9e54b67",
+    "src_id": "Vorarlberg/92123_KG_Sulz_GPP",
+    "content": {
+      "id": "https://id.kulturpool.at/80650bf5-437b-428e-a6fc-e66ac9e54b67/aggregation",
+      "type": "Aggregation",
+      "hasView": [
+        {
+          "id": "https://files.transkribus.eu/iiif/2/SKVUVCPZBLURGHINQHASKRXB/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/SKVUVCPZBLURGHINQHASKRXB/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/JZOPJMFWOHCPIARDTKIDDIZK/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/JZOPJMFWOHCPIARDTKIDDIZK/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/HJDCPBOGBCXIETNXJYXMHAEJ/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/HJDCPBOGBCXIETNXJYXMHAEJ/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/FHTFIEBTQCVFZMYPJQIMZFXX/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/FHTFIEBTQCVFZMYPJQIMZFXX/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/FKGYYGQMECPBHJEKGVIQTFRR/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/FKGYYGQMECPBHJEKGVIQTFRR/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/IAGIOOGKEGFFUUXLNAGCKYGI/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/IAGIOOGKEGFFUUXLNAGCKYGI/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/RCPPKHFXSTNWZBXPKEIOGDHB/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/RCPPKHFXSTNWZBXPKEIOGDHB/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/CCXIVTHRVSFCNAJLBSUJSMGD/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/CCXIVTHRVSFCNAJLBSUJSMGD/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/CZLRQVKGCSMMJJWDSZXTSWJW/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/CZLRQVKGCSMMJJWDSZXTSWJW/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/MNTWCITSHQDMOEILMWLHUALJ/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/MNTWCITSHQDMOEILMWLHUALJ/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/IMMOGZIWCJGWMBRUCXDVDSKJ/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/IMMOGZIWCJGWMBRUCXDVDSKJ/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/XKVQOUOAEBEPTBWOXQCOZCYL/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/XKVQOUOAEBEPTBWOXQCOZCYL/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/ALSXOIDRDKABZVZNGUYCCHXP/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/ALSXOIDRDKABZVZNGUYCCHXP/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/BVSZNKPTFBWPKMMSGFNPDNPX/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/BVSZNKPTFBWPKMMSGFNPDNPX/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/RXLOMVLPPJQRPTWYLKYIPTLY/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/RXLOMVLPPJQRPTWYLKYIPTLY/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/AFJEJASOFJRGOEEBVSITTGUY/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/AFJEJASOFJRGOEEBVSITTGUY/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/VCIDHPMAFLJERFITHPBYZLFY/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/VCIDHPMAFLJERFITHPBYZLFY/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/XVBCWHSJEYMDJDQMDVTPBEPT/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/XVBCWHSJEYMDJDQMDVTPBEPT/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/TOVWQFSUETLMPDCNGTQTEZMB/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/TOVWQFSUETLMPDCNGTQTEZMB/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/ARTAQNZYAUSVAQRMBEIFQFEV/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/ARTAQNZYAUSVAQRMBEIFQFEV/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/UPUNJAMLOOKDWQDBGYJSWERQ/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/UPUNJAMLOOKDWQDBGYJSWERQ/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/ERSSCXWTCIIUJHQRXWVZNTSI/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/ERSSCXWTCIIUJHQRXWVZNTSI/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/UMKOOSGGHCMYVIGUYKRSUREE/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/UMKOOSGGHCMYVIGUYKRSUREE/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/JMWLYGCUNTUZJBADWHAJREUE/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/JMWLYGCUNTUZJBADWHAJREUE/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/AUOHFJMOJOTCAKCUARCCIBEZ/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/AUOHFJMOJOTCAKCUARCCIBEZ/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/XIBHHQACRPNPQJQIBUMUMKFE/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/XIBHHQACRPNPQJQIBUMUMKFE/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/LPTJMSQNCLSKCRBNOIDSBRKX/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/LPTJMSQNCLSKCRBNOIDSBRKX/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/LCAXPPWAEYPSIFLDTZDRVBVT/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/LCAXPPWAEYPSIFLDTZDRVBVT/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/YVKUMKDREAWIIMFBKDFOWDWO/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/YVKUMKDREAWIIMFBKDFOWDWO/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/MBVSYPLFDNRELPBDYJFQOAKI/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/MBVSYPLFDNRELPBDYJFQOAKI/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/RNFWOLLKZUSGAFSUZIPSINMZ/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/RNFWOLLKZUSGAFSUZIPSINMZ/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/EZMCDKASWNFXOZRBHHQTOCAF/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/EZMCDKASWNFXOZRBHHQTOCAF/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/KVQEEVNYJPSUILYSWKGSOTCB/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/KVQEEVNYJPSUILYSWKGSOTCB/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/LWPEWNYQVHRTFUNLXVANKTVN/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/LWPEWNYQVHRTFUNLXVANKTVN/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/KIFXQGITGCHFHBVADRDEHPAM/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/KIFXQGITGCHFHBVADRDEHPAM/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/ZTLHNFHRRRDZJFJNJZTTWLGU/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/ZTLHNFHRRRDZJFJNJZTTWLGU/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/DKGOYGVAHRKRCAVRJDXBGHHR/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/DKGOYGVAHRKRCAVRJDXBGHHR/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/ZZUSGXGTGMFGPUPXLQRUFCPJ/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/ZZUSGXGTGMFGPUPXLQRUFCPJ/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/BXVAHFBYALIJCHNSDKRUYIVY/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/BXVAHFBYALIJCHNSDKRUYIVY/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/RCYROTWWUGUZKRYAXYZFDRUG/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/RCYROTWWUGUZKRYAXYZFDRUG/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/RECKJJUGPZSRTNDTBJDYTKQP/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/RECKJJUGPZSRTNDTBJDYTKQP/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/BKWCDWQOFVZBUXAHMNXITXFE/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/BKWCDWQOFVZBUXAHMNXITXFE/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/HLDTWERKWVJSGDMSJFVPUIWY/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/HLDTWERKWVJSGDMSJFVPUIWY/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/DHXCGRFVPILXZSCAXLGSJYDT/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/DHXCGRFVPILXZSCAXLGSJYDT/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/JVBEWCJRHCYZPGTUSBVSASAV/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/JVBEWCJRHCYZPGTUSBVSASAV/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/NRQOWUEXIMHUTRQPDNQQSCEO/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/NRQOWUEXIMHUTRQPDNQQSCEO/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/WWUKIIDWUALEYDNPFLBCETDP/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/WWUKIIDWUALEYDNPFLBCETDP/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/EWGQFMGDBZXAAKQSWYZSDDEG/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/EWGQFMGDBZXAAKQSWYZSDDEG/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/OTLDQRLMIHYXYUPMJTKNHWOS/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/OTLDQRLMIHYXYUPMJTKNHWOS/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/PKEGXEBVQBOMIQTOXZUCPYDW/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/PKEGXEBVQBOMIQTOXZUCPYDW/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/RMOZGLXBLXLKZOSLVZGILEUV/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/RMOZGLXBLXLKZOSLVZGILEUV/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/KTOHHFYVSSNHYHLHWOZVHRJT/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/KTOHHFYVSSNHYHLHWOZVHRJT/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/TUOIBUFEKWEHBACWBQTFDWLF/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/TUOIBUFEKWEHBACWBQTFDWLF/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/MCVTNJTZMFHBTAGAWHCPJZHD/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/MCVTNJTZMFHBTAGAWHCPJZHD/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/QNPUYBIDKTJZTYXXQNXZNYWX/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/QNPUYBIDKTJZTYXXQNXZNYWX/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/MIQSEOORLISUPJZFWPCXYGRH/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/MIQSEOORLISUPJZFWPCXYGRH/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/PEABAOUBLVUOHGWBNVTRWQOV/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/PEABAOUBLVUOHGWBNVTRWQOV/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/GCARTEEKAJXYLLPBOIWZMGRF/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/GCARTEEKAJXYLLPBOIWZMGRF/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/EDTSVTRUYUKQKOUMBLEAGJOG/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/EDTSVTRUYUKQKOUMBLEAGJOG/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/OFTNNKZCIYIABSXURFTTZDRL/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/OFTNNKZCIYIABSXURFTTZDRL/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/ABXYDHBXEMACLBORAVPWRKHM/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/ABXYDHBXEMACLBORAVPWRKHM/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/TVEVBWCEBSRSXACALARIBDRT/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/TVEVBWCEBSRSXACALARIBDRT/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/WVBUMMPRZKXUEGNIVSPKFJMS/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/WVBUMMPRZKXUEGNIVSPKFJMS/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/KBWGNLDWTPANKMULNFBJPVXR/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/KBWGNLDWTPANKMULNFBJPVXR/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/MEORUXRLGFKHFXHIOALFAMBZ/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/MEORUXRLGFKHFXHIOALFAMBZ/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/WDQHTEMLXFSHBBFKVQZMWSPI/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/WDQHTEMLXFSHBBFKVQZMWSPI/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/YWFHORSKMHQTONZYZBHSFDKA/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/YWFHORSKMHQTONZYZBHSFDKA/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/PNPCNAGOJSZVBCZRVEVFSBHV/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/PNPCNAGOJSZVBCZRVEVFSBHV/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/FYNMDJTLGFPIEVZTDGNSVDZM/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/FYNMDJTLGFPIEVZTDGNSVDZM/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/FJUNIDYXSRKYXDLNRNQKBODU/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/FJUNIDYXSRKYXDLNRNQKBODU/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/ZMTIGRLYBZHAIZEPVJUSXDST/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/ZMTIGRLYBZHAIZEPVJUSXDST/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/BTAWDAYYAKGNRBDOXKASTEOO/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/BTAWDAYYAKGNRBDOXKASTEOO/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/DFWCZXIYNIOSEWBGMMMPTUQC/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/DFWCZXIYNIOSEWBGMMMPTUQC/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/YDTCTULVLFXLQXJYNUHOSTNQ/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/YDTCTULVLFXLQXJYNUHOSTNQ/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/XTCRZSBVBHTGPEDLWXEZNAVF/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/XTCRZSBVBHTGPEDLWXEZNAVF/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/BTNFTDJLNQYWCUEPRPDDEBOY/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/BTNFTDJLNQYWCUEPRPDDEBOY/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/RRHCHNRNUOXVXDXMMSWWPXUV/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/RRHCHNRNUOXVXDXMMSWWPXUV/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/PASPCYXVKKPEJXHVPVLKXBWW/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/PASPCYXVKKPEJXHVPVLKXBWW/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/KKRHMQCGUPIIEORKOQNHQYBM/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/KKRHMQCGUPIIEORKOQNHQYBM/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/CGKZTNRMHEQJJZXMSWXTPISX/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/CGKZTNRMHEQJJZXMSWXTPISX/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/SAKCHLHHRPMJGHJCQAKQEETV/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/SAKCHLHHRPMJGHJCQAKQEETV/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/ALFBKVBDNWQUOVSROYXXXOAB/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/ALFBKVBDNWQUOVSROYXXXOAB/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/BYFYUULYEKUIXTLJGDOKIFJX/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/BYFYUULYEKUIXTLJGDOKIFJX/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/QRPWVTDSFHVZUCTCDAAFPBGQ/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/QRPWVTDSFHVZUCTCDAAFPBGQ/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/CPKLTRPAODTMIGGFOAWCTJDB/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/CPKLTRPAODTMIGGFOAWCTJDB/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/WQBCZUOAGLVVVEMUJJMIYXSM/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/WQBCZUOAGLVVVEMUJJMIYXSM/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/XKCRRLVAGHKDGDQDMHSEQJDB/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/XKCRRLVAGHKDGDQDMHSEQJDB/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/EQKOXNEWOSADPCTBTSHZJPIT/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/EQKOXNEWOSADPCTBTSHZJPIT/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/RZOYYJNBOYKZUWLFIPJVMHTJ/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/RZOYYJNBOYKZUWLFIPJVMHTJ/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/SFLTKRERMQQCWGPTFISZJXTL/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/SFLTKRERMQQCWGPTFISZJXTL/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/KCTPQJQBMHZCLZZGZHPBDDXH/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/KCTPQJQBMHZCLZZGZHPBDDXH/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/DKHYGBOAJWJRABLWYEZVJMAW/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/DKHYGBOAJWJRABLWYEZVJMAW/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/RWCKFGNEUIMYURQJXDUWBPPD/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/RWCKFGNEUIMYURQJXDUWBPPD/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/OELOLDXOSFGYHUTNZBIFRGTS/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/OELOLDXOSFGYHUTNZBIFRGTS/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/BCXHFZSMJJNZMDEHCUQAJIMA/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/BCXHFZSMJJNZMDEHCUQAJIMA/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/SSTQWULJQFDFQGFGEOAHRTUQ/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/SSTQWULJQFDFQGFGEOAHRTUQ/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/VRWNNZBPGPXVDWHFAJDXEJKP/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/VRWNNZBPGPXVDWHFAJDXEJKP/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/STCOHGJMQNCYTKWXDKQZVHZQ/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/STCOHGJMQNCYTKWXDKQZVHZQ/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/CDWISGCFEGUQFLUPLVAZDKRY/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/CDWISGCFEGUQFLUPLVAZDKRY/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/XTGGYSIFHWOVMMIGBGOXERRC/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/XTGGYSIFHWOVMMIGBGOXERRC/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/HHCMFTIZVAWAFIARVACULUIA/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/HHCMFTIZVAWAFIARVACULUIA/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/JGCRPXWIQFXTKCZXHFBDATUL/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/JGCRPXWIQFXTKCZXHFBDATUL/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "isShownAt": "https://app.transkribus.org/sites/Franzi/doc/3328025",
+      "isShownBy": {
+        "id": "https://files.transkribus.eu/iiif/2/TQEKRTUWOFEFFOLXXLFYLFNI/full/max/0/default.jpg",
+        "type": "WebResource",
+        "hasService": {
+          "id": "https://files.transkribus.eu/iiif/2/TQEKRTUWOFEFFOLXXLFYLFNI/",
+          "type": "Service",
+          "conformsTo": [
+            {
+              "id": "http://iiif.io/api/image"
+            }
+          ],
+          "implements": {
+            "id": "http://iiif.io/api/image/2/level1.json"
+          }
+        }
+      },
+      "dataProvider": {
+        "@value": "READ-COOP SCE",
+        "@language": "de"
+      },
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/80650bf5-437b-428e-a6fc-e66ac9e54b67/cho",
+        "date": [
+          "1855"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Original Grundparzellenprotokoll der Gemeinde Sulz",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          {
+            "@value": "Verwaltungsdokument zum Franziszeischen Kataster (1817-1861)",
+            "@language": "de"
+          }
+        ],
+        "extent": [
+          {
+            "@value": "103 Seiten",
+            "@language": "de"
+          }
+        ],
+        "edmType": "TEXT",
+        "spatial": [
+          {
+            "@value": "Gemeinde Sulz, Vorarlberg, Österreich",
+            "@language": "de"
+          }
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          {
+            "@value": "1855-1861",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "Transkribus:3328025"
+        ]
+      }
+    },
+    "institution_id": "read-coop-sce",
+    "pipeline_id": "readcoop-franzi"
+  },
+  {
+    "kp_id": "b55a6917-34d5-4e39-8834-456e3b192d3e",
+    "src_id": "Vorarlberg/92125_KG_Tosters_ABB",
+    "content": {
+      "id": "https://id.kulturpool.at/b55a6917-34d5-4e39-8834-456e3b192d3e/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "isShownAt": "https://app.transkribus.org/sites/Franzi/doc/3328028",
+      "isShownBy": {
+        "id": "https://files.transkribus.eu/iiif/2/QTWOCJOOLXVPWCJWCJKFBNPY/full/max/0/default.jpg",
+        "type": "WebResource",
+        "hasService": {
+          "id": "https://files.transkribus.eu/iiif/2/QTWOCJOOLXVPWCJWCJKFBNPY/",
+          "type": "Service",
+          "conformsTo": [
+            {
+              "id": "http://iiif.io/api/image"
+            }
+          ],
+          "implements": {
+            "id": "http://iiif.io/api/image/2/level1.json"
+          }
+        }
+      },
+      "dataProvider": {
+        "@value": "READ-COOP SCE",
+        "@language": "de"
+      },
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/b55a6917-34d5-4e39-8834-456e3b192d3e/cho",
+        "date": [
+          "1855"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Ausweis über die Benutzung des Bodens für die Gemeinde Tosters",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          {
+            "@value": "Verwaltungsdokument zum Franziszeischen Kataster (1817-1861)",
+            "@language": "de"
+          }
+        ],
+        "extent": [
+          {
+            "@value": "1 Seiten",
+            "@language": "de"
+          }
+        ],
+        "edmType": "TEXT",
+        "spatial": [
+          {
+            "@value": "Gemeinde Tosters, Vorarlberg, Österreich",
+            "@language": "de"
+          }
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          {
+            "@value": "1855-1861",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "Transkribus:3328028"
+        ]
+      }
+    },
+    "institution_id": "read-coop-sce",
+    "pipeline_id": "readcoop-franzi"
+  },
+  {
+    "kp_id": "77ac1d5d-3215-4380-bb97-d4a3bb3fc6e7",
+    "src_id": "Vorarlberg/92125_KG_Tosters_GPP",
+    "content": {
+      "id": "https://id.kulturpool.at/77ac1d5d-3215-4380-bb97-d4a3bb3fc6e7/aggregation",
+      "type": "Aggregation",
+      "hasView": [
+        {
+          "id": "https://files.transkribus.eu/iiif/2/UXTBNMIMFFYFQUINDWZADGOK/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/UXTBNMIMFFYFQUINDWZADGOK/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/UEJWFTMIORHNAGEGFDHTFYIO/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/UEJWFTMIORHNAGEGFDHTFYIO/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/CVLZGJJLJTZXDOURUXELTZAM/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/CVLZGJJLJTZXDOURUXELTZAM/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/MUEYPCQMYSNTLURCGAPPITCA/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/MUEYPCQMYSNTLURCGAPPITCA/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/RVFMNPDPPDGEQIJLXQIKSWNM/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/RVFMNPDPPDGEQIJLXQIKSWNM/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/KKJOTJFGRIOOXWKZKOKZZDLS/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/KKJOTJFGRIOOXWKZKOKZZDLS/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/QNGJUELCTYDVTAGTSEIVGBRS/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/QNGJUELCTYDVTAGTSEIVGBRS/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/MWTLEYTMSTSKDNKEBNWATETW/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/MWTLEYTMSTSKDNKEBNWATETW/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/RDQNRTNFQGSWUFWJBIRNOGEI/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/RDQNRTNFQGSWUFWJBIRNOGEI/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/OFYIBRNMNXYWSMOEUZJYLHYD/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/OFYIBRNMNXYWSMOEUZJYLHYD/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/MTDNQYGBHZHHWMVZXKDYQKZV/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/MTDNQYGBHZHHWMVZXKDYQKZV/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/DIOLDGWYGIWLLMVPWIDKIBYU/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/DIOLDGWYGIWLLMVPWIDKIBYU/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/RRHKPJURBSLBNDIYMOVKVQXQ/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/RRHKPJURBSLBNDIYMOVKVQXQ/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/AGRNDLMUXMKJYIDGNPSTHBGC/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/AGRNDLMUXMKJYIDGNPSTHBGC/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/ZKSVLBDMGEJEBJXGOKIANDNS/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/ZKSVLBDMGEJEBJXGOKIANDNS/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/JWVTWTCNIOAFCIQDHXNRKQUB/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/JWVTWTCNIOAFCIQDHXNRKQUB/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/COQJCOAHSVLNNLWGUHROLLJR/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/COQJCOAHSVLNNLWGUHROLLJR/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/ANCNIAOCIFVOJZMLPOJKMQHF/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/ANCNIAOCIFVOJZMLPOJKMQHF/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/BOHKHUSWDNIISFUDRZLYPHXD/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/BOHKHUSWDNIISFUDRZLYPHXD/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/BFZKICTYQPUBWBHOLXYKBYLU/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/BFZKICTYQPUBWBHOLXYKBYLU/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/QEOGEKHMIYWTSADBXZTWSBOP/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/QEOGEKHMIYWTSADBXZTWSBOP/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/FYTMAISFDJHAXMAFICWRVLKE/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/FYTMAISFDJHAXMAFICWRVLKE/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/PZWQFFJKBMWCLRBAHLNXLXVF/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/PZWQFFJKBMWCLRBAHLNXLXVF/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/LYRKYKTENVQUZWDYVFYWXRNA/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/LYRKYKTENVQUZWDYVFYWXRNA/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/RSYEPIJQAGIERCXBAQYXNDEP/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/RSYEPIJQAGIERCXBAQYXNDEP/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/WLQPSENQWYMVMHTRHPEXWRDE/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/WLQPSENQWYMVMHTRHPEXWRDE/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/GEQYSNBQOVEBUABLBQYXLPNV/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/GEQYSNBQOVEBUABLBQYXLPNV/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/GKRPUQDPCIDDZUQFLHPYHRTH/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/GKRPUQDPCIDDZUQFLHPYHRTH/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/VLCMAPPNMFSEADHSDYDGBXBK/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/VLCMAPPNMFSEADHSDYDGBXBK/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/PEAABGKPRAWUKOLTFPNRDYYS/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/PEAABGKPRAWUKOLTFPNRDYYS/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/IGRMGFAADHGQMZRHBLTMEHSR/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/IGRMGFAADHGQMZRHBLTMEHSR/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/ZHYUFIVGHBPVUKZIFVANQCNB/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/ZHYUFIVGHBPVUKZIFVANQCNB/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/YZRXXTGQVSKZPWKNGZFNBMQX/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/YZRXXTGQVSKZPWKNGZFNBMQX/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/JKVUHFWBQKEGDBWDMCQKSBVK/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/JKVUHFWBQKEGDBWDMCQKSBVK/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/UMCRQFZXPRBAHMQIETPDODYX/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/UMCRQFZXPRBAHMQIETPDODYX/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/UWGSHWRZRVONERMYEILJFFBO/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/UWGSHWRZRVONERMYEILJFFBO/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/LXYXILBIWZENUVLHHKYERSTV/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/LXYXILBIWZENUVLHHKYERSTV/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/CRLKMKTJZYTIXTXAXMNMCOAJ/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/CRLKMKTJZYTIXTXAXMNMCOAJ/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/VVSCICNRATELMYAMOLNEXQDJ/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/VVSCICNRATELMYAMOLNEXQDJ/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/JYYJGEIQNHXEQZGXSBAXNNZP/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/JYYJGEIQNHXEQZGXSBAXNNZP/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/IQVKSWWGTIMYNFXLKHQMSZWC/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/IQVKSWWGTIMYNFXLKHQMSZWC/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/AIGOMUGOXBDHRHJKFJBKQFKO/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/AIGOMUGOXBDHRHJKFJBKQFKO/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/XTYRGMCQKBDAIVKNRVSLOQWW/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/XTYRGMCQKBDAIVKNRVSLOQWW/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/QYLHQELUMDGAHLMVFKMYOUNR/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/QYLHQELUMDGAHLMVFKMYOUNR/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/RPFATTBHSRHEDSAJQUWKHMIU/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/RPFATTBHSRHEDSAJQUWKHMIU/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/JRRPZGLENPGLEOMIOZDWNTXZ/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/JRRPZGLENPGLEOMIOZDWNTXZ/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/EDTXTENARXKEBYYTZNYHSRGL/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/EDTXTENARXKEBYYTZNYHSRGL/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/TCLXVHMKPPAPOYICOFXGAQAW/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/TCLXVHMKPPAPOYICOFXGAQAW/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/VGDGCXIBCNHGVEBLUYMEECDD/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/VGDGCXIBCNHGVEBLUYMEECDD/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/YMPOWXEYJEGAQDVLQICEHLBY/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/YMPOWXEYJEGAQDVLQICEHLBY/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/ELVANZPKFFTSYHWJNMNGJHPN/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/ELVANZPKFFTSYHWJNMNGJHPN/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/UNUFPFNIBHBPVQKYQEIEGBZV/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/UNUFPFNIBHBPVQKYQEIEGBZV/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/RFXBCHKVIEPELEUHTYRVUATY/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/RFXBCHKVIEPELEUHTYRVUATY/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/RHVVQGGXEXNAQMSDOHIOPJTO/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/RHVVQGGXEXNAQMSDOHIOPJTO/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/OZYMBDJSPCSGJXFFBJNKTQCC/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/OZYMBDJSPCSGJXFFBJNKTQCC/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/IHKTPADGMNDJYLHLHDCLUULY/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/IHKTPADGMNDJYLHLHDCLUULY/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/BIJNZUIQVQABSWTABAICGDXH/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/BIJNZUIQVQABSWTABAICGDXH/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/HYYVYFGUCGWXAAXLTTHIIWLE/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/HYYVYFGUCGWXAAXLTTHIIWLE/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/XCTBVWMGTMFPAZYIBCRRJWRQ/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/XCTBVWMGTMFPAZYIBCRRJWRQ/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/HCYMJDXDHYKPQDNINJAMCDNQ/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/HCYMJDXDHYKPQDNINJAMCDNQ/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/JUWSPMSWNLGYBQREUKCXDUUT/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/JUWSPMSWNLGYBQREUKCXDUUT/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/VLGYCMJTZUMLPNIMOCMVMJID/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/VLGYCMJTZUMLPNIMOCMVMJID/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/HSAHIIYUKXYBBENTHSPIYOOW/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/HSAHIIYUKXYBBENTHSPIYOOW/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/UCZMWNUSJDELKUZHNBAZUJAF/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/UCZMWNUSJDELKUZHNBAZUJAF/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/LLFMYJAXJLGARQRPJFZEXFFY/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/LLFMYJAXJLGARQRPJFZEXFFY/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/NBPSWNDSKGGAGMWJNDIPTPAP/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/NBPSWNDSKGGAGMWJNDIPTPAP/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/KMYSHZCBZOAOKZIBAYAIASGR/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/KMYSHZCBZOAOKZIBAYAIASGR/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/WGKLJBHHZWXQTTUVJGIBXJOP/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/WGKLJBHHZWXQTTUVJGIBXJOP/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/ZSNLPPYVAFDFABJAXBGHJJPD/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/ZSNLPPYVAFDFABJAXBGHJJPD/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/QXGTJJLUYJKVEGZUYEBVDYLT/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/QXGTJJLUYJKVEGZUYEBVDYLT/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/WFCAONCBKIENLBXGJLCHNJUL/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/WFCAONCBKIENLBXGJLCHNJUL/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/VLBWHUQFRLNCIWXSBRDHCFUM/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/VLBWHUQFRLNCIWXSBRDHCFUM/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/BWFJVDLEAXEUKQPYXRSQGJEI/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/BWFJVDLEAXEUKQPYXRSQGJEI/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/SBBABPNLJPWKSQAMTKBYAHDI/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/SBBABPNLJPWKSQAMTKBYAHDI/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/WLCQUZCZAHMCKMRCISWRVUSP/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/WLCQUZCZAHMCKMRCISWRVUSP/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/BGZZARMYGRNFRDCDNNINKPWP/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/BGZZARMYGRNFRDCDNNINKPWP/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/ADWUCMZUUWZKWDZIEKLDWVPJ/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/ADWUCMZUUWZKWDZIEKLDWVPJ/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/TFXSEIPXGNUDJSDYOGZFEOPY/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/TFXSEIPXGNUDJSDYOGZFEOPY/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/JPTJABHIXVLXEMDMHKOPMAOA/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/JPTJABHIXVLXEMDMHKOPMAOA/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/BHYAGJVGHDNCGOGITBZFGAPX/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/BHYAGJVGHDNCGOGITBZFGAPX/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/EDRXFCILKDHQHDHDOUBFPPTU/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/EDRXFCILKDHQHDHDOUBFPPTU/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/QAGREXRYPRUFLCAZJQHORWYZ/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/QAGREXRYPRUFLCAZJQHORWYZ/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/QLYFYNGZZTHGVFYEKNADXNVC/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/QLYFYNGZZTHGVFYEKNADXNVC/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        },
+        {
+          "id": "https://files.transkribus.eu/iiif/2/JJVHPUMLJIHIMSLRXFXAQEFU/full/max/0/default.jpg",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://files.transkribus.eu/iiif/2/JJVHPUMLJIHIMSLRXFXAQEFU/",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "http://iiif.io/api/image"
+              }
+            ],
+            "implements": {
+              "id": "http://iiif.io/api/image/2/level1.json"
+            }
+          }
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "isShownAt": "https://app.transkribus.org/sites/Franzi/doc/3328045",
+      "isShownBy": {
+        "id": "https://files.transkribus.eu/iiif/2/JWQKBCBPHODWEVDMAAETRREJ/full/max/0/default.jpg",
+        "type": "WebResource",
+        "hasService": {
+          "id": "https://files.transkribus.eu/iiif/2/JWQKBCBPHODWEVDMAAETRREJ/",
+          "type": "Service",
+          "conformsTo": [
+            {
+              "id": "http://iiif.io/api/image"
+            }
+          ],
+          "implements": {
+            "id": "http://iiif.io/api/image/2/level1.json"
+          }
+        }
+      },
+      "dataProvider": {
+        "@value": "READ-COOP SCE",
+        "@language": "de"
+      },
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/77ac1d5d-3215-4380-bb97-d4a3bb3fc6e7/cho",
+        "date": [
+          "1855"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Original Grundparzellenprotokoll der Gemeinde Tosters",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          {
+            "@value": "Verwaltungsdokument zum Franziszeischen Kataster (1817-1861)",
+            "@language": "de"
+          }
+        ],
+        "extent": [
+          {
+            "@value": "85 Seiten",
+            "@language": "de"
+          }
+        ],
+        "edmType": "TEXT",
+        "spatial": [
+          {
+            "@value": "Gemeinde Tosters, Vorarlberg, Österreich",
+            "@language": "de"
+          }
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          {
+            "@value": "1855-1861",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "Transkribus:3328045"
+        ]
+      }
+    },
+    "institution_id": "read-coop-sce",
+    "pipeline_id": "readcoop-franzi"
+  }
+]

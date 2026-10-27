@@ -1,0 +1,513 @@
+[
+  {
+    "kp_id": "e6bbe24d-645f-4adf-9081-a7323a7d23e0",
+    "src_id": "2325680",
+    "content": {
+      "id": "https://id.kulturpool.at/e6bbe24d-645f-4adf-9081-a7323a7d23e0/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by/4.0/",
+      "isShownAt": "https://sammlung.wienmuseum.at/objekt/2325680/",
+      "isShownBy": {
+        "id": "https://sammlung.wienmuseum.at/openapi-images/objects/2325680/3103419_default.webp",
+        "type": "WebResource",
+        "format": [
+          "image/webp"
+        ],
+        "dcRights": [
+          "Foto: Birgit und Peter Kainz, Wien Museum"
+        ],
+        "edmRights": "http://creativecommons.org/licenses/by/4.0/"
+      },
+      "dataProvider": "Wien Museum",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/e6bbe24d-645f-4adf-9081-a7323a7d23e0/cho",
+        "date": [
+          "um 3900 v. Chr.-2200 v. Chr."
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Radiolarit-Abschlag"
+        ],
+        "dcType": [
+          {
+            "@value": "stone",
+            "@language": "en"
+          },
+          {
+            "@value": "Stein",
+            "@language": "de"
+          },
+          {
+            "@value": "workshop waste",
+            "@language": "en"
+          },
+          {
+            "@value": "Werkstattabfälle",
+            "@language": "de"
+          }
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          {
+            "id": "placeholder#place-515455",
+            "type": "Place",
+            "prefLabel": [
+              {
+                "@value": "13. Bezirk: Hietzing, Wien",
+                "@language": "de"
+              },
+              {
+                "@value": "13th District: Hietzing, Vienna",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "subject": [
+          {
+            "id": "https://iconclass.org/47C149",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "die aussortierten Teile, der Abfall (eines industriellen Arbeitsganges)",
+                "@language": "de"
+              },
+              {
+                "@value": "die aussortierten Teile, der Abfall (eines industriellen Arbeitsganges)",
+                "@language": "en"
+              }
+            ]
+          },
+          {
+            "@value": "Industry and Production",
+            "@language": "en"
+          },
+          {
+            "@value": "Industrie und Produktion",
+            "@language": "de"
+          },
+          {
+            "@value": "prehistory",
+            "@language": "en"
+          },
+          {
+            "@value": "Urgeschichte",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          "Foto: Birgit und Peter Kainz, Wien Museum"
+        ],
+        "isPartOf": [
+          {
+            "@value": "archaeology",
+            "@language": "en"
+          },
+          {
+            "@value": "Archäologie",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "MV 4264/12"
+        ]
+      }
+    },
+    "institution_id": "wien-museum",
+    "pipeline_id": "wien-museum"
+  },
+  {
+    "kp_id": "0f6f18c4-9082-40df-8e17-6c1bd7753fd9",
+    "src_id": "38054",
+    "content": {
+      "id": "https://id.kulturpool.at/0f6f18c4-9082-40df-8e17-6c1bd7753fd9/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "isShownAt": "https://sammlung.wienmuseum.at/objekt/38054/",
+      "isShownBy": {
+        "id": "https://sammlung.wienmuseum.at/openapi-images/objects/38054/1330726_default.webp",
+        "type": "WebResource",
+        "format": [
+          "image/webp"
+        ],
+        "edmRights": "http://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "dataProvider": "Wien Museum",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/0f6f18c4-9082-40df-8e17-6c1bd7753fd9/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Wien, I. Graben. (Originaltitel)",
+          "1., Graben - mit Pestsäule - Blick Richtung Naglergasse, Ansichtskarte (Beschreibender Titel)"
+        ],
+        "dcType": [
+          {
+            "@value": "postcards",
+            "@language": "en"
+          },
+          {
+            "@value": "Postkarten",
+            "@language": "de"
+          },
+          {
+            "@value": "pictorial",
+            "@language": "en"
+          },
+          {
+            "@value": "illustriert",
+            "@language": "de"
+          },
+          {
+            "@value": "without message",
+            "@language": "en"
+          },
+          {
+            "@value": "ohne Mitteilung",
+            "@language": "de"
+          },
+          {
+            "@value": "not circulated",
+            "@language": "en"
+          },
+          {
+            "@value": "nicht gelaufen",
+            "@language": "de"
+          }
+        ],
+        "creator": [
+          {
+            "id": "placeholder#p391163",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Verlag Anton Böhm, Wien (A. B. & Co., Wien)",
+                "@language": "de"
+              },
+              {
+                "@value": "Verlag Anton Böhm, Wien (A. B. & Co., Wien)",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          {
+            "id": "placeholder#place-515443",
+            "type": "Place",
+            "prefLabel": [
+              {
+                "@value": "1. Bezirk: Innere Stadt, Wien",
+                "@language": "de"
+              },
+              {
+                "@value": "1st District: Innere Stadt, Vienna",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "subject": [
+          {
+            "id": "https://iconclass.org/41A141",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Haus, Häuserzeile",
+                "@language": "de"
+              },
+              {
+                "@value": "the usual house or row of houses",
+                "@language": "en"
+              }
+            ]
+          },
+          {
+            "id": "https://iconclass.org/41A144",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Wohnhaus, Etagenhaus",
+                "@language": "de"
+              },
+              {
+                "@value": "flat-building, apartment house",
+                "@language": "en"
+              }
+            ]
+          },
+          {
+            "id": "https://iconclass.org/41A142",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Haus in Kombination mit einem Laden bzw. Geschäft",
+                "@language": "de"
+              },
+              {
+                "@value": "house combined with shop",
+                "@language": "en"
+              }
+            ]
+          },
+          {
+            "id": "https://iconclass.org/25I144",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Platz",
+                "@language": "de"
+              },
+              {
+                "@value": "square, place, circus, etc.",
+                "@language": "en"
+              }
+            ]
+          },
+          {
+            "id": "https://iconclass.org/25I152",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Denkmal, Statue",
+                "@language": "de"
+              },
+              {
+                "@value": "monument, statue",
+                "@language": "en"
+              }
+            ]
+          },
+          {
+            "id": "https://iconclass.org/48C2",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Skulptur, Plastik, Bildhauerkunst",
+                "@language": "de"
+              },
+              {
+                "@value": "sculpture",
+                "@language": "en"
+              }
+            ]
+          },
+          {
+            "@value": "belebt",
+            "@language": "de"
+          },
+          {
+            "@value": "with people",
+            "@language": "en"
+          },
+          {
+            "id": "https://iconclass.org/46C161",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Auto, Automobil",
+                "@language": "de"
+              },
+              {
+                "@value": "automobile",
+                "@language": "en"
+              }
+            ]
+          },
+          {
+            "id": "https://iconclass.org/46C162",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Autobus, Reisebus",
+                "@language": "de"
+              },
+              {
+                "@value": "bus, coach",
+                "@language": "en"
+              }
+            ]
+          },
+          {
+            "id": "https://iconclass.org/11Q6111",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Pestsäule",
+                "@language": "de"
+              },
+              {
+                "@value": "'Pestsäule'",
+                "@language": "en"
+              }
+            ]
+          },
+          {
+            "id": "https://iconclass.org/61F%28GRABEN%29",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Graben",
+                "@language": "de"
+              },
+              {
+                "@value": "Graben",
+                "@language": "en"
+              }
+            ]
+          },
+          {
+            "id": "https://iconclass.org/61F%28DREIFALTIGKEITSS%C3%84ULE%3B%201%29",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Dreifaltigkeitssäule (1)",
+                "@language": "de"
+              },
+              {
+                "@value": "Dreifaltigkeitssäule (1)",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "isPartOf": [
+          {
+            "@value": "graphics, writings",
+            "@language": "en"
+          },
+          {
+            "@value": "Grafik, Schriften",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "205258"
+        ]
+      }
+    },
+    "institution_id": "wien-museum",
+    "pipeline_id": "wien-museum"
+  },
+  {
+    "kp_id": "d1a8783e-7f80-4f0c-a8df-d3b4d65a851a",
+    "src_id": "2324613",
+    "content": {
+      "id": "https://id.kulturpool.at/d1a8783e-7f80-4f0c-a8df-d3b4d65a851a/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by/4.0/",
+      "isShownAt": "https://sammlung.wienmuseum.at/objekt/2324613/",
+      "isShownBy": {
+        "id": "https://sammlung.wienmuseum.at/openapi-images/objects/2324613/3103417_default.webp",
+        "type": "WebResource",
+        "format": [
+          "image/webp"
+        ],
+        "dcRights": [
+          "Foto: Birgit und Peter Kainz, Wien Museum"
+        ],
+        "edmRights": "http://creativecommons.org/licenses/by/4.0/"
+      },
+      "dataProvider": "Wien Museum",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/d1a8783e-7f80-4f0c-a8df-d3b4d65a851a/cho",
+        "date": [
+          "um 3900 v. Chr.-2200 v. Chr."
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Radiolarit-Kern"
+        ],
+        "dcType": [
+          {
+            "@value": "stone",
+            "@language": "en"
+          },
+          {
+            "@value": "Stein",
+            "@language": "de"
+          },
+          {
+            "@value": "Werkstoffe",
+            "@language": "en"
+          },
+          {
+            "@value": "Werkstoffe",
+            "@language": "de"
+          }
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          {
+            "id": "placeholder#place-515455",
+            "type": "Place",
+            "prefLabel": [
+              {
+                "@value": "13. Bezirk: Hietzing, Wien",
+                "@language": "de"
+              },
+              {
+                "@value": "13th District: Hietzing, Vienna",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Industry and Production",
+            "@language": "en"
+          },
+          {
+            "@value": "Industrie und Produktion",
+            "@language": "de"
+          },
+          {
+            "@value": "prehistory",
+            "@language": "en"
+          },
+          {
+            "@value": "Urgeschichte",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          "Foto: Birgit und Peter Kainz, Wien Museum"
+        ],
+        "isPartOf": [
+          {
+            "@value": "archaeology",
+            "@language": "en"
+          },
+          {
+            "@value": "Archäologie",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "MV 4264/11"
+        ]
+      }
+    },
+    "institution_id": "wien-museum",
+    "pipeline_id": "wien-museum"
+  }
+]

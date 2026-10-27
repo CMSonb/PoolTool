@@ -1,0 +1,809 @@
+[
+  {
+    "kp_id": "cae7652d-6926-44fb-98df-ad514d3a0e18",
+    "src_id": "290668",
+    "content": {
+      "id": "https://id.kulturpool.at/cae7652d-6926-44fb-98df-ad514d3a0e18/aggregation",
+      "type": "Aggregation",
+      "object": "https://archive.aec.at/archival/290668/preview",
+      "hasView": [
+        {
+          "id": "https://archive.aec.at/asset/3802182/",
+          "type": "WebResource",
+          "title": [
+            "halldorophoneesther_thorvarldsdottir.jpg (halldorophoneesther_thorvarldsdottir.jpg)"
+          ],
+          "format": [
+            "image/jpeg"
+          ],
+          "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/"
+        },
+        {
+          "id": "https://archive.aec.at/asset/3802185/",
+          "type": "WebResource",
+          "title": [
+            "iil_concertesther_thorvaldsdottir.CR2 (iil_concertesther_thorvaldsdottir.CR2)"
+          ],
+          "format": [
+            "image/x-canon-cr2"
+          ],
+          "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/"
+        },
+        {
+          "id": "https://archive.aec.at/asset/3802189/",
+          "type": "WebResource",
+          "title": [
+            "iil_juliathor_magnusson.jpg (iil_juliathor_magnusson.jpg)"
+          ],
+          "format": [
+            "image/jpeg"
+          ],
+          "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/"
+        },
+        {
+          "id": "https://archive.aec.at/asset/3802193/",
+          "type": "WebResource",
+          "title": [
+            "iil_organiumesther_thorvaldsdottir.jpg (iil_organiumesther_thorvaldsdottir.jpg)"
+          ],
+          "format": [
+            "image/jpeg"
+          ],
+          "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/"
+        },
+        {
+          "id": "https://archive.aec.at/asset/3802196/",
+          "type": "WebResource",
+          "title": [
+            "iil_organiumsean_obrien.jpg (iil_organiumsean_obrien.jpg)"
+          ],
+          "format": [
+            "image/jpeg"
+          ],
+          "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/"
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "isShownAt": "https://archive.aec.at/prix/290668/",
+      "isShownBy": {
+        "id": "https://archive.aec.at/asset/3802182/",
+        "type": "WebResource",
+        "title": [
+          "halldorophoneesther_thorvarldsdottir.jpg (halldorophoneesther_thorvarldsdottir.jpg)"
+        ],
+        "format": [
+          "image/jpeg"
+        ],
+        "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "dataProvider": "Ars Electronica",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/cae7652d-6926-44fb-98df-ad514d3a0e18/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Intelligent Instruments in Citizen Science"
+        ],
+        "dcType": [
+          {
+            "@value": "Collection",
+            "@language": "en"
+          }
+        ],
+        "format": [
+          "digital"
+        ],
+        "created": [
+          "2024-01-31"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          {
+            "id": "https://sws.geonames.org/2772400/",
+            "lat": "48.30639",
+            "long": "14.28611",
+            "type": "Place",
+            "sameAs": [
+              "http://dbpedia.org/resource/Linz"
+            ],
+            "altLabel": [
+              {
+                "@value": "Linca",
+                "@language": "lv"
+              },
+              {
+                "@value": "Lincas",
+                "@language": "lt"
+              },
+              {
+                "@value": "Linec",
+                "@language": "cs"
+              },
+              {
+                "@value": "Linec",
+                "@language": "sk"
+              },
+              {
+                "@value": "Linz",
+                "@language": "da"
+              },
+              {
+                "@value": "Linz",
+                "@language": "en"
+              },
+              {
+                "@value": "Linz",
+                "@language": "es"
+              },
+              {
+                "@value": "Linz",
+                "@language": "et"
+              },
+              {
+                "@value": "Linz",
+                "@language": "fi"
+              },
+              {
+                "@value": "Linz",
+                "@language": "fr"
+              },
+              {
+                "@value": "Linz",
+                "@language": "hr"
+              },
+              {
+                "@value": "Linz",
+                "@language": "hu"
+              },
+              {
+                "@value": "Linz",
+                "@language": "it"
+              },
+              {
+                "@value": "Linz",
+                "@language": "nl"
+              },
+              {
+                "@value": "Linz",
+                "@language": "no"
+              },
+              {
+                "@value": "Linz",
+                "@language": "pl"
+              },
+              {
+                "@value": "Linz",
+                "@language": "pt"
+              },
+              {
+                "@value": "Linz",
+                "@language": "ro"
+              },
+              {
+                "@value": "Linz",
+                "@language": "sl"
+              },
+              {
+                "@value": "Linz",
+                "@language": "sv"
+              },
+              {
+                "@value": "Λιντς",
+                "@language": "el"
+              },
+              {
+                "@value": "Линц",
+                "@language": "bg"
+              },
+              {
+                "@value": "Линц",
+                "@language": "ru"
+              }
+            ],
+            "isPartOf": [
+              {
+                "id": "https://sws.geonames.org/7871502/"
+              }
+            ],
+            "prefLabel": [
+              {
+                "@value": "Linz",
+                "@language": "de"
+              }
+            ]
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Submission/Category/Prize < Prix",
+            "@language": "en"
+          }
+        ],
+        "dcRights": [
+          "Ars Electronica Linz GmbH & Co KG"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "2024-01-31"
+        ],
+        "identifier": [
+          "290668"
+        ],
+        "contributor": [
+          "Intelligent Instruments Lab",
+          "Thor Magnusson"
+        ],
+        "description": [
+          "Artificial Intelligence is becoming increasingly human-like and it is now proficient in a key human activity: musical creativity. But what does this mean? How does creative AI change our notions of art, culture, and society? These are the questions that the Intelligent Instruments Lab explores through practice-based research and critical reflection in the experimental humanities. As new machine learning technologies begin to mirror ourselves, we need to look into that mirror and ask how this is changing us.   \n\nWe study new AI by using music as a platform. In a range of research projects, we develop instruments with creative AI, explore human-AI collaboration in music, and frame sonic instruments as scientific instruments. Grounded equally in technology development and the humanities, we engage with diverse disciplines by developing a theoretical framework of creative AI, initiating a discourse around human-centred creative AI, and defining principles of human-AI relations in services and products. \n\nOur aim is therefore to work in the public eye, to keep our lab open, and to disseminate our work as it happens. We seek public engagement and investment in the research program, as our research is relevant to the questions people are asking already, and to place the lab as a social hub where these questions could be explored in a safe, welcoming, and open intellectual environment. Through the broad reach of music in society, we reach the general public and conduct citizen science with people in a field that people understand and engage with from a personal, emotional, and intellectual manner. This is how we can ask our questions, explore the new ideas that are emerging, analyse the language and discourse, and be part of shaping how we understand creative AI in this unique historical moment.\n\nLinks: www.iil.is, https://www.instagram.com/intelligentinstruments/, https://www.youtube.com/@IntelligentInstruments/videos, https://www.facebook.com/IntelligentInstrumentsLab, https://twitter.com/_iil_is, https://open.spotify.com/playlist/3jsrfO6fknJ2eyW783RSLV?si=af017af7c7024880"
+        ]
+      }
+    },
+    "institution_id": "ars-electronica-linz",
+    "pipeline_id": "ars-electronica"
+  },
+  {
+    "kp_id": "175c7404-2cc9-4996-8da0-183611d5c7bc",
+    "src_id": "290662",
+    "content": {
+      "id": "https://id.kulturpool.at/175c7404-2cc9-4996-8da0-183611d5c7bc/aggregation",
+      "type": "Aggregation",
+      "object": "https://archive.aec.at/archival/290662/preview",
+      "hasView": [
+        {
+          "id": "https://archive.aec.at/asset/3801264/",
+          "type": "WebResource",
+          "title": [
+            "Zemlyanka (Zemlyanka.mp4)"
+          ],
+          "format": [
+            "video/mp4"
+          ],
+          "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/"
+        },
+        {
+          "id": "https://archive.aec.at/asset/3801307/",
+          "type": "WebResource",
+          "title": [
+            "Zemlyanka Still (Zemlyanka_Still005.jpg)"
+          ],
+          "format": [
+            "image/jpeg"
+          ],
+          "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "description": [
+            "Deserteur ist in den Bunker des Alten gestürtzt."
+          ]
+        },
+        {
+          "id": "https://archive.aec.at/asset/3801310/",
+          "type": "WebResource",
+          "title": [
+            "Zemlyanka Still (Zemlyanka_Still004.jpg)"
+          ],
+          "format": [
+            "image/jpeg"
+          ],
+          "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "description": [
+            "Deserteur geht über das Dach des Bunkers und stürzt ein."
+          ]
+        },
+        {
+          "id": "https://archive.aec.at/asset/3801313/",
+          "type": "WebResource",
+          "title": [
+            "Zemlyanka Still (Zemlyanka_Still003.jpg)"
+          ],
+          "format": [
+            "image/jpeg"
+          ],
+          "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "description": [
+            "Alter Mann geht aus dem Bunker hinaus, um sich um sein Essen zu kümmern."
+          ]
+        },
+        {
+          "id": "https://archive.aec.at/asset/3801316/",
+          "type": "WebResource",
+          "title": [
+            "Zemlyanka Still (Zemlyanka_Still02.jpg)"
+          ],
+          "format": [
+            "image/jpeg"
+          ],
+          "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "description": [
+            "Deserteur läuft vom Schlachtfeld davon."
+          ]
+        },
+        {
+          "id": "https://archive.aec.at/asset/3801319/",
+          "type": "WebResource",
+          "title": [
+            "Zemlyanka Still (Zemlyanka_Still01.jpg)"
+          ],
+          "format": [
+            "image/jpeg"
+          ],
+          "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/",
+          "description": [
+            "Flugzeuge werfen Flyer ab."
+          ]
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "isShownAt": "https://archive.aec.at/prix/290662/",
+      "isShownBy": {
+        "id": "https://archive.aec.at/asset/3801307/",
+        "type": "WebResource",
+        "title": [
+          "Zemlyanka Still (Zemlyanka_Still005.jpg)"
+        ],
+        "format": [
+          "image/jpeg"
+        ],
+        "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/",
+        "description": [
+          "Deserteur ist in den Bunker des Alten gestürtzt."
+        ]
+      },
+      "dataProvider": "Ars Electronica",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/175c7404-2cc9-4996-8da0-183611d5c7bc/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Zemlyanka"
+        ],
+        "dcType": [
+          {
+            "@value": "Collection",
+            "@language": "en"
+          }
+        ],
+        "format": [
+          "digital"
+        ],
+        "created": [
+          "2024-01-31"
+        ],
+        "edmType": "VIDEO",
+        "spatial": [
+          {
+            "id": "https://sws.geonames.org/2772400/",
+            "lat": "48.30639",
+            "long": "14.28611",
+            "type": "Place",
+            "sameAs": [
+              "http://dbpedia.org/resource/Linz"
+            ],
+            "altLabel": [
+              {
+                "@value": "Linca",
+                "@language": "lv"
+              },
+              {
+                "@value": "Lincas",
+                "@language": "lt"
+              },
+              {
+                "@value": "Linec",
+                "@language": "cs"
+              },
+              {
+                "@value": "Linec",
+                "@language": "sk"
+              },
+              {
+                "@value": "Linz",
+                "@language": "da"
+              },
+              {
+                "@value": "Linz",
+                "@language": "en"
+              },
+              {
+                "@value": "Linz",
+                "@language": "es"
+              },
+              {
+                "@value": "Linz",
+                "@language": "et"
+              },
+              {
+                "@value": "Linz",
+                "@language": "fi"
+              },
+              {
+                "@value": "Linz",
+                "@language": "fr"
+              },
+              {
+                "@value": "Linz",
+                "@language": "hr"
+              },
+              {
+                "@value": "Linz",
+                "@language": "hu"
+              },
+              {
+                "@value": "Linz",
+                "@language": "it"
+              },
+              {
+                "@value": "Linz",
+                "@language": "nl"
+              },
+              {
+                "@value": "Linz",
+                "@language": "no"
+              },
+              {
+                "@value": "Linz",
+                "@language": "pl"
+              },
+              {
+                "@value": "Linz",
+                "@language": "pt"
+              },
+              {
+                "@value": "Linz",
+                "@language": "ro"
+              },
+              {
+                "@value": "Linz",
+                "@language": "sl"
+              },
+              {
+                "@value": "Linz",
+                "@language": "sv"
+              },
+              {
+                "@value": "Λιντς",
+                "@language": "el"
+              },
+              {
+                "@value": "Линц",
+                "@language": "bg"
+              },
+              {
+                "@value": "Линц",
+                "@language": "ru"
+              }
+            ],
+            "isPartOf": [
+              {
+                "id": "https://sws.geonames.org/7871502/"
+              }
+            ],
+            "prefLabel": [
+              {
+                "@value": "Linz",
+                "@language": "de"
+              }
+            ]
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Submission/Category/Prize < Prix",
+            "@language": "en"
+          }
+        ],
+        "dcRights": [
+          "Ars Electronica Linz GmbH & Co KG"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "2024-01-31"
+        ],
+        "identifier": [
+          "290662"
+        ],
+        "contributor": [
+          "Christina Zsalacz",
+          "Zemlya Studio"
+        ],
+        "description": [
+          "Georgy told us a story that happened to his great-grandfather. It inspired us so much that we slightly modified it and made it our project Zemlyanka. The name means something like “bunker” in Russian—which is where our story takes place.   \n  \nAn old man chops wood and goes hunting to prepare for winter. At the front, a soldier is fleeing the war. He stumbles through the forest and falls into the old man's bunker. Exhausted, he begins to eat the supplies until he finds posters calling for deserters to be handed over. Now the soldier fears that the owner of the bunker will hand him over to the authorities. When the old man returns, he spots the soldier. Out of fear, the soldier shoots and a fight breaks out. Both struggle with each other until our story reaches an open ending.   \n  \nZemlyanka addresses war and miscommunication and shows that one should not judge others too quickly without knowing their past."
+        ]
+      }
+    },
+    "institution_id": "ars-electronica-linz",
+    "pipeline_id": "ars-electronica"
+  },
+  {
+    "kp_id": "ac00a99a-edb6-4c99-8a6b-6380863774a2",
+    "src_id": "290660",
+    "content": {
+      "id": "https://id.kulturpool.at/ac00a99a-edb6-4c99-8a6b-6380863774a2/aggregation",
+      "type": "Aggregation",
+      "object": "https://archive.aec.at/archival/290660/preview",
+      "hasView": [
+        {
+          "id": "https://archive.aec.at/asset/3801175/",
+          "type": "WebResource",
+          "title": [
+            "Synth CyclesTrailer (SynthCycles_Trailer.mp4)"
+          ],
+          "format": [
+            "video/mp4"
+          ],
+          "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/"
+        },
+        {
+          "id": "https://archive.aec.at/asset/3801218/",
+          "type": "WebResource",
+          "title": [
+            "Synth Cycles Poster (SynthCycles_Poster.png)"
+          ],
+          "format": [
+            "image/png"
+          ],
+          "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/"
+        },
+        {
+          "id": "https://archive.aec.at/asset/3801221/",
+          "type": "WebResource",
+          "title": [
+            "Synth Cycles (SynthCycles_Game4.png)"
+          ],
+          "format": [
+            "image/png"
+          ],
+          "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/"
+        },
+        {
+          "id": "https://archive.aec.at/asset/3801224/",
+          "type": "WebResource",
+          "title": [
+            "Synth Cycles (SynthCycles_Game5.png)"
+          ],
+          "format": [
+            "image/png"
+          ],
+          "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/"
+        },
+        {
+          "id": "https://archive.aec.at/asset/3801227/",
+          "type": "WebResource",
+          "title": [
+            "Synth Cycles (SynthCycles_Game2.jpg)"
+          ],
+          "format": [
+            "image/jpeg"
+          ],
+          "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/"
+        },
+        {
+          "id": "https://archive.aec.at/asset/3801230/",
+          "type": "WebResource",
+          "title": [
+            "Synth Cycles (SynthCycles_Game3.png)"
+          ],
+          "format": [
+            "image/png"
+          ],
+          "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/"
+        },
+        {
+          "id": "https://archive.aec.at/asset/3801233/",
+          "type": "WebResource",
+          "title": [
+            "Synth Cycles Arena Concept (Arena_Concept.png)"
+          ],
+          "format": [
+            "image/png"
+          ],
+          "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/"
+        },
+        {
+          "id": "https://archive.aec.at/asset/3801236/",
+          "type": "WebResource",
+          "title": [
+            "Synth Cycles Logo (Logo.png)"
+          ],
+          "format": [
+            "image/png"
+          ],
+          "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/"
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "isShownAt": "https://archive.aec.at/prix/290660/",
+      "isShownBy": {
+        "id": "https://archive.aec.at/asset/3801218/",
+        "type": "WebResource",
+        "title": [
+          "Synth Cycles Poster (SynthCycles_Poster.png)"
+        ],
+        "format": [
+          "image/png"
+        ],
+        "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      "dataProvider": "Ars Electronica",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/ac00a99a-edb6-4c99-8a6b-6380863774a2/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Synth Cycles"
+        ],
+        "dcType": [
+          {
+            "@value": "Collection",
+            "@language": "en"
+          }
+        ],
+        "format": [
+          "digital"
+        ],
+        "created": [
+          "2024-01-31"
+        ],
+        "edmType": "VIDEO",
+        "spatial": [
+          {
+            "id": "https://sws.geonames.org/2772400/",
+            "lat": "48.30639",
+            "long": "14.28611",
+            "type": "Place",
+            "sameAs": [
+              "http://dbpedia.org/resource/Linz"
+            ],
+            "altLabel": [
+              {
+                "@value": "Linca",
+                "@language": "lv"
+              },
+              {
+                "@value": "Lincas",
+                "@language": "lt"
+              },
+              {
+                "@value": "Linec",
+                "@language": "cs"
+              },
+              {
+                "@value": "Linec",
+                "@language": "sk"
+              },
+              {
+                "@value": "Linz",
+                "@language": "da"
+              },
+              {
+                "@value": "Linz",
+                "@language": "en"
+              },
+              {
+                "@value": "Linz",
+                "@language": "es"
+              },
+              {
+                "@value": "Linz",
+                "@language": "et"
+              },
+              {
+                "@value": "Linz",
+                "@language": "fi"
+              },
+              {
+                "@value": "Linz",
+                "@language": "fr"
+              },
+              {
+                "@value": "Linz",
+                "@language": "hr"
+              },
+              {
+                "@value": "Linz",
+                "@language": "hu"
+              },
+              {
+                "@value": "Linz",
+                "@language": "it"
+              },
+              {
+                "@value": "Linz",
+                "@language": "nl"
+              },
+              {
+                "@value": "Linz",
+                "@language": "no"
+              },
+              {
+                "@value": "Linz",
+                "@language": "pl"
+              },
+              {
+                "@value": "Linz",
+                "@language": "pt"
+              },
+              {
+                "@value": "Linz",
+                "@language": "ro"
+              },
+              {
+                "@value": "Linz",
+                "@language": "sl"
+              },
+              {
+                "@value": "Linz",
+                "@language": "sv"
+              },
+              {
+                "@value": "Λιντς",
+                "@language": "el"
+              },
+              {
+                "@value": "Линц",
+                "@language": "bg"
+              },
+              {
+                "@value": "Линц",
+                "@language": "ru"
+              }
+            ],
+            "isPartOf": [
+              {
+                "id": "https://sws.geonames.org/7871502/"
+              }
+            ],
+            "prefLabel": [
+              {
+                "@value": "Linz",
+                "@language": "de"
+              }
+            ]
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Submission/Category/Prize < Prix",
+            "@language": "en"
+          }
+        ],
+        "dcRights": [
+          "Ars Electronica Linz GmbH & Co KG"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "2024-01-31"
+        ],
+        "identifier": [
+          "290660"
+        ],
+        "contributor": [
+          "Benjamin Jurina",
+          "Emily Schiestek",
+          "Benjamin Schäfer"
+        ],
+        "description": [
+          "Take a deep breath, turn the ignition key on your drift car and off you go! In the local multiplayer game Synth Cycles, only the strongest (and coolest) survive. Eliminate the opposing drivers and win the round. Your goal is to win the most rounds in order to be the ultimate winner at the end. And what is the most fun thing about cars? That’s right—the drifting. Drifts can be used both defensively and offensively to prevent self-damage and maximize third-party damage. The intuitive controls and handcrafted arenas create a unique last car standing gaming experience. Plus, the quick rounds keep the game fresh and lead to fair competition. So what are you waiting for? Grab your handbrake and leave your competition in the dust!"
+        ]
+      }
+    },
+    "institution_id": "ars-electronica-linz",
+    "pipeline_id": "ars-electronica"
+  }
+]

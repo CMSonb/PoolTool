@@ -1,0 +1,1227 @@
+[
+  {
+    "kp_id": "1d1e4cf5-9d6b-47da-89a5-6b409a45fc40",
+    "src_id": "oai:sammlung.museumarbeitswelt.at:33955",
+    "content": {
+      "id": "https://id.kulturpool.at/1d1e4cf5-9d6b-47da-89a5-6b409a45fc40/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "isShownAt": "https://sammlung.museumarbeitswelt.at/s/public/item/33955",
+      "isShownBy": {
+        "id": "https://sammlung.museumarbeitswelt.at/iiif/2/33956/full/max/0/default.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": {
+        "@value": "Museum Arbeitswelt",
+        "@language": "de"
+      },
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/1d1e4cf5-9d6b-47da-89a5-6b409a45fc40/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Steyr Ennsbrücke",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          {
+            "id": "https://d-nb.info/gnd/4045895-7",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Fotografie",
+                "@language": "de"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          {
+            "id": "https://sws.geonames.org/2764359/",
+            "lat": "48.04274",
+            "long": "14.42127",
+            "type": "Place",
+            "altLabel": [
+              {
+                "@value": "Šteiras",
+                "@language": "lt"
+              },
+              {
+                "@value": "Steyr",
+                "@language": "de"
+              },
+              {
+                "@value": "Steyr",
+                "@language": "en"
+              },
+              {
+                "@value": "Steyr",
+                "@language": "fi"
+              },
+              {
+                "@value": "Steyr",
+                "@language": "hr"
+              },
+              {
+                "@value": "Steyr",
+                "@language": "nl"
+              },
+              {
+                "@value": "Steyr",
+                "@language": "no"
+              },
+              {
+                "@value": "Steyr",
+                "@language": "pl"
+              },
+              {
+                "@value": "Steyr",
+                "@language": "ro"
+              },
+              {
+                "@value": "Steyr",
+                "@language": "sv"
+              },
+              {
+                "@value": "Στάγιερ",
+                "@language": "el"
+              },
+              {
+                "@value": "Штайр",
+                "@language": "ru"
+              },
+              {
+                "@value": "Щайр",
+                "@language": "bg"
+              }
+            ],
+            "isPartOf": [
+              {
+                "id": "https://sws.geonames.org/7871503/"
+              }
+            ],
+            "prefLabel": [
+              "Steyr"
+            ]
+          },
+          {
+            "id": "https://sws.geonames.org/2769848/",
+            "lat": "48.25",
+            "long": "14",
+            "type": "Place",
+            "sameAs": [
+              "http://dbpedia.org/resource/Upper_Austria"
+            ],
+            "altLabel": [
+              {
+                "@value": "Alta Austria",
+                "@language": "it"
+              },
+              {
+                "@value": "Alta Áustria",
+                "@language": "pt"
+              },
+              {
+                "@value": "Alta Àustria",
+                "@language": "ca"
+              },
+              {
+                "@value": "An Ostair Uachtarach",
+                "@language": "ga"
+              },
+              {
+                "@value": "Augšaustrija",
+                "@language": "lv"
+              },
+              {
+                "@value": "Aukštutinė Austrija",
+                "@language": "lt"
+              },
+              {
+                "@value": "Austria Superioară",
+                "@language": "ro"
+              },
+              {
+                "@value": "Felső-Ausztria",
+                "@language": "hu"
+              },
+              {
+                "@value": "Górna Austria",
+                "@language": "pl"
+              },
+              {
+                "@value": "Gornja Austrija",
+                "@language": "hr"
+              },
+              {
+                "@value": "Haute-Autriche",
+                "@language": "fr"
+              },
+              {
+                "@value": "Horné Rakúsko",
+                "@language": "sk"
+              },
+              {
+                "@value": "Horní Rakousy",
+                "@language": "cs"
+              },
+              {
+                "@value": "L-Awstrija l-Għolja",
+                "@language": "mt"
+              },
+              {
+                "@value": "Oberösterreich",
+                "@language": "da"
+              },
+              {
+                "@value": "Oberösterreich",
+                "@language": "sv"
+              },
+              {
+                "@value": "Opper-Oostenrijk",
+                "@language": "nl"
+              },
+              {
+                "@value": "Ülem-Austria",
+                "@language": "et"
+              },
+              {
+                "@value": "Ylä-Itävalta",
+                "@language": "fi"
+              },
+              {
+                "@value": "Zgornja Avstrija",
+                "@language": "sl"
+              },
+              {
+                "@value": "Άνω Αυστρία",
+                "@language": "el"
+              },
+              {
+                "@value": "Верхняя Австрия",
+                "@language": "ru"
+              },
+              {
+                "@value": "Горна Австрия",
+                "@language": "bg"
+              }
+            ],
+            "isPartOf": [
+              {
+                "id": "https://sws.geonames.org/2782113/",
+                "lat": "47.33333",
+                "long": "13.33333",
+                "type": "Place",
+                "sameAs": [
+                  "http://dbpedia.org/resource/Austria"
+                ],
+                "altLabel": [
+                  {
+                    "@value": "Awstrija",
+                    "@language": "mt"
+                  },
+                  {
+                    "@value": "Republic of Austria",
+                    "@language": "en"
+                  },
+                  {
+                    "@value": "Republik Österreich",
+                    "@language": "de"
+                  }
+                ],
+                "isPartOf": [
+                  {
+                    "id": "https://sws.geonames.org/6695072/"
+                  },
+                  {
+                    "id": "https://sws.geonames.org/12217848/"
+                  },
+                  {
+                    "id": "https://sws.geonames.org/12503661/"
+                  },
+                  {
+                    "id": "https://sws.geonames.org/9408659/"
+                  },
+                  {
+                    "id": "https://sws.geonames.org/12718413/"
+                  }
+                ],
+                "prefLabel": [
+                  {
+                    "@value": "an Ostair",
+                    "@language": "ga"
+                  },
+                  {
+                    "@value": "Austria",
+                    "@language": "en"
+                  },
+                  {
+                    "@value": "Austria",
+                    "@language": "es"
+                  },
+                  {
+                    "@value": "Austria",
+                    "@language": "et"
+                  },
+                  {
+                    "@value": "Austria",
+                    "@language": "it"
+                  },
+                  {
+                    "@value": "Austria",
+                    "@language": "pl"
+                  },
+                  {
+                    "@value": "Austria",
+                    "@language": "ro"
+                  },
+                  {
+                    "@value": "Áustria",
+                    "@language": "pt"
+                  },
+                  {
+                    "@value": "Àustria",
+                    "@language": "ca"
+                  },
+                  {
+                    "@value": "Austrija",
+                    "@language": "hr"
+                  },
+                  {
+                    "@value": "Austrija",
+                    "@language": "lt"
+                  },
+                  {
+                    "@value": "Austrija",
+                    "@language": "lv"
+                  },
+                  {
+                    "@value": "Ausztria",
+                    "@language": "hu"
+                  },
+                  {
+                    "@value": "Autriche",
+                    "@language": "fr"
+                  },
+                  {
+                    "@value": "Avstrija",
+                    "@language": "sl"
+                  },
+                  {
+                    "@value": "Itävalta",
+                    "@language": "fi"
+                  },
+                  {
+                    "@value": "l-Awstrija",
+                    "@language": "mt"
+                  },
+                  {
+                    "@value": "Oostenrijk",
+                    "@language": "nl"
+                  },
+                  {
+                    "@value": "Österreich",
+                    "@language": "de"
+                  },
+                  {
+                    "@value": "Österrike",
+                    "@language": "sv"
+                  },
+                  {
+                    "@value": "Østerrike",
+                    "@language": "no"
+                  },
+                  {
+                    "@value": "Østrig",
+                    "@language": "da"
+                  },
+                  {
+                    "@value": "Rakousko",
+                    "@language": "cs"
+                  },
+                  {
+                    "@value": "Rakúsko",
+                    "@language": "sk"
+                  },
+                  {
+                    "@value": "Αυστρία",
+                    "@language": "el"
+                  },
+                  {
+                    "@value": "Австрия",
+                    "@language": "bg"
+                  },
+                  {
+                    "@value": "Австрия",
+                    "@language": "ru"
+                  }
+                ]
+              }
+            ],
+            "prefLabel": [
+              {
+                "@value": "Alta Austria",
+                "@language": "es"
+              },
+              {
+                "@value": "Oberösterreich",
+                "@language": "de"
+              },
+              {
+                "@value": "Upper Austria",
+                "@language": "en"
+              }
+            ]
+          },
+          {
+            "id": "https://sws.geonames.org/2782113/",
+            "lat": "47.33333",
+            "long": "13.33333",
+            "type": "Place",
+            "sameAs": [
+              "http://dbpedia.org/resource/Austria"
+            ],
+            "altLabel": [
+              {
+                "@value": "Awstrija",
+                "@language": "mt"
+              },
+              {
+                "@value": "Republic of Austria",
+                "@language": "en"
+              },
+              {
+                "@value": "Republik Österreich",
+                "@language": "de"
+              }
+            ],
+            "isPartOf": [
+              {
+                "id": "https://sws.geonames.org/6695072/"
+              },
+              {
+                "id": "https://sws.geonames.org/12217848/"
+              },
+              {
+                "id": "https://sws.geonames.org/12503661/"
+              },
+              {
+                "id": "https://sws.geonames.org/9408659/"
+              },
+              {
+                "id": "https://sws.geonames.org/12718413/"
+              }
+            ],
+            "prefLabel": [
+              {
+                "@value": "an Ostair",
+                "@language": "ga"
+              },
+              {
+                "@value": "Austria",
+                "@language": "en"
+              },
+              {
+                "@value": "Austria",
+                "@language": "es"
+              },
+              {
+                "@value": "Austria",
+                "@language": "et"
+              },
+              {
+                "@value": "Austria",
+                "@language": "it"
+              },
+              {
+                "@value": "Austria",
+                "@language": "pl"
+              },
+              {
+                "@value": "Austria",
+                "@language": "ro"
+              },
+              {
+                "@value": "Áustria",
+                "@language": "pt"
+              },
+              {
+                "@value": "Àustria",
+                "@language": "ca"
+              },
+              {
+                "@value": "Austrija",
+                "@language": "hr"
+              },
+              {
+                "@value": "Austrija",
+                "@language": "lt"
+              },
+              {
+                "@value": "Austrija",
+                "@language": "lv"
+              },
+              {
+                "@value": "Ausztria",
+                "@language": "hu"
+              },
+              {
+                "@value": "Autriche",
+                "@language": "fr"
+              },
+              {
+                "@value": "Avstrija",
+                "@language": "sl"
+              },
+              {
+                "@value": "Itävalta",
+                "@language": "fi"
+              },
+              {
+                "@value": "l-Awstrija",
+                "@language": "mt"
+              },
+              {
+                "@value": "Oostenrijk",
+                "@language": "nl"
+              },
+              {
+                "@value": "Österreich",
+                "@language": "de"
+              },
+              {
+                "@value": "Österrike",
+                "@language": "sv"
+              },
+              {
+                "@value": "Østerrike",
+                "@language": "no"
+              },
+              {
+                "@value": "Østrig",
+                "@language": "da"
+              },
+              {
+                "@value": "Rakousko",
+                "@language": "cs"
+              },
+              {
+                "@value": "Rakúsko",
+                "@language": "sk"
+              },
+              {
+                "@value": "Αυστρία",
+                "@language": "el"
+              },
+              {
+                "@value": "Австрия",
+                "@language": "bg"
+              },
+              {
+                "@value": "Австрия",
+                "@language": "ru"
+              }
+            ]
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Frau",
+            "@language": "de"
+          },
+          {
+            "@value": "Pferdewagen",
+            "@language": "de"
+          },
+          {
+            "@value": "Mann",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Verein Museum Arbeitswelt",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          {
+            "@value": "2024_22_Bf0071",
+            "@language": "de"
+          }
+        ],
+        "description": [
+          {
+            "@value": "Auf der Ennsbrücke zieht eine Frau einen Karren, daneben befindet sich ein Pferdewagen, im Hintergrund ist das Schloss Lamberg zu sehen.",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "museum-arbeitswelt",
+    "pipeline_id": "museum-arbeitswelt-core"
+  },
+  {
+    "kp_id": "a4f98e47-cd67-4066-9b5f-582c1a5cdab4",
+    "src_id": "oai:sammlung.museumarbeitswelt.at:34019",
+    "content": {
+      "id": "https://id.kulturpool.at/a4f98e47-cd67-4066-9b5f-582c1a5cdab4/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "isShownAt": "https://sammlung.museumarbeitswelt.at/s/public/item/34019",
+      "isShownBy": {
+        "id": "https://sammlung.museumarbeitswelt.at/iiif/2/34020/full/max/0/default.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": {
+        "@value": "Museum Arbeitswelt",
+        "@language": "de"
+      },
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/a4f98e47-cd67-4066-9b5f-582c1a5cdab4/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Hack-Werke Steyr",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          {
+            "id": "https://d-nb.info/gnd/4045895-7",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Fotografie",
+                "@language": "de"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          {
+            "id": "https://sws.geonames.org/2764359/",
+            "lat": "48.04274",
+            "long": "14.42127",
+            "type": "Place",
+            "altLabel": [
+              {
+                "@value": "Šteiras",
+                "@language": "lt"
+              },
+              {
+                "@value": "Steyr",
+                "@language": "de"
+              },
+              {
+                "@value": "Steyr",
+                "@language": "en"
+              },
+              {
+                "@value": "Steyr",
+                "@language": "fi"
+              },
+              {
+                "@value": "Steyr",
+                "@language": "hr"
+              },
+              {
+                "@value": "Steyr",
+                "@language": "nl"
+              },
+              {
+                "@value": "Steyr",
+                "@language": "no"
+              },
+              {
+                "@value": "Steyr",
+                "@language": "pl"
+              },
+              {
+                "@value": "Steyr",
+                "@language": "ro"
+              },
+              {
+                "@value": "Steyr",
+                "@language": "sv"
+              },
+              {
+                "@value": "Στάγιερ",
+                "@language": "el"
+              },
+              {
+                "@value": "Штайр",
+                "@language": "ru"
+              },
+              {
+                "@value": "Щайр",
+                "@language": "bg"
+              }
+            ],
+            "isPartOf": [
+              {
+                "id": "https://sws.geonames.org/7871503/"
+              }
+            ],
+            "prefLabel": [
+              "Steyr"
+            ]
+          },
+          {
+            "id": "https://sws.geonames.org/2769848/",
+            "lat": "48.25",
+            "long": "14",
+            "type": "Place",
+            "sameAs": [
+              "http://dbpedia.org/resource/Upper_Austria"
+            ],
+            "altLabel": [
+              {
+                "@value": "Alta Austria",
+                "@language": "it"
+              },
+              {
+                "@value": "Alta Áustria",
+                "@language": "pt"
+              },
+              {
+                "@value": "Alta Àustria",
+                "@language": "ca"
+              },
+              {
+                "@value": "An Ostair Uachtarach",
+                "@language": "ga"
+              },
+              {
+                "@value": "Augšaustrija",
+                "@language": "lv"
+              },
+              {
+                "@value": "Aukštutinė Austrija",
+                "@language": "lt"
+              },
+              {
+                "@value": "Austria Superioară",
+                "@language": "ro"
+              },
+              {
+                "@value": "Felső-Ausztria",
+                "@language": "hu"
+              },
+              {
+                "@value": "Górna Austria",
+                "@language": "pl"
+              },
+              {
+                "@value": "Gornja Austrija",
+                "@language": "hr"
+              },
+              {
+                "@value": "Haute-Autriche",
+                "@language": "fr"
+              },
+              {
+                "@value": "Horné Rakúsko",
+                "@language": "sk"
+              },
+              {
+                "@value": "Horní Rakousy",
+                "@language": "cs"
+              },
+              {
+                "@value": "L-Awstrija l-Għolja",
+                "@language": "mt"
+              },
+              {
+                "@value": "Oberösterreich",
+                "@language": "da"
+              },
+              {
+                "@value": "Oberösterreich",
+                "@language": "sv"
+              },
+              {
+                "@value": "Opper-Oostenrijk",
+                "@language": "nl"
+              },
+              {
+                "@value": "Ülem-Austria",
+                "@language": "et"
+              },
+              {
+                "@value": "Ylä-Itävalta",
+                "@language": "fi"
+              },
+              {
+                "@value": "Zgornja Avstrija",
+                "@language": "sl"
+              },
+              {
+                "@value": "Άνω Αυστρία",
+                "@language": "el"
+              },
+              {
+                "@value": "Верхняя Австрия",
+                "@language": "ru"
+              },
+              {
+                "@value": "Горна Австрия",
+                "@language": "bg"
+              }
+            ],
+            "isPartOf": [
+              {
+                "id": "https://sws.geonames.org/2782113/",
+                "lat": "47.33333",
+                "long": "13.33333",
+                "type": "Place",
+                "sameAs": [
+                  "http://dbpedia.org/resource/Austria"
+                ],
+                "altLabel": [
+                  {
+                    "@value": "Awstrija",
+                    "@language": "mt"
+                  },
+                  {
+                    "@value": "Republic of Austria",
+                    "@language": "en"
+                  },
+                  {
+                    "@value": "Republik Österreich",
+                    "@language": "de"
+                  }
+                ],
+                "isPartOf": [
+                  {
+                    "id": "https://sws.geonames.org/6695072/"
+                  },
+                  {
+                    "id": "https://sws.geonames.org/12217848/"
+                  },
+                  {
+                    "id": "https://sws.geonames.org/12503661/"
+                  },
+                  {
+                    "id": "https://sws.geonames.org/9408659/"
+                  },
+                  {
+                    "id": "https://sws.geonames.org/12718413/"
+                  }
+                ],
+                "prefLabel": [
+                  {
+                    "@value": "an Ostair",
+                    "@language": "ga"
+                  },
+                  {
+                    "@value": "Austria",
+                    "@language": "en"
+                  },
+                  {
+                    "@value": "Austria",
+                    "@language": "es"
+                  },
+                  {
+                    "@value": "Austria",
+                    "@language": "et"
+                  },
+                  {
+                    "@value": "Austria",
+                    "@language": "it"
+                  },
+                  {
+                    "@value": "Austria",
+                    "@language": "pl"
+                  },
+                  {
+                    "@value": "Austria",
+                    "@language": "ro"
+                  },
+                  {
+                    "@value": "Áustria",
+                    "@language": "pt"
+                  },
+                  {
+                    "@value": "Àustria",
+                    "@language": "ca"
+                  },
+                  {
+                    "@value": "Austrija",
+                    "@language": "hr"
+                  },
+                  {
+                    "@value": "Austrija",
+                    "@language": "lt"
+                  },
+                  {
+                    "@value": "Austrija",
+                    "@language": "lv"
+                  },
+                  {
+                    "@value": "Ausztria",
+                    "@language": "hu"
+                  },
+                  {
+                    "@value": "Autriche",
+                    "@language": "fr"
+                  },
+                  {
+                    "@value": "Avstrija",
+                    "@language": "sl"
+                  },
+                  {
+                    "@value": "Itävalta",
+                    "@language": "fi"
+                  },
+                  {
+                    "@value": "l-Awstrija",
+                    "@language": "mt"
+                  },
+                  {
+                    "@value": "Oostenrijk",
+                    "@language": "nl"
+                  },
+                  {
+                    "@value": "Österreich",
+                    "@language": "de"
+                  },
+                  {
+                    "@value": "Österrike",
+                    "@language": "sv"
+                  },
+                  {
+                    "@value": "Østerrike",
+                    "@language": "no"
+                  },
+                  {
+                    "@value": "Østrig",
+                    "@language": "da"
+                  },
+                  {
+                    "@value": "Rakousko",
+                    "@language": "cs"
+                  },
+                  {
+                    "@value": "Rakúsko",
+                    "@language": "sk"
+                  },
+                  {
+                    "@value": "Αυστρία",
+                    "@language": "el"
+                  },
+                  {
+                    "@value": "Австрия",
+                    "@language": "bg"
+                  },
+                  {
+                    "@value": "Австрия",
+                    "@language": "ru"
+                  }
+                ]
+              }
+            ],
+            "prefLabel": [
+              {
+                "@value": "Alta Austria",
+                "@language": "es"
+              },
+              {
+                "@value": "Oberösterreich",
+                "@language": "de"
+              },
+              {
+                "@value": "Upper Austria",
+                "@language": "en"
+              }
+            ]
+          },
+          {
+            "id": "https://sws.geonames.org/2782113/",
+            "lat": "47.33333",
+            "long": "13.33333",
+            "type": "Place",
+            "sameAs": [
+              "http://dbpedia.org/resource/Austria"
+            ],
+            "altLabel": [
+              {
+                "@value": "Awstrija",
+                "@language": "mt"
+              },
+              {
+                "@value": "Republic of Austria",
+                "@language": "en"
+              },
+              {
+                "@value": "Republik Österreich",
+                "@language": "de"
+              }
+            ],
+            "isPartOf": [
+              {
+                "id": "https://sws.geonames.org/6695072/"
+              },
+              {
+                "id": "https://sws.geonames.org/12217848/"
+              },
+              {
+                "id": "https://sws.geonames.org/12503661/"
+              },
+              {
+                "id": "https://sws.geonames.org/9408659/"
+              },
+              {
+                "id": "https://sws.geonames.org/12718413/"
+              }
+            ],
+            "prefLabel": [
+              {
+                "@value": "an Ostair",
+                "@language": "ga"
+              },
+              {
+                "@value": "Austria",
+                "@language": "en"
+              },
+              {
+                "@value": "Austria",
+                "@language": "es"
+              },
+              {
+                "@value": "Austria",
+                "@language": "et"
+              },
+              {
+                "@value": "Austria",
+                "@language": "it"
+              },
+              {
+                "@value": "Austria",
+                "@language": "pl"
+              },
+              {
+                "@value": "Austria",
+                "@language": "ro"
+              },
+              {
+                "@value": "Áustria",
+                "@language": "pt"
+              },
+              {
+                "@value": "Àustria",
+                "@language": "ca"
+              },
+              {
+                "@value": "Austrija",
+                "@language": "hr"
+              },
+              {
+                "@value": "Austrija",
+                "@language": "lt"
+              },
+              {
+                "@value": "Austrija",
+                "@language": "lv"
+              },
+              {
+                "@value": "Ausztria",
+                "@language": "hu"
+              },
+              {
+                "@value": "Autriche",
+                "@language": "fr"
+              },
+              {
+                "@value": "Avstrija",
+                "@language": "sl"
+              },
+              {
+                "@value": "Itävalta",
+                "@language": "fi"
+              },
+              {
+                "@value": "l-Awstrija",
+                "@language": "mt"
+              },
+              {
+                "@value": "Oostenrijk",
+                "@language": "nl"
+              },
+              {
+                "@value": "Österreich",
+                "@language": "de"
+              },
+              {
+                "@value": "Österrike",
+                "@language": "sv"
+              },
+              {
+                "@value": "Østerrike",
+                "@language": "no"
+              },
+              {
+                "@value": "Østrig",
+                "@language": "da"
+              },
+              {
+                "@value": "Rakousko",
+                "@language": "cs"
+              },
+              {
+                "@value": "Rakúsko",
+                "@language": "sk"
+              },
+              {
+                "@value": "Αυστρία",
+                "@language": "el"
+              },
+              {
+                "@value": "Австрия",
+                "@language": "bg"
+              },
+              {
+                "@value": "Австрия",
+                "@language": "ru"
+              }
+            ]
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Metallindustrie",
+            "@language": "de"
+          },
+          {
+            "@value": "Fabrik",
+            "@language": "de"
+          },
+          {
+            "@value": "Wohnen",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Verein Museum Arbeitswelt",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          {
+            "@value": "2024_22_Bf0132",
+            "@language": "de"
+          }
+        ],
+        "description": [
+          {
+            "@value": "Ansicht der Hack-Werke im Wehrgraben Steyr, oberhalb ist hinter Bäumen das Schloss Lamberg zu sehen",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "museum-arbeitswelt",
+    "pipeline_id": "museum-arbeitswelt-core"
+  },
+  {
+    "kp_id": "df12e83a-afd4-4eda-97aa-9c145f8a16f4",
+    "src_id": "oai:sammlung.museumarbeitswelt.at:34021",
+    "content": {
+      "id": "https://id.kulturpool.at/df12e83a-afd4-4eda-97aa-9c145f8a16f4/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "isShownAt": "https://sammlung.museumarbeitswelt.at/s/public/item/34021",
+      "isShownBy": {
+        "id": "https://sammlung.museumarbeitswelt.at/iiif/2/34022/full/max/0/default.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": {
+        "@value": "Museum Arbeitswelt",
+        "@language": "de"
+      },
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/df12e83a-afd4-4eda-97aa-9c145f8a16f4/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Arbeitsschutz",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          {
+            "id": "https://d-nb.info/gnd/4045895-7",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Fotografie",
+                "@language": "de"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Arbeitsschutz",
+            "@language": "de"
+          },
+          {
+            "@value": "Krankenhaus",
+            "@language": "de"
+          },
+          {
+            "@value": "Krankenkasse",
+            "@language": "de"
+          },
+          {
+            "@value": "Ausstellung",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Verein Museum Arbeitswelt",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          {
+            "@value": "2024_22_Bf0133",
+            "@language": "de"
+          }
+        ],
+        "description": [
+          {
+            "@value": "Schautafel über Auswirkungen von Arbeitsunfällen",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "museum-arbeitswelt",
+    "pipeline_id": "museum-arbeitswelt-core"
+  }
+]

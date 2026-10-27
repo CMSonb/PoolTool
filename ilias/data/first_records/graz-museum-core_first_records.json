@@ -1,0 +1,598 @@
+[
+  {
+    "kp_id": "eb50e5fe-eeec-408a-96eb-d46fe20647bc",
+    "src_id": "oai:GrazMuseum5:8b1508b3-d134-4764-b6ed-3ed63bc20b3c",
+    "content": {
+      "id": "https://id.kulturpool.at/eb50e5fe-eeec-408a-96eb-d46fe20647bc/aggregation",
+      "type": "Aggregation",
+      "object": "https://sammlung.grazmuseum.at/wp-json/trnc-opendata/v1/media?mt=FOT-01689-DIG-001&quality=thumbnail&object_id=8b1508b3-d134-4764-b6ed-3ed63bc20b3c",
+      "hasView": [
+        {
+          "id": "https://sammlung.grazmuseum.at/media/FOT-01689-DIG-001.jpg",
+          "type": "WebResource",
+          "format": [
+            "image/jpeg"
+          ],
+          "creator": [
+            {
+              "@value": "Graz Museum",
+              "@language": "de"
+            }
+          ],
+          "dcRights": [
+            {
+              "@value": "Graz Museum",
+              "@language": "de"
+            }
+          ],
+          "edmRights": "http://creativecommons.org/publicdomain/zero/1.0/"
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "isShownAt": "https://sammlung.grazmuseum.at/objekt/FOT-01689/",
+      "isShownBy": {
+        "id": "https://sammlung.grazmuseum.at/media/FOT-01689-DIG-001.jpg",
+        "type": "WebResource",
+        "format": [
+          "image/jpeg"
+        ],
+        "creator": [
+          {
+            "@value": "Graz Museum",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Graz Museum",
+            "@language": "de"
+          }
+        ],
+        "edmRights": "http://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "dataProvider": "Graz Museum",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/eb50e5fe-eeec-408a-96eb-d46fe20647bc/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Schmiedgasse, Ecke Kaiserfeldgasse, 1900",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          "Fotografie"
+        ],
+        "created": [
+          {
+            "@value": "1900 - 1907",
+            "@language": "de"
+          }
+        ],
+        "creator": [
+          {
+            "id": "urn:GrazMuseum5:agent:05311f28-6357-4598-9bab-aada3c0882ba",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Bude, Leopold (Fotograf)",
+                "@language": "de"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          {
+            "id": "urn:GrazMuseum5:place:3267ed0a-10a3-4225-afd7-7ae8b446361e",
+            "type": "Place",
+            "prefLabel": [
+              {
+                "@value": "Graz",
+                "@language": "de"
+              }
+            ]
+          }
+        ],
+        "subject": [
+          {
+            "id": "urn:GrazMuseum5:concept:4d7d6624-919a-404a-bfbf-863879427879",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Graz-Innere Stadt",
+                "@language": "de"
+              }
+            ],
+            "exactMatch": "https://d-nb.info/gnd/4469674-7"
+          },
+          {
+            "id": "urn:GrazMuseum5:concept:50136198-6d59-46e2-96f6-ffe99aa3a6b8",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Schmiedgasse / Kaiserfeldgasse (Graz)",
+                "@language": "de"
+              }
+            ]
+          },
+          {
+            "id": "urn:GrazMuseum5:concept:38e6265a-4153-4f58-9f7b-556bbb18bc15",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Architektur",
+                "@language": "de"
+              }
+            ],
+            "exactMatch": "https://d-nb.info/gnd/4002851-3"
+          },
+          {
+            "id": "urn:GrazMuseum5:concept:0d382c21-8071-46f3-b15e-072c44017981",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "belebt",
+                "@language": "de"
+              }
+            ]
+          },
+          {
+            "id": "urn:GrazMuseum5:concept:4288a1cb-a0cf-45d8-9ce8-7f3ebdacdb90",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Geschäft",
+                "@language": "de"
+              }
+            ],
+            "exactMatch": "https://d-nb.info/gnd/4033991-9"
+          },
+          {
+            "id": "urn:GrazMuseum5:concept:ae4f34be-6a63-49c6-bb95-ec2a63e597ea",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Fuhrwerk",
+                "@language": "de"
+              }
+            ],
+            "exactMatch": "https://d-nb.info/gnd/4262083-1"
+          },
+          {
+            "id": "urn:GrazMuseum5:concept:d02ee5b9-9ebe-47a5-bebc-189d7bf29bb0",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Werbung",
+                "@language": "de"
+              }
+            ],
+            "exactMatch": "https://d-nb.info/gnd/4065541-6"
+          }
+        ],
+        "isPartOf": [
+          {
+            "@value": "Fotografie",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          {
+            "@value": "FOT-01689",
+            "@language": "de"
+          }
+        ],
+        "description": [
+          {
+            "@value": "Leopold Bude dokumentierte in den letzten beiden Jahrzehnten des 19. Jahrhunderts fotografisch die Veränderungen im Grazer Stadtbild. Die Aufnahme entstand im Dezember 1900 und zeigt die Schmiedgasse, Ecke Kaiserfeldgasse, nach Abbruch des Hauses Schmiedgasse 32 und vor Erbauung des Amtshauses.",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "graz-museum",
+    "pipeline_id": "graz-museum-core"
+  },
+  {
+    "kp_id": "a38571ce-45a4-4b5b-b37e-f555ebb7b76c",
+    "src_id": "oai:GrazMuseum5:9b4359ae-c144-447f-8f41-b1bd123da765",
+    "content": {
+      "id": "https://id.kulturpool.at/a38571ce-45a4-4b5b-b37e-f555ebb7b76c/aggregation",
+      "type": "Aggregation",
+      "object": "https://sammlung.grazmuseum.at/wp-json/trnc-opendata/v1/media?mt=FOT-01357-DIG-001&quality=thumbnail&object_id=9b4359ae-c144-447f-8f41-b1bd123da765",
+      "hasView": [
+        {
+          "id": "https://sammlung.grazmuseum.at/media/FOT-01357-DIG-001.jpg",
+          "type": "WebResource",
+          "format": [
+            "image/jpeg"
+          ],
+          "creator": [
+            {
+              "@value": "Graz Museum",
+              "@language": "de"
+            }
+          ],
+          "dcRights": [
+            {
+              "@value": "Graz Museum",
+              "@language": "de"
+            }
+          ],
+          "edmRights": "http://creativecommons.org/publicdomain/zero/1.0/"
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "isShownAt": "https://sammlung.grazmuseum.at/objekt/FOT-01357/",
+      "isShownBy": {
+        "id": "https://sammlung.grazmuseum.at/media/FOT-01357-DIG-001.jpg",
+        "type": "WebResource",
+        "format": [
+          "image/jpeg"
+        ],
+        "creator": [
+          {
+            "@value": "Graz Museum",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Graz Museum",
+            "@language": "de"
+          }
+        ],
+        "edmRights": "http://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "dataProvider": "Graz Museum",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/a38571ce-45a4-4b5b-b37e-f555ebb7b76c/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Sackstraße: Murseitige Verbauung, 1890",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          "Fotografie"
+        ],
+        "created": [
+          {
+            "@value": "1890 - 1907",
+            "@language": "de"
+          }
+        ],
+        "creator": [
+          {
+            "id": "urn:GrazMuseum5:agent:05311f28-6357-4598-9bab-aada3c0882ba",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Bude, Leopold (Fotograf)",
+                "@language": "de"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          {
+            "id": "urn:GrazMuseum5:place:3267ed0a-10a3-4225-afd7-7ae8b446361e",
+            "type": "Place",
+            "prefLabel": [
+              {
+                "@value": "Graz",
+                "@language": "de"
+              }
+            ]
+          }
+        ],
+        "subject": [
+          {
+            "id": "urn:GrazMuseum5:concept:4d7d6624-919a-404a-bfbf-863879427879",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Graz-Innere Stadt",
+                "@language": "de"
+              }
+            ],
+            "exactMatch": "https://d-nb.info/gnd/4469674-7"
+          },
+          {
+            "id": "urn:GrazMuseum5:concept:ead47917-c407-4fa0-84c5-5851099ebb05",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Kaiser-Franz-Joseph-Kai (Graz)",
+                "@language": "de"
+              }
+            ]
+          },
+          {
+            "id": "urn:GrazMuseum5:concept:38e6265a-4153-4f58-9f7b-556bbb18bc15",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Architektur",
+                "@language": "de"
+              }
+            ],
+            "exactMatch": "https://d-nb.info/gnd/4002851-3"
+          },
+          {
+            "id": "urn:GrazMuseum5:concept:198ac2d2-3062-4767-a777-fd7a744f1536",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "verschwundene Orte und Bauten",
+                "@language": "de"
+              }
+            ]
+          },
+          {
+            "id": "urn:GrazMuseum5:concept:b7c31c17-f804-4ce2-a005-68541c766405",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Schlossberg Graz",
+                "@language": "de"
+              }
+            ],
+            "exactMatch": "https://d-nb.info/gnd/4119874-8"
+          },
+          {
+            "id": "urn:GrazMuseum5:concept:291183c9-d1f1-4910-be97-743e6f1a9fef",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Mur",
+                "@language": "de"
+              }
+            ],
+            "exactMatch": "https://d-nb.info/gnd/4210286-8"
+          },
+          {
+            "id": "urn:GrazMuseum5:concept:098331de-be81-40fc-84a8-122685b6114d",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Kai",
+                "@language": "de"
+              }
+            ],
+            "exactMatch": "https://d-nb.info/gnd/4163010-5"
+          },
+          {
+            "id": "urn:GrazMuseum5:concept:2ccff4cf-ef4b-40f9-a534-fd96b1994f57",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Fluss",
+                "@language": "de"
+              }
+            ],
+            "exactMatch": "https://d-nb.info/gnd/4131972-2"
+          }
+        ],
+        "isPartOf": [
+          {
+            "@value": "Fotografie",
+            "@language": "de"
+          }
+        ],
+        "language": [
+          {
+            "@value": "de",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          {
+            "@value": "FOT-01357",
+            "@language": "de"
+          }
+        ],
+        "description": [
+          {
+            "@value": "Leopold Bude dokumentierte in den letzten beiden Jahrzehnten des 19. Jahrhunderts fotografisch die Veränderungen im Grazer Stadtbild. Die Aufnahme entstand im März 1890 und zeigt den zweiten und dritten Sack von außen mit der murseitiges Verbauung der Sackstraße im Bereich der Häuser 19 bis 39. Im Zuge der Murregulierung um 1900 wurden die westseitigen Gebäude des zweiten und dritten Sacks abgetragen und die entlang der Mur laufende Kaistraße (Kaiser-Franz-Joseph-Kai) geschaffen.",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "graz-museum",
+    "pipeline_id": "graz-museum-core"
+  },
+  {
+    "kp_id": "e29c87ef-ccc2-4e5e-937c-94b70b18b67c",
+    "src_id": "oai:GrazMuseum5:9edd121e-915b-4893-96ae-530c1b587369",
+    "content": {
+      "id": "https://id.kulturpool.at/e29c87ef-ccc2-4e5e-937c-94b70b18b67c/aggregation",
+      "type": "Aggregation",
+      "object": "https://sammlung.grazmuseum.at/wp-json/trnc-opendata/v1/media?mt=FOT-01338-DIG-001&quality=thumbnail&object_id=9edd121e-915b-4893-96ae-530c1b587369",
+      "hasView": [
+        {
+          "id": "https://sammlung.grazmuseum.at/media/FOT-01338-DIG-001.jpg",
+          "type": "WebResource",
+          "format": [
+            "image/jpeg"
+          ],
+          "creator": [
+            {
+              "@value": "Graz Museum",
+              "@language": "de"
+            }
+          ],
+          "dcRights": [
+            {
+              "@value": "Graz Museum",
+              "@language": "de"
+            }
+          ],
+          "edmRights": "http://creativecommons.org/publicdomain/zero/1.0/"
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "isShownAt": "https://sammlung.grazmuseum.at/objekt/FOT-01338/",
+      "isShownBy": {
+        "id": "https://sammlung.grazmuseum.at/media/FOT-01338-DIG-001.jpg",
+        "type": "WebResource",
+        "format": [
+          "image/jpeg"
+        ],
+        "creator": [
+          {
+            "@value": "Graz Museum",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Graz Museum",
+            "@language": "de"
+          }
+        ],
+        "edmRights": "http://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "dataProvider": "Graz Museum",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/e29c87ef-ccc2-4e5e-937c-94b70b18b67c/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Herrengasse: Stadtpfarrkirche, 1884",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          "Fotografie"
+        ],
+        "created": [
+          {
+            "@value": "1884 - 1930",
+            "@language": "de"
+          }
+        ],
+        "creator": [
+          {
+            "id": "urn:GrazMuseum5:agent:05311f28-6357-4598-9bab-aada3c0882ba",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Bude, Leopold (Fotograf)",
+                "@language": "de"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          {
+            "id": "urn:GrazMuseum5:place:3267ed0a-10a3-4225-afd7-7ae8b446361e",
+            "type": "Place",
+            "prefLabel": [
+              {
+                "@value": "Graz",
+                "@language": "de"
+              }
+            ]
+          }
+        ],
+        "subject": [
+          {
+            "id": "urn:GrazMuseum5:concept:4d7d6624-919a-404a-bfbf-863879427879",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Graz-Innere Stadt",
+                "@language": "de"
+              }
+            ],
+            "exactMatch": "https://d-nb.info/gnd/4469674-7"
+          },
+          {
+            "id": "urn:GrazMuseum5:concept:64e05524-2890-4ef5-9c60-5ea2b3e2f74e",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Herrengasse 23 (Graz)",
+                "@language": "de"
+              }
+            ]
+          },
+          {
+            "id": "urn:GrazMuseum5:concept:38e6265a-4153-4f58-9f7b-556bbb18bc15",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Architektur",
+                "@language": "de"
+              }
+            ],
+            "exactMatch": "https://d-nb.info/gnd/4002851-3"
+          },
+          {
+            "id": "urn:GrazMuseum5:concept:62dc8e87-4103-43bf-9b47-d355dbcbd4f6",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Kirchenbau",
+                "@language": "de"
+              }
+            ],
+            "exactMatch": "https://d-nb.info/gnd/4073436-5"
+          },
+          {
+            "id": "urn:GrazMuseum5:concept:6a7630c3-4adf-49ef-a381-6bdb2d836550",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Baustelle",
+                "@language": "de"
+              }
+            ],
+            "exactMatch": "https://d-nb.info/gnd/4004942-5"
+          }
+        ],
+        "isPartOf": [
+          {
+            "@value": "Fotografie",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          {
+            "@value": "FOT-01338",
+            "@language": "de"
+          }
+        ],
+        "description": [
+          {
+            "@value": "Leopold Bude dokumentierte in den letzten beiden Jahrzehnten des 19. Jahrhunderts fotografisch die Veränderungen im Grazer Stadtbild. Die Aufnahme entstand im März 1884 und zeigt die Front und den Turm der Stadtpfarrkirche nach der Demolierung des \"Dettelbach´schen Hauses\" (Herrengasse 28, Baulücke für den \"Alten Thonethof\").",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "graz-museum",
+    "pipeline_id": "graz-museum-core"
+  }
+]

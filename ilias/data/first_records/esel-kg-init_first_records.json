@@ -1,0 +1,439 @@
+[
+  {
+    "kp_id": "44574c7c-cc87-46f0-b272-a7822388d800",
+    "src_id": "",
+    "content": {
+      "id": "https://id.kulturpool.at/44574c7c-cc87-46f0-b272-a7822388d800/aggregation",
+      "type": "Aggregation",
+      "object": {
+        "id": "https://rewind.esel.at/preview/ev_02yBRSYs0EPGdEIUF9nWPA",
+        "type": "WebResource",
+        "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://rewind.esel.at/event/ev_02yBRSYs0EPGdEIUF9nWPA",
+      "isShownBy": {
+        "id": "https://rewind.esel.at/resource/ev_02yBRSYs0EPGdEIUF9nWPA",
+        "type": "WebResource",
+        "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "dataProvider": "eSel.at",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/44574c7c-cc87-46f0-b272-a7822388d800/cho",
+        "date": [
+          "2024-11-16"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Pam Pam Club: Queer Erotica Night Vienna"
+        ],
+        "dcType": [
+          {
+            "id": "http://vocab.getty.edu/aat/300069200",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "performances (creative events)",
+                "@language": "en"
+              },
+              {
+                "@value": "performance (evento criativo)",
+                "@language": "pt"
+              },
+              {
+                "@value": "voorstellingen (creatieve gebeurtenissen)",
+                "@language": "nl"
+              },
+              {
+                "@value": "representación (evento)",
+                "@language": "es"
+              }
+            ]
+          }
+        ],
+        "edmType": "TEXT",
+        "spatial": [
+          "Wien",
+          {
+            "id": "https://rewind.esel.at/api/oai-pmh/repository?verb=GetRecord&identifier=AT-ESEL-loc_02w3FIYOcvBArRcJA34CQ9",
+            "type": "Place",
+            "prefLabel": [
+              "WUK"
+            ]
+          }
+        ],
+        "subject": [
+          {
+            "id": "http://vocab.getty.edu/aat/300054140",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "performing arts (discipline)",
+                "@language": "en"
+              },
+              {
+                "@value": "uitvoerende kunsten",
+                "@language": "nl"
+              },
+              {
+                "@value": "arts du spectacle",
+                "@language": "fr"
+              },
+              {
+                "@value": "Darstellende Kunst",
+                "@language": "de"
+              },
+              {
+                "@value": "arti dello spettacolo",
+                "@language": "it"
+              },
+              {
+                "@value": "artes do espetáculo",
+                "@language": "pt"
+              },
+              {
+                "@value": "artes interpretativas",
+                "@language": "es"
+              },
+              {
+                "@value": "scenkonst",
+                "@language": "sv"
+              }
+            ]
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300175240",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "arts (broad discipline)",
+                "@language": "en"
+              },
+              {
+                "@value": "kunsten",
+                "@language": "nl"
+              },
+              {
+                "@value": "œuvres artistiques",
+                "@language": "fr"
+              },
+              {
+                "@value": "artes",
+                "@language": "es"
+              }
+            ]
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300417581",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "dance (discipline)",
+                "@language": "en"
+              },
+              {
+                "@value": "dança (discipline)",
+                "@language": "pt"
+              }
+            ]
+          }
+        ],
+        "isPartOf": [
+          "rewind.eSeL.at"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "2024"
+        ],
+        "publisher": [
+          "eSeL.at"
+        ],
+        "identifier": [
+          "AT-ESEL-ev_02yBRSYs0EPGdEIUF9nWPA"
+        ],
+        "contributor": [
+          {
+            "id": "https://rewind.esel.at/api/oai-pmh/repository?verb=GetRecord&identifier=AT-ESEL-ag_02wjvlU7VUyk76RTUrkPMT",
+            "type": "Agent",
+            "prefLabel": [
+              "WUK performing arts"
+            ]
+          }
+        ],
+        "description": [
+          {
+            "@value": "In the 2nd edition of the PAM PAM CLUB we focus on forms of erotic art, performative acts of sensuality, questions about queer desire and (non-)desire and the connections between power, non-conformity, resilience and responsiveness:\n\nLascivious, vulnerable, slutty, political. From intimate dance performances to provocative wet dreams; Organized by cuties from the community for sweethearts of the community. We look forward to welcoming you to WUK on Saturday Night.\n\nNo homophobia. No transphobia. No whorephobia. Just fun.\n\nLet go and lose in CLUB PAM PAM.\n\nAdmission: 18+\n\nWith nat_assmann, Denise Kottlett, mater suspiriorum, devil of the divine slime, REY, Sunny, HOTgrl_2000, JOIE DE F:LLE, THAO, tbc. / Graphic design Dominik Schatz",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "esel-at-kg",
+    "pipeline_id": "esel-kg-init"
+  },
+  {
+    "kp_id": "33540675-5eb4-4698-8ad1-fde6cb8cf0a2",
+    "src_id": "",
+    "content": {
+      "id": "https://id.kulturpool.at/33540675-5eb4-4698-8ad1-fde6cb8cf0a2/aggregation",
+      "type": "Aggregation",
+      "object": {
+        "id": "https://rewind.esel.at/preview/ev_02y2tzw2rBIEzDusAuheF4",
+        "type": "WebResource",
+        "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://rewind.esel.at/event/ev_02y2tzw2rBIEzDusAuheF4",
+      "isShownBy": {
+        "id": "https://rewind.esel.at/resource/ev_02y2tzw2rBIEzDusAuheF4",
+        "type": "WebResource",
+        "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "dataProvider": "eSel.at",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/33540675-5eb4-4698-8ad1-fde6cb8cf0a2/cho",
+        "date": [
+          "2024-10-26",
+          "2024-11-20"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "luminous nights III"
+        ],
+        "edmType": "TEXT",
+        "spatial": [
+          "Wien",
+          {
+            "id": "https://rewind.esel.at/api/oai-pmh/repository?verb=GetRecord&identifier=AT-ESEL-loc_02w3FIYK2jRDpUvUtTZVc6",
+            "type": "Place",
+            "prefLabel": [
+              "Schikaneder"
+            ]
+          }
+        ],
+        "subject": [
+          {
+            "id": "http://vocab.getty.edu/aat/300054153",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "video (discipline)",
+                "@language": "en"
+              },
+              {
+                "@value": "videokunst (vakgebied)",
+                "@language": "nl"
+              },
+              {
+                "@value": "vídeo (disciplina artística)",
+                "@language": "es"
+              }
+            ]
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300054141",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "film (discipline)",
+                "@language": "en"
+              },
+              {
+                "@value": "film (uitvoerende kunsten)",
+                "@language": "nl"
+              },
+              {
+                "@value": "cinema",
+                "@language": "it"
+              },
+              {
+                "@value": "cinema (disciplina)",
+                "@language": "pt"
+              },
+              {
+                "@value": "cinéma (performing arts)",
+                "@language": "fr"
+              },
+              {
+                "@value": "Filmkunst",
+                "@language": "de"
+              },
+              {
+                "@value": "arte del cine",
+                "@language": "es"
+              },
+              {
+                "@value": "filmkonst",
+                "@language": "sv"
+              }
+            ]
+          }
+        ],
+        "isPartOf": [
+          "rewind.eSeL.at"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "2024"
+        ],
+        "publisher": [
+          "eSeL.at"
+        ],
+        "identifier": [
+          "AT-ESEL-ev_02y2tzw2rBIEzDusAuheF4"
+        ],
+        "contributor": [
+          {
+            "id": "https://rewind.esel.at/api/oai-pmh/repository?verb=GetRecord&identifier=AT-ESEL-ag_02x0QbSWVMrkLzzCklVNpa",
+            "type": "Agent",
+            "prefLabel": [
+              "IntAkt – Internationale Aktionsgemeinschaft bildender Künstlerinnen"
+            ]
+          }
+        ],
+        "description": [
+          {
+            "@value": "Das neue Format der IntAkt-Künstlerinnen startete 2022 mit einem fulminanten Filmabend. 2023 folgte Luminous Nights II zum Thema  \"Show your best inspirations!\". Luminous Nights III widmet sich 2024 dem Thema \"SPACES!. Die Künstlerinnen-Filme veranschaulichen das breite Spektrum an der Nahtstelle zwischen filmischem Kommentar, Experiment, Dokumentation und Animation. Weibliches Filmschaffen der IntAkt steht in einer widerständigen Tradition, die seit den 70erJahren an Radikalität nichts zu wünschen übriglässt und in den Archivfilmen der IntAkt ein starkes Statement setzt. In den anschließenden Talks geben die Künstlerinnen Einblicke in ihre persönlichen Themen, Inspirationen und Leidenschaften. Die Filmabende dienen zur Vernetzung und Empowerment weiblichen Kunstschaffens. \n\nEs werden Filme folgender Künstlerinnen gezeigt: Ilse Chlan, Asta Cink, Lisa Est, Ingrid Gaier, Susanne Kompast, Anna Rafetseder, Gisela Reimer, Linde Waber und historische Filme aus dem Archiv der IntAkt. Highlight am 26. Oktober ist die erstmalige Verleihung der Urkunden für die Ehrenmitgliedschaft an Renate Bertlmann, Linda Christanell, Fria Elfen, Karin Mack, Margot Pilz, posthum Edda Seidl-Reiter.",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "esel-at-kg",
+    "pipeline_id": "esel-kg-init"
+  },
+  {
+    "kp_id": "5034ea54-4355-4738-9cf5-b9038a062e42",
+    "src_id": "",
+    "content": {
+      "id": "https://id.kulturpool.at/5034ea54-4355-4738-9cf5-b9038a062e42/aggregation",
+      "type": "Aggregation",
+      "object": {
+        "id": "https://rewind.esel.at/preview/ev_02xqBejw0VYwzgDEh3xJ2P",
+        "type": "WebResource",
+        "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://rewind.esel.at/event/ev_02xqBejw0VYwzgDEh3xJ2P",
+      "isShownBy": {
+        "id": "https://rewind.esel.at/resource/ev_02xqBejw0VYwzgDEh3xJ2P",
+        "type": "WebResource",
+        "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+      },
+      "dataProvider": "eSel.at",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/5034ea54-4355-4738-9cf5-b9038a062e42/cho",
+        "date": [
+          "2023-10-26",
+          "2024-10-26"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Tag der offenen Tür"
+        ],
+        "edmType": "TEXT",
+        "spatial": [
+          "Wien",
+          {
+            "id": "https://rewind.esel.at/api/oai-pmh/repository?verb=GetRecord&identifier=AT-ESEL-loc_02vi0up4srrfEhGKBbrGz8",
+            "type": "Place",
+            "prefLabel": [
+              "Haus der Geschichte Österreich"
+            ]
+          }
+        ],
+        "subject": [
+          {
+            "id": "http://vocab.getty.edu/aat/300264737",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Contemporary (style of art)",
+                "@language": "en"
+              },
+              {
+                "@value": "hedendaagse kunst",
+                "@language": "nl"
+              },
+              {
+                "@value": "art contemporain",
+                "@language": "fr"
+              },
+              {
+                "@value": "arte contemporânea",
+                "@language": "pt"
+              },
+              {
+                "@value": "Contemporáneo",
+                "@language": "es"
+              }
+            ]
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300055880",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "theory",
+                "@language": "en"
+              },
+              {
+                "@value": "theorie",
+                "@language": "nl"
+              },
+              {
+                "@value": "teoría",
+                "@language": "es"
+              }
+            ]
+          }
+        ],
+        "isPartOf": [
+          "rewind.eSeL.at"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "2023"
+        ],
+        "publisher": [
+          "eSeL.at"
+        ],
+        "identifier": [
+          "AT-ESEL-ev_02xqBejw0VYwzgDEh3xJ2P"
+        ],
+        "description": [
+          {
+            "@value": "Besuchen Sie das Haus der Geschichte Österreich an diesem Tag (10.00–18.00) bei freiem Eintritt! Auch die weiteren Museen der Österreichischen Nationalbibliothek öffnen am Österreichischen Nationalfeiertag ihre Pforten bei freiem Eintritt. \n\n10.00–18.00 Uhr \nÖsterreichs Vielsprachigkeit im Fokus \nVideo-Installation im Foyer des Museums \n\nAm Nationalfeiertag macht das hdgö Vielsprachigkeit in Österreich sicht- und hörbar! Acht Kurzvideos geben die Möglichkeit über die Vielfalt an Sprachen in Österreich mehr zu erfahren. Besonders im Fokus stehen die sechs anerkannten Volksgruppen und die bosnische und die jenische Community, die gerade um die offizielle, staatliche Anerkennung kämpfen. \n\n13.00/14.00/15.00/16.00\nZeitgeschichte kompakt: Österreichische Vielsprachigkeit \nKurzführung durch die Ausstellung Neue Zeiten: Österreich seit 1918 \nmit Fokus auf Geschichten der österreichischen Volksgruppen \nDauer: ca. 30 Minuten  \nTeilnahme kostenlos  \nBegrenzte Teilnehmer*innenzahl. Sie erhalten Tickets an der Museumskassa.  \n\n10.00–17.00 Uhr \nProgramm für Klein und Groß \nPostkartenwerkstatt: Gestalte deine persönliche Österreich-Postkarte! Im Foyer des Museums kann aus unterschiedlichen Österreich-Bausteinen eine Postkarte entworfen werden. Lasst euch überraschen!",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "esel-at-kg",
+    "pipeline_id": "esel-kg-init"
+  }
+]

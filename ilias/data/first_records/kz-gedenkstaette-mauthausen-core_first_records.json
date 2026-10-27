@@ -1,0 +1,177 @@
+[
+  {
+    "kp_id": "7bbd72cb-0c17-4d48-9788-71cea3f8019f",
+    "src_id": "museum:2459",
+    "content": {
+      "id": "https://id.kulturpool.at/7bbd72cb-0c17-4d48-9788-71cea3f8019f/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-sa/4.0/",
+      "isShownAt": "https://collections.mauthausen-memorial.org/AIS6/Details/museum/2459",
+      "isShownBy": {
+        "id": "https://collections.mauthausen-memorial.org/AxiellWebAPI/wwwopac.ashx?command=getcontent&server=images&value=OS2737_1.jpg&folderId=2459&imageformat=jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "KZ-Gedenkstätte Mauthausen / Mauthausen Memorial",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/7bbd72cb-0c17-4d48-9788-71cea3f8019f/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Textil"
+        ],
+        "dcType": [
+          "Textil"
+        ],
+        "extent": [
+          "Breite: 57 mm",
+          "Höhe: 10 mm",
+          "Länge: 236 mm",
+          "Dicke: 2 mm"
+        ],
+        "medium": [
+          "Textil",
+          "Organisch",
+          "Tierisches Material",
+          "Haar",
+          "Wolle"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          "Bekleidung",
+          "Archäologie",
+          "Außenlager",
+          "\"Todesmärsche\""
+        ],
+        "identifier": [
+          "OS2737"
+        ],
+        "description": [
+          "Textil; Fragment; längliche schmale Form; Oberstoff; Wolle; Bindung: Doppelgewebe; Ausrüstung: geraut; Farbe schwarz; Saum; Nahtspuren; Nähte",
+          "vermutlich Fragment eines Mantels/einer Jacke"
+        ]
+      }
+    },
+    "institution_id": "kz-gedenkstaette-mauthausen",
+    "pipeline_id": "kz-gedenkstaette-mauthausen-core"
+  },
+  {
+    "kp_id": "d9b47e99-1088-4260-979f-ba4fdae8bf26",
+    "src_id": "museum:9877",
+    "content": {
+      "id": "https://id.kulturpool.at/d9b47e99-1088-4260-979f-ba4fdae8bf26/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-sa/4.0/",
+      "isShownAt": "https://collections.mauthausen-memorial.org/AIS6/Details/museum/9877",
+      "isShownBy": {
+        "id": "https://collections.mauthausen-memorial.org/AxiellWebAPI/wwwopac.ashx?command=getcontent&server=images&value=OS2840_1.jpg&folderId=9877&imageformat=jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "KZ-Gedenkstätte Mauthausen / Mauthausen Memorial",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/d9b47e99-1088-4260-979f-ba4fdae8bf26/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Blech"
+        ],
+        "dcType": [
+          "Blech"
+        ],
+        "extent": [
+          "Länge: 373 mm",
+          "Breite: 60 mm",
+          "Dicke: 2 mm"
+        ],
+        "medium": [
+          "Metall",
+          "Leichtmetall",
+          "Aluminium"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          "Werkstätten",
+          "Flugzeugbau",
+          "Zwangsarbeit",
+          "Archäologie",
+          "Besucherzentrum"
+        ],
+        "identifier": [
+          "OS2840"
+        ],
+        "description": [
+          "Blech, fragmentiert; linke und rechte Seite ausgefranste Schnittkanten, Spuren von Schnitten einer Blechschere; 14 1/2 Löcher auf der oberen Kante, unterschiedliche Durchmesser; Kante mittig 90 Grad umgebogen; letztes Loch auf der rechten Seite (vom Objekt aus gesehen) durchgeschnitten; Einriss und größeres Loch beim 4. Loch von rechts"
+        ]
+      }
+    },
+    "institution_id": "kz-gedenkstaette-mauthausen",
+    "pipeline_id": "kz-gedenkstaette-mauthausen-core"
+  },
+  {
+    "kp_id": "8de3e4cd-0a1d-4628-9be4-c1faad0fc1b2",
+    "src_id": "museum:2444",
+    "content": {
+      "id": "https://id.kulturpool.at/8de3e4cd-0a1d-4628-9be4-c1faad0fc1b2/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-sa/4.0/",
+      "isShownAt": "https://collections.mauthausen-memorial.org/AIS6/Details/museum/2444",
+      "isShownBy": {
+        "id": "https://collections.mauthausen-memorial.org/AxiellWebAPI/wwwopac.ashx?command=getcontent&server=images&value=OS2724_1.jpg&folderId=2444&imageformat=jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "KZ-Gedenkstätte Mauthausen / Mauthausen Memorial",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/8de3e4cd-0a1d-4628-9be4-c1faad0fc1b2/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Textil"
+        ],
+        "dcType": [
+          "Textil"
+        ],
+        "extent": [
+          "Breite: 117 mm",
+          "Höhe: 20 mm",
+          "Länge: 245 mm",
+          "Dicke: 2 mm"
+        ],
+        "medium": [
+          "Textil",
+          "Organisch",
+          "Tierisches Material",
+          "Haar"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          "Bekleidung",
+          "Archäologie",
+          "Außenlager",
+          "\"Todesmärsche\""
+        ],
+        "identifier": [
+          "OS2724"
+        ],
+        "description": [
+          "Textil; Tierhaar; Fragment; nicht zuordenbar; Ausrüstung: gefilzt; Farbe braun"
+        ]
+      }
+    },
+    "institution_id": "kz-gedenkstaette-mauthausen",
+    "pipeline_id": "kz-gedenkstaette-mauthausen-core"
+  }
+]

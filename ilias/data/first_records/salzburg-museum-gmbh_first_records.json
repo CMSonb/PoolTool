@@ -1,0 +1,413 @@
+[
+  {
+    "kp_id": "63f97465-0fcd-40c7-be35-f86a8ebab578",
+    "src_id": "",
+    "content": {
+      "id": "https://id.kulturpool.at/63f97465-0fcd-40c7-be35-f86a8ebab578/aggregation",
+      "type": "Aggregation",
+      "hasView": [
+        {
+          "id": "https://sammlung-online.salzburgmuseum.at/iiif/iiif/2/828d80c7-3aea-4e4d-97fd-ed5bc9c17c3b/full/max/0/default.jpg",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://sammlung-online.salzburgmuseum.at/iiif/iiif/2/9e4dbe83-9e51-4a52-8409-9fb341615eed/full/max/0/default.jpg",
+          "type": "WebResource"
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "isShownAt": "https://sammlung-online.salzburgmuseum.at/detail/collection/656ef182-12c9-4874-b51e-8a7574f8c372",
+      "isShownBy": {
+        "id": "https://sammlung-online.salzburgmuseum.at/iiif/iiif/2/950b1c47-d9c1-4fa2-8bca-e85d70baae1c/full/max/0/default.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Salzburg Museum",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/63f97465-0fcd-40c7-be35-f86a8ebab578/cho",
+        "date": [
+          {
+            "@value": "19. Jh. (?)",
+            "@language": "de"
+          }
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Siegelstempel / Petschaft, Elise Tomaselli (?)",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          {
+            "@value": "Münzen Medaillen und Geldwertzeichen",
+            "@language": "de"
+          }
+        ],
+        "extent": [
+          {
+            "@value": "Höhe: 13 mm Siegelfläche",
+            "@language": "de"
+          },
+          {
+            "@value": "Breite: 16 mm Siegelfläche",
+            "@language": "de"
+          },
+          {
+            "@value": "Höhe: 30 mm mit Griff / Zapfen",
+            "@language": "de"
+          }
+        ],
+        "creator": [
+          {
+            "id": "https://sammlung-online.salzburgmuseum.at/detail/person/ce96f92b-d31c-4239-a6ba-6e80f2a7d2a5",
+            "end": "1928",
+            "name": [
+              "Elise Tomaselli"
+            ],
+            "type": "Agent",
+            "begin": "1854",
+            "sameAs": [
+              "https://www.sn.at/wiki/Elisabeth_Tomaselli"
+            ],
+            "prefLabel": [
+              "Elise Tomaselli"
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "hasType": [
+          {
+            "id": "http://vocab.getty.edu/aat/300054419",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "numismatics",
+                "@language": "en"
+              },
+              {
+                "@value": "numismatiek",
+                "@language": "nl"
+              },
+              {
+                "@value": "numismates",
+                "@language": "fr"
+              },
+              {
+                "@value": "numismática",
+                "@language": "es"
+              },
+              {
+                "@value": "numismática",
+                "@language": "pt"
+              }
+            ]
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Siegelstempel, Institutsstempel (Grundwissenschaftliches Objekt/Siegel, Signet)",
+            "@language": "de"
+          }
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          {
+            "@value": "19. Jh. (?)",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "MÜ 70485"
+        ],
+        "description": [
+          {
+            "@value": "Auf Siegelfläche Buchstaben E T. Siegelstempel / Petschaft von Elise Tomaselli ? (mit ihren Initialen E. T.). Elise Tomaselli hat diesen Stempel dem Museum geschenkt.",
+            "@language": "de"
+          }
+        ],
+        "currentLocation": "Salzburg Museum"
+      }
+    },
+    "institution_id": "salzburg-museum",
+    "pipeline_id": "salzburg-museum-gmbh"
+  },
+  {
+    "kp_id": "c26f0b32-b17c-47a6-9a6d-4a3db5aff4e1",
+    "src_id": "",
+    "content": {
+      "id": "https://id.kulturpool.at/c26f0b32-b17c-47a6-9a6d-4a3db5aff4e1/aggregation",
+      "type": "Aggregation",
+      "hasView": [
+        {
+          "id": "https://sammlung-online.salzburgmuseum.at/iiif/iiif/2/004379f5-0da4-4183-8e47-5105ce41cc89/full/max/0/default.jpg",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://sammlung-online.salzburgmuseum.at/iiif/iiif/2/6a4f571c-7691-476c-8cc5-f2b7ca204abf/full/max/0/default.jpg",
+          "type": "WebResource"
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "isShownAt": "https://sammlung-online.salzburgmuseum.at/detail/collection/639865a6-cfe0-48d1-b174-81770ece567d",
+      "isShownBy": {
+        "id": "https://sammlung-online.salzburgmuseum.at/iiif/iiif/2/955f1e34-b6c6-4f6f-8d43-e1c03a1f1df1/full/max/0/default.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Salzburg Museum",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/c26f0b32-b17c-47a6-9a6d-4a3db5aff4e1/cho",
+        "date": [
+          {
+            "@value": "18. - 19. Jh. (?)",
+            "@language": "de"
+          }
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Siegelstempel, unbekannte Person",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          {
+            "@value": "Münzen Medaillen und Geldwertzeichen",
+            "@language": "de"
+          }
+        ],
+        "extent": [
+          {
+            "@value": "Höhe: 24 mm Siegelfläche",
+            "@language": "de"
+          },
+          {
+            "@value": "Breite: 21 mm Siegelfläche",
+            "@language": "de"
+          },
+          {
+            "@value": "Höhe: 49,5 mm mit Griff / Zapfen",
+            "@language": "de"
+          }
+        ],
+        "creator": [
+          {
+            "id": "https://sammlung-online.salzburgmuseum.at/detail/person/2b1e1a2e-9304-480a-bee6-f8bef4c77f71",
+            "end": "",
+            "name": [
+              "UNBEKANNT (Person)"
+            ],
+            "type": "Agent",
+            "begin": "",
+            "prefLabel": [
+              "UNBEKANNT (Person)"
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "hasType": [
+          {
+            "id": "http://vocab.getty.edu/aat/300054419",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "numismatics",
+                "@language": "en"
+              },
+              {
+                "@value": "numismatiek",
+                "@language": "nl"
+              },
+              {
+                "@value": "numismates",
+                "@language": "fr"
+              },
+              {
+                "@value": "numismática",
+                "@language": "es"
+              },
+              {
+                "@value": "numismática",
+                "@language": "pt"
+              }
+            ]
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Siegelstempel, Institutsstempel (Grundwissenschaftliches Objekt/Siegel, Signet)",
+            "@language": "de"
+          }
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          {
+            "@value": "18. - 19. Jh. (?)",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "MÜ 70344"
+        ],
+        "description": [
+          {
+            "@value": "Auf Siegelfläche Wappenschild (Soldat mit Schwert) mit gekrönter Helmzier (Arm mit Schwert). Siegelstempel einer unbekannten Person.",
+            "@language": "de"
+          }
+        ],
+        "currentLocation": "Salzburg Museum"
+      }
+    },
+    "institution_id": "salzburg-museum",
+    "pipeline_id": "salzburg-museum-gmbh"
+  },
+  {
+    "kp_id": "678520bd-1d43-440c-806c-3d982eb46f80",
+    "src_id": "",
+    "content": {
+      "id": "https://id.kulturpool.at/678520bd-1d43-440c-806c-3d982eb46f80/aggregation",
+      "type": "Aggregation",
+      "hasView": [
+        {
+          "id": "https://sammlung-online.salzburgmuseum.at/iiif/iiif/2/f1ff4931-0293-43b0-93ab-0f8ff6c53ef1/full/max/0/default.jpg",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://sammlung-online.salzburgmuseum.at/iiif/iiif/2/bf9e3845-3404-4425-93e6-8f8f8aaf6157/full/max/0/default.jpg",
+          "type": "WebResource"
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "isShownAt": "https://sammlung-online.salzburgmuseum.at/detail/collection/6225fa9d-1ea0-4af5-b1c5-a9a2fa3c9b8c",
+      "isShownBy": {
+        "id": "https://sammlung-online.salzburgmuseum.at/iiif/iiif/2/71e62067-740a-4042-b1ec-b548da3aa4be/full/max/0/default.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Salzburg Museum",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/678520bd-1d43-440c-806c-3d982eb46f80/cho",
+        "date": [
+          {
+            "@value": "Ende 19. Jh.",
+            "@language": "de"
+          }
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Siegelstempel, Heiliger Georg",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          {
+            "@value": "Münzen Medaillen und Geldwertzeichen",
+            "@language": "de"
+          }
+        ],
+        "extent": [
+          {
+            "@value": "Höhe: 18 mm Siegelfläche",
+            "@language": "de"
+          },
+          {
+            "@value": "Breite: 22 mm Siegelfläche",
+            "@language": "de"
+          },
+          {
+            "@value": "Höhe: 87 mm mit Griff / Zapfen",
+            "@language": "de"
+          }
+        ],
+        "creator": [
+          {
+            "id": "https://sammlung-online.salzburgmuseum.at/detail/person/0bfd1e13-0dbd-42a3-b6a7-c656ccc84104",
+            "end": "",
+            "name": [
+              "Salzburger Museum Carolino Augusteum"
+            ],
+            "type": "Agent",
+            "begin": "",
+            "prefLabel": [
+              "Salzburger Museum Carolino Augusteum"
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "hasType": [
+          {
+            "id": "http://vocab.getty.edu/aat/300054419",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "numismatics",
+                "@language": "en"
+              },
+              {
+                "@value": "numismatiek",
+                "@language": "nl"
+              },
+              {
+                "@value": "numismates",
+                "@language": "fr"
+              },
+              {
+                "@value": "numismática",
+                "@language": "es"
+              },
+              {
+                "@value": "numismática",
+                "@language": "pt"
+              }
+            ]
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Siegelstempel, Institutsstempel (Grundwissenschaftliches Objekt/Siegel, Signet)",
+            "@language": "de"
+          }
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          {
+            "@value": "Ende 19. Jh.",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "MÜ 70414"
+        ],
+        "description": [
+          {
+            "@value": "Auf Siegelfläche Heiliger Georg reitend, Drachen aufspießend. Siegelfläche angelötet. Siegelstempel nach Informationen von altem angbundenen Zettel im Museum angefertigt und an Abbildung aus dem Salzburger Domschatz orientiert.",
+            "@language": "de"
+          }
+        ],
+        "currentLocation": "Salzburg Museum"
+      }
+    },
+    "institution_id": "salzburg-museum",
+    "pipeline_id": "salzburg-museum-gmbh"
+  }
+]

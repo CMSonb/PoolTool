@@ -1,0 +1,213 @@
+[
+  {
+    "kp_id": "49975855-6c38-485f-8084-37e560887194",
+    "src_id": "",
+    "content": {
+      "id": "https://id.kulturpool.at/49975855-6c38-485f-8084-37e560887194/aggregation",
+      "type": "Aggregation",
+      "object": "https://opendata.filmarchiv.at/preview/f_02xVMOuam87FcjKWkSUkCS",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "https://rightsstatements.org/page/InC-EDU/1.0/",
+      "isShownAt": "https://opendata.filmarchiv.at/film/f_02xVMOuam87FcjKWkSUkCS",
+      "isShownBy": {
+        "id": "https://opendata.filmarchiv.at/film/f_02xVMOuam87FcjKWkSUkCS/resource",
+        "type": "WebResource"
+      },
+      "dataProvider": "Filmarchiv Austria",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/49975855-6c38-485f-8084-37e560887194/cho",
+        "date": [
+          "1938"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Wöllersdorf in Flammen",
+          "Ostmark Wochenschau 15b/1938, Beitrag 07"
+        ],
+        "dcType": [
+          {
+            "id": "sasa"
+          }
+        ],
+        "edmType": "VIDEO",
+        "spatial": [
+          "Wöllersdorf"
+        ],
+        "dcRights": [
+          "Republik Österreich vertreten durch Filmarchiv Austria"
+        ],
+        "isPartOf": [
+          "Ostmark Wochenschau",
+          "Filmarchiv Austria"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "1938"
+        ],
+        "publisher": [
+          "Filmarchiv Austria"
+        ],
+        "identifier": [
+          "AT-FAA-f_02xVMOuam87FcjKWkSUkCS"
+        ],
+        "description": [
+          {
+            "@value": "Wöllersdorf in Flammen\n(Originalton Sprechertext):\"Das Konzentrationslager Wöllersdorf, in welchem vier einhalb Jahre 45.000 österreichische Nationalsozialisten Ihrer Gesinnung wegen eingekerkert waren und von den Schergen des Sytems gequält wurden, ist in einer mächtigen Feierstunde den Flammen übergeben worden....",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "filmarchiv-austria",
+    "pipeline_id": "filmarchiv-austria-init"
+  },
+  {
+    "kp_id": "5fede535-2a1a-4a64-b3e0-a280326ebfe8",
+    "src_id": "",
+    "content": {
+      "id": "https://id.kulturpool.at/5fede535-2a1a-4a64-b3e0-a280326ebfe8/aggregation",
+      "type": "Aggregation",
+      "object": "https://opendata.filmarchiv.at/preview/f_02xV63PgFlJos8p0407nNP",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "https://rightsstatements.org/page/InC-EDU/1.0/",
+      "isShownAt": "https://opendata.filmarchiv.at/film/f_02xV63PgFlJos8p0407nNP",
+      "isShownBy": {
+        "id": "https://opendata.filmarchiv.at/film/f_02xV63PgFlJos8p0407nNP/resource",
+        "type": "WebResource"
+      },
+      "dataProvider": "Filmarchiv Austria",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/5fede535-2a1a-4a64-b3e0-a280326ebfe8/cho",
+        "date": [
+          "1938"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Der Tag des großdeutschen Reiches",
+          "Ostmark Wochenschau 16b/1938, Beitrag 06"
+        ],
+        "dcType": [
+          {
+            "id": "sasa"
+          }
+        ],
+        "edmType": "VIDEO",
+        "spatial": [
+          "Wien"
+        ],
+        "dcRights": [
+          "Republik Österreich vertreten durch Filmarchiv Austria"
+        ],
+        "isPartOf": [
+          "Ostmark Wochenschau",
+          "Filmarchiv Austria"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "1938"
+        ],
+        "publisher": [
+          "Filmarchiv Austria"
+        ],
+        "identifier": [
+          "AT-FAA-f_02xV63PgFlJos8p0407nNP"
+        ],
+        "description": [
+          {
+            "@value": "Der Tag des großdeutschen Reiches\nTriumphaler Einzug des Führers in Wien\nDie Proklamation durch Reichsminister Dr. Goebbels\n(Originalton Joseph Goebbels): \"Ich proklamiere hiermit den Tag des Großdeutschen Reiches! Heißt Flaggen!\nDer Führer spricht\n(Originalton Adolf Hitler bei einer Rede): \"Wenn ihr nicht ungerecht seid, dann müsst ihr doch zugeben, dass ein unbekannter, namenloser es in knapp 19 Jahren, davon 14 Jahre in schwerster Opposition kämpfend, es fertigbrachte, eine ganze Nation auf einen neuen Status zu bringen, ein Volk wieder raus zu reißen (Jubel/Schlussworte des Satzes unverständlich). Diese Bewegung aber und dieses heutige Deutschland, sie sind beide mein Werk. Heute stehe ich hier, um mich geschart ist eine gewaltige, gewaltige Nation. Unzählige Millionen sind bereit für dieses Ideal alles auf sich zu nehmen. Ein Unbekannter! Dieses Land und dieses Volk kommt nicht zum Reich in einer demütigenden Rolle. Ich selber führe euch heim! Deutschland - Sieg heil!\"",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "filmarchiv-austria",
+    "pipeline_id": "filmarchiv-austria-init"
+  },
+  {
+    "kp_id": "b5a47d8a-104b-43fd-9a16-df023e7189c1",
+    "src_id": "",
+    "content": {
+      "id": "https://id.kulturpool.at/b5a47d8a-104b-43fd-9a16-df023e7189c1/aggregation",
+      "type": "Aggregation",
+      "object": "https://opendata.filmarchiv.at/preview/f_02xV5wXXLBjVitIE48ZChL",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "https://rightsstatements.org/page/InC-EDU/1.0/",
+      "isShownAt": "https://opendata.filmarchiv.at/film/f_02xV5wXXLBjVitIE48ZChL",
+      "isShownBy": {
+        "id": "https://opendata.filmarchiv.at/film/f_02xV5wXXLBjVitIE48ZChL/resource",
+        "type": "WebResource"
+      },
+      "dataProvider": "Filmarchiv Austria",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/b5a47d8a-104b-43fd-9a16-df023e7189c1/cho",
+        "date": [
+          "1938"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Vor der Wahl",
+          "Ostmark Wochenschau 16b/1938, Beitrag 05"
+        ],
+        "dcType": [
+          {
+            "id": "sasa"
+          }
+        ],
+        "edmType": "VIDEO",
+        "spatial": [
+          "Salzburg",
+          "Graz"
+        ],
+        "subject": [
+          "Wahltag"
+        ],
+        "dcRights": [
+          "Republik Österreich vertreten durch Filmarchiv Austria"
+        ],
+        "isPartOf": [
+          "Ostmark Wochenschau",
+          "Filmarchiv Austria"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "1938"
+        ],
+        "publisher": [
+          "Filmarchiv Austria"
+        ],
+        "identifier": [
+          "AT-FAA-f_02xV5wXXLBjVitIE48ZChL"
+        ],
+        "description": [
+          {
+            "@value": "Vor der Wahl\nSalzburg im Fahnenschmuck\nWahlbegeisterung in Graz",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "filmarchiv-austria",
+    "pipeline_id": "filmarchiv-austria-init"
+  }
+]

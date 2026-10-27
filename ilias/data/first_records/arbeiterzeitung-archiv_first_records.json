@@ -1,0 +1,367 @@
+[
+  {
+    "kp_id": "cd4a8bd1-9bcc-40b6-809f-8df14c0a03d2",
+    "src_id": "AZ:459",
+    "content": {
+      "id": "https://id.kulturpool.at/cd4a8bd1-9bcc-40b6-809f-8df14c0a03d2/aggregation",
+      "type": "Aggregation",
+      "hasView": [
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0368_19451123_A02",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0369_19451123_A03",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0370_19451123_A04",
+          "type": "WebResource"
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
+      "isShownAt": "https://www.arbeiterzeitung.at/ausgabe/19451123a",
+      "isShownBy": {
+        "id": "https://www.arbeiterzeitung.at/bild/0367_19451123_A01",
+        "type": "WebResource"
+      },
+      "dataProvider": "Online-Archiv der Arbeiterzeitung",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/cd4a8bd1-9bcc-40b6-809f-8df14c0a03d2/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Arbeiter-Zeitung vom 23. 11. 1945",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          {
+            "@value": "Zeitung",
+            "@language": "de"
+          }
+        ],
+        "created": [
+          "1945-11-23"
+        ],
+        "edmType": "TEXT",
+        "dcRights": [
+          "Medienhaus Wien"
+        ],
+        "isPartOf": [
+          "Arbeiter-Zeitung Online Archiv"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "1945-11-23"
+        ],
+        "identifier": [
+          "AZ:459"
+        ]
+      }
+    },
+    "institution_id": "arbeiterzeitung-archiv",
+    "pipeline_id": "arbeiterzeitung-archiv"
+  },
+  {
+    "kp_id": "53e08e0e-6c12-4bf4-a428-b8f91244cdf7",
+    "src_id": "AZ:178751",
+    "content": {
+      "id": "https://id.kulturpool.at/53e08e0e-6c12-4bf4-a428-b8f91244cdf7/aggregation",
+      "type": "Aggregation",
+      "hasView": [
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0768_19830609_A02",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0769_19830609_A03",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0770_19830609_A04",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0771_19830609_A05",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0772_19830609_A06",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0773_19830609_A07",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0774_19830609_A08",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0775_19830609_A09",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0776_19830609_A10",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0777_19830609_A11",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0778_19830609_A12",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0779_19830609_A13",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0780_19830609_A14",
+          "type": "WebResource"
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
+      "isShownAt": "https://www.arbeiterzeitung.at/ausgabe/19830609a",
+      "isShownBy": {
+        "id": "https://www.arbeiterzeitung.at/bild/0767_19830609_A01",
+        "type": "WebResource"
+      },
+      "dataProvider": "Online-Archiv der Arbeiterzeitung",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/53e08e0e-6c12-4bf4-a428-b8f91244cdf7/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Arbeiter-Zeitung vom 9. 6. 1983",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          {
+            "@value": "Zeitung",
+            "@language": "de"
+          }
+        ],
+        "created": [
+          "1983-06-09"
+        ],
+        "edmType": "TEXT",
+        "dcRights": [
+          "Medienhaus Wien"
+        ],
+        "isPartOf": [
+          "Arbeiter-Zeitung Online Archiv"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "1983-06-09"
+        ],
+        "identifier": [
+          "AZ:178751"
+        ]
+      }
+    },
+    "institution_id": "arbeiterzeitung-archiv",
+    "pipeline_id": "arbeiterzeitung-archiv"
+  },
+  {
+    "kp_id": "6951703e-2d40-47b3-a1dc-18efdc266352",
+    "src_id": "AZ:54193",
+    "content": {
+      "id": "https://id.kulturpool.at/6951703e-2d40-47b3-a1dc-18efdc266352/aggregation",
+      "type": "Aggregation",
+      "hasView": [
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0476_19611224_A02",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0477_19611224_A03",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0478_19611224_A04",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0479_19611224_A05",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0480_19611224_A06",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0481_19611224_A07",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0482_19611224_A08",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0483_19611224_A09",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0484_19611224_A10",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0485_19611224_A11",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0486_19611224_A12",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0487_19611224_A13",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0488_19611224_A14",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0489_19611224_A15",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0490_19611224_A16",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0491_19611224_A17",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0492_19611224_A18",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0493_19611224_A19",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0494_19611224_A20",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0495_19611224_A21",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0496_19611224_A22",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0497_19611224_A23",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0498_19611224_A24",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0499_19611224_A25",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0500_19611224_A26",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0501_19611224_A27",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0502_19611224_A28",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0503_19611224_A29",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0504_19611224_A30",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0505_19611224_A31",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.arbeiterzeitung.at/bild/0506_19611224_A32",
+          "type": "WebResource"
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC-EDU/1.0/",
+      "isShownAt": "https://www.arbeiterzeitung.at/ausgabe/19611224a",
+      "isShownBy": {
+        "id": "https://www.arbeiterzeitung.at/bild/0475_19611224_A01",
+        "type": "WebResource"
+      },
+      "dataProvider": "Online-Archiv der Arbeiterzeitung",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/6951703e-2d40-47b3-a1dc-18efdc266352/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Arbeiter-Zeitung vom 24. 12. 1961",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          {
+            "@value": "Zeitung",
+            "@language": "de"
+          }
+        ],
+        "created": [
+          "1961-12-24"
+        ],
+        "edmType": "TEXT",
+        "dcRights": [
+          "Medienhaus Wien"
+        ],
+        "isPartOf": [
+          "Arbeiter-Zeitung Online Archiv"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "1961-12-24"
+        ],
+        "identifier": [
+          "AZ:54193"
+        ]
+      }
+    },
+    "institution_id": "arbeiterzeitung-archiv",
+    "pipeline_id": "arbeiterzeitung-archiv"
+  }
+]

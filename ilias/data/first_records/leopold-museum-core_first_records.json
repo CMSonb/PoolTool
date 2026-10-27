@@ -1,0 +1,403 @@
+[
+  {
+    "kp_id": "c38b8184-57a2-409d-9339-1a696db575fa",
+    "src_id": "#4576",
+    "content": {
+      "id": "https://id.kulturpool.at/c38b8184-57a2-409d-9339-1a696db575fa/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "dcRights": [
+        {
+          "@value": "Foto: CC By-NC-ND",
+          "@language": "de"
+        },
+        {
+          "@value": "Photo: CC By-NC-ND",
+          "@language": "en"
+        }
+      ],
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "isShownAt": "https://onlinecollection.leopoldmuseum.org/objekt/4576",
+      "isShownBy": {
+        "id": "https://onlinecollection.leopoldmuseum.org/images/web-lm-04471-edm.webp",
+        "type": "WebResource",
+        "dcType": [
+          "image"
+        ],
+        "format": [
+          "image/webp"
+        ],
+        "dcRights": [
+          {
+            "@value": "Leopold Museum, Vienna",
+            "@language": "en"
+          },
+          {
+            "@value": "Leopold Museum, Wien",
+            "@language": "de"
+          }
+        ]
+      },
+      "dataProvider": "Leopold Museum - Privatstiftung",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/c38b8184-57a2-409d-9339-1a696db575fa/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Luster Vase",
+            "@language": "en"
+          },
+          {
+            "@value": "Lüstervase",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          {
+            "@value": "Arts and crafts",
+            "@language": "en"
+          },
+          {
+            "@value": "Kunstgewerbe",
+            "@language": "de"
+          }
+        ],
+        "extent": [
+          {
+            "@value": "28,8 x 12,2 x 12,2 cm",
+            "@language": "de"
+          },
+          {
+            "@value": "28.8 x 12.2 x 12.2 cm",
+            "@language": "en"
+          }
+        ],
+        "created": [
+          {
+            "@value": "undated",
+            "@language": "en"
+          },
+          {
+            "@value": "undatiert",
+            "@language": "de"
+          }
+        ],
+        "creator": [
+          {
+            "@value": "Johann Lötz",
+            "@language": "de"
+          },
+          {
+            "@value": "Johann Lötz",
+            "@language": "en"
+          }
+        ],
+        "edmType": "IMAGE",
+        "identifier": [
+          "#4576"
+        ],
+        "provenance": [
+          {
+            "@value": "Dr. Rudolf Leopold, Wien (o.D.); \nLeopold Museum-Privatstiftung, Wien (seit 1994).",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "leopold-museum-privatstiftung",
+    "pipeline_id": "leopold-museum-core"
+  },
+  {
+    "kp_id": "fb1e92fb-654a-4144-82a5-f90a9e86721a",
+    "src_id": "#35079",
+    "content": {
+      "id": "https://id.kulturpool.at/fb1e92fb-654a-4144-82a5-f90a9e86721a/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "dcRights": [
+        {
+          "@value": "Foto: CC By-NC-ND",
+          "@language": "de"
+        },
+        {
+          "@value": "Photo: CC By-NC-ND",
+          "@language": "en"
+        }
+      ],
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "isShownAt": "https://onlinecollection.leopoldmuseum.org/objekt/35079",
+      "isShownBy": {
+        "id": "https://onlinecollection.leopoldmuseum.org/images/web-lm-07857-edm.webp",
+        "type": "WebResource",
+        "dcType": [
+          "image"
+        ],
+        "format": [
+          "image/webp"
+        ],
+        "dcRights": [
+          {
+            "@value": "Leopold Museum, Vienna",
+            "@language": "en"
+          },
+          {
+            "@value": "Leopold Museum, Wien",
+            "@language": "de"
+          }
+        ]
+      },
+      "dataProvider": "Leopold Museum - Privatstiftung",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/fb1e92fb-654a-4144-82a5-f90a9e86721a/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Brief von Egon Schiele an Hans Böhler",
+            "@language": "de"
+          },
+          {
+            "@value": "Letter from Egon Schiele to Hans Böhler",
+            "@language": "en"
+          }
+        ],
+        "dcType": [
+          {
+            "@value": "Autograf",
+            "@language": "de"
+          },
+          {
+            "@value": "Autograph",
+            "@language": "en"
+          }
+        ],
+        "extent": [
+          {
+            "@value": "22,7 x 17,6 cm",
+            "@language": "de"
+          },
+          {
+            "@value": "22.7 x 17.6 cm",
+            "@language": "en"
+          }
+        ],
+        "created": [
+          {
+            "@value": "24.11.1917",
+            "@language": "de"
+          },
+          {
+            "@value": "24th Nov. 1917",
+            "@language": "en"
+          }
+        ],
+        "creator": [
+          {
+            "id": "https://d-nb.info/gnd/118607499",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Schiele, Egon",
+                "@language": "de"
+              }
+            ]
+          },
+          {
+            "id": "https://d-nb.info/gnd/118850369",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Böhler, Hans",
+                "@language": "de"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "identifier": [
+          "#35079"
+        ],
+        "provenance": [
+          {
+            "@value": "Privatsammlung Leopold, Wien; (1)\nLeopold Museum-Privatstiftung, Wien (2023)\n\n1) Archiv des Leopold Museums, Rechnung Nr. 01-2023 vom 18.04.2023",
+            "@language": "de"
+          }
+        ],
+        "description": [
+          {
+            "@value": "Transkription: \n\n24. November\n\nLieber Hans Böhler!\nBilder die wir getauscht \nhaben – sind für mich\nunverkäuflich. – Was\nmacht unsere Porträtsitzung?\nFreundliche Grüße\nEGON\nSCHIELE\n1917",
+            "@language": "de"
+          },
+          {
+            "@value": "Translation of the Transcription:\n\n24th November\n\nDear Hans Böhler!\nAny pictures we have traded – are not for sale, as far as I am concerned. – What about our portrait session?\nKind regards,\nEGON\nSCHIELE\n1917",
+            "@language": "en"
+          }
+        ]
+      }
+    },
+    "institution_id": "leopold-museum-privatstiftung",
+    "pipeline_id": "leopold-museum-core"
+  },
+  {
+    "kp_id": "a0e6e712-2724-44dc-bfab-33c4d436bbae",
+    "src_id": "#33246",
+    "content": {
+      "id": "https://id.kulturpool.at/a0e6e712-2724-44dc-bfab-33c4d436bbae/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "dcRights": [
+        {
+          "@value": "Foto: CC By-NC-ND",
+          "@language": "de"
+        },
+        {
+          "@value": "Photo: CC By-NC-ND",
+          "@language": "en"
+        }
+      ],
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "isShownAt": "https://onlinecollection.leopoldmuseum.org/objekt/33246",
+      "isShownBy": {
+        "id": "https://onlinecollection.leopoldmuseum.org/images/web-lm-07646-edm.webp",
+        "type": "WebResource",
+        "dcType": [
+          "image"
+        ],
+        "format": [
+          "image/webp"
+        ],
+        "dcRights": [
+          {
+            "@value": "Leopold Museum, Vienna",
+            "@language": "en"
+          },
+          {
+            "@value": "Leopold Museum, Wien",
+            "@language": "de"
+          }
+        ]
+      },
+      "dataProvider": "Leopold Museum - Privatstiftung",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/a0e6e712-2724-44dc-bfab-33c4d436bbae/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Postcard from Edith and Egon Schiele and Adele Harms to Josefine Harms",
+            "@language": "en"
+          },
+          {
+            "@value": "Postkarte von Edith und Egon Schiele und Adele Harms an Josefine Harms",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          {
+            "@value": "Autograf",
+            "@language": "de"
+          },
+          {
+            "@value": "Autograph",
+            "@language": "en"
+          }
+        ],
+        "extent": [
+          {
+            "@value": "8,9 x 13,8 cm",
+            "@language": "de"
+          },
+          {
+            "@value": "8.9 x 13.8 cm",
+            "@language": "en"
+          }
+        ],
+        "created": [
+          {
+            "@value": "undated",
+            "@language": "en"
+          },
+          {
+            "@value": "undatiert",
+            "@language": "de"
+          }
+        ],
+        "creator": [
+          {
+            "id": "https://d-nb.info/gnd/139568166",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Schiele, Edith",
+                "@language": "de"
+              }
+            ]
+          },
+          {
+            "id": "https://d-nb.info/gnd/118607499",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Schiele, Egon",
+                "@language": "de"
+              }
+            ]
+          },
+          {
+            "id": "https://d-nb.info/gnd/116603364",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Fleischmann, Trude",
+                "@language": "de"
+              }
+            ]
+          },
+          {
+            "@value": "Josefine Harms",
+            "@language": "de"
+          },
+          {
+            "@value": "Josefine Harms",
+            "@language": "en"
+          }
+        ],
+        "edmType": "IMAGE",
+        "identifier": [
+          "#33246"
+        ],
+        "provenance": [
+          {
+            "@value": "Privatsammlung Leopold, Wien; (1)\nLeopold Museum-Privatstiftung, Wien (2023)\n\n1) Archiv des Leopold Museums, Rechnung Nr. 01-2023 vom 18.04.2023",
+            "@language": "de"
+          }
+        ],
+        "description": [
+          {
+            "@value": "Transkription:\n\nHerzlichste Grüße EGON. [Schiele]\n\nViele Küsse \nDela [Adele Harms]\n\nLiebe süße Mami,\nHeute sind wir hierher \nwo es bedeutend \nschöner als in Klagen-\nfurt ist. Morgen \nNachmittag fahren \nwir nach Wien, ich \nfreue mich wieder \nbald bei Dir zu sein.\nViele viele Bussi Deine E [Edith Schiele]\n\n[Adressblock:]\nAn\nJosefine Harms \nWien XIII \nHietzinger Hauptst[raße]\n114",
+            "@language": "de"
+          },
+          {
+            "@value": "Translation of the Transcription:\n\nBest regards, EGON. [Schiele]\n\nMany kisses, \nDela [Adele Harms]|\n\nMy dear sweet Mami,\nWe came here today and it is much nicer here than in Klagenfurt. We will leave for Vienna tomorrow afternoon, I am looking forward to seeing you again soon.\nMany, many kisses, Yours E [Edith Schiele]\n\n[Address block:]\nTo\nJosefine Harms \nVienna XIII\nHietzinger Hauptst[raße]\n114",
+            "@language": "en"
+          }
+        ]
+      }
+    },
+    "institution_id": "leopold-museum-privatstiftung",
+    "pipeline_id": "leopold-museum-core"
+  }
+]

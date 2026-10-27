@@ -1,0 +1,300 @@
+[
+  {
+    "kp_id": "10b78f34-bf28-4014-b305-82e6ba1a4dd2",
+    "src_id": "at.ac.uibk.fiba.schroedinger:104",
+    "content": {
+      "id": "https://id.kulturpool.at/d7023f21-d728-487f-a3cf-6fa550a8cad0/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "dcRights": [
+        {
+          "@value": "Dieses Objekt ist durch das Urheberrecht und/oder verwandte Schutzrechte geschützt. Sie sind berechtigt, das Objekt in jeder Form zu nutzen, die das Urheberrechtsgesetz und/oder einschlägige verwandte Schutzrechte gestatten. Für weitere Nutzungsarten benötigen Sie die Zustimmung der/des Rechteinhaber/s. Nachdem die Rechtslage für die einzelnen Objekte unterschiedlich ist, wenden Sie sich bitte für weitere Informationen an das Forschungsinstitut Brenner-Archiv. E-Mail: sekretariat-brenner-archiv@uibk.ac.at",
+          "@language": "de"
+        }
+      ],
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://schroedinger.literaturtirol.at/omekas/s/nachlassliste/item/104",
+      "isShownBy": {
+        "id": "https://schroedinger.literaturtirol.at/omekas/iiif/2/105/full/full/0/default.jpg",
+        "type": "WebResource",
+        "hasService": {
+          "id": "https://schroedinger.literaturtirol.at/omekas/iiif/2/105",
+          "type": "Service",
+          "conformsTo": [
+            {
+              "id": "http://iiif.io/api/image"
+            }
+          ],
+          "implements": {
+            "id": "http://iiif.io/api/image/2/level2.json"
+          }
+        },
+        "isReferencedBy": [
+          {
+            "id": "https://schroedinger.literaturtirol.at/omekas/iiif/2/104/manifest"
+          }
+        ]
+      },
+      "dataProvider": "Brenner-Forum – Unterstützungsverein des Forschungsinstituts Brenner-Archiv",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/d7023f21-d728-487f-a3cf-6fa550a8cad0/cho",
+        "date": [
+          {
+            "@value": "um 1850 - 1920",
+            "@language": "de"
+          }
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "[leere Fotoalbumseite]",
+            "@language": "de"
+          }
+        ],
+        "extent": [
+          {
+            "@value": "1 Album Doppelseite",
+            "@language": "de"
+          }
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "id": "https://d-nb.info/gnd/4045895-7",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Fotografie",
+                "@language": "de"
+              }
+            ]
+          }
+        ],
+        "temporal": [
+          {
+            "@value": "um 1850 - 1920",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "271-047-001-001-014"
+        ],
+        "description": [
+          {
+            "@value": "Fotografien mit dem Vermerk \"Alexander Bauer\" sowie \"Hermine Munsch\" wurden entfernt",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "verein-brenner-forum",
+    "pipeline_id": "brenner-forum-schroedinger"
+  },
+  {
+    "kp_id": "58b1c7f7-a3e5-48fa-a8be-a92344fcef60",
+    "src_id": "at.ac.uibk.fiba.schroedinger:1441",
+    "content": {
+      "id": "https://id.kulturpool.at/33202abc-cc10-45a6-a9f3-5a49602ec29a/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "dcRights": [
+        {
+          "@value": "Dieses Objekt ist durch das Urheberrecht und/oder verwandte Schutzrechte geschützt. Sie sind berechtigt, das Objekt in jeder Form zu nutzen, die das Urheberrechtsgesetz und/oder einschlägige verwandte Schutzrechte gestatten. Für weitere Nutzungsarten benötigen Sie die Zustimmung der/des Rechteinhaber/s. Nachdem die Rechtslage für die einzelnen Objekte unterschiedlich ist, wenden Sie sich bitte für weitere Informationen an das Forschungsinstitut Brenner-Archiv. E-Mail: sekretariat-brenner-archiv@uibk.ac.at",
+          "@language": "de"
+        }
+      ],
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://schroedinger.literaturtirol.at/omekas/s/nachlassliste/item/1441",
+      "isShownBy": {
+        "id": "https://schroedinger.literaturtirol.at/omekas/iiif/2/1442/full/full/0/default.jpg",
+        "type": "WebResource",
+        "hasService": {
+          "id": "https://schroedinger.literaturtirol.at/omekas/iiif/2/1442",
+          "type": "Service",
+          "conformsTo": [
+            {
+              "id": "http://iiif.io/api/image"
+            }
+          ],
+          "implements": {
+            "id": "http://iiif.io/api/image/2/level2.json"
+          }
+        },
+        "isReferencedBy": [
+          {
+            "id": "https://schroedinger.literaturtirol.at/omekas/iiif/2/1441/manifest"
+          }
+        ]
+      },
+      "dataProvider": "Brenner-Forum – Unterstützungsverein des Forschungsinstituts Brenner-Archiv",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/33202abc-cc10-45a6-a9f3-5a49602ec29a/cho",
+        "date": [
+          {
+            "@value": "20. Jahrhundert",
+            "@language": "de"
+          }
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "[Landschaftsfotografie Schottland]",
+            "@language": "de"
+          }
+        ],
+        "extent": [
+          {
+            "@value": "1 Fotografie",
+            "@language": "de"
+          }
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          {
+            "id": "https://d-nb.info/gnd/4053233-1",
+            "type": "Place",
+            "prefLabel": [
+              {
+                "@value": "Schottland",
+                "@language": "de"
+              }
+            ]
+          }
+        ],
+        "subject": [
+          {
+            "id": "https://d-nb.info/gnd/4132170-4",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Landschaftsfotografie",
+                "@language": "de"
+              }
+            ]
+          }
+        ],
+        "temporal": [
+          {
+            "@value": "20. Jahrhundert",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "271-060-029-001-003"
+        ]
+      }
+    },
+    "institution_id": "verein-brenner-forum",
+    "pipeline_id": "brenner-forum-schroedinger"
+  },
+  {
+    "kp_id": "74eac5f9-e125-47a9-8a1c-56263fc03e37",
+    "src_id": "at.ac.uibk.fiba.schroedinger:1127",
+    "content": {
+      "id": "https://id.kulturpool.at/d647caf8-26e5-4647-963a-ff1227924164/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "dcRights": [
+        {
+          "@value": "Dieses Objekt ist durch das Urheberrecht und/oder verwandte Schutzrechte geschützt. Sie sind berechtigt, das Objekt in jeder Form zu nutzen, die das Urheberrechtsgesetz und/oder einschlägige verwandte Schutzrechte gestatten. Für weitere Nutzungsarten benötigen Sie die Zustimmung der/des Rechteinhaber/s. Nachdem die Rechtslage für die einzelnen Objekte unterschiedlich ist, wenden Sie sich bitte für weitere Informationen an das Forschungsinstitut Brenner-Archiv. E-Mail: sekretariat-brenner-archiv@uibk.ac.at",
+          "@language": "de"
+        }
+      ],
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://schroedinger.literaturtirol.at/omekas/s/nachlassliste/item/1127",
+      "isShownBy": {
+        "id": "https://schroedinger.literaturtirol.at/omekas/iiif/2/1128/full/full/0/default.jpg",
+        "type": "WebResource",
+        "hasService": {
+          "id": "https://schroedinger.literaturtirol.at/omekas/iiif/2/1128",
+          "type": "Service",
+          "conformsTo": [
+            {
+              "id": "http://iiif.io/api/image"
+            }
+          ],
+          "implements": {
+            "id": "http://iiif.io/api/image/2/level2.json"
+          }
+        },
+        "isReferencedBy": [
+          {
+            "id": "https://schroedinger.literaturtirol.at/omekas/iiif/2/1127/manifest"
+          }
+        ]
+      },
+      "dataProvider": "Brenner-Forum – Unterstützungsverein des Forschungsinstituts Brenner-Archiv",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/d647caf8-26e5-4647-963a-ff1227924164/cho",
+        "date": [
+          {
+            "@value": "1954",
+            "@language": "de"
+          }
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "[Fotografie Kirche]",
+            "@language": "de"
+          }
+        ],
+        "extent": [
+          {
+            "@value": "1 Albumseite",
+            "@language": "de"
+          }
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "id": "https://d-nb.info/gnd/4045895-7",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Fotografie",
+                "@language": "de"
+              }
+            ]
+          },
+          {
+            "id": "https://d-nb.info/gnd/4219550-0",
+            "type": "Concept",
+            "prefLabel": [
+              {
+                "@value": "Fotoalbum",
+                "@language": "de"
+              }
+            ]
+          }
+        ],
+        "temporal": [
+          {
+            "@value": "1954",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "271-050-009-001-050"
+        ]
+      }
+    },
+    "institution_id": "verein-brenner-forum",
+    "pipeline_id": "brenner-forum-schroedinger"
+  }
+]

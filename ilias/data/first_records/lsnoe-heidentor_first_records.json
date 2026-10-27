@@ -1,0 +1,781 @@
+[
+  {
+    "kp_id": "b9334a61-75b4-44d9-aac4-f91de7305632",
+    "src_id": "heidentor-03",
+    "content": {
+      "id": "https://id.kulturpool.at/b9334a61-75b4-44d9-aac4-f91de7305632/aggregation",
+      "type": "Aggregation",
+      "object": "https://media.sketchfab.com/models/f2bc6f224321401a88ff13fc43db2951/thumbnails/c7df60d3a78f4c1a9edb6e10222396f5/7496ab376f964d3c9dc510c94949112a.jpeg",
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": "Kulturpool",
+      "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "isShownAt": "https://sketchfab.com/3d-models/the-heidentor-in-the-early-19th-century-f2bc6f224321401a88ff13fc43db2951",
+      "isShownBy": "https://sketchfab.com/models/f2bc6f224321401a88ff13fc43db2951/embed?autostart=1&ui_infos=0&ui_watermark=0&ui_stop=1&ui_help=0&ui_vr=0&ui_settings=1&ui_inspector=0&ui_animations=1&ui_annotations=0&ui_hint=2",
+      "dataProvider": "Landessammlungen Niederösterreich",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/b9334a61-75b4-44d9-aac4-f91de7305632/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "The Heidentor in the early 19th century",
+            "@language": "en"
+          },
+          {
+            "@value": "Das Heidentor zu Beginn des 19. Jahrhunderts",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          {
+            "@value": "Reconstruction",
+            "@language": "en"
+          },
+          {
+            "@value": "Triumphal monument",
+            "@language": "en"
+          },
+          {
+            "@value": "Building",
+            "@language": "en"
+          },
+          {
+            "@value": "Ruine",
+            "@language": "de"
+          },
+          {
+            "@value": "Triumphalmonument",
+            "@language": "de"
+          },
+          {
+            "@value": "Bauwerk",
+            "@language": "de"
+          }
+        ],
+        "sameAs": [
+          "https://www.wikidata.org/wiki/Q1594216",
+          "https://imperium.ahlfeldt.se/places/21315.html",
+          "https://pleiades.stoa.org/places/135386091",
+          "https://d-nb.info/gnd/4653349-7"
+        ],
+        "created": [
+          {
+            "id": "#timespan-351-361",
+            "end": "0361",
+            "type": "TimeSpan",
+            "begin": "0351",
+            "prefLabel": [
+              {
+                "@value": "351-361 AD",
+                "@language": "en"
+              },
+              {
+                "@value": "351-361 n. Chr.",
+                "@language": "de"
+              }
+            ]
+          }
+        ],
+        "edmType": "3D",
+        "spatial": [
+          {
+            "id": "https://sws.geonames.org/2769013/",
+            "lat": "48.11296",
+            "long": "16.86582",
+            "type": "Place",
+            "prefLabel": [
+              "Petronell-Carnuntum"
+            ]
+          },
+          {
+            "id": "https://sws.geonames.org/2776602/",
+            "lat": "48.1",
+            "long": "16.85",
+            "type": "Place",
+            "prefLabel": [
+              "Heidentor"
+            ]
+          }
+        ],
+        "subject": [
+          {
+            "@value": "4th century architecture",
+            "@language": "en"
+          },
+          {
+            "@value": "Late Roman Empire",
+            "@language": "en"
+          },
+          {
+            "@value": "Archaeological site",
+            "@language": "en"
+          },
+          {
+            "@value": "Historical landmark",
+            "@language": "en"
+          },
+          {
+            "@value": "Tourist attraction in Austria",
+            "@language": "en"
+          },
+          {
+            "@value": "Preservation of historical monuments",
+            "@language": "en"
+          },
+          {
+            "@value": "Architectural conservation",
+            "@language": "en"
+          },
+          {
+            "@value": "Carnuntum Archaeological Park",
+            "@language": "en"
+          },
+          {
+            "@value": "Military history of the Roman Empire",
+            "@language": "en"
+          },
+          {
+            "@value": "Imperial Rome",
+            "@language": "en"
+          },
+          {
+            "@value": "Carnuntum",
+            "@language": "en"
+          },
+          {
+            "@value": "Roman engineering",
+            "@language": "en"
+          },
+          {
+            "@value": "Reconstruction ",
+            "@language": "en"
+          },
+          {
+            "@value": "4. Jh. Architektur",
+            "@language": "de"
+          },
+          {
+            "@value": "Spätrömisches Reich",
+            "@language": "de"
+          },
+          {
+            "@value": "Archäologische Stätte",
+            "@language": "de"
+          },
+          {
+            "@value": "Historisches Wahrzeichen",
+            "@language": "de"
+          },
+          {
+            "@value": "Touristenattraktion in Österreich",
+            "@language": "de"
+          },
+          {
+            "@value": "Erhaltung historischer Denkmäler",
+            "@language": "de"
+          },
+          {
+            "@value": "Baudenkmalpflege",
+            "@language": "de"
+          },
+          {
+            "@value": "Archäologischer Park Carnuntum",
+            "@language": "de"
+          },
+          {
+            "@value": "Militärgeschichte des Römischen Reiches",
+            "@language": "de"
+          },
+          {
+            "@value": "Kaiserliches Rom",
+            "@language": "de"
+          },
+          {
+            "@value": "Carnuntum",
+            "@language": "de"
+          },
+          {
+            "@value": "Römische Technik",
+            "@language": "de"
+          },
+          {
+            "@value": "Rekonstruktion",
+            "@language": "de"
+          },
+          {
+            "id": "http://vocab.getty.edu/tgn/7032538"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300020541"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300007003"
+          },
+          {
+            "id": "http://vocab.getty.edu/ulan/500355678"
+          },
+          {
+            "id": "http://vocab.getty.edu/tgn/4008442"
+          }
+        ],
+        "temporal": [
+          {
+            "@value": "Roman Empire",
+            "@language": "en"
+          },
+          {
+            "@value": "Römisches Reich",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "heidentor-03"
+        ],
+        "contributor": [
+          {
+            "@value": "Roman Emperor Constantius II.",
+            "@language": "en"
+          },
+          {
+            "@value": "Römischer Kaiser Constantius II.",
+            "@language": "de"
+          }
+        ],
+        "description": [
+          {
+            "@value": "The 3D model was based on a watercolor by Rudolf von Alt from 1837, showing the Heidentor from the west, around the time of the grain harvest. The building stands on a conical mound of rubble. The large lintel block can be seen directly behind the south-western pillar. In addition, a watercolor by Jakob von Alt (father of Rudolf von Alt) was used as a template for the design of the eastern side of the view.",
+            "@language": "en"
+          },
+          {
+            "@value": "Ein 3D Digitalisat des Heidentors basierend auf einem Aquarell von Rudolf von Alt (1837) sowie dessen Vater Jakob von Alt (1810/1820). Beide noch stehenden Pfeiler sind im unteren Bereich bereits sehr stark ausgedünnt, der südliche wesentlich stärker als der nördliche, was somit den Höhepunkt des Steinraubes gut dokumentiert.",
+            "@language": "de"
+          }
+        ],
+        "currentLocation": {
+          "id": "https://sws.geonames.org/2776602/",
+          "lat": "48.1",
+          "long": "16.85",
+          "type": "Place",
+          "prefLabel": [
+            "Heidentor"
+          ]
+        }
+      }
+    },
+    "institution_id": "landessammlungen-niederoesterreich",
+    "pipeline_id": "lsnoe-heidentor"
+  },
+  {
+    "kp_id": "5768a39f-3816-469c-b0ca-fe410f6204ad",
+    "src_id": "heidentor-04",
+    "content": {
+      "id": "https://id.kulturpool.at/5768a39f-3816-469c-b0ca-fe410f6204ad/aggregation",
+      "type": "Aggregation",
+      "object": "https://media.sketchfab.com/models/94e413899ba84860b749f89ebb3f5145/thumbnails/56c1a591369841c992db401266ed0ff9/0fb7f2c4c42141e1960adc73fe2b0084.jpeg",
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": "Kulturpool",
+      "edmRights": "http://creativecommons.org/licenses/by-nc/4.0/",
+      "isShownAt": "https://sketchfab.com/3d-models/the-heidentor-at-the-end-of-the-19th-century-94e413899ba84860b749f89ebb3f5145",
+      "isShownBy": "https://sketchfab.com/models/94e413899ba84860b749f89ebb3f5145/embed?autostart=1&ui_infos=0&ui_watermark=0&ui_stop=1&ui_help=0&ui_vr=0&ui_settings=1&ui_inspector=0&ui_animations=1&ui_annotations=0&ui_hint=2",
+      "dataProvider": "Landessammlungen Niederösterreich",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/5768a39f-3816-469c-b0ca-fe410f6204ad/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "The Heidentor at the end of the 19th century",
+            "@language": "en"
+          },
+          {
+            "@value": "Das Heidentor Ende des 19. Jahrhunderts",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          {
+            "@value": "Reconstruction",
+            "@language": "en"
+          },
+          {
+            "@value": "Triumphal monument",
+            "@language": "en"
+          },
+          {
+            "@value": "Building",
+            "@language": "en"
+          },
+          {
+            "@value": "Ruine",
+            "@language": "de"
+          },
+          {
+            "@value": "Triumphalmonument",
+            "@language": "de"
+          },
+          {
+            "@value": "Bauwerk",
+            "@language": "de"
+          }
+        ],
+        "sameAs": [
+          "https://www.wikidata.org/wiki/Q1594216",
+          "https://imperium.ahlfeldt.se/places/21315.html",
+          "https://pleiades.stoa.org/places/135386091",
+          "https://d-nb.info/gnd/4653349-7"
+        ],
+        "created": [
+          {
+            "id": "#timespan-351-361",
+            "end": "0361",
+            "type": "TimeSpan",
+            "begin": "0351",
+            "prefLabel": [
+              {
+                "@value": "351-361 AD",
+                "@language": "en"
+              },
+              {
+                "@value": "351-361 n. Chr.",
+                "@language": "de"
+              }
+            ]
+          }
+        ],
+        "edmType": "3D",
+        "spatial": [
+          {
+            "id": "https://sws.geonames.org/2769013/",
+            "lat": "48.11296",
+            "long": "16.86582",
+            "type": "Place",
+            "prefLabel": [
+              "Petronell-Carnuntum"
+            ]
+          },
+          {
+            "id": "https://sws.geonames.org/2776602/",
+            "lat": "48.1",
+            "long": "16.85",
+            "type": "Place",
+            "prefLabel": [
+              "Heidentor"
+            ]
+          }
+        ],
+        "subject": [
+          {
+            "@value": "4th century architecture",
+            "@language": "en"
+          },
+          {
+            "@value": "Late Roman Empire",
+            "@language": "en"
+          },
+          {
+            "@value": "Archaeological site",
+            "@language": "en"
+          },
+          {
+            "@value": "Historical landmark",
+            "@language": "en"
+          },
+          {
+            "@value": "Tourist attraction in Austria",
+            "@language": "en"
+          },
+          {
+            "@value": "Preservation of historical monuments",
+            "@language": "en"
+          },
+          {
+            "@value": "Architectural conservation",
+            "@language": "en"
+          },
+          {
+            "@value": "Carnuntum Archaeological Park",
+            "@language": "en"
+          },
+          {
+            "@value": "Military history of the Roman Empire",
+            "@language": "en"
+          },
+          {
+            "@value": "Imperial Rome",
+            "@language": "en"
+          },
+          {
+            "@value": "Carnuntum",
+            "@language": "en"
+          },
+          {
+            "@value": "Roman engineering",
+            "@language": "en"
+          },
+          {
+            "@value": "Reconstruction ",
+            "@language": "en"
+          },
+          {
+            "@value": "4. Jh. Architektur",
+            "@language": "de"
+          },
+          {
+            "@value": "Spätrömisches Reich",
+            "@language": "de"
+          },
+          {
+            "@value": "Archäologische Stätte",
+            "@language": "de"
+          },
+          {
+            "@value": "Historisches Wahrzeichen",
+            "@language": "de"
+          },
+          {
+            "@value": "Touristenattraktion in Österreich",
+            "@language": "de"
+          },
+          {
+            "@value": "Erhaltung historischer Denkmäler",
+            "@language": "de"
+          },
+          {
+            "@value": "Baudenkmalpflege",
+            "@language": "de"
+          },
+          {
+            "@value": "Archäologischer Park Carnuntum",
+            "@language": "de"
+          },
+          {
+            "@value": "Militärgeschichte des Römischen Reiches",
+            "@language": "de"
+          },
+          {
+            "@value": "Kaiserliches Rom",
+            "@language": "de"
+          },
+          {
+            "@value": "Carnuntum",
+            "@language": "de"
+          },
+          {
+            "@value": "Römische Technik",
+            "@language": "de"
+          },
+          {
+            "@value": "Rekonstruktion",
+            "@language": "de"
+          },
+          {
+            "id": "http://vocab.getty.edu/tgn/7032538"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300020541"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300007003"
+          },
+          {
+            "id": "http://vocab.getty.edu/ulan/500355678"
+          },
+          {
+            "id": "http://vocab.getty.edu/tgn/4008442"
+          }
+        ],
+        "temporal": [
+          {
+            "@value": "Roman Empire",
+            "@language": "en"
+          },
+          {
+            "@value": "Römisches Reich",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "heidentor-04"
+        ],
+        "contributor": [
+          {
+            "@value": "Roman Emperor Constantius II.",
+            "@language": "en"
+          },
+          {
+            "@value": "Römischer Kaiser Constantius II.",
+            "@language": "de"
+          }
+        ],
+        "description": [
+          {
+            "@value": "3D model based on lithographs from around 1869. Between 1843 and 1846, Anton Widter commissioned the first restoration and conversion work on the Heidentor, whose stability and statics had been severely compromised by centuries of stone robbery. This was the first systematic and privately financed conservation work on a Roman stone monument in Austria. Anton Widter had the ancient pillar remains encased in supporting masonry.",
+            "@language": "en"
+          },
+          {
+            "@value": "Ein 3D Digitalisat des Heidentors um 1869 nach den ersten beiden historischen Restaurierungs- und Konservierungsmaßnahmen, die je an einem römischen Bauwerk in Österreich vorgenommen wurden. Beauftragt wurden diese vom Wiener Industriellen Anton Widter, der die Aufmauerungen der beiden noch stehenden Pfeilersockeln sowie Stabilisierungsmaßnahmen an der Westseite des südlichen Pfeilers finanzierte.",
+            "@language": "de"
+          }
+        ],
+        "currentLocation": {
+          "id": "https://sws.geonames.org/2776602/",
+          "lat": "48.1",
+          "long": "16.85",
+          "type": "Place",
+          "prefLabel": [
+            "Heidentor"
+          ]
+        }
+      }
+    },
+    "institution_id": "landessammlungen-niederoesterreich",
+    "pipeline_id": "lsnoe-heidentor"
+  },
+  {
+    "kp_id": "f9c85819-e8be-4623-8fb6-535e4083ffd2",
+    "src_id": "heidentor-01",
+    "content": {
+      "id": "https://id.kulturpool.at/f9c85819-e8be-4623-8fb6-535e4083ffd2/aggregation",
+      "type": "Aggregation",
+      "object": "https://media.sketchfab.com/models/807a34403d12449ea667f3c586d47a98/thumbnails/a0e4faeb2c3340aab103444924875e93/06e08c1d459549c9886b5e6dbb2e26de.jpeg",
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": "Kulturpool",
+      "edmRights": "http://creativecommons.org/licenses/by-sa/4.0/",
+      "isShownAt": "https://sketchfab.com/models/807a34403d12449ea667f3c586d47a98",
+      "isShownBy": "https://sketchfab.com/models/807a34403d12449ea667f3c586d47a98/embed?autostart=1&ui_infos=0&ui_watermark=0&ui_stop=1&ui_help=0&ui_vr=0&ui_inspector=0&ui_animations=1&ui_annotations=1&ui_hint=2",
+      "dataProvider": "Landessammlungen Niederösterreich",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/f9c85819-e8be-4623-8fb6-535e4083ffd2/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "The Heidentor in Petronell-Carnuntum",
+            "@language": "en"
+          },
+          {
+            "@value": "Das Heidentor von Petronell-Carnuntum",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          {
+            "@value": "Ruin",
+            "@language": "en"
+          },
+          {
+            "@value": "Triumphal monument",
+            "@language": "en"
+          },
+          {
+            "@value": "Building",
+            "@language": "en"
+          },
+          {
+            "@value": "Ruine",
+            "@language": "de"
+          },
+          {
+            "@value": "Triumphalmonument",
+            "@language": "de"
+          },
+          {
+            "@value": "Bauwerk",
+            "@language": "de"
+          }
+        ],
+        "sameAs": [
+          "https://www.wikidata.org/wiki/Q1594216",
+          "https://imperium.ahlfeldt.se/places/21315.html",
+          "https://pleiades.stoa.org/places/135386091",
+          "https://d-nb.info/gnd/4653349-7"
+        ],
+        "created": [
+          {
+            "id": "timespan-351-361",
+            "end": "0361",
+            "type": "TimeSpan",
+            "begin": "0351",
+            "prefLabel": [
+              {
+                "@value": "351-361 AD",
+                "@language": "en"
+              },
+              {
+                "@value": "351-361 n. Chr.",
+                "@language": "de"
+              }
+            ]
+          }
+        ],
+        "edmType": "3D",
+        "spatial": [
+          {
+            "id": "https://sws.geonames.org/2769013/",
+            "lat": "48.11296",
+            "long": "16.86582",
+            "type": "Place",
+            "prefLabel": [
+              "Petronell-Carnuntum"
+            ]
+          },
+          {
+            "id": "https://sws.geonames.org/2776602/",
+            "lat": "48.1",
+            "long": "16.85",
+            "type": "Place",
+            "prefLabel": [
+              "Heidentor"
+            ]
+          }
+        ],
+        "subject": [
+          {
+            "@value": "4th century architecture",
+            "@language": "en"
+          },
+          {
+            "@value": "Late Roman Empire",
+            "@language": "en"
+          },
+          {
+            "@value": "Archaeological site",
+            "@language": "en"
+          },
+          {
+            "@value": "Historical landmark",
+            "@language": "en"
+          },
+          {
+            "@value": "Tourist attraction in Austria",
+            "@language": "en"
+          },
+          {
+            "@value": "Preservation of historical monuments",
+            "@language": "en"
+          },
+          {
+            "@value": "Architectural conservation",
+            "@language": "en"
+          },
+          {
+            "@value": "Carnuntum Archaeological Park",
+            "@language": "en"
+          },
+          {
+            "@value": "Military history of the Roman Empire",
+            "@language": "en"
+          },
+          {
+            "@value": "Imperial Rome",
+            "@language": "en"
+          },
+          {
+            "@value": "Roman engineering",
+            "@language": "en"
+          },
+          {
+            "@value": "4. Jh. Architektur",
+            "@language": "de"
+          },
+          {
+            "@value": "Spätrömisches Reich",
+            "@language": "de"
+          },
+          {
+            "@value": "Archäologische Stätte",
+            "@language": "de"
+          },
+          {
+            "@value": "Historisches Wahrzeichen",
+            "@language": "de"
+          },
+          {
+            "@value": "Touristenattraktion in Österreich",
+            "@language": "de"
+          },
+          {
+            "@value": "Erhaltung historischer Denkmäler",
+            "@language": "de"
+          },
+          {
+            "@value": "Baudenkmalpflege",
+            "@language": "de"
+          },
+          {
+            "@value": "Archäologischer Park Carnuntum",
+            "@language": "de"
+          },
+          {
+            "@value": "Militärgeschichte des Römischen Reiches",
+            "@language": "de"
+          },
+          {
+            "@value": "Kaiserliches Rom",
+            "@language": "de"
+          },
+          {
+            "@value": "Römische Technik",
+            "@language": "de"
+          },
+          {
+            "id": "http://vocab.getty.edu/tgn/7032538"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300020541"
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300007003"
+          },
+          {
+            "id": "http://vocab.getty.edu/ulan/500355678"
+          },
+          {
+            "id": "http://vocab.getty.edu/tgn/4008442"
+          }
+        ],
+        "temporal": [
+          {
+            "@value": "Roman Empire",
+            "@language": "en"
+          },
+          {
+            "@value": "Römisches Reich",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "Heidentor"
+        ],
+        "contributor": [
+          {
+            "@value": "Roman Emperor Constantius II.",
+            "@language": "en"
+          },
+          {
+            "@value": "Römischer Kaiser Constantius II.",
+            "@language": "de"
+          }
+        ],
+        "description": [
+          {
+            "@value": "The gate was originally a so-called quadrifrons, a building with four pillars and four arches.\n\nIn the center of the Heidentor there is still a massive round base on which there was probably a  statue of the emperor in ancient times.\n\nIt was built in late Roman antiquity, probably in the reign of Emperor Constantius II (351-361 AD) and had a side length and a height of around 14.5 m. Above the arches was the attic zone with small marble columns, marble consoles and sculptures and inscription fields above the arches. \n\nThe core of the four pillars consisted of Roman cast mortar and rubble, the outer shell was made of large stone and brick masonry. During restorations numerous consecration altars which have been reused as construction material. The rise of Christianity made it possible for these altars to lose their religious significance and to be seen only as cheap building materials that were already available.",
+            "@language": "en"
+          },
+          {
+            "@value": "Das Tor war ursprünglich ein sogenannter Quadrifrons, ein Bau mit vier Pfeilern und vier Torbögen. In der Mitte steht bis heute ein massiver Rundsockel, auf dem sich in antiker Zeit wahrscheinlich eine überlebensgroße Statue des Kaisers befunden hat.\n\nDas Heidentor wurde in der römischen Spätantike, vermutlich in der Regierungszeit von Kaiser Constantius II (351–361 n. Chr.), erbaut und hatte eine Seitenlänge und eine Höhe von etwa 14,5 m. Oberhalb der Bögen befand sich die Attikazone mit Säulen, Konsolen und Skulpturen aus Marmor und Inschriftenfeldern über den Bögen.\n\nDer Kern der vier Pfeiler bestand aus römischem Gussmörtel und Bruchsteinen, die Außenschale aus großen Werksteinen und Ziegelmauerwerk. Bei Restaurierungen kamen zahlreiche Weihealtäre zutage, die beim Bau des Tores wieder verwendet wurden. Durch den Aufschwung des Christentums haben diese Altäre ihre religiöse Bedeutung verloren und wurden nur mehr als bereits vorhandenes, billiges Baumaterial gesehen.",
+            "@language": "de"
+          }
+        ],
+        "currentLocation": {
+          "id": "https://sws.geonames.org/2776602/",
+          "lat": "48.1",
+          "long": "16.85",
+          "type": "Place",
+          "prefLabel": [
+            "Heidentor"
+          ]
+        }
+      }
+    },
+    "institution_id": "landessammlungen-niederoesterreich",
+    "pipeline_id": "lsnoe-heidentor"
+  }
+]

@@ -1,0 +1,389 @@
+[
+  {
+    "kp_id": "0abe8b57-3fee-467f-8dd1-39103adf29a8",
+    "src_id": "https://filr-ng.kunstuni-linz.at/rest/files/public/link/download/412ae3eb9d2bf36a019d2bf506650000?shareId=5201&passkey=6227946258636204675",
+    "content": {
+      "id": "https://id.kulturpool.at/0abe8b57-3fee-467f-8dd1-39103adf29a8/aggregation",
+      "type": "Aggregation",
+      "object": "https://filr-ng.kunstuni-linz.at/rest/files/public/412ae3eb9d2bbc7c019d2bedcf1d0009",
+      "hasView": [
+        {
+          "id": "https://filr-ng.kunstuni-linz.at/rest/files/public/412ae3eb9d687622019d6894e9e00000",
+          "type": "WebResource",
+          "dcType": [
+            {
+              "id": "http://data.europeana.eu/vocabulary/modelType/3DMesh"
+            }
+          ],
+          "edmType": "3D",
+          "temporal": [
+            "2025"
+          ],
+          "edm:polygonCount": "2000000",
+          "edm:intendedUsage": [
+            {
+              "id": "http://data.europeana.eu/vocabulary/usageArea/Knowledge"
+            },
+            {
+              "id": "http://data.europeana.eu/vocabulary/usageArea/Documentation"
+            }
+          ],
+          "schema:digitalSourceType": {
+            "id": "https://cv.iptc.org/newscodes/digitalsourcetype/digitalCapture"
+          }
+        },
+        {
+          "id": "https://sketchfab.com/oembed?url=https%3A%2F%2Fsketchfab.com%2F3d-models%2Fdiy-skatepark-st-marx-looping-50f77896a0c442f19d6508efb4aa1f64",
+          "type": "WebResource",
+          "hasService": {
+            "id": "https://sketchfab.com/oembed",
+            "type": "Service",
+            "conformsTo": [
+              {
+                "id": "https://oembed.com/"
+              }
+            ],
+            "rdfs:label": {
+              "@value": "Sketchfab Viewer",
+              "@language": "en"
+            }
+          }
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-sa/4.0/",
+      "isShownAt": "https://sketchfab.com/3d-models/diy-skatepark-st-marx-3680ab0894a84050b62f1404c29c4b28",
+      "isShownBy": {
+        "id": "https://sketchfab.com/oembed?url=https%3A%2F%2Fsketchfab.com%2F3d-models%2Fdiy-skatepark-st-marx-3680ab0894a84050b62f1404c29c4b28",
+        "type": "WebResource",
+        "hasService": {
+          "id": "https://sketchfab.com/oembed",
+          "type": "Service",
+          "conformsTo": [
+            {
+              "id": "https://oembed.com/"
+            }
+          ],
+          "rdfs:label": {
+            "@value": "Sketchfab Viewer",
+            "@language": "en"
+          }
+        },
+        "isFormatOf": [
+          {
+            "id": "https://filr-ng.kunstuni-linz.at/rest/files/public/412ae3eb9d687622019d6894e9e00000",
+            "type": "WebResource",
+            "dcType": [
+              {
+                "id": "http://data.europeana.eu/vocabulary/modelType/3DMesh"
+              }
+            ],
+            "edmType": "3D",
+            "temporal": [
+              "2025"
+            ],
+            "edm:polygonCount": "2000000",
+            "edm:intendedUsage": [
+              {
+                "id": "http://data.europeana.eu/vocabulary/usageArea/Knowledge"
+              },
+              {
+                "id": "http://data.europeana.eu/vocabulary/usageArea/Documentation"
+              }
+            ],
+            "schema:digitalSourceType": {
+              "id": "https://cv.iptc.org/newscodes/digitalsourcetype/digitalCapture"
+            }
+          }
+        ]
+      },
+      "dataProvider": "Kunstuniversität Linz",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/0abe8b57-3fee-467f-8dd1-39103adf29a8/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "DIY-Skatepark Sankt Marx",
+            "@language": "en"
+          },
+          {
+            "@value": "DIY-Skatepark Sankt Marx",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          {
+            "@value": "Skatepark",
+            "@language": "en"
+          },
+          {
+            "@value": "Skatepark",
+            "@language": "de"
+          }
+        ],
+        "edmType": "3D",
+        "spatial": [
+          {
+            "id": "https://sws.geonames.org/12216713/",
+            "lat": "48.18882",
+            "long": "16.40323",
+            "type": "Place",
+            "isPartOf": [
+              {
+                "id": "https://sws.geonames.org/2773040/"
+              }
+            ],
+            "prefLabel": [
+              "St. Marx"
+            ]
+          }
+        ],
+        "subject": [
+          {
+            "id": "http://www.wikidata.org/entity/Q1730731",
+            "type": "Place",
+            "prefLabel": [
+              {
+                "@value": "Sankt Marx",
+                "@language": "de"
+              },
+              {
+                "@value": "Sankt Marx",
+                "@language": "en"
+              },
+              {
+                "@value": "Sankt Marx",
+                "@language": "es"
+              }
+            ]
+          }
+        ],
+        "identifier": [
+          "https://www.kunstuni-linz.at/kunstforschung/gefoerderte-projekte/2025/twin-it-diy-skatepark-sankt-marx"
+        ],
+        "description": [
+          {
+            "@value": "The Sankt Marx DIY skatepark is located in Vienna and is supposed to be demolished.",
+            "@language": "en"
+          },
+          {
+            "@value": "Der DIY-Skatepark Sankt Marx befindet sich in Wien und wird voraussichtlich bald abgerissen.",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "kunstuni-linz",
+    "pipeline_id": "kunstuni-linz-twinit"
+  },
+  {
+    "kp_id": "f7312bfe-6b56-4143-b75e-90a318fad929",
+    "src_id": "https://filr-ng.kunstuni-linz.at/rest/files/public/link/download/412ae3eb9d2439e0019d243d75210005?shareId=5179&passkey=-2491875645562220855",
+    "content": {
+      "id": "https://id.kulturpool.at/f7312bfe-6b56-4143-b75e-90a318fad929/aggregation",
+      "type": "Aggregation",
+      "object": "https://filr-ng.kunstuni-linz.at/rest/files/public/412ae3eb9d1affd0019d1b2447420006",
+      "hasView": [
+        {
+          "id": "https://filr-ng.kunstuni-linz.at/rest/files/public/412ae3eb9d6bae1d019d6be0bf1c001b",
+          "type": "WebResource",
+          "dcType": [
+            {
+              "id": "http://data.europeana.eu/vocabulary/modelType/3DMesh"
+            }
+          ],
+          "edmType": "3D",
+          "temporal": [
+            "2025"
+          ],
+          "edm:polygonCount": "2000000",
+          "edm:intendedUsage": [
+            {
+              "id": "http://data.europeana.eu/vocabulary/usageArea/Knowledge"
+            },
+            {
+              "id": "http://data.europeana.eu/vocabulary/usageArea/Documentation"
+            }
+          ],
+          "schema:digitalSourceType": {
+            "id": "https://cv.iptc.org/newscodes/digitalsourcetype/digitalCapture"
+          }
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-sa/4.0/",
+      "isShownAt": "https://sketchfab.com/3d-models/goldbergkees-741a3e5b3d0a46a2af151fa105b123c9",
+      "isShownBy": {
+        "id": "https://sketchfab.com/oembed?url=https%3A%2F%2Fsketchfab.com%2F3d-models%2Fgoldbergkees-741a3e5b3d0a46a2af151fa105b123c9",
+        "type": "WebResource",
+        "hasService": {
+          "id": "https://sketchfab.com/oembed",
+          "type": "Service",
+          "conformsTo": [
+            {
+              "id": "https://oembed.com/"
+            }
+          ],
+          "rdfs:label": {
+            "@value": "Sketchfab Viewer",
+            "@language": "en"
+          }
+        },
+        "isFormatOf": [
+          {
+            "id": "https://filr-ng.kunstuni-linz.at/rest/files/public/412ae3eb9d6bae1d019d6be0bf1c001b",
+            "type": "WebResource",
+            "dcType": [
+              {
+                "id": "http://data.europeana.eu/vocabulary/modelType/3DMesh"
+              }
+            ],
+            "edmType": "3D",
+            "temporal": [
+              "2025"
+            ],
+            "edm:polygonCount": "2000000",
+            "edm:intendedUsage": [
+              {
+                "id": "http://data.europeana.eu/vocabulary/usageArea/Knowledge"
+              },
+              {
+                "id": "http://data.europeana.eu/vocabulary/usageArea/Documentation"
+              }
+            ],
+            "schema:digitalSourceType": {
+              "id": "https://cv.iptc.org/newscodes/digitalsourcetype/digitalCapture"
+            }
+          }
+        ]
+      },
+      "dataProvider": "Kunstuniversität Linz",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/f7312bfe-6b56-4143-b75e-90a318fad929/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Goldbergkees",
+            "@language": "en"
+          },
+          {
+            "@value": "Goldbergkees",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          {
+            "@value": "Glacier",
+            "@language": "en"
+          },
+          {
+            "@value": "Gletscher",
+            "@language": "de"
+          }
+        ],
+        "edmType": "3D",
+        "spatial": [
+          {
+            "id": "https://sws.geonames.org/2775680/",
+            "lat": "47.05404",
+            "long": "12.95765",
+            "type": "Place",
+            "sameAs": [
+              "http://dbpedia.org/resource/Hoher_Sonnblick"
+            ],
+            "altLabel": [
+              {
+                "@value": "Hoher Sonnblick",
+                "@language": "cs"
+              },
+              {
+                "@value": "Hoher Sonnblick",
+                "@language": "da"
+              },
+              {
+                "@value": "Hoher Sonnblick",
+                "@language": "en"
+              },
+              {
+                "@value": "Hoher Sonnblick",
+                "@language": "nl"
+              },
+              {
+                "@value": "Hoher Sonnblick",
+                "@language": "pl"
+              },
+              {
+                "@value": "Hoher Sonnblick",
+                "@language": "sv"
+              },
+              {
+                "@value": "Rauriser Sonnblick",
+                "@language": "de"
+              }
+            ],
+            "isPartOf": [
+              {
+                "id": "https://sws.geonames.org/7872247/"
+              }
+            ],
+            "prefLabel": [
+              {
+                "@value": "Hoher Sonnblick",
+                "@language": "de"
+              }
+            ]
+          },
+          {
+            "id": "http://vocab.getty.edu/tgn/1104949",
+            "type": "Place",
+            "prefLabel": [
+              {
+                "@value": "Hoher Sonnblick",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "subject": [
+          {
+            "id": "http://www.wikidata.org/entity/Q64143313",
+            "type": "Place",
+            "prefLabel": [
+              {
+                "@value": "Goldbergkees Glacier",
+                "@language": "en"
+              },
+              {
+                "@value": "Goldbergkees",
+                "@language": "de"
+              }
+            ]
+          }
+        ],
+        "identifier": [
+          "https://www.fwf.ac.at/en/research-radar/10.55776/ART7372524"
+        ],
+        "description": [
+          {
+            "@value": "The Goldbergkees glacier is located on the Hoher Sonnblick mountain in the Austrian Alps.",
+            "@language": "en"
+          },
+          {
+            "@value": "Der Gletscher Goldbergkees befindet sich am Hohen Sonnblick in den österreichischen Alpen.",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "kunstuni-linz",
+    "pipeline_id": "kunstuni-linz-twinit"
+  }
+]

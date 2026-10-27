@@ -1,0 +1,225 @@
+[
+  {
+    "kp_id": "f399e0ee-4aa1-4e14-8d33-319d654a64eb",
+    "src_id": "KOHA-OAI-TEST:13313",
+    "content": {
+      "id": "https://id.kulturpool.at/f399e0ee-4aa1-4e14-8d33-319d654a64eb/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=13313",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/FOTO/VNA_FOTO_298.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/f399e0ee-4aa1-4e14-8d33-319d654a64eb/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Mädchen mit Katze - Bösendürnbach Zwei Katzen und Mutti"
+        ],
+        "dcType": [
+          {
+            "@value": "Foto Positiv",
+            "@language": "de"
+          },
+          "Visuelles Material"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          {
+            "@value": "Bösendürnbach",
+            "@language": "de"
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Katze",
+            "@language": "de"
+          },
+          {
+            "@value": "Mädchen",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_FOTO_298"
+        ],
+        "description": [
+          {
+            "@value": "Mädchen mit Katze - Bösendürnbach Zwei Katzen und Mutti",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "04b54af5-e14a-4904-97ac-de9c190c2b50",
+    "src_id": "KOHA-OAI-TEST:18529",
+    "content": {
+      "id": "https://id.kulturpool.at/04b54af5-e14a-4904-97ac-de9c190c2b50/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=18529",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/DIA/DIA8/VNA_DIA_KT08_288.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/04b54af5-e14a-4904-97ac-de9c190c2b50/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Dorf am Hang, Türkei"
+        ],
+        "dcType": [
+          {
+            "@value": "Kleinbild Dia Farbe",
+            "@language": "de"
+          },
+          "Dia"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Dorf",
+            "@language": "de"
+          },
+          {
+            "@value": "Berg",
+            "@language": "de"
+          },
+          {
+            "@value": "Hang",
+            "@language": "de"
+          },
+          {
+            "@value": "Moschee",
+            "@language": "de"
+          },
+          {
+            "@value": "Stadt",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_DIA_KT08_288"
+        ],
+        "description": [
+          {
+            "@value": "Dorf am Hang, Türkei",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "7e57c720-0be3-4a8c-81ee-28c29ce4176b",
+    "src_id": "KOHA-OAI-TEST:6937",
+    "content": {
+      "id": "https://id.kulturpool.at/7e57c720-0be3-4a8c-81ee-28c29ce4176b/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=6937",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/DIA/IDBASIC/VNA_DIA_ID_basic_193.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/7e57c720-0be3-4a8c-81ee-28c29ce4176b/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Installation vor Kansas City Crown Center aus Metall"
+        ],
+        "dcType": [
+          {
+            "@value": "Kleinbild Dia Farbe",
+            "@language": "de"
+          },
+          "Dia"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Design",
+            "@language": "de"
+          },
+          {
+            "@value": "Kansas",
+            "@language": "de"
+          },
+          {
+            "@value": "Metall",
+            "@language": "de"
+          },
+          {
+            "@value": "Objekt",
+            "@language": "de"
+          },
+          {
+            "@value": "Struktur",
+            "@language": "de"
+          },
+          {
+            "@value": "Katalog",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_DIA_ID_basic_193"
+        ],
+        "description": [
+          {
+            "@value": "Installation vor Kansas City Crown Center aus Metall",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  }
+]

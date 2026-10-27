@@ -1,0 +1,159 @@
+[
+  {
+    "kp_id": "254627ec-b11a-4922-899e-72ce86b0b340",
+    "src_id": "KH-3.A1-Ullmann_137",
+    "content": {
+      "id": "https://id.kulturpool.at/254627ec-b11a-4922-899e-72ce86b0b340/aggregation",
+      "type": "Aggregation",
+      "hasView": [
+        {
+          "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_137_02.jpg",
+          "type": "WebResource"
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e556c6c6d616e6ex133",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_137.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/254627ec-b11a-4922-899e-72ce86b0b340/cho",
+        "date": [
+          "ohne Datum"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Robert Ullmann"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ullmann_137"
+        ],
+        "description": [
+          "Liste mit Kunstwerken von Robert Ullmann"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "a90e09e6-7a97-4f65-beac-d87d010ffb84",
+    "src_id": "KH-3.A1-Ullmann_136",
+    "content": {
+      "id": "https://id.kulturpool.at/a90e09e6-7a97-4f65-beac-d87d010ffb84/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e556c6c6d616e6ex132",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_136.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/a90e09e6-7a97-4f65-beac-d87d010ffb84/cho",
+        "date": [
+          "ohne Datum"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Robert Ullmann"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ullmann_136"
+        ],
+        "description": [
+          "Bestätigung Beteiligung von Robert Ullmann an der Ausstellung Das Bildnis und der nackte Mensch"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "e46a5085-ac2a-4fb3-8cb8-c5aff0a7dd7d",
+    "src_id": "KH-3.A1-Ullmann_116",
+    "content": {
+      "id": "https://id.kulturpool.at/e46a5085-ac2a-4fb3-8cb8-c5aff0a7dd7d/aggregation",
+      "type": "Aggregation",
+      "hasView": [
+        {
+          "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_116_02.jpg",
+          "type": "WebResource"
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e556c6c6d616e6ex113",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_116.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/e46a5085-ac2a-4fb3-8cb8-c5aff0a7dd7d/cho",
+        "date": [
+          "21.03.1966"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Robert Ullmann"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ullmann_116"
+        ],
+        "description": [
+          "Presseaussendung zum Tod von Robert Ullmann"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  }
+]

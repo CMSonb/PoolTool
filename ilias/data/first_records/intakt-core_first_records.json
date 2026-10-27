@@ -1,0 +1,562 @@
+[
+  {
+    "kp_id": "906cf01d-e968-444b-875a-4b7482aef678",
+    "src_id": "7239",
+    "content": {
+      "id": "https://id.kulturpool.at/906cf01d-e968-444b-875a-4b7482aef678/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "isShownAt": "https://www.basis-wien.at/db/object/7239",
+      "isShownBy": {
+        "id": "https://www.basis-wien.at/avdt/jpg/105/00001129.jpg",
+        "type": "WebResource",
+        "edmRights": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      },
+      "dataProvider": {
+        "@value": "IntAkt – Internationale Aktionsgemeinschaft bildender Künstlerinnen",
+        "@language": "de"
+      },
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/906cf01d-e968-444b-875a-4b7482aef678/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Einladung: Ingrid Gaier. Aus Ägypten heraus",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          "Archivalie"
+        ],
+        "created": [
+          "1998"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          "Österreich, Wien"
+        ],
+        "isPartOf": [
+          {
+            "@value": "Archiv IntAkt (Internationale Aktionsgemeinschaft bildender Künstlerinnen)",
+            "@language": "de"
+          }
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "1998"
+        ],
+        "identifier": [
+          "7239"
+        ],
+        "contributor": [
+          "AAI-Galerie",
+          {
+            "id": "https://d-nb.info/gnd/120588293",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Gaier, Ingrid",
+                "@language": "de"
+              }
+            ]
+          }
+        ],
+        "description": [
+          {
+            "@value": "Typ / Format: Karte, DIN A6",
+            "@language": "de"
+          }
+        ],
+        "currentLocation": "Archiv IntAkt (Internationale Aktionsgemeinschaft bildender Künstlerinnen)"
+      }
+    },
+    "institution_id": "intakt-internationale-aktionsgemeinschaft-bildender-kuenstlerinnen",
+    "pipeline_id": "intakt-core"
+  },
+  {
+    "kp_id": "9bd908e5-5c61-4f29-b702-9ec4586c56fc",
+    "src_id": "63147",
+    "content": {
+      "id": "https://id.kulturpool.at/9bd908e5-5c61-4f29-b702-9ec4586c56fc/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "isShownAt": "https://www.basis-wien.at/db/object/63147",
+      "isShownBy": {
+        "id": "https://www.basis-wien.at/avdt/jpg/198/00060102.jpg",
+        "type": "WebResource",
+        "edmRights": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      },
+      "dataProvider": {
+        "@value": "IntAkt – Internationale Aktionsgemeinschaft bildender Künstlerinnen",
+        "@language": "de"
+      },
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/9bd908e5-5c61-4f29-b702-9ec4586c56fc/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "Einladung: Ingrid Gaier. Ein/Richten",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          "Archivalie"
+        ],
+        "created": [
+          "2003"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          "Österreich, Wien"
+        ],
+        "isPartOf": [
+          {
+            "@value": "Archiv IntAkt (Internationale Aktionsgemeinschaft bildender Künstlerinnen)",
+            "@language": "de"
+          }
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "2003"
+        ],
+        "identifier": [
+          "63147"
+        ],
+        "contributor": [
+          "Werkstätten- und Kulturhaus, WUK",
+          {
+            "id": "https://d-nb.info/gnd/120588293",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Gaier, Ingrid",
+                "@language": "de"
+              }
+            ]
+          },
+          "Berchtold, Susanne"
+        ],
+        "description": [
+          {
+            "@value": "Typ / Format: Karte, DIN A5 // Abb.: Ingrid Gaier, Aus der Serie \"Durchbruch\", Stickerei auf Laserkopie, A5, 2001",
+            "@language": "de"
+          }
+        ],
+        "currentLocation": "Archiv IntAkt (Internationale Aktionsgemeinschaft bildender Künstlerinnen)"
+      }
+    },
+    "institution_id": "intakt-internationale-aktionsgemeinschaft-bildender-kuenstlerinnen",
+    "pipeline_id": "intakt-core"
+  },
+  {
+    "kp_id": "f4ca1f80-51c1-4185-bb1f-4c6824092b39",
+    "src_id": "60497",
+    "content": {
+      "id": "https://id.kulturpool.at/f4ca1f80-51c1-4185-bb1f-4c6824092b39/aggregation",
+      "type": "Aggregation",
+      "hasView": [
+        {
+          "id": "https://www.basis-wien.at/avdt/pdf/202/00135882.pdf",
+          "type": "WebResource",
+          "edmRights": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+        },
+        {
+          "id": "https://www.basis-wien.at/avdt/pdf/070/00135238.pdf",
+          "type": "WebResource",
+          "edmRights": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+        },
+        {
+          "id": "https://www.basis-wien.at/avdt/pdf/033/00135713.pdf",
+          "type": "WebResource",
+          "edmRights": "http://rightsstatements.org/vocab/InC/1.0/"
+        },
+        {
+          "id": "https://www.basis-wien.at/avdt/pdf/220/00135132.pdf",
+          "type": "WebResource",
+          "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "id": "https://www.basis-wien.at/avdt/pdf/218/00135130.pdf",
+          "type": "WebResource",
+          "edmRights": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://www.basis-wien.at/db/object/60497",
+      "isShownBy": {
+        "id": "https://www.basis-wien.at/avdt/jpg/127/00134015.jpg",
+        "type": "WebResource",
+        "edmRights": "http://rightsstatements.org/vocab/InC/1.0/"
+      },
+      "dataProvider": {
+        "@value": "IntAkt – Internationale Aktionsgemeinschaft bildender Künstlerinnen",
+        "@language": "de"
+      },
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/f4ca1f80-51c1-4185-bb1f-4c6824092b39/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          {
+            "@value": "20 Jahre IntAkt. 1977-1997. Dokumentation und Präsenz",
+            "@language": "de"
+          }
+        ],
+        "dcType": [
+          "Katalog/Monografie/..."
+        ],
+        "created": [
+          "1997"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          "Österreich, Wien"
+        ],
+        "isPartOf": [
+          {
+            "@value": "Archiv IntAkt (Internationale Aktionsgemeinschaft bildender Künstlerinnen)",
+            "@language": "de"
+          }
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "1997"
+        ],
+        "publisher": [
+          "Internationale Aktionsgemeinschaft bildender Künstlerinnen, IntAkt"
+        ],
+        "identifier": [
+          "60497"
+        ],
+        "contributor": [
+          {
+            "id": "https://d-nb.info/gnd/120720078",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Gamauf, Susanne",
+                "@language": "de"
+              }
+            ]
+          },
+          {
+            "id": "https://d-nb.info/gnd/119244004",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Hauer-Fruhmann, Christa",
+                "@language": "de"
+              }
+            ]
+          },
+          {
+            "id": "https://d-nb.info/gnd/119159090",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Joos, Hildegard",
+                "@language": "de"
+              }
+            ]
+          },
+          {
+            "id": "https://d-nb.info/gnd/119465833",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Kaufmann, Angelika",
+                "@language": "de"
+              }
+            ]
+          },
+          {
+            "id": "https://d-nb.info/gnd/119034018",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Klein, Evelin",
+                "@language": "de"
+              }
+            ]
+          },
+          "Moschik, Ingrid",
+          {
+            "id": "https://d-nb.info/gnd/119096706",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Maier-Schlager, Ingetraut",
+                "@language": "de"
+              }
+            ]
+          },
+          {
+            "id": "https://d-nb.info/gnd/120049007",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Malche, Brigitta",
+                "@language": "de"
+              }
+            ]
+          },
+          {
+            "id": "https://d-nb.info/gnd/119039575",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Waber, Linde",
+                "@language": "de"
+              }
+            ]
+          },
+          {
+            "id": "https://d-nb.info/gnd/124215246",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Kos, Tonia",
+                "@language": "de"
+              }
+            ]
+          },
+          {
+            "id": "https://d-nb.info/gnd/120910209",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Schellander, Meina",
+                "@language": "de"
+              }
+            ]
+          },
+          "Streiff, Katarina",
+          {
+            "id": "https://d-nb.info/gnd/129712574",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Gauss, Brigitte",
+                "@language": "de"
+              }
+            ]
+          },
+          {
+            "id": "https://d-nb.info/gnd/123462592",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Uitz, Sybille",
+                "@language": "de"
+              }
+            ]
+          },
+          "Seidl-Reiter, Edda",
+          {
+            "id": "https://d-nb.info/gnd/1218496622",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Crisfor",
+                "@language": "de"
+              }
+            ]
+          },
+          {
+            "id": "https://d-nb.info/gnd/140947590",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Adaniya-Baier, Kyoko",
+                "@language": "de"
+              }
+            ]
+          },
+          {
+            "id": "https://d-nb.info/gnd/119242532",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Seyerl, Lotte",
+                "@language": "de"
+              }
+            ]
+          },
+          "Hubmer, Hansi",
+          "Froudarakis, Manuela",
+          "Gschiel, Waltraut",
+          "Binder, Karin",
+          "Scherling-Elia, Mariella",
+          {
+            "id": "https://d-nb.info/gnd/142924598",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Knaipp, Ingeborg",
+                "@language": "de"
+              }
+            ]
+          },
+          "Bolterauer, Christl",
+          "Eder, Martina",
+          "Christanell, Linda",
+          "Lötsch, Doris",
+          {
+            "id": "https://d-nb.info/gnd/142926965",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Krzywoblocki-Kacprzak, Teresa",
+                "@language": "de"
+              }
+            ]
+          },
+          "Hendrich-Hassmann, Lotte",
+          {
+            "id": "https://d-nb.info/gnd/124756417",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Elfen, Fria",
+                "@language": "de"
+              }
+            ]
+          },
+          "Shahmoradi-Strohmaier, Mitra",
+          {
+            "id": "https://d-nb.info/gnd/142927341",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Weißkircher, Gerlinde",
+                "@language": "de"
+              }
+            ]
+          },
+          "Schmid Taschek, Gertraud",
+          "Opitz, Ingrid",
+          {
+            "id": "https://d-nb.info/gnd/133267199",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Atschko, Eva-Elisabeth",
+                "@language": "de"
+              }
+            ]
+          },
+          "Waloschek, Jutta Maria de las Manos",
+          {
+            "id": "https://d-nb.info/gnd/123260140",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Kohler-Heilingsetzer, Margret",
+                "@language": "de"
+              }
+            ]
+          },
+          "Matsukawa, Takako",
+          {
+            "id": "https://d-nb.info/gnd/119353326",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Krošlaková, Ivica",
+                "@language": "de"
+              }
+            ]
+          },
+          "Barger, Anneke",
+          {
+            "id": "https://d-nb.info/gnd/119176963",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Gortchakova, Eugenia",
+                "@language": "de"
+              }
+            ]
+          },
+          "Karner, Maria Anna",
+          "Lüder, Roswitha",
+          {
+            "id": "https://d-nb.info/gnd/118944517",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Pitzen, Marianne",
+                "@language": "de"
+              }
+            ]
+          },
+          "Reitter-Brown, Doris",
+          "Saij, Isabel",
+          "Schwartz, Ise",
+          {
+            "id": "https://d-nb.info/gnd/12260234X",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Teipelke, Ilse",
+                "@language": "de"
+              }
+            ]
+          },
+          {
+            "id": "https://d-nb.info/gnd/129288241",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Zavarská, Katarína",
+                "@language": "de"
+              }
+            ]
+          },
+          "Suess, Alexandra",
+          {
+            "id": "https://d-nb.info/gnd/137283709",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Bäumer, Angelica",
+                "@language": "de"
+              }
+            ]
+          }
+        ],
+        "description": [
+          {
+            "@value": "Umfangsangabe: 140 S. : überw. Ill. // [Werkabbildung: Tonia Kos. Fossilis, 1997, © Bildrecht, 2024]",
+            "@language": "de"
+          }
+        ],
+        "currentLocation": "Archiv IntAkt (Internationale Aktionsgemeinschaft bildender Künstlerinnen)"
+      }
+    },
+    "institution_id": "intakt-internationale-aktionsgemeinschaft-bildender-kuenstlerinnen",
+    "pipeline_id": "intakt-core"
+  }
+]
