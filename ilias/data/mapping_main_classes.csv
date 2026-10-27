@@ -1,0 +1,26 @@
+Feldbezeichnung,EDM Feld,JSON Key
+Daten-Provider,edm:dataProvider,dataProvider
+Kontextadresse,edm:isShownAt,isShownAt
+Ressourcenadresse,edm:isShownBy,isShownBy
+Nutzungsrecht,edm:rights,edmRights
+Ansichten,edm:hasView,hasView
+Titel,dc:title,title
+Beschreibung,dc:description,description
+Identifikator,dc:identifier,identifier
+Sprache,dc:language,language
+Medientyp,edm:type,edmType
+Thema,dc:subject,subject
+Objekttyp,dc:type,dcType
+Räumlicher Bezug,dcterms:spatial,spatial
+Zeitlicher Bezug,dcterms:temporal,temporal
+Alternativer Titel,dcterms:alternative,alternative
+Erstellungsdatum,dcterms:created,created
+Datum,dc:date,date
+Bezug,dc:coverage,coverage
+Material,dcterms:medium,medium
+Maße/Dauer,dcterms:extent,extent
+Veröffentlicht durch,dc:publisher,publisher
+Ist ein Teil von,dcterms:isPartOf,isPartOf
+Schöpfer:in,dc:creator,creator
+Standort,edm:currentLocation,currentLocation
+Provenienz,dcterms:provenance,provenance
