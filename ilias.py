@@ -3,32 +3,11 @@ import tarfile
 from pathlib import Path
 
 import pandas as pd
-import requests
 
-DATASET_URL = "https://s3.kpool.at/nightly/records_export_full.tar.gz"
 DATA_DIR = Path("ilias_data")
 ARCHIVE_PATH = DATA_DIR / "full_records.tar.gz"
 
 MEMBER_NAME = "akademie-der-bildenden-kuenste-core__2026-01-14T11-50-22Z.jsonl"
-
-
-def download(url: str, target: Path) -> Path:
-    """Archiv streamend herunterladen (mehrere hundert MB)."""
-    if target.exists():
-        print(f"{target} existiert bereits — Download übersprungen.")
-        return target
-
-    target.parent.mkdir(parents=True, exist_ok=True)
-
-    print(f"Lade Datenset von {url} herunter ...")
-    with requests.get(url, stream=True, timeout=60) as response:
-        response.raise_for_status()
-        with target.open("wb") as fh:
-            for chunk in response.iter_content(chunk_size=1024 * 1024):
-                fh.write(chunk)
-
-    print(f"Fertig: {target} ({target.stat().st_size / 1024**2:.0f} MB)")
-    return target
 
 
 def iter_records(archive: Path):
@@ -86,22 +65,59 @@ def read_jsonl_member(archive: Path, member_name: str, limit: int | None = None)
     return records
 
 
+def write_dataset_overview(per_dataset: dict[str, dict[str, int]], target: Path) -> Path:
+    """Eine Zeile pro Datenset (.jsonl-Datei) als CSV schreiben."""
+    rows = []
+    for member_name, stats in per_dataset.items():
+        # Dateiname: <datenset>__<zeitstempel>.jsonl
+        dataset, _, exported_at = Path(member_name).stem.partition("__")
+        rows.append(
+            {
+                "dataset": dataset,
+                "exported_at": exported_at,
+                "file": member_name,
+                **stats,
+            }
+        )
+
+    target.parent.mkdir(parents=True, exist_ok=True)
+    pd.DataFrame(rows).to_csv(target, index=False, encoding="utf-8")
+    return target
+
+
 def main():
-    download(DATASET_URL, ARCHIVE_PATH)
+    if not ARCHIVE_PATH.exists():
+        raise FileNotFoundError(f"{ARCHIVE_PATH} nicht gefunden — Archiv zuerst nach ilias_data/ legen.")
 
     count = 0
+    # pro .jsonl-Datei (= einzelnes Datenset im Pool): Datensätze gesamt / mit Titel
+    per_dataset: dict[str, dict[str, int]] = {}
     for source_file, record in iter_records(ARCHIVE_PATH):
+        stats = per_dataset.setdefault(source_file, {"records": 0, "records_with_title": 0})
+        stats["records"] += 1
         title = get_title(record)
         if title:
+            stats["records_with_title"] += 1
             count += 1
             if count <= 10:
                 print(f"Gefundener Titel: {title}")
 
     print(f"\nVerarbeitung abgeschlossen. {count} Datensätze mit Titel gefunden.")
 
+    # Übersicht aller geladenen Datensets als CSV speichern
+    datasets_path = DATA_DIR / "datasets.csv"
+    write_dataset_overview(per_dataset, datasets_path)
+    print(f"{len(per_dataset)} Datensets gespeichert: {datasets_path}")
+
     first_records = read_jsonl_member(ARCHIVE_PATH, MEMBER_NAME, limit=3)
     print(f"{len(first_records)} Datensätze geladen")
-    print(json.dumps(first_records[0], indent=2, ensure_ascii=False)[:4000])
+
+    # JSON-Ergebnis nicht im Terminal ausgeben, sondern in ilias_data/ speichern
+    output_path = DATA_DIR / "first_records.json"
+    output_path.write_text(
+        json.dumps(first_records, indent=2, ensure_ascii=False), encoding="utf-8"
+    )
+    print(f"Datensätze gespeichert: {output_path}")
 
     # Alle Datensätze der Datei laden und die Struktur als Tabelle anschauen
     records = read_jsonl_member(ARCHIVE_PATH, MEMBER_NAME)

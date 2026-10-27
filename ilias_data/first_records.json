@@ -1,0 +1,376 @@
+[
+  {
+    "kp_id": "4c21536a-c247-4c8a-a58b-443deeaa4d14",
+    "src_id": "HZ-26744v",
+    "content": {
+      "id": "https://id.kulturpool.at/4c21536a-c247-4c8a-a58b-443deeaa4d14/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/zero/1.0/deed.de",
+      "isShownAt": "https://collection.kunstsammlungenakademie.at.zetcom.net/de/collection/item/151949/",
+      "isShownBy": {
+        "id": "https://collection.kunstsammlungenakademie.at.zetcom.net/multimedia/6/multimedia-147286.large.jpg",
+        "type": "WebResource",
+        "dcRights": [
+          "Kupferstichkabinett der Akademie der bildenden Künste Wien"
+        ]
+      },
+      "dataProvider": "Kunstsammlungen der Akademie der bildenden Künste Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/4c21536a-c247-4c8a-a58b-443deeaa4d14/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Studie eines Frauenkopfes (Edith Schiele)"
+        ],
+        "dcType": [
+          {
+            "@value": "hand drawing",
+            "@language": "en"
+          },
+          {
+            "@value": "Handzeichnung",
+            "@language": "de"
+          }
+        ],
+        "extent": [
+          {
+            "@value": "image dimensions: 485 x 341 mm",
+            "@language": "en"
+          },
+          {
+            "@value": "Bildmaß: 485 x 341 mm",
+            "@language": "de"
+          }
+        ],
+        "medium": [
+          {
+            "@value": "pencil",
+            "@language": "en"
+          },
+          {
+            "@value": "Bleistift",
+            "@language": "de"
+          },
+          {
+            "@value": "paper",
+            "@language": "en"
+          },
+          {
+            "@value": "Papier",
+            "@language": "de"
+          }
+        ],
+        "created": [
+          {
+            "@value": "original: 1915",
+            "@language": "en"
+          },
+          {
+            "@value": "Original: 1915",
+            "@language": "de"
+          }
+        ],
+        "creator": [
+          {
+            "@value": "Egon Schiele",
+            "@language": "en"
+          },
+          {
+            "@value": "Egon Schiele",
+            "@language": "de"
+          },
+          {
+            "id": "http://vocab.getty.edu/ulan/500002633",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Schiele, Egon",
+                "@language": "en"
+              },
+              {
+                "@value": "Schiele, Egon",
+                "@language": "nl"
+              }
+            ]
+          },
+          {
+            "id": "https://d-nb.info/gnd/118607499",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Schiele, Egon",
+                "@language": "de"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "isPartOf": [
+          {
+            "@value": "Graphic Collection",
+            "@language": "en"
+          },
+          {
+            "@value": "Kupferstichkabinett",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "HZ-26744v"
+        ],
+        "provenance": [
+          {
+            "@value": "acquisition, Neue Galerie, 1949",
+            "@language": "en"
+          },
+          {
+            "@value": "Ankauf Neue Galerie, 1949",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "kunstsammlungen-akademie-bildenden-kuenste-wien",
+    "pipeline_id": "akademie-der-bildenden-kuenste-core"
+  },
+  {
+    "kp_id": "b9129ee8-78b7-4b09-afa5-b68ee2ddab9e",
+    "src_id": "HZ-21357/1",
+    "content": {
+      "id": "https://id.kulturpool.at/b9129ee8-78b7-4b09-afa5-b68ee2ddab9e/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by/4.0/",
+      "isShownAt": "https://collection.kunstsammlungenakademie.at.zetcom.net/de/collection/item/151948/",
+      "isShownBy": {
+        "id": "https://collection.kunstsammlungenakademie.at.zetcom.net/multimedia/7/multimedia-144597.large.jpg",
+        "type": "WebResource",
+        "creator": [
+          "Foto: image industry"
+        ],
+        "dcRights": [
+          "Kupferstichkabinett der Akademie der bildenden Künste Wien"
+        ]
+      },
+      "dataProvider": "Kunstsammlungen der Akademie der bildenden Künste Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/b9129ee8-78b7-4b09-afa5-b68ee2ddab9e/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenübersicht zur feierlichen Eröffnung des neuen Akademiegebäudes am 3. April 1877 in Wien"
+        ],
+        "dcType": [
+          {
+            "@value": "hand drawing",
+            "@language": "en"
+          },
+          {
+            "@value": "Handzeichnung",
+            "@language": "de"
+          }
+        ],
+        "extent": [
+          {
+            "@value": "image dimensions: 487 x 977 mm",
+            "@language": "en"
+          },
+          {
+            "@value": "Bildmaß: 487 x 977 mm",
+            "@language": "de"
+          }
+        ],
+        "medium": [
+          {
+            "@value": "pen in brown and black",
+            "@language": "en"
+          },
+          {
+            "@value": "Feder in Braun und Schwarz",
+            "@language": "de"
+          },
+          {
+            "@value": "transparent paper",
+            "@language": "en"
+          },
+          {
+            "@value": "Transparentpapier",
+            "@language": "de"
+          }
+        ],
+        "created": [
+          {
+            "@value": "original: 1877",
+            "@language": "en"
+          },
+          {
+            "@value": "Original: 1877",
+            "@language": "de"
+          }
+        ],
+        "creator": [
+          {
+            "@value": "Rudolf von Alt",
+            "@language": "en"
+          },
+          {
+            "@value": "Rudolf von Alt",
+            "@language": "de"
+          },
+          {
+            "id": "https://d-nb.info/gnd/118502204",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Alt, Rudolf von",
+                "@language": "de"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "isPartOf": [
+          {
+            "@value": "Graphic Collection",
+            "@language": "en"
+          },
+          {
+            "@value": "Kupferstichkabinett",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "HZ-21357/1"
+        ],
+        "provenance": [
+          {
+            "@value": "acquisition, Rudolf von Alt, 1879",
+            "@language": "en"
+          },
+          {
+            "@value": "Ankauf Rudolf von Alt, 1879",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "kunstsammlungen-akademie-bildenden-kuenste-wien",
+    "pipeline_id": "akademie-der-bildenden-kuenste-core"
+  },
+  {
+    "kp_id": "32d4102a-009b-4076-b2c1-2b704fe3cac1",
+    "src_id": "PH-16343/4",
+    "content": {
+      "id": "https://id.kulturpool.at/32d4102a-009b-4076-b2c1-2b704fe3cac1/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/zero/1.0/deed.dehttps%3A//creativecommons.org/publicdomain/zero/1.0/deed.de",
+      "isShownAt": "https://collection.kunstsammlungenakademie.at.zetcom.net/de/collection/item/148496/",
+      "isShownBy": {
+        "id": "https://collection.kunstsammlungenakademie.at.zetcom.net/multimedia/5/multimedia-106965.large.jpg",
+        "type": "WebResource",
+        "dcRights": [
+          "Kupferstichkabinett der Akademie der bildenden Künste Wien"
+        ]
+      },
+      "dataProvider": "Kunstsammlungen der Akademie der bildenden Künste Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/32d4102a-009b-4076-b2c1-2b704fe3cac1/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Junge Frau in Arlesischer Tracht, nach rechts"
+        ],
+        "dcType": [
+          {
+            "@value": "photograph",
+            "@language": "en"
+          },
+          {
+            "@value": "Fotografie",
+            "@language": "de"
+          }
+        ],
+        "extent": [
+          {
+            "@value": "image dimensions: 136 x 98 mm",
+            "@language": "en"
+          },
+          {
+            "@value": "Bildmaß: 136 x 98 mm",
+            "@language": "de"
+          }
+        ],
+        "medium": [
+          {
+            "@value": "collodion paper",
+            "@language": "en"
+          },
+          {
+            "@value": "Kollodiumpapier",
+            "@language": "de"
+          }
+        ],
+        "created": [
+          {
+            "@value": "photograph: um 1870",
+            "@language": "en"
+          },
+          {
+            "@value": "Aufnahme: um 1870",
+            "@language": "de"
+          }
+        ],
+        "creator": [
+          {
+            "@value": "Unbekannt",
+            "@language": "en"
+          },
+          {
+            "@value": "Unbekannt",
+            "@language": "de"
+          }
+        ],
+        "edmType": "IMAGE",
+        "isPartOf": [
+          {
+            "@value": "Graphic Collection",
+            "@language": "en"
+          },
+          {
+            "@value": "Kupferstichkabinett",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "PH-16343/4"
+        ],
+        "provenance": [
+          {
+            "@value": "acquisition, Johann Schmikl, 1946",
+            "@language": "en"
+          },
+          {
+            "@value": "Ankauf Johann Schmikl, 1946",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "kunstsammlungen-akademie-bildenden-kuenste-wien",
+    "pipeline_id": "akademie-der-bildenden-kuenste-core"
+  }
+]
