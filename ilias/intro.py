@@ -111,12 +111,9 @@ def main():
     for source_file, record in iter_records(ARCHIVE_PATH):
         stats = per_dataset.setdefault(source_file, {"records": 0, "records_with_title": 0})
         stats["records"] += 1
-        title = get_title(record)
-        if title:
+        if get_title(record):
             stats["records_with_title"] += 1
             count += 1
-            if count <= 10:
-                print(f"Gefundener Titel: {title}")
 
     print(f"\nVerarbeitung abgeschlossen. {count} Datensätze mit Titel gefunden.")
 
@@ -128,13 +125,6 @@ def main():
     # JSON-Ergebnis nicht im Terminal ausgeben, sondern in ilias/data/ speichern
     output_path = write_first_records(ARCHIVE_PATH, MEMBER_NAME)
     print(f"Datensätze gespeichert: {output_path}")
-
-    # Alle Datensätze der Datei laden und die Struktur als Tabelle anschauen
-    records = read_jsonl_member(ARCHIVE_PATH, MEMBER_NAME)
-    df = pd.json_normalize(records)
-    print(f"{len(df)} Zeilen, {len(df.columns)} Spalten")
-    print(df.columns.tolist())
-    print(df.head())
 
 
 if __name__ == "__main__":
