@@ -1,0 +1,502 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "cc": "https://creativecommons.org/ns#",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "dcterms": "http://purl.org/dc/terms/",
+    "edm": "http://www.europeana.eu/schemas/edm/",
+    "odrl": "http://www.w3.org/ns/odrl/2/",
+    "ore": "http://www.openarchives.org/ore/terms/",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "rdaGr2": "http://rdvocab.info/ElementsGr2/",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "wgs84_pos": "http://www.w3.org/2003/01/geo/wgs84_pos#",
+    "as": "http://www.w3.org/ns/activitystreams#",
+    "vcard": "http://www.w3.org/2006/vcard/ns#",
+    "doap": "http://usefulinc.com/ns/doap#",
+    "svcs": "http://rdfs.org/sioc/services#",
+    "schema": "https://schema.org/",
+    "id": {
+      "@id": "@id",
+      "@type": "@id"
+    },
+    "type": {
+      "@id": "@type",
+      "@type": "@id"
+    },
+    "Aggregation": {
+      "@id": "ore:Aggregation"
+    },
+    "dcRights": {
+      "@id": "dc:rights",
+      "@container": "@set"
+    },
+    "aggregatedCHO": {
+      "@id": "edm:aggregatedCHO",
+      "@type": "@id"
+    },
+    "dataProvider": {
+      "@id": "edm:dataProvider"
+    },
+    "hasView": {
+      "@id": "edm:hasView",
+      "@container": "@set",
+      "@type": "@id"
+    },
+    "isShownAt": {
+      "@id": "edm:isShownAt",
+      "@type": "@id"
+    },
+    "isShownBy": {
+      "@id": "edm:isShownBy",
+      "@type": "@id"
+    },
+    "object": {
+      "@id": "edm:object",
+      "@type": "@id"
+    },
+    "provider": {
+      "@id": "edm:provider"
+    },
+    "edmRights": {
+      "@id": "edm:rights",
+      "@type": "@id"
+    },
+    "ugc": {
+      "@id": "edm:ugc"
+    },
+    "intermediateProvider": {
+      "@id": "edm:intermediateProvider",
+      "@container": "@set"
+    },
+    "ProvidedCHO": {
+      "@id": "edm:ProvidedCHO"
+    },
+    "WebResource": {
+      "@id": "edm:WebResource"
+    },
+    "contributor": {
+      "@id": "dc:contributor",
+      "@container": "@set"
+    },
+    "coverage": {
+      "@id": "dc:coverage",
+      "@container": "@set"
+    },
+    "creator": {
+      "@id": "dc:creator",
+      "@container": "@set"
+    },
+    "date": {
+      "@id": "dc:date",
+      "@container": "@set"
+    },
+    "description": {
+      "@id": "dc:description",
+      "@container": "@set"
+    },
+    "format": {
+      "@id": "dc:format",
+      "@container": "@set"
+    },
+    "identifier": {
+      "@id": "dc:identifier",
+      "@container": "@set"
+    },
+    "language": {
+      "@id": "dc:language",
+      "@container": "@set"
+    },
+    "publisher": {
+      "@id": "dc:publisher",
+      "@container": "@set"
+    },
+    "relation": {
+      "@id": "dc:relation",
+      "@container": "@set"
+    },
+    "source": {
+      "@id": "dc:source",
+      "@container": "@set"
+    },
+    "subject": {
+      "@id": "dc:subject",
+      "@container": "@set"
+    },
+    "title": {
+      "@id": "dc:title",
+      "@container": "@set"
+    },
+    "dcType": {
+      "@id": "dc:type",
+      "@container": "@set"
+    },
+    "alternative": {
+      "@id": "dcterms:alternative",
+      "@container": "@set"
+    },
+    "conformsTo": {
+      "@id": "dcterms:conformsTo",
+      "@container": "@set"
+    },
+    "created": {
+      "@id": "dcterms:created",
+      "@container": "@set"
+    },
+    "extent": {
+      "@id": "dcterms:extent",
+      "@container": "@set"
+    },
+    "hasFormat": {
+      "@id": "dcterms:hasFormat",
+      "@container": "@set"
+    },
+    "hasPart": {
+      "@id": "dcterms:hasPart",
+      "@container": "@set"
+    },
+    "hasVersion": {
+      "@id": "dcterms:hasVersion",
+      "@container": "@set"
+    },
+    "isFormatOf": {
+      "@id": "dcterms:isFormatOf",
+      "@container": "@set"
+    },
+    "isPartOf": {
+      "@id": "dcterms:isPartOf",
+      "@container": "@set"
+    },
+    "isReferencedBy": {
+      "@id": "dcterms:isReferencedBy",
+      "@container": "@set"
+    },
+    "isReplacedBy": {
+      "@id": "dcterms:isReplacedBy",
+      "@container": "@set"
+    },
+    "isRequiredBy": {
+      "@id": "dcterms:isRequiredBy",
+      "@container": "@set"
+    },
+    "issued": {
+      "@id": "dcterms:issued",
+      "@container": "@set"
+    },
+    "isVersionOf": {
+      "@id": "dcterms:isVersionOf",
+      "@container": "@set"
+    },
+    "medium": {
+      "@id": "dcterms:medium",
+      "@container": "@set"
+    },
+    "provenance": {
+      "@id": "dcterms:provenance",
+      "@container": "@set"
+    },
+    "references": {
+      "@id": "dcterms:references",
+      "@container": "@set"
+    },
+    "replaces": {
+      "@id": "dcterms:replaces",
+      "@container": "@set"
+    },
+    "requires": {
+      "@id": "dcterms:requires",
+      "@container": "@set"
+    },
+    "spatial": {
+      "@id": "dcterms:spatial",
+      "@container": "@set"
+    },
+    "tableOfContents": {
+      "@id": "dcterms:tableOfContents",
+      "@container": "@set"
+    },
+    "temporal": {
+      "@id": "dcterms:temporal",
+      "@container": "@set"
+    },
+    "currentLocation": {
+      "@id": "edm:currentLocation"
+    },
+    "hasMet": {
+      "@id": "edm:hasMet",
+      "@container": "@set",
+      "@type": "@id"
+    },
+    "hasType": {
+      "@id": "edm:hasType",
+      "@container": "@set"
+    },
+    "incorporates": {
+      "@id": "edm:incorporates",
+      "@container": "@set",
+      "@type": "@id"
+    },
+    "isDerivativeOf": {
+      "@id": "edm:isDerivativeOf",
+      "@container": "@set",
+      "@type": "@id"
+    },
+    "isNextInSequence": {
+      "@id": "edm:isNextInSequence",
+      "@container": "@set",
+      "@type": "@id"
+    },
+    "isRelatedTo": {
+      "@id": "edm:isRelatedTo",
+      "@container": "@set"
+    },
+    "isRepresentationOf": {
+      "@id": "edm:isRepresentationOf",
+      "@type": "@id"
+    },
+    "isSimilarTo": {
+      "@id": "edm:isSimilarTo",
+      "@container": "@set",
+      "@type": "@id"
+    },
+    "isSuccessorOf": {
+      "@id": "edm:isSuccessorOf",
+      "@container": "@set",
+      "@type": "@id"
+    },
+    "realizes": {
+      "@id": "edm:realizes",
+      "@container": "@set",
+      "@type": "@id"
+    },
+    "edmType": {
+      "@id": "edm:type"
+    },
+    "sameAs": {
+      "@id": "owl:sameAs",
+      "@container": "@set",
+      "@type": "@id"
+    },
+    "inheritFrom": {
+      "@id": "odrl:inheritFrom",
+      "@type": "@id"
+    },
+    "Agent": {
+      "@id": "edm:Agent"
+    },
+    "Concept": {
+      "@id": "skos:Concept"
+    },
+    "Place": {
+      "@id": "edm:Place"
+    },
+    "TimeSpan": {
+      "@id": "edm:TimeSpan"
+    },
+    "Organization": {
+      "@id": "foaf:Organization"
+    },
+    "License": {
+      "@id": "cc:License"
+    },
+    "Service": {
+      "@id": "svcs:Service"
+    },
+    "deprecatedOn": {
+      "@id": "cc:deprecatedOn"
+    },
+    "modified": {
+      "@id": "dcterms:modified"
+    },
+    "implements": {
+      "@id": "doap:implements"
+    },
+    "acronym": {
+      "@id": "edm:acronym",
+      "@container": "@set"
+    },
+    "begin": {
+      "@id": "edm:begin"
+    },
+    "country": {
+      "@id": "edm:country"
+    },
+    "end": {
+      "@id": "edm:end"
+    },
+    "geographicLevel": {
+      "@id": "edm:geographicLevel"
+    },
+    "transcribing": {
+      "@id": "edm:transcribing"
+    },
+    "wasPresentAt": {
+      "@id": "edm:wasPresentAt",
+      "@type": "@id"
+    },
+    "depiction": {
+      "@id": "foaf:depiction"
+    },
+    "homepage": {
+      "@id": "foaf:homepage",
+      "@type": "@id"
+    },
+    "logo": {
+      "@id": "foaf:logo",
+      "@type": "@id"
+    },
+    "mbox": {
+      "@id": "foaf:mbox"
+    },
+    "name": {
+      "@id": "foaf:name",
+      "@container": "@set"
+    },
+    "phone": {
+      "@id": "foaf:phone"
+    },
+    "aggregates": {
+      "@id": "ore:aggregates"
+    },
+    "isAggregatedBy": {
+      "@id": "ore:isAggregatedBy"
+    },
+    "biographicalInformation": {
+      "@id": "rdaGr2:biographicalInformation",
+      "@container": "@set"
+    },
+    "dateOfBirth": {
+      "@id": "rdaGr2:dateOfBirth"
+    },
+    "dateOfDeath": {
+      "@id": "rdaGr2:dateOfDeath"
+    },
+    "dateOfEstablishment": {
+      "@id": "rdaGr2:dateOfEstablishment"
+    },
+    "dateOfTermination": {
+      "@id": "rdaGr2:dateOfTermination"
+    },
+    "gender": {
+      "@id": "rdaGr2:gender"
+    },
+    "placeOfBirth": {
+      "@id": "rdaGr2:placeOfBirth"
+    },
+    "placeOfDeath": {
+      "@id": "rdaGr2:placeOfDeath"
+    },
+    "professionOrOccupation": {
+      "@id": "rdaGr2:professionOrOccupation",
+      "@container": "@set"
+    },
+    "value": {
+      "@id": "rdf:value"
+    },
+    "altLabel": {
+      "@id": "skos:altLabel",
+      "@container": "@set"
+    },
+    "broader": {
+      "@id": "skos:broader",
+      "@type": "@id"
+    },
+    "broadMatch": {
+      "@id": "skos:broadMatch",
+      "@type": "@id"
+    },
+    "closeMatch": {
+      "@id": "skos:closeMatch",
+      "@type": "@id"
+    },
+    "editorialNote": {
+      "@id": "skos:editorialNote"
+    },
+    "exactMatch": {
+      "@id": "skos:exactMatch",
+      "@type": "@id"
+    },
+    "hiddenLabel": {
+      "@id": "skos:hiddenLabel",
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@id": "skos:inScheme",
+      "@type": "@id"
+    },
+    "narrower": {
+      "@id": "skos:narrower",
+      "@type": "@id"
+    },
+    "narrowMatch": {
+      "@id": "skos:narrowMatch",
+      "@type": "@id"
+    },
+    "notation": {
+      "@id": "skos:notation"
+    },
+    "note": {
+      "@id": "skos:note",
+      "@container": "@set"
+    },
+    "prefLabel": {
+      "@id": "skos:prefLabel",
+      "@container": "@set"
+    },
+    "related": {
+      "@id": "skos:related",
+      "@type": "@id"
+    },
+    "relatedMatch": {
+      "@id": "skos:relatedMatch",
+      "@type": "@id"
+    },
+    "hasService": {
+      "@id": "svcs:has_service"
+    },
+    "Address": {
+      "@id": "vcard:Address"
+    },
+    "countryName": {
+      "@id": "vcard:country-name"
+    },
+    "hasAddress": {
+      "@id": "vcard:hasAddress",
+      "@type": "@id"
+    },
+    "hasGeo": {
+      "@id": "vcard:hasGeo"
+    },
+    "locality": {
+      "@id": "vcard:locality"
+    },
+    "postOfficeBox": {
+      "@id": "vcard:post-office-box"
+    },
+    "postalCode": {
+      "@id": "vcard:postal-code"
+    },
+    "region": {
+      "@id": "vcard:region"
+    },
+    "streetAddress": {
+      "@id": "vcard:street-address"
+    },
+    "alt": {
+      "@id": "wgs84_pos:alt"
+    },
+    "lat_long": {
+      "@id": "wgs84_pos:lat_long"
+    },
+    "lat": {
+      "@id": "wgs84_pos:lat"
+    },
+    "long": {
+      "@id": "wgs84_pos:long"
+    }
+  }
+}
