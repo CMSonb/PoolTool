@@ -6,10 +6,12 @@ Team: 2townBefore, CarlaMariS, ikyriazi, MelissaSheena
 
 | Part | Folder | What it is |
 |---|---|---|
+| **CONTEXT_PROMPTING.md** |---| This prompt was added to Claude. Using reusable context prompts saves tokens and  can increase consistency and transparency|
+| **README.md** |---|This file explains the project for documentation and future use| 
 | **Normalisation interface** | [`interface/`](interface/) | Dockerised Flask web app (German UI) that matches messy metadata values to a controlled vocabulary and lets a person approve each change |
 | **Data analysis** | [`dataanalysis_notebooks/`](dataanalysis_notebooks/) | Notebooks and scripts exploring the full Kulturpool export (`dcType`, `medium`, `subject`) |
 
----
+
 
 ## The interface
 
@@ -51,6 +53,8 @@ pip install -r requirements.txt
 $env:NORM_FIELD = "dcType"
 python app.py
 ```
+
+Notes: The interface may look plain, because the visual elements/the CSS files/ are in docker. You may have to add an extra filepath. 
 
 ### How to use it
 
@@ -123,7 +127,16 @@ Dataset: <https://s3.kpool.at/nightly/records_export_full.tar.gz> (several hundr
 
 ## Ideas and next steps
 
+### for the current 86 datasets
+- Analyze the 86 datasets for structural differences and identifiy challenges 
 - Dashboard and visualisation of value distributions per category
 - Agreeing on umbrella terms (e.g. GND)
 - Reporting per institution with concrete improvement suggestions
+- Discuss  and reevaluate the changes with domainexperts and stackholders 
 - XML/RDF input for the interface
+- add failsaves
+- streamline the design of the interface
+
+### future datasets
+- Analyze the dataset before ingestion into kulturpool
+  

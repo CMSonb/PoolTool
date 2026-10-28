@@ -1,4 +1,4 @@
-# CONTEXT_PROMPTING.md – PoolTool orientation for Claude
+# CONTEXT_PROMPTING.md – PoolTool orientation for Claude Sonnet 5.5
 
 Paste this file into the chat before asking for changes. It tells you where everything is, so you can ask for only the files you need.
 
