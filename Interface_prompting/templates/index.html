@@ -39,6 +39,10 @@
       </form>
       <p class="hint">Vokabular: <code>{{ vocab_file }}</code>. Bei <em>medium</em> werden durch Beistriche getrennte Werte einzeln abgeglichen.</p>
       <div id="status-message" class="notice" role="status" hidden></div>
+      <div id="analysis-progress" class="analysis-progress" hidden>
+        <progress id="analysis-progress-bar" max="100" value="0" aria-label="Fortschritt der Analyse"></progress>
+        <output id="analysis-progress-value">0 %</output>
+      </div>
       <ul id="warnings" class="warnings" hidden></ul>
     </section>
 

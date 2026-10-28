@@ -61,7 +61,7 @@ ID_FIELDS = [
 ON_CHANGE_WITHOUT_VOCAB_URI = "remove_id"
 
 # Ähnlichkeitsanalyse
-MATCHER = "string"          # "string" (Standard) oder "clip" (Hook, siehe matching.py)
+MATCHER = "clip"            # "string" oder "clip" (CLIP-Text-Encoder, siehe matching.py)
 DEFAULT_THRESHOLD = 0.75    # Mindestähnlichkeit 0–1; im Interface einstellbar
 
 # Ordner

@@ -6,6 +6,9 @@ const fileName = document.querySelector("#file-name");
 const threshold = document.querySelector("#threshold");
 const thresholdValue = document.querySelector("#threshold-value");
 const notice = document.querySelector("#status-message");
+const analysisProgress = document.querySelector("#analysis-progress");
+const analysisProgressBar = document.querySelector("#analysis-progress-bar");
+const analysisProgressValue = document.querySelector("#analysis-progress-value");
 const warnings = document.querySelector("#warnings");
 const workspace = document.querySelector("#workspace");
 const jobSummary = document.querySelector("#job-summary");
@@ -30,6 +33,13 @@ function showNotice(message, isError = false) {
   notice.textContent = message;
   notice.classList.toggle("error", isError);
   notice.hidden = false;
+}
+
+function showProgress(fraction) {
+  const percent = Math.round(Math.min(Math.max(fraction, 0), 1) * 100);
+  analysisProgressBar.value = percent;
+  analysisProgressValue.value = `${percent} %`;
+  analysisProgress.hidden = false;
 }
 
 function setBusy(value) {
@@ -82,6 +92,7 @@ form.addEventListener("submit", async (event) => {
   currentReview.hidden = true;
   setBusy(true);
   showNotice("Datei wird hochgeladen und analysiert …");
+  showProgress(0);
   try {
     const result = await requestJson("/api/upload", { method: "POST", body: new FormData(form) });
     activeJobId = result.job_id;
@@ -89,6 +100,7 @@ form.addEventListener("submit", async (event) => {
   } catch (error) {
     showNotice(error.message, true);
   } finally {
+    analysisProgress.hidden = true;
     setBusy(false);
   }
 });
@@ -96,14 +108,17 @@ form.addEventListener("submit", async (event) => {
 async function pollJob() {
   while (activeJobId) {
     const state = await requestJson(`/api/jobs/${encodeURIComponent(activeJobId)}`);
-    workspace.hidden = false;
-    renderState(state);
     if (state.status === "error") throw new Error(state.message);
     if (state.status === "ready") {
+      showProgress(1); // letzte Poll-Antwort lag meist unter 100 % – Balken vollständig füllen
+      await new Promise((resolve) => window.setTimeout(resolve, 600));
+      workspace.hidden = false;
+      renderState(state);
       showNotice(state.finished ? "Analyse abgeschlossen. Sie können die Ergebnisse exportieren." : "Analyse abgeschlossen. Prüfen Sie die Vorschläge.");
       return;
     }
     showNotice(state.message || "Analyse läuft …");
+    showProgress(state.progress || 0);
     await new Promise((resolve) => window.setTimeout(resolve, 800));
   }
 }
@@ -122,6 +137,7 @@ function renderState(state) {
 
   progressList.replaceChildren();
   for (const [index, step] of state.steps.entries()) {
+    if (step.state === "skipped") continue; // nur Begriffe mit Änderungsvorschlägen anzeigen
     const item = document.createElement("li");
     item.className = step.state;
     if (index === state.current) item.classList.add("active");

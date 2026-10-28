@@ -115,22 +115,60 @@ class StringMatcher(BaseMatcher):
 
 
 class ClipMatcher(BaseMatcher):
-    """Platzhalter für die semantische Analyse mit CLIP (Text-Encoder, CPU).
+    """Semantische Analyse mit dem CLIP-Text-Encoder (CPU oder GPU).
 
-    Vorschlag für die Umsetzung:
-      1. Modell einmalig laden (z. B. sentence-transformers 'clip-ViT-B-32' /
-         multilinguale Variante) und Vokabelbegriffe einmal einbetten.
-      2. Varianten in Batches einbetten (``progress(done, total)`` regelmäßig aufrufen,
-         damit das Interface den Fortschritt anzeigt).
-      3. Kosinus-Ähnlichkeit berechnen, je Variante den besten Begriff wählen und bei
-         Ähnlichkeit >= threshold als (Variante, Score) eintragen.
-    Zusätzliche Pakete in requirements.txt (und ggf. Dockerfile) ergänzen.
+    Vokabelbegriffe und Varianten werden als "a photo of a <Begriff>" eingebettet;
+    die Ähnlichkeit ist das Skalarprodukt der normierten Vektoren (Kosinus).
     """
 
     name = "clip"
+    MODEL_NAME = "openai/clip-vit-base-patch32"
+    TEMPLATE = "a photo of a {}"
+    BATCH = 64
+
+    def __init__(self):
+        self._model = None
+        self._tokenizer = None
+        self._device = None
+
+    def _load(self):
+        if self._model is None:
+            import torch
+            from transformers import CLIPModel, CLIPTokenizer
+
+            self._torch = torch
+            self._device = "cuda" if torch.cuda.is_available() else "cpu"
+            self._model = CLIPModel.from_pretrained(self.MODEL_NAME).to(self._device).eval()
+            self._tokenizer = CLIPTokenizer.from_pretrained(self.MODEL_NAME)
+
+    def _embed(self, words):
+        torch = self._torch
+        texts = [self.TEMPLATE.format(w) for w in words]
+        inputs = self._tokenizer(
+            texts, padding=True, truncation=True, max_length=77, return_tensors="pt"
+        ).to(self._device)
+        with torch.no_grad():
+            # Nicht get_text_features(): dessen Rückgabetyp unterscheidet sich je nach
+            # transformers-Version (Tensor oder BaseModelOutputWithPooling).
+            pooled = self._model.text_model(**inputs).pooler_output
+            feats = self._model.text_projection(pooled)
+        return feats / feats.norm(dim=-1, keepdim=True)
 
     def match(self, variants, vocab_terms, threshold, progress=None):
-        raise NotImplementedError("Der CLIP-Matcher ist noch nicht implementiert (siehe matching.py).")
+        self._load()
+        torch = self._torch
+        ref = torch.cat([self._embed(vocab_terms[i : i + self.BATCH]) for i in range(0, len(vocab_terms), self.BATCH)])
+        result: dict[str, list[tuple[str, float]]] = {t: [] for t in vocab_terms}
+        total = len(variants)
+        for start in range(0, total, self.BATCH):
+            batch = variants[start : start + self.BATCH]
+            scores, idx = (self._embed(batch) @ ref.T).max(dim=1)
+            for variant, score, i in zip(batch, scores.tolist(), idx.tolist()):
+                if score >= threshold:
+                    result[vocab_terms[i]].append((variant, score))
+            if progress:
+                progress(min(start + self.BATCH, total), total)
+        return result
 
 
 def get_matcher(name: str) -> BaseMatcher:

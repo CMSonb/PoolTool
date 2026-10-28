@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import csv
 import json
+import re
 import shutil
 import threading
 import time
@@ -44,7 +45,12 @@ LOG_COLUMNS = [
     "new_uri",
 ]
 
-REPORT_FONT = config.BASE_DIR / "static" / "fonts" / "AtkinsonHyperlegibleNext.ttf"
+# Sprachprüfung der Eingabedatei: ganze Wörter, Groß-/Kleinschreibung egal
+BOOK_RE = re.compile(r"\bbooks?\b", re.IGNORECASE)
+BUCH_RE = re.compile(r"\b(?:buch|bücher)\b", re.IGNORECASE)
+BOOK_THRESHOLD = 10  # mehr als so viele Treffer entscheiden über die Vokabularsprache
+
+REPORT_FONT =config.BASE_DIR / "static" / "fonts" / "AtkinsonHyperlegibleNext.ttf"
 
 
 class Job:
@@ -58,9 +64,11 @@ class Job:
 
         self.field = config.FIELD
         self.split = config.field_cfg()["split_on_commas"]
+        self.vocab_file = config.field_cfg()["vocab_file"]
 
         self.status = "processing"  # processing | ready | error
         self.message = "Wird gestartet …"
+        self.progress = 0.0  # 0–1, nur während der Verarbeitung aussagekräftig
         self.warnings: list[str] = []
 
         self.records: list[dict] = []
@@ -75,16 +83,20 @@ class Job:
     # ------------------------------------------------------------------ Verarbeitung
     def process(self, path: Path) -> None:
         try:
-            self._set(message="Vokabular wird geladen …")
-            vocab = load_vocabulary(config.vocab_path())
+            self._set(message="Datei wird auf Sprache geprüft …", progress=0.01)
+            self._choose_vocabulary(path)
+
+            self._set(message="Vokabular wird geladen …", progress=0.03)
+            vocab = load_vocabulary(config.VOCAB_DIR / self.vocab_file)
             vocab_terms = [v["term"] for v in vocab]
             vocab_set = set(vocab_terms)
 
-            self._set(message="Datei wird gelesen …")
+            self._set(message="Datei wird gelesen …", progress=0.05)
             records = load_records(path, self.filename)
             if not records:
                 raise ValueError("Die Datei enthält keine Datensätze.")
 
+            self._set(message="Datensatz-IDs werden gelesen …", progress=0.15)
             ids, missing = [], 0
             for n, rec in enumerate(records, 1):
                 rid, found = get_record_id(rec, n)
@@ -96,7 +108,7 @@ class Job:
                     "stattdessen wird 'Datensatz Nr. N' verwendet."
                 )
 
-            self._set(message=f"Werte im Feld '{self.field}' werden gesammelt …")
+            self._set(message=f"Werte im Feld '{self.field}' werden gesammelt …", progress=0.2)
             variants = collect_variants(records, self.field, self.split)
             if not variants:
                 raise ValueError(
@@ -107,11 +119,19 @@ class Job:
             to_match = [v for v in variants if v not in vocab_set]
             matcher = get_matcher(config.MATCHER)
 
+            self._set(message="Ähnlichkeitsanalyse wird vorbereitet (Modell wird geladen) …", progress=0.25)
+
             def progress(done, total):
-                self._set(message=f"Ähnlichkeitsanalyse … {done} / {total} Werte")
+                # Ähnlichkeitsanalyse nimmt den Bereich 25–95 % ein
+                fraction = done / total if total else 1.0
+                self._set(
+                    message=f"Ähnlichkeitsanalyse … {done} / {total} Werte",
+                    progress=0.25 + 0.7 * fraction,
+                )
 
             by_term = matcher.match(to_match, vocab_terms, self.threshold, progress)
 
+            self._set(message="Vorschläge werden zusammengestellt …", progress=0.96)
             steps = []
             n_cands = 0
             for entry in vocab:
@@ -149,6 +169,7 @@ class Job:
                 }
                 self.current = self._next_pending(-1)
                 self.status = "ready"
+                self.progress = 1.0
                 self.message = "Analyse abgeschlossen."
         except NotImplementedError as exc:
             self._set(status="error", message=str(exc))
@@ -158,6 +179,23 @@ class Job:
             self._set(status="error", message=f"Unerwarteter Fehler: {exc}")
         finally:
             shutil.rmtree(path.parent, ignore_errors=True)
+
+    def _choose_vocabulary(self, path: Path) -> None:
+        """Sanity-Check: zählt "book" und "Buch" in der Eingabedatei und wählt ggf. das Vokabular."""
+        if self.field != "dcType":
+            return
+        counts = {"book": 0, "buch": 0}
+        with open(path, "r", encoding="utf-8-sig", errors="replace") as fh:
+            for line in fh:
+                counts["book"] += len(BOOK_RE.findall(line))
+                counts["buch"] += len(BUCH_RE.findall(line))
+        if max(counts.values()) > BOOK_THRESHOLD:
+            lang = max(counts, key=counts.get)
+            self.vocab_file = "dctype_en.csv" if lang == "book" else "dctype.csv"
+            self.warnings.append(
+                f"Sprachprüfung: \"{lang}\" kommt {counts[lang]}-mal in der Datei vor "
+                f"(book: {counts['book']}, Buch: {counts['buch']}); Vokabular: {self.vocab_file}."
+            )
 
     def _set(self, **kw) -> None:
         with self.lock:
@@ -233,6 +271,7 @@ class Job:
                 "job_id": self.id,
                 "status": self.status,
                 "message": self.message,
+                "progress": self.progress,
                 "warnings": self.warnings,
                 "filename": self.filename,
                 "field": self.field,
@@ -295,7 +334,7 @@ class Job:
                 payload = {
                     "quelle": self.filename,
                     "feld": self.field,
-                    "vokabular": config.field_cfg()["vocab_file"],
+                    "vokabular": self.vocab_file,
                     "exportiert_am": time.strftime("%Y-%m-%dT%H:%M:%S"),
                     "anzahl_aenderungen": len(self.log),
                     "aenderungen": self.log,
@@ -346,7 +385,7 @@ class Job:
         return {
             "filename": self.filename,
             "field_label": config.field_cfg()["label"],
-            "vocab_file": config.field_cfg()["vocab_file"],
+            "vocab_file": self.vocab_file,
             "threshold": self.threshold,
             "created": time.strftime("%Y-%m-%d %H:%M"),
             "total_records": len(self.records),

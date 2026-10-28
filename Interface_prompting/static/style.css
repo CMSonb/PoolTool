@@ -193,3 +193,7 @@ select { min-height: 40px; padding: .45rem 2rem .45rem .6rem; border: 1px solid 
   .upload-controls .button { width: 100%; }
   .export-buttons, .export-buttons .button { width: 100%; }
 }
+
+.analysis-progress { display: flex; align-items: center; gap: .75rem; margin-top: .75rem; }
+.analysis-progress progress { flex: 1; height: .8rem; accent-color: var(--green); }
+.analysis-progress output { min-width: 3.2rem; text-align: right; font-variant-numeric: tabular-nums; color: var(--muted); font-size: .88rem; }
