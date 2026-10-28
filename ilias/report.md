@@ -26,6 +26,8 @@ Running log of findings about the Kulturpool datasets and the scripts in `ilias/
 | `data/periods_proposal.csv` | Proposed dates for the 86 unmapped time strings, to be reviewed before they go into `periods.csv` |
 | `data/time_api_check.csv` | Comparison of the mapped years with `dateMin`/`dateMax` of the Kulturpool search index (`check_dates_against_api.py`) |
 | `suggest_times.py` | End tool: reads new records and writes a CSV with suggested years and ISO 8601 / EDTF for every time value |
+| `data/time_lookup_final.csv` | Final lookup table: every distinct time value of the three samples (records 1-300 per dataset) with the suggested years and ISO value, status, record and dataset counts (`build_time_lookup.py`) |
+| `data/time_terms_verbose.csv` | Only the verbal time terms (no digits) with their years and ISO value, plus the words treated as no date (`build_verbose_terms.py`) |
 | `data/records_101_200/*_first_records.json` | Records 101-200 of every dataset (second sample, 99 MB, `sample_records.py --second`) |
 | `data/time_values_sample2.csv` | Distinct time strings of the second sample with the mapping result and a `new` flag (not in sample 1) (`check_sample.py`) |
 | `data/records_201_300/*_first_records.json` | Records 201-300 of every dataset (third sample, 82 MB, `sample_records.py --third`, ignored by git) |
@@ -207,4 +209,14 @@ Usage: `python3 ilias/suggest_times.py INPUT [-o time_suggestions.csv] [--online
 - **Checked rows to look at**: `Moderne vor 1945` and a few other texts with `vor` are read as the year 1945 (`rule_embedded`, direction lost), `1941 bis 1939` is swapped to 1939/1941, `15. Jh. (1451)` gives 1451 instead of the century.
 - **Assumptions built in** (all decided earlier or marked in the output): historical years in the integer columns, astronomical years in `iso`; `Anfang/Mitte/Ende` = years 1-33/34-66/67-100 of a century; two-digit years are 19yy; two years in one text become the interval between them (`rule_embedded`, score 0.5); `ca.` marks both ends approximate; an end year of 9999 means open end; `Geschichte`, `Sozialgeschichte`, `div.`, `nicht datiert`, `African` and similar are "no date"; the 86 labels of `periods.csv` are decisions made on the Austrian collections seen (Roman terms from the Roman monument and ceramics datasets, art styles from Belvedere, geology from the Natural History Museum).
 - Tests: `python3 -m unittest test_time_mapping test_suggest_times` (run inside `ilias/`).
+
+### Final lookup table (`data/time_lookup_final.csv`)
+
+`build_time_lookup.py` collects every distinct time value (`temporal`, `date`, `issued`, `coverage`) of samples 1-3 (records 1-300 per dataset, about 25,800 records) and runs the same suggestion logic as `suggest_times.py`. Result: 5,226 distinct values, one row each, sorted by status and then alphabetically: ok 5,183, check 43, unmapped 0. Methods: rule 4,702, timespan 398, table 73, rule_embedded 42, no_date 10, rule_label_range 1. Columns: `value`, `begin`, `end` (from TimeSpan objects), `begin_year`, `end_year`, `iso`, `method`, `score`, `qualifier`, `source_uri`, `status`, `note`, `candidates`, `fields` (where the value occurs), `records`, `datasets`.
+- The 43 `check` rows are dates inside other text (`Poststempel: Anger, 6.2.69`), placeholder dates (`1430-99-99`, read as the year) and the serial notations decided earlier; they have a lower score and are worth a quick look.
+- No values from outside the three samples are in the file; new values go through `suggest_times.py`. Nothing in it was verified by hand beyond the decisions recorded above.
+
+### Verbal terms only (`data/time_terms_verbose.csv`)
+
+`time_lookup_final.csv` is mostly numeric values (years, dates, ranges), which the rules handle in general, so a lookup of them cannot cover new data. `build_verbose_terms.py` therefore writes only the verbal terms: the 69 period names and styles of `periods.csv` that contain no digit (German and English labels separately, e.g. `Minoan` and `Minoisch`), plus 14 words that are treated as no date (`undatiert`, `ohne Datierung`, `Geschichte`, ...). Columns: `term`, `begin_year`, `end_year` (historical years), `iso`, `confidence` (reviewed: high/medium/low), `source`, `source_uri`, `records_seen`, `datasets_seen` (in samples 1-3), `note`. Numeric values that were decided by hand (`ca. 50 v. Chr.-50`, `-60000000`, `18##-4`, ...) stay in `periods.csv` but are not in this file. Confidence of the 69 terms: 5 high, 39 medium, 25 low (art-historical periods and style labels without a gazetteer source, the German and English labels of one period count separately).
 
