@@ -1,0 +1,5024 @@
+[
+  {
+    "kp_id": "01f8bc9c-d73c-43ed-8014-fd45fa0dedca",
+    "src_id": "KH-3.A1-Ullmann_042",
+    "content": {
+      "id": "https://id.kulturpool.at/01f8bc9c-d73c-43ed-8014-fd45fa0dedca/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e556c6c6d616e6ex39",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_042.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/01f8bc9c-d73c-43ed-8014-fd45fa0dedca/cho",
+        "date": [
+          "06.08.1951"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Robert Ullmann"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ullmann_042"
+        ],
+        "description": [
+          "Schreiben an Robert Ullmann, Durchschlag"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "c3b1ceef-0499-4719-8c95-ec1bb5273ca8",
+    "src_id": "KH-3.A1-Ullmann_050",
+    "content": {
+      "id": "https://id.kulturpool.at/c3b1ceef-0499-4719-8c95-ec1bb5273ca8/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e556c6c6d616e6ex47",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_050.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/c3b1ceef-0499-4719-8c95-ec1bb5273ca8/cho",
+        "date": [
+          "29.06.1952"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Robert Ullmann"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ullmann_050"
+        ],
+        "description": [
+          "Schreiben von Robert Ullmann"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "a927fd4b-109d-4ce7-ba08-4a9bd6f03895",
+    "src_id": "KH-3.A1-Ullmann_049",
+    "content": {
+      "id": "https://id.kulturpool.at/a927fd4b-109d-4ce7-ba08-4a9bd6f03895/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e556c6c6d616e6ex46",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_049.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/a927fd4b-109d-4ce7-ba08-4a9bd6f03895/cho",
+        "date": [
+          "29.02.1952"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Robert Ullmann"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ullmann_049"
+        ],
+        "description": [
+          "Schreiben an Robert Ullmann, Durchschlag"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "e7383412-01db-4d2f-bd8a-defc17b21505",
+    "src_id": "KH-3.A1-Ullmann_040",
+    "content": {
+      "id": "https://id.kulturpool.at/e7383412-01db-4d2f-bd8a-defc17b21505/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e556c6c6d616e6ex37",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_040.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/e7383412-01db-4d2f-bd8a-defc17b21505/cho",
+        "date": [
+          "27.06.1951"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Robert Ullmann"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ullmann_040"
+        ],
+        "description": [
+          "Schreiben an das französische Konsulat bezüglich Visum für Robert und Hertha Ullmann"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "7261cf7d-d29a-4a8a-a38d-35f068a22883",
+    "src_id": "KH-3.A1-Ullmann_035",
+    "content": {
+      "id": "https://id.kulturpool.at/7261cf7d-d29a-4a8a-a38d-35f068a22883/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e556c6c6d616e6ex34",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_035.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/7261cf7d-d29a-4a8a-a38d-35f068a22883/cho",
+        "date": [
+          "28.05.1950"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Robert Ullmann"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ullmann_035"
+        ],
+        "description": [
+          "Schreiben von Robert Ullmann an Präsidenten Karl Maria May"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "9a0d620c-4cee-4fc6-b266-d50eb1487cb6",
+    "src_id": "KH-3.A1-Ullmann_043",
+    "content": {
+      "id": "https://id.kulturpool.at/9a0d620c-4cee-4fc6-b266-d50eb1487cb6/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e556c6c6d616e6ex40",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_043.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/9a0d620c-4cee-4fc6-b266-d50eb1487cb6/cho",
+        "date": [
+          "05.09.1951"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Robert Ullmann"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ullmann_043"
+        ],
+        "description": [
+          "Schreiben an Robert Ullmann, Durchschlag"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "9de6b9f6-df91-4170-bb8f-d83fa2e79469",
+    "src_id": "KH-3.A1-Ullmann_006",
+    "content": {
+      "id": "https://id.kulturpool.at/9de6b9f6-df91-4170-bb8f-d83fa2e79469/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e556c6c6d616e6ex6",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_006.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/9de6b9f6-df91-4170-bb8f-d83fa2e79469/cho",
+        "date": [
+          "14.12.1935"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Robert Ullmann"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ullmann_006"
+        ],
+        "description": [
+          "Schreiben an Robert Ullmann, Durchschlag"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "07a19779-fdae-4bb4-9149-0a7681ef37b4",
+    "src_id": "KH-3.A1-Ullmann_032",
+    "content": {
+      "id": "https://id.kulturpool.at/07a19779-fdae-4bb4-9149-0a7681ef37b4/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e556c6c6d616e6ex31",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_032.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/07a19779-fdae-4bb4-9149-0a7681ef37b4/cho",
+        "date": [
+          "01.09.1949"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Robert Ullmann"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ullmann_032"
+        ],
+        "description": [
+          "Schreiben von Robert Ullmann"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "a4b2da1f-59b8-44c5-9a91-a214d42f9f94",
+    "src_id": "KH-3.A1-Ullmann_029",
+    "content": {
+      "id": "https://id.kulturpool.at/a4b2da1f-59b8-44c5-9a91-a214d42f9f94/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e556c6c6d616e6ex28",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_029.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/a4b2da1f-59b8-44c5-9a91-a214d42f9f94/cho",
+        "date": [
+          "Mai 1949"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Robert Ullmann"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ullmann_029"
+        ],
+        "description": [
+          "Information Robert bezüglich Ferienaktionen"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "097bd320-11e4-40a2-9d69-7a70b62d6b2f",
+    "src_id": "KH-3.A1-Ullmann_025",
+    "content": {
+      "id": "https://id.kulturpool.at/097bd320-11e4-40a2-9d69-7a70b62d6b2f/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e556c6c6d616e6ex25",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_025.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/097bd320-11e4-40a2-9d69-7a70b62d6b2f/cho",
+        "date": [
+          "08.06.1948"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Robert Ullmann"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ullmann_025"
+        ],
+        "description": [
+          "Schreiben an Robert Ullmann, Ausgangskopie"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "bddc53df-7ede-4a2e-b21b-bb6484c5d31e",
+    "src_id": "KH-3.A1-Ullmann_031",
+    "content": {
+      "id": "https://id.kulturpool.at/bddc53df-7ede-4a2e-b21b-bb6484c5d31e/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e556c6c6d616e6ex30",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_031.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/bddc53df-7ede-4a2e-b21b-bb6484c5d31e/cho",
+        "date": [
+          "05.05.1949"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Robert Ullmann"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ullmann_031"
+        ],
+        "description": [
+          "Schreiben an Metallarbeiterverband, Durchschlag"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "d0db7f00-0278-4486-9ca3-b2f52e71dd04",
+    "src_id": "KH-3.A1-Ullmann_034",
+    "content": {
+      "id": "https://id.kulturpool.at/d0db7f00-0278-4486-9ca3-b2f52e71dd04/aggregation",
+      "type": "Aggregation",
+      "hasView": [
+        {
+          "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_034_02.jpg",
+          "type": "WebResource"
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e556c6c6d616e6ex33",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_034.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/d0db7f00-0278-4486-9ca3-b2f52e71dd04/cho",
+        "date": [
+          "28.05.1950"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Robert Ullmann"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ullmann_034"
+        ],
+        "description": [
+          "Schreiben von Robert Ullmann an die Ausstellungskommission mit Liste von Kunstwerken für die Herbstausstellung 1950"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "89d84120-05b8-405a-88ab-f1937d534f11",
+    "src_id": "KH-3.A1-Ullmann_026",
+    "content": {
+      "id": "https://id.kulturpool.at/89d84120-05b8-405a-88ab-f1937d534f11/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e556c6c6d616e6ex26",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_026.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/89d84120-05b8-405a-88ab-f1937d534f11/cho",
+        "date": [
+          "10.08.1948"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Robert Ullmann"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ullmann_026"
+        ],
+        "description": [
+          "Schreiben an Robert Ullmann, Ausgangskopie"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "07078bf2-6c55-4761-8b5e-64927cc07386",
+    "src_id": "KH-3.A1-Ullmann_021",
+    "content": {
+      "id": "https://id.kulturpool.at/07078bf2-6c55-4761-8b5e-64927cc07386/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e556c6c6d616e6ex21",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_021.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/07078bf2-6c55-4761-8b5e-64927cc07386/cho",
+        "date": [
+          "09.09.1941"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Robert Ullmann"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ullmann_021"
+        ],
+        "description": [
+          "Schreiben von Robert Ullmann"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "f9ee68a3-47de-4cc1-bff9-39137536f72c",
+    "src_id": "KH-3.A1-Ullmann_017",
+    "content": {
+      "id": "https://id.kulturpool.at/f9ee68a3-47de-4cc1-bff9-39137536f72c/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e556c6c6d616e6ex17",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_017.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/f9ee68a3-47de-4cc1-bff9-39137536f72c/cho",
+        "date": [
+          "1938"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Robert Ullmann"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ullmann_017"
+        ],
+        "description": [
+          "Anmeldung von Kunstwerke von Robert Ullmann"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "c2e6efb2-f577-4084-b952-91d1696515b2",
+    "src_id": "KH-3.A1-Ullmann_019",
+    "content": {
+      "id": "https://id.kulturpool.at/c2e6efb2-f577-4084-b952-91d1696515b2/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e556c6c6d616e6ex19",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_019.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/c2e6efb2-f577-4084-b952-91d1696515b2/cho",
+        "date": [
+          "09.12.1940"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Robert Ullmann"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ullmann_019"
+        ],
+        "description": [
+          "Schreiben an Robert Ullmann, Durchschlag"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "46fa82a0-566d-4a51-99ae-d78ff2edeaea",
+    "src_id": "KH-3.A1-Ullmann_022",
+    "content": {
+      "id": "https://id.kulturpool.at/46fa82a0-566d-4a51-99ae-d78ff2edeaea/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e556c6c6d616e6ex22",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_022.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/46fa82a0-566d-4a51-99ae-d78ff2edeaea/cho",
+        "date": [
+          "08.12.1941"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Robert Ullmann"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ullmann_022"
+        ],
+        "description": [
+          "Schreiben an Robert Ullmann, Durchschlag"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "4a3303d5-649d-45e1-bbd6-58f2d9555dc1",
+    "src_id": "KH-3.A1-Ullmann_024",
+    "content": {
+      "id": "https://id.kulturpool.at/4a3303d5-649d-45e1-bbd6-58f2d9555dc1/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e556c6c6d616e6ex24",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_024.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/4a3303d5-649d-45e1-bbd6-58f2d9555dc1/cho",
+        "date": [
+          "19.03.1943"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Robert Ullmann"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ullmann_024"
+        ],
+        "description": [
+          "Schreiben von Robert Ullmann"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "b1e76043-39e2-40a6-b882-07e661269087",
+    "src_id": "KH-3.A1-Ullmann_028",
+    "content": {
+      "id": "https://id.kulturpool.at/b1e76043-39e2-40a6-b882-07e661269087/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e556c6c6d616e6ex27",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_028.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/b1e76043-39e2-40a6-b882-07e661269087/cho",
+        "date": [
+          "16.09.1948"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Robert Ullmann"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ullmann_028"
+        ],
+        "description": [
+          "Schreiben von Robert Ullmann"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "f47f3819-80ec-4074-b312-9af24c200dcb",
+    "src_id": "KH-3.A1-Ullmann_013",
+    "content": {
+      "id": "https://id.kulturpool.at/f47f3819-80ec-4074-b312-9af24c200dcb/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e556c6c6d616e6ex13",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_013.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/f47f3819-80ec-4074-b312-9af24c200dcb/cho",
+        "date": [
+          "19.10.1937"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Robert Ullmann"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ullmann_013"
+        ],
+        "description": [
+          "Schreiben von Robert Ullmann"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "0a0f597f-2a16-4b6c-a574-6b8ce2220172",
+    "src_id": "KH-3.A1-Ullmann_011",
+    "content": {
+      "id": "https://id.kulturpool.at/0a0f597f-2a16-4b6c-a574-6b8ce2220172/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e556c6c6d616e6ex11",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_011.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/0a0f597f-2a16-4b6c-a574-6b8ce2220172/cho",
+        "date": [
+          "März 1937"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Robert Ullmann"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ullmann_011"
+        ],
+        "description": [
+          "Schreiben an Robert Ullmann, Durchschlag"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "cde8bca3-99af-4ed7-b749-e1358a8af118",
+    "src_id": "KH-3.A1-Ullmann_023",
+    "content": {
+      "id": "https://id.kulturpool.at/cde8bca3-99af-4ed7-b749-e1358a8af118/aggregation",
+      "type": "Aggregation",
+      "hasView": [
+        {
+          "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_023_02.jpg",
+          "type": "WebResource"
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e556c6c6d616e6ex23",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_023.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/cde8bca3-99af-4ed7-b749-e1358a8af118/cho",
+        "date": [
+          "29.01.1942"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Robert Ullmann"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ullmann_023"
+        ],
+        "description": [
+          "Anzeige Vermehlung von Robert Ullmann und Hertha Zelber und Glückwunschschreiben an Robert Ullmann, Durchschlag"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "8708fd41-8733-440a-b5b9-1f7d8e92f197",
+    "src_id": "KH-3.A1-Ullmann_018",
+    "content": {
+      "id": "https://id.kulturpool.at/8708fd41-8733-440a-b5b9-1f7d8e92f197/aggregation",
+      "type": "Aggregation",
+      "hasView": [
+        {
+          "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_018_02.jpg",
+          "type": "WebResource"
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e556c6c6d616e6ex18",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_018.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/8708fd41-8733-440a-b5b9-1f7d8e92f197/cho",
+        "date": [
+          "23.05.1940"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Robert Ullmann"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ullmann_018"
+        ],
+        "description": [
+          "Postkarte von Robert Ullmann"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "99d5164b-4b3e-46b3-b277-981e519cf485",
+    "src_id": "KH-3.A1-Ullmann_007",
+    "content": {
+      "id": "https://id.kulturpool.at/99d5164b-4b3e-46b3-b277-981e519cf485/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e556c6c6d616e6ex7",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_007.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/99d5164b-4b3e-46b3-b277-981e519cf485/cho",
+        "date": [
+          "30.12.1935"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Robert Ullmann"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ullmann_007"
+        ],
+        "description": [
+          "Beitrittserklärung von Robert Ullmann an die Genossenschaft der bildenden Künstler Wiens"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "c911c12c-1969-4223-bfc3-531194e992d7",
+    "src_id": "KH-3.A1-Ullmann_002",
+    "content": {
+      "id": "https://id.kulturpool.at/c911c12c-1969-4223-bfc3-531194e992d7/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e556c6c6d616e6ex2",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_002.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/c911c12c-1969-4223-bfc3-531194e992d7/cho",
+        "date": [
+          "29.05.1929"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Robert Ullmann"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ullmann_002"
+        ],
+        "description": [
+          "Aufnahmeansuchen von Robert Ullmann an den Künstlerverband österreichischen Bildhauer"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "2f60bffe-4195-4784-a2df-71026381267b",
+    "src_id": "KH-3.A1-Ullmann_020",
+    "content": {
+      "id": "https://id.kulturpool.at/2f60bffe-4195-4784-a2df-71026381267b/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e556c6c6d616e6ex20",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_020.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/2f60bffe-4195-4784-a2df-71026381267b/cho",
+        "date": [
+          "09.09.1941"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Robert Ullmann"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ullmann_020"
+        ],
+        "description": [
+          "Schreiben von Robert Ullmann"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "026d3cd7-e97a-4417-886c-372e9c828831",
+    "src_id": "KH-3.A1-Ullmann_010",
+    "content": {
+      "id": "https://id.kulturpool.at/026d3cd7-e97a-4417-886c-372e9c828831/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e556c6c6d616e6ex10",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_010.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/026d3cd7-e97a-4417-886c-372e9c828831/cho",
+        "date": [
+          "30.12.1935"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Robert Ullmann"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ullmann_010"
+        ],
+        "description": [
+          "Schreiben von Robert Ullmann"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "f854eed4-5eed-4ed6-82a0-0edc57330caf",
+    "src_id": "KH-3.A1-Ranzoni,HdA_253",
+    "content": {
+      "id": "https://id.kulturpool.at/f854eed4-5eed-4ed6-82a0-0edc57330caf/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x247",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_253.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/f854eed4-5eed-4ed6-82a0-0edc57330caf/cho",
+        "date": [
+          "ohne Datum"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_253"
+        ],
+        "description": [
+          "Karteikarte Reichskunstkammer Hans Ranzoni"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "d8fa3551-d0ed-465d-94d7-a9f1205ef690",
+    "src_id": "KH-3.A1-Ullmann_015",
+    "content": {
+      "id": "https://id.kulturpool.at/d8fa3551-d0ed-465d-94d7-a9f1205ef690/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e556c6c6d616e6ex15",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_015.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/d8fa3551-d0ed-465d-94d7-a9f1205ef690/cho",
+        "date": [
+          "08.03.1938"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Robert Ullmann"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ullmann_015"
+        ],
+        "description": [
+          "Anmeldung von Kunstwerke von Robert Ullmann zur Frühjahrsausstellung 1938"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "30f6f3e8-663a-4b94-8e3f-c23d45fa9b37",
+    "src_id": "KH-3.A1-Ullmann_009",
+    "content": {
+      "id": "https://id.kulturpool.at/30f6f3e8-663a-4b94-8e3f-c23d45fa9b37/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e556c6c6d616e6ex9",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_009.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/30f6f3e8-663a-4b94-8e3f-c23d45fa9b37/cho",
+        "date": [
+          "27.11.1935"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Robert Ullmann"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ullmann_009"
+        ],
+        "description": [
+          "Bestätigung über Erhalt eines Kunstwerkes von Robert Ullmann"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "c379b922-59bb-46c0-bd79-b59fde58b2f8",
+    "src_id": "KH-3.A1-Ullmann_016",
+    "content": {
+      "id": "https://id.kulturpool.at/c379b922-59bb-46c0-bd79-b59fde58b2f8/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e556c6c6d616e6ex16",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_016.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/c379b922-59bb-46c0-bd79-b59fde58b2f8/cho",
+        "date": [
+          "31.04.1938"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Robert Ullmann"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ullmann_016"
+        ],
+        "description": [
+          "Empfangsbestätigung über 15 Reichmark"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "ea46449f-ee23-4cdd-873e-aa361ede90e7",
+    "src_id": "KH-3.A1-Ranzoni,HdA_243",
+    "content": {
+      "id": "https://id.kulturpool.at/ea46449f-ee23-4cdd-873e-aa361ede90e7/aggregation",
+      "type": "Aggregation",
+      "hasView": [
+        {
+          "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_243_02.jpg",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_243_03.jpg",
+          "type": "WebResource"
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x237",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_243.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/ea46449f-ee23-4cdd-873e-aa361ede90e7/cho",
+        "date": [
+          "27.02.1968"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_243"
+        ],
+        "description": [
+          "Schreiben von Walter Neuwirth an Karl Kupsky mit Exposé zur Gedenktafel Hans Ranzoni, Durchschlag"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "639b0c93-ccea-4ab2-9b96-06071f68adba",
+    "src_id": "KH-3.A1-Ullmann_008",
+    "content": {
+      "id": "https://id.kulturpool.at/639b0c93-ccea-4ab2-9b96-06071f68adba/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e556c6c6d616e6ex8",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_008.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/639b0c93-ccea-4ab2-9b96-06071f68adba/cho",
+        "date": [
+          "30.12.1935"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Robert Ullmann"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ullmann_008"
+        ],
+        "description": [
+          "Lebenslauf von Robert Ullmann"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "d195da08-21bb-436f-9bc7-08884d726a74",
+    "src_id": "KH-3.A1-Ullmann_012",
+    "content": {
+      "id": "https://id.kulturpool.at/d195da08-21bb-436f-9bc7-08884d726a74/aggregation",
+      "type": "Aggregation",
+      "hasView": [
+        {
+          "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_012_02.jpg",
+          "type": "WebResource"
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e556c6c6d616e6ex12",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_012.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/d195da08-21bb-436f-9bc7-08884d726a74/cho",
+        "date": [
+          "15.03.1937"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Robert Ullmann"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ullmann_012"
+        ],
+        "description": [
+          "Schreiben von Robert Ullmann"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "1e3ca216-3462-40e1-b441-1e45ea26f421",
+    "src_id": "KH-3.A1-Ranzoni,HdA_252",
+    "content": {
+      "id": "https://id.kulturpool.at/1e3ca216-3462-40e1-b441-1e45ea26f421/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x246",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_252.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/1e3ca216-3462-40e1-b441-1e45ea26f421/cho",
+        "date": [
+          "ohne Datum"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_252"
+        ],
+        "description": [
+          "Schreiben von Präsident Hans Ranzoni an die Secession und den Hagenbund, Durchschlag"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "30533840-ba6a-4f25-8150-ead628314ec1",
+    "src_id": "KH-3.A1-Ullmann_014",
+    "content": {
+      "id": "https://id.kulturpool.at/30533840-ba6a-4f25-8150-ead628314ec1/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e556c6c6d616e6ex14",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_014.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/30533840-ba6a-4f25-8150-ead628314ec1/cho",
+        "date": [
+          "05.03.1938"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Robert Ullmann"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ullmann_014"
+        ],
+        "description": [
+          "Anmeldung von Kunstwerke von Robert Ullmann zur Frühjahrsausstellung 1938"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "c76f7d2e-7fc0-44c5-8e42-15ce96ba6a1a",
+    "src_id": "KH-3.A1-Ullmann_005",
+    "content": {
+      "id": "https://id.kulturpool.at/c76f7d2e-7fc0-44c5-8e42-15ce96ba6a1a/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e556c6c6d616e6ex5",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_005.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/c76f7d2e-7fc0-44c5-8e42-15ce96ba6a1a/cho",
+        "date": [
+          "20.08.1935"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Robert Ullmann"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ullmann_005"
+        ],
+        "description": [
+          "Schreiben von Robert Ullmann an die Ständige Delegation"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "12bffc77-ce58-467b-b06f-6e77c988278a",
+    "src_id": "KH-3.A1-Ranzoni,HdA_246",
+    "content": {
+      "id": "https://id.kulturpool.at/12bffc77-ce58-467b-b06f-6e77c988278a/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x240",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_246.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/12bffc77-ce58-467b-b06f-6e77c988278a/cho",
+        "date": [
+          "ohne Datum"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_246"
+        ],
+        "description": [
+          "Drucksorte Dankschreiben des Künstlerhauses"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "af58698b-eb28-4b80-8d94-6627fb592377",
+    "src_id": "KH-3.A1-Ranzoni,HdA_233",
+    "content": {
+      "id": "https://id.kulturpool.at/af58698b-eb28-4b80-8d94-6627fb592377/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x227",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_233.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/af58698b-eb28-4b80-8d94-6627fb592377/cho",
+        "date": [
+          "04.07.1956"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_233"
+        ],
+        "description": [
+          "Schreiben an Ministerialrat Wilhelm Waldstein, Durchschlag"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "6a859bc6-77ea-4980-9d5e-2979c3c63934",
+    "src_id": "KH-3.A1-Ullmann_001",
+    "content": {
+      "id": "https://id.kulturpool.at/6a859bc6-77ea-4980-9d5e-2979c3c63934/aggregation",
+      "type": "Aggregation",
+      "hasView": [
+        {
+          "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_001_02.jpg",
+          "type": "WebResource"
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e556c6c6d616e6ex1",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_001.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/6a859bc6-77ea-4980-9d5e-2979c3c63934/cho",
+        "date": [
+          "17.02.1929"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Robert Ullmann"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ullmann_001"
+        ],
+        "description": [
+          "Anmeldung von Kunstwerke von Robert Ullmann zur 50. Jahresausstellung"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "c2cf8f7b-7e8a-4e35-ab1e-d51eb8ae7939",
+    "src_id": "KH-3.A1-Ullmann_003",
+    "content": {
+      "id": "https://id.kulturpool.at/c2cf8f7b-7e8a-4e35-ab1e-d51eb8ae7939/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e556c6c6d616e6ex3",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_003.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/c2cf8f7b-7e8a-4e35-ab1e-d51eb8ae7939/cho",
+        "date": [
+          "03.03.1930"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Robert Ullmann"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ullmann_003"
+        ],
+        "description": [
+          "Anmeldung eines Kunstwerkes von Robert Ullmann zur 51. Jahresausstellung"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "084d52ba-435e-4e11-a899-67a31504cd96",
+    "src_id": "KH-3.A1-Ranzoni,HdA_249",
+    "content": {
+      "id": "https://id.kulturpool.at/084d52ba-435e-4e11-a899-67a31504cd96/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x243",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_249.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/084d52ba-435e-4e11-a899-67a31504cd96/cho",
+        "date": [
+          "ohne Datum"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_249"
+        ],
+        "description": [
+          "Anmeldung von Kunstwerken von Hans Ranzoni für eine Ausstellung"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "cb41364f-c557-4c24-a0e8-bdf6537fe090",
+    "src_id": "KH-3.A1-Ullmann_004",
+    "content": {
+      "id": "https://id.kulturpool.at/cb41364f-c557-4c24-a0e8-bdf6537fe090/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e556c6c6d616e6ex4",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ullmann._~KH-3.A1-Ullmann_004.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/cb41364f-c557-4c24-a0e8-bdf6537fe090/cho",
+        "date": [
+          "16.01.1935"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Robert Ullmann"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ullmann_004"
+        ],
+        "description": [
+          "Schreiben von Robert Ullmann"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "af1989c2-50dd-4df6-9a67-13b19bdabf70",
+    "src_id": "KH-3.A1-Ranzoni,HdA_251",
+    "content": {
+      "id": "https://id.kulturpool.at/af1989c2-50dd-4df6-9a67-13b19bdabf70/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x245",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_251.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/af1989c2-50dd-4df6-9a67-13b19bdabf70/cho",
+        "date": [
+          "ohne Datum"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_251"
+        ],
+        "description": [
+          "Schreiben von Hans Ranzoni"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "fe11a867-5317-49ec-9c4c-a9cc8e2dfd6e",
+    "src_id": "KH-3.A1-Ranzoni,HdA_247",
+    "content": {
+      "id": "https://id.kulturpool.at/fe11a867-5317-49ec-9c4c-a9cc8e2dfd6e/aggregation",
+      "type": "Aggregation",
+      "hasView": [
+        {
+          "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_247_02.jpg",
+          "type": "WebResource"
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x241",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_247.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/fe11a867-5317-49ec-9c4c-a9cc8e2dfd6e/cho",
+        "date": [
+          "ohne Datum"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_247"
+        ],
+        "description": [
+          "Schreiben von Hans Ranzoni"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "7ea9663d-4522-48ef-823c-f343efd58ff5",
+    "src_id": "KH-3.A1-Ranzoni,HdA_240",
+    "content": {
+      "id": "https://id.kulturpool.at/7ea9663d-4522-48ef-823c-f343efd58ff5/aggregation",
+      "type": "Aggregation",
+      "hasView": [
+        {
+          "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_240_02.jpg",
+          "type": "WebResource"
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x234",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_240.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/7ea9663d-4522-48ef-823c-f343efd58ff5/cho",
+        "date": [
+          "19.06.1956"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_240"
+        ],
+        "description": [
+          "Parte Hans Ranzoni"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "45870583-6d05-4e87-ab9f-a9526ed5db0d",
+    "src_id": "KH-3.A1-Ranzoni,HdA_244",
+    "content": {
+      "id": "https://id.kulturpool.at/45870583-6d05-4e87-ab9f-a9526ed5db0d/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x238",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_244.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/45870583-6d05-4e87-ab9f-a9526ed5db0d/cho",
+        "date": [
+          "ohne Datum"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_244"
+        ],
+        "description": [
+          "Schreiben von unbekannt an Hans Ranzoni, Konzept"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "11228f89-55b1-4cb8-9e3b-9b96ee80bb57",
+    "src_id": "KH-3.A1-Ranzoni,HdA_238",
+    "content": {
+      "id": "https://id.kulturpool.at/11228f89-55b1-4cb8-9e3b-9b96ee80bb57/aggregation",
+      "type": "Aggregation",
+      "hasView": [
+        {
+          "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_238_02.jpg",
+          "type": "WebResource"
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x232",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_238.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/11228f89-55b1-4cb8-9e3b-9b96ee80bb57/cho",
+        "date": [
+          "1956"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_238"
+        ],
+        "description": [
+          "Grabrede von Rudolf Heinz Keppel für Hans Ranzoni"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "d6c47fbb-8af5-448d-9896-6337baa1f13d",
+    "src_id": "KH-3.A1-Ranzoni,HdA_216",
+    "content": {
+      "id": "https://id.kulturpool.at/d6c47fbb-8af5-448d-9896-6337baa1f13d/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x210",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_216.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/d6c47fbb-8af5-448d-9896-6337baa1f13d/cho",
+        "date": [
+          "13.10.1954"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_216"
+        ],
+        "description": [
+          "Schreiben an Hans Ranzoni, Durchschlag"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "9c55365e-3d11-41b3-a1cd-d76e2bb03eae",
+    "src_id": "KH-3.A1-Ranzoni,HdA_250",
+    "content": {
+      "id": "https://id.kulturpool.at/9c55365e-3d11-41b3-a1cd-d76e2bb03eae/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x244",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_250.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/9c55365e-3d11-41b3-a1cd-d76e2bb03eae/cho",
+        "date": [
+          "ohne Datum"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_250"
+        ],
+        "description": [
+          "Anmeldung von Kunstwerken von Hans Ranzoni für eine Ausstellung (1922-1923)"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "cfe764a1-57dd-4c57-80b6-56d28b14d942",
+    "src_id": "KH-3.A1-Ranzoni,HdA_245",
+    "content": {
+      "id": "https://id.kulturpool.at/cfe764a1-57dd-4c57-80b6-56d28b14d942/aggregation",
+      "type": "Aggregation",
+      "hasView": [
+        {
+          "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_245_02.jpg",
+          "type": "WebResource"
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x239",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_245.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/cfe764a1-57dd-4c57-80b6-56d28b14d942/cho",
+        "date": [
+          "ohne Datum"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_245"
+        ],
+        "description": [
+          "Lebenslauf Hans Ranzoni"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "29ae152e-528b-4d98-a908-f55785052db9",
+    "src_id": "KH-3.A1-Ranzoni,HdA_248",
+    "content": {
+      "id": "https://id.kulturpool.at/29ae152e-528b-4d98-a908-f55785052db9/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x242",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_248.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/29ae152e-528b-4d98-a908-f55785052db9/cho",
+        "date": [
+          "ohne Datum"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_248"
+        ],
+        "description": [
+          "Anmeldung von Kunstwerken von Hans Ranzoni für eine Ausstellung, vermutlich die Ständige Kunstausstellung des Wr. Künstlerhauses in der Villa Kleinhans, Semmering (1928-1929)"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "5f61f34c-bec2-4ac8-9147-cbb818fa4ee2",
+    "src_id": "KH-3.A1-Ranzoni,HdA_235",
+    "content": {
+      "id": "https://id.kulturpool.at/5f61f34c-bec2-4ac8-9147-cbb818fa4ee2/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x229",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_235.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/5f61f34c-bec2-4ac8-9147-cbb818fa4ee2/cho",
+        "date": [
+          "04.07.1956"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_235"
+        ],
+        "description": [
+          "Schreiben an Kurt Peters, Durchschlag"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "fb82e94b-ca51-4956-a77f-08ab684dd233",
+    "src_id": "KH-3.A1-Ranzoni,HdA_242",
+    "content": {
+      "id": "https://id.kulturpool.at/fb82e94b-ca51-4956-a77f-08ab684dd233/aggregation",
+      "type": "Aggregation",
+      "hasView": [
+        {
+          "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_242_02.jpg",
+          "type": "WebResource"
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x236",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_242.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/fb82e94b-ca51-4956-a77f-08ab684dd233/cho",
+        "date": [
+          "29.10.1966"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_242"
+        ],
+        "description": [
+          "Schreiben von unbekannt (vermutlich Walter Neuwirth) bezüglich Abhandlung zu Hans Ranzoni von Josef Reisinger"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "0586b3e2-7a49-462d-a4b8-d62984beb41b",
+    "src_id": "KH-3.A1-Ranzoni,HdA_239",
+    "content": {
+      "id": "https://id.kulturpool.at/0586b3e2-7a49-462d-a4b8-d62984beb41b/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x233",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_239.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/0586b3e2-7a49-462d-a4b8-d62984beb41b/cho",
+        "date": [
+          "Juni 1956"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_239"
+        ],
+        "description": [
+          "Parte Hans Ranzoni"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "dbbfc328-7142-4fb1-b2f0-98ef449a3835",
+    "src_id": "KH-3.A1-Ranzoni,HdA_232",
+    "content": {
+      "id": "https://id.kulturpool.at/dbbfc328-7142-4fb1-b2f0-98ef449a3835/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x226",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_232.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/dbbfc328-7142-4fb1-b2f0-98ef449a3835/cho",
+        "date": [
+          "29.06.1956"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_232"
+        ],
+        "description": [
+          "Schreiben von Paul Meissner, Präsident der Secession, mit Beileidsbekundung zum Tod von Hans Ranzoni"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "d49f252b-e494-4799-a352-443beb262387",
+    "src_id": "KH-3.A1-Ranzoni,HdA_236",
+    "content": {
+      "id": "https://id.kulturpool.at/d49f252b-e494-4799-a352-443beb262387/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x230",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_236.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/d49f252b-e494-4799-a352-443beb262387/cho",
+        "date": [
+          "05.07.1956"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_236"
+        ],
+        "description": [
+          "Schreiben an Viktor Werner, Durchschlag"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "6e440014-639e-4874-ae10-5f32529f4ce2",
+    "src_id": "KH-3.A1-Ranzoni,HdA_241",
+    "content": {
+      "id": "https://id.kulturpool.at/6e440014-639e-4874-ae10-5f32529f4ce2/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x235",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_241.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/6e440014-639e-4874-ae10-5f32529f4ce2/cho",
+        "date": [
+          "Juni 1956"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_241"
+        ],
+        "description": [
+          "Nachruf des Künstlerhauses auf Hans Ranzoni"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "0f96b743-1c59-4445-a290-d183a0a7adc0",
+    "src_id": "KH-3.A1-Ranzoni,HdA_227",
+    "content": {
+      "id": "https://id.kulturpool.at/0f96b743-1c59-4445-a290-d183a0a7adc0/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x221",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_227.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/0f96b743-1c59-4445-a290-d183a0a7adc0/cho",
+        "date": [
+          "25.06.1956"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_227"
+        ],
+        "description": [
+          "Schreiben von unbekannt zum Tod von Hans Ranzoni"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "5e30577c-21fa-412f-ac53-f837c60e5522",
+    "src_id": "KH-3.A1-Ranzoni,HdA_229",
+    "content": {
+      "id": "https://id.kulturpool.at/5e30577c-21fa-412f-ac53-f837c60e5522/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x223",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_229.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/5e30577c-21fa-412f-ac53-f837c60e5522/cho",
+        "date": [
+          "26.06.1956"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_229"
+        ],
+        "description": [
+          "Schreiben von Stadtrat Hans Mandl mit Beileidsbekundung zum Tod von Hans Ranzoni"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "e2cbe223-feb7-4eea-8074-2b8ec77c8688",
+    "src_id": "KH-3.A1-Ranzoni,HdA_220",
+    "content": {
+      "id": "https://id.kulturpool.at/e2cbe223-feb7-4eea-8074-2b8ec77c8688/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x214",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_220.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/e2cbe223-feb7-4eea-8074-2b8ec77c8688/cho",
+        "date": [
+          "26.06.1956"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_220"
+        ],
+        "description": [
+          "Schreiben an das Österreichische Credit-Institut, Durchschlag"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "67d2a05e-ebea-46ff-b439-81217b53d7af",
+    "src_id": "KH-3.A1-Ranzoni,HdA_224",
+    "content": {
+      "id": "https://id.kulturpool.at/67d2a05e-ebea-46ff-b439-81217b53d7af/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x218",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_224.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/67d2a05e-ebea-46ff-b439-81217b53d7af/cho",
+        "date": [
+          "Juni 1956"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_224"
+        ],
+        "description": [
+          "Aussendung zum Tod von Hans Ranzoni, Durchschlag"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "15dd4777-fe01-455b-8304-d0b8dda79f27",
+    "src_id": "KH-3.A1-Ranzoni,HdA_230",
+    "content": {
+      "id": "https://id.kulturpool.at/15dd4777-fe01-455b-8304-d0b8dda79f27/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x224",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_230.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/15dd4777-fe01-455b-8304-d0b8dda79f27/cho",
+        "date": [
+          "26.06.1956"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_230"
+        ],
+        "description": [
+          "Schreiben von Ministerialrat Wilhelm Waldstein mit Beileidsbekundung zum Tod von Hans Ranzoni"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "921affad-1c90-42ac-bb27-fc4db1820c5e",
+    "src_id": "KH-3.A1-Ranzoni,HdA_222",
+    "content": {
+      "id": "https://id.kulturpool.at/921affad-1c90-42ac-bb27-fc4db1820c5e/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x216",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_222.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/921affad-1c90-42ac-bb27-fc4db1820c5e/cho",
+        "date": [
+          "30.05.1956"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_222"
+        ],
+        "description": [
+          "Schreiben an Hans Ranzoni, Durchschlag"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "e18f5b9d-10ac-478e-a495-443af67e6922",
+    "src_id": "KH-3.A1-Ranzoni,HdA_228",
+    "content": {
+      "id": "https://id.kulturpool.at/e18f5b9d-10ac-478e-a495-443af67e6922/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x222",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_228.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/e18f5b9d-10ac-478e-a495-443af67e6922/cho",
+        "date": [
+          "26.06.1956"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_228"
+        ],
+        "description": [
+          "Schreiben an Nationalratspräsidenten Felix Hurdes, Durchschlag"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "8f19afa5-3adf-4207-9d19-9f92e9fa99e1",
+    "src_id": "KH-3.A1-Ranzoni,HdA_237",
+    "content": {
+      "id": "https://id.kulturpool.at/8f19afa5-3adf-4207-9d19-9f92e9fa99e1/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x231",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_237.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/8f19afa5-3adf-4207-9d19-9f92e9fa99e1/cho",
+        "date": [
+          "05.07.1956"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_237"
+        ],
+        "description": [
+          "Schreiben an Paul Meissner, Durchschlag"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "2c7175f9-fb8e-4ed1-a8ad-72a47f9fefbe",
+    "src_id": "KH-3.A1-Ranzoni,HdA_225",
+    "content": {
+      "id": "https://id.kulturpool.at/2c7175f9-fb8e-4ed1-a8ad-72a47f9fefbe/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x219",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_225.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/2c7175f9-fb8e-4ed1-a8ad-72a47f9fefbe/cho",
+        "date": [
+          "23.06.1956"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_225"
+        ],
+        "description": [
+          "Telegramm von Nationalratspräsidenten Felix Hurdes mit Beileidsbekundung zum Tod von Hans Ranzoni"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "409c9f5f-f4e1-4176-b101-d83b03df5b80",
+    "src_id": "KH-3.A1-Ranzoni,HdA_234",
+    "content": {
+      "id": "https://id.kulturpool.at/409c9f5f-f4e1-4176-b101-d83b03df5b80/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x228",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_234.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/409c9f5f-f4e1-4176-b101-d83b03df5b80/cho",
+        "date": [
+          "04.07.1956"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_234"
+        ],
+        "description": [
+          "Schreiben an Josef Musil, Durchschlag"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "9d7c972b-3452-4548-b764-cd1601808c9c",
+    "src_id": "KH-3.A1-Ranzoni,HdA_231",
+    "content": {
+      "id": "https://id.kulturpool.at/9d7c972b-3452-4548-b764-cd1601808c9c/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x225",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_231.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/9d7c972b-3452-4548-b764-cd1601808c9c/cho",
+        "date": [
+          "28.06.1956"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_231"
+        ],
+        "description": [
+          "Schreiben von Josef Musil mit Beileidsbekundung zum Tod von Hans Ranzoni"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "d9618714-66d0-42c5-a193-4df639e7d2f7",
+    "src_id": "KH-3.A1-Ranzoni,HdA_209",
+    "content": {
+      "id": "https://id.kulturpool.at/d9618714-66d0-42c5-a193-4df639e7d2f7/aggregation",
+      "type": "Aggregation",
+      "hasView": [
+        {
+          "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_209_02.jpg",
+          "type": "WebResource"
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x203",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_209.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/d9618714-66d0-42c5-a193-4df639e7d2f7/cho",
+        "date": [
+          "15.10.1953"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_209"
+        ],
+        "description": [
+          "Presseaussendung mit biografischem Text von Hans Ankwicz-Kleehoven zum 85. Geburtstag von Hans Ranzoni"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "0ba13144-48a2-4af9-9f22-e53df89b43fd",
+    "src_id": "KH-3.A1-Ranzoni,HdA_212",
+    "content": {
+      "id": "https://id.kulturpool.at/0ba13144-48a2-4af9-9f22-e53df89b43fd/aggregation",
+      "type": "Aggregation",
+      "hasView": [
+        {
+          "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_212_02.jpg",
+          "type": "WebResource"
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x206",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_212.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/0ba13144-48a2-4af9-9f22-e53df89b43fd/cho",
+        "date": [
+          "25.08.1954"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_212"
+        ],
+        "description": [
+          "Schreiben an das Bundesministerium für Unterricht, Durchschlag"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "6c1d8274-44e1-415e-b129-62460b54fe7c",
+    "src_id": "KH-3.A1-Ranzoni,HdA_223",
+    "content": {
+      "id": "https://id.kulturpool.at/6c1d8274-44e1-415e-b129-62460b54fe7c/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x217",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_223.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/6c1d8274-44e1-415e-b129-62460b54fe7c/cho",
+        "date": [
+          "20.06.1956"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_223"
+        ],
+        "description": [
+          "Presseaussendung zum Tod von Hans Ranzoni"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "7c8f5726-9435-4032-9d5a-1a69bf6bd949",
+    "src_id": "KH-3.A1-Ranzoni,HdA_226",
+    "content": {
+      "id": "https://id.kulturpool.at/7c8f5726-9435-4032-9d5a-1a69bf6bd949/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x220",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_226.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/7c8f5726-9435-4032-9d5a-1a69bf6bd949/cho",
+        "date": [
+          "25.06.1956"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_226"
+        ],
+        "description": [
+          "Schreiben des Rektors der technischen Hochschule in Wien, Kurt Peters, mit Beileidsbekundung zum Tod von Hans Ranzoni"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "45f6bc30-dc52-4e48-ae18-6cfb2f173298",
+    "src_id": "KH-3.A1-Ranzoni,HdA_221",
+    "content": {
+      "id": "https://id.kulturpool.at/45f6bc30-dc52-4e48-ae18-6cfb2f173298/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x215",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_221.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/45f6bc30-dc52-4e48-ae18-6cfb2f173298/cho",
+        "date": [
+          "30.06.1956"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_221"
+        ],
+        "description": [
+          "Schreiben des Österreichische Credit-Instituts"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "d9abe26d-4fde-48c7-9716-d4ff2c82094c",
+    "src_id": "KH-3.A1-Ranzoni,HdA_219",
+    "content": {
+      "id": "https://id.kulturpool.at/d9abe26d-4fde-48c7-9716-d4ff2c82094c/aggregation",
+      "type": "Aggregation",
+      "hasView": [
+        {
+          "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_219_02.jpg",
+          "type": "WebResource"
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x213",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_219.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/d9abe26d-4fde-48c7-9716-d4ff2c82094c/cho",
+        "date": [
+          "08.12.1955"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_219"
+        ],
+        "description": [
+          "Postkarte von Hans Ranzoni"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "f84666b8-6575-420b-a6c6-16ae7a8d14bd",
+    "src_id": "KH-3.A1-Ranzoni,HdA_201",
+    "content": {
+      "id": "https://id.kulturpool.at/f84666b8-6575-420b-a6c6-16ae7a8d14bd/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x195",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_201.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/f84666b8-6575-420b-a6c6-16ae7a8d14bd/cho",
+        "date": [
+          "07.08.1953"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_201"
+        ],
+        "description": [
+          "Schreiben der Hypotheken- und Credit-Institut Aktiengesellschaft"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "1db33f2c-8484-4160-9860-e901f614a7a3",
+    "src_id": "KH-3.A1-Ranzoni,HdA_218",
+    "content": {
+      "id": "https://id.kulturpool.at/1db33f2c-8484-4160-9860-e901f614a7a3/aggregation",
+      "type": "Aggregation",
+      "hasView": [
+        {
+          "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_218_02.jpg",
+          "type": "WebResource"
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x212",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_218.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/1db33f2c-8484-4160-9860-e901f614a7a3/cho",
+        "date": [
+          "Mai 1954"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_218"
+        ],
+        "description": [
+          "biografische Angaben für die Künstlerkartei zu Hans Ranzoni"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "a1afdaee-7257-4889-b72e-afda11ef12af",
+    "src_id": "KH-3.A1-Ranzoni,HdA_215",
+    "content": {
+      "id": "https://id.kulturpool.at/a1afdaee-7257-4889-b72e-afda11ef12af/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x209",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_215.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/a1afdaee-7257-4889-b72e-afda11ef12af/cho",
+        "date": [
+          "Oktober 1954"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_215"
+        ],
+        "description": [
+          "Parte Maria Ranzoni"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "e600bc68-2f8e-4d18-a493-d4f6b443ab42",
+    "src_id": "KH-3.A1-Ranzoni,HdA_217",
+    "content": {
+      "id": "https://id.kulturpool.at/e600bc68-2f8e-4d18-a493-d4f6b443ab42/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x211",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_217.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/e600bc68-2f8e-4d18-a493-d4f6b443ab42/cho",
+        "date": [
+          "Oktober 1954"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_217"
+        ],
+        "description": [
+          "Dankschreiben der Familie Ranzoni"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "5af7cf47-2672-42cf-98eb-234d0a53e983",
+    "src_id": "KH-3.A1-Ranzoni,HdA_197",
+    "content": {
+      "id": "https://id.kulturpool.at/5af7cf47-2672-42cf-98eb-234d0a53e983/aggregation",
+      "type": "Aggregation",
+      "hasView": [
+        {
+          "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_197_02.jpg",
+          "type": "WebResource"
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x191",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_197.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/5af7cf47-2672-42cf-98eb-234d0a53e983/cho",
+        "date": [
+          "19.11.1951"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_197"
+        ],
+        "description": [
+          "Postkarte von Hans Ranzoni"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "2c644afb-ca01-4aff-a6c0-034ec9105930",
+    "src_id": "KH-3.A1-Ranzoni,HdA_211",
+    "content": {
+      "id": "https://id.kulturpool.at/2c644afb-ca01-4aff-a6c0-034ec9105930/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x205",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_211.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/2c644afb-ca01-4aff-a6c0-034ec9105930/cho",
+        "date": [
+          "30.10.1953"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_211"
+        ],
+        "description": [
+          "Schreiben von Hans Ranzoni"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "e4feaede-a7b5-459b-b6a1-e5b1cb9f18e5",
+    "src_id": "KH-3.A1-Ranzoni,HdA_210",
+    "content": {
+      "id": "https://id.kulturpool.at/e4feaede-a7b5-459b-b6a1-e5b1cb9f18e5/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x204",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_210.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/e4feaede-a7b5-459b-b6a1-e5b1cb9f18e5/cho",
+        "date": [
+          "1953"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_210"
+        ],
+        "description": [
+          "biografischem Text von Hans Ankwicz-Kleehoven zum 85. Geburtstag von Hans Ranzoni"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "86c0df5b-cb7f-44bb-8aed-c7c3fe236927",
+    "src_id": "KH-3.A1-Ranzoni,HdA_213",
+    "content": {
+      "id": "https://id.kulturpool.at/86c0df5b-cb7f-44bb-8aed-c7c3fe236927/aggregation",
+      "type": "Aggregation",
+      "hasView": [
+        {
+          "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_213_02.jpg",
+          "type": "WebResource"
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x207",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_213.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/86c0df5b-cb7f-44bb-8aed-c7c3fe236927/cho",
+        "date": [
+          "25.08.1954"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_213"
+        ],
+        "description": [
+          "Schreiben von Hans Ranzoni"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "18fee297-6871-4a46-a8e7-50a521915782",
+    "src_id": "KH-3.A1-Ranzoni,HdA_203",
+    "content": {
+      "id": "https://id.kulturpool.at/18fee297-6871-4a46-a8e7-50a521915782/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x197",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_203.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/18fee297-6871-4a46-a8e7-50a521915782/cho",
+        "date": [
+          "26.08.1953"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_203"
+        ],
+        "description": [
+          "Schreiben von Hans Ranzoni"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "46770578-1e74-43c3-ab9c-6104d40ba991",
+    "src_id": "KH-3.A1-Ranzoni,HdA_194",
+    "content": {
+      "id": "https://id.kulturpool.at/46770578-1e74-43c3-ab9c-6104d40ba991/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x188",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_194.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/46770578-1e74-43c3-ab9c-6104d40ba991/cho",
+        "date": [
+          "07.11.1951"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_194"
+        ],
+        "description": [
+          "Schreiben an Hans Ranzoni, Durchschlag"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "91b7a9d6-5a41-452c-b754-d94db6dc0301",
+    "src_id": "KH-3.A1-Ranzoni,HdA_214",
+    "content": {
+      "id": "https://id.kulturpool.at/91b7a9d6-5a41-452c-b754-d94db6dc0301/aggregation",
+      "type": "Aggregation",
+      "hasView": [
+        {
+          "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_214_02.jpg",
+          "type": "WebResource"
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x208",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_214.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/91b7a9d6-5a41-452c-b754-d94db6dc0301/cho",
+        "date": [
+          "08.10.1954"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_214"
+        ],
+        "description": [
+          "Parte Maria Ranzoni"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "6411d486-b637-4b37-b537-3f869244bf36",
+    "src_id": "KH-3.A1-Ranzoni,HdA_205",
+    "content": {
+      "id": "https://id.kulturpool.at/6411d486-b637-4b37-b537-3f869244bf36/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x199",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_205.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/6411d486-b637-4b37-b537-3f869244bf36/cho",
+        "date": [
+          "16.09.1953"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_205"
+        ],
+        "description": [
+          "Schreiben an Hans Ranzoni, Durchschlag"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "9a3b44a4-e06e-4479-a845-9dfbb4481716",
+    "src_id": "KH-3.A1-Ranzoni,HdA_208",
+    "content": {
+      "id": "https://id.kulturpool.at/9a3b44a4-e06e-4479-a845-9dfbb4481716/aggregation",
+      "type": "Aggregation",
+      "hasView": [
+        {
+          "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_208_02.jpg",
+          "type": "WebResource"
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x202",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_208.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/9a3b44a4-e06e-4479-a845-9dfbb4481716/cho",
+        "date": [
+          "14.10.1953"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_208"
+        ],
+        "description": [
+          "Schreiben an Hans Ranzoni, Durchschlag"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "5a528252-b047-4b68-9ad4-bd84c061120e",
+    "src_id": "KH-3.A1-Ranzoni,HdA_202",
+    "content": {
+      "id": "https://id.kulturpool.at/5a528252-b047-4b68-9ad4-bd84c061120e/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x196",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_202.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/5a528252-b047-4b68-9ad4-bd84c061120e/cho",
+        "date": [
+          "24.08.1953"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_202"
+        ],
+        "description": [
+          "Schreiben an Hans Ranzoni, Durchschlag"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "7b82bbcd-b83d-45b7-a31a-b7325a46b8b5",
+    "src_id": "KH-3.A1-Ranzoni,HdA_187",
+    "content": {
+      "id": "https://id.kulturpool.at/7b82bbcd-b83d-45b7-a31a-b7325a46b8b5/aggregation",
+      "type": "Aggregation",
+      "hasView": [
+        {
+          "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_187_02.jpg",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_187_03.jpg",
+          "type": "WebResource"
+        },
+        {
+          "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_187_04.jpg",
+          "type": "WebResource"
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x181",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_187.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/7b82bbcd-b83d-45b7-a31a-b7325a46b8b5/cho",
+        "date": [
+          "26.10.1948"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_187"
+        ],
+        "description": [
+          "Schreiben von Hans Ranzoni"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "7832c6a5-d866-4133-a07d-ab7df1e87309",
+    "src_id": "KH-3.A1-Ranzoni,HdA_175",
+    "content": {
+      "id": "https://id.kulturpool.at/7832c6a5-d866-4133-a07d-ab7df1e87309/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x169",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_175.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/7832c6a5-d866-4133-a07d-ab7df1e87309/cho",
+        "date": [
+          "02.01.1948"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_175"
+        ],
+        "description": [
+          "Schreiben an Frau M. Ranzoni, Ausgangkopie"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "a228bd11-5c20-469a-a6c6-cf52614314c9",
+    "src_id": "KH-3.A1-Ranzoni,HdA_196",
+    "content": {
+      "id": "https://id.kulturpool.at/a228bd11-5c20-469a-a6c6-cf52614314c9/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x190",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_196.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/a228bd11-5c20-469a-a6c6-cf52614314c9/cho",
+        "date": [
+          "17.11.1951"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_196"
+        ],
+        "description": [
+          "Schreiben an Hans Ranzoni, Durchschlag"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "722d3885-a512-404f-a754-52319f61c070",
+    "src_id": "KH-3.A1-Ranzoni,HdA_207",
+    "content": {
+      "id": "https://id.kulturpool.at/722d3885-a512-404f-a754-52319f61c070/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x201",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_207.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/722d3885-a512-404f-a754-52319f61c070/cho",
+        "date": [
+          "06.10.1953"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_207"
+        ],
+        "description": [
+          "Schreiben an Hans Ranzoni, Durchschlag"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "effb0dc6-c747-4df9-9f11-a9a341494b6a",
+    "src_id": "KH-3.A1-Ranzoni,HdA_198",
+    "content": {
+      "id": "https://id.kulturpool.at/effb0dc6-c747-4df9-9f11-a9a341494b6a/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x192",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_198.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/effb0dc6-c747-4df9-9f11-a9a341494b6a/cho",
+        "date": [
+          "22.11.1951"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_198"
+        ],
+        "description": [
+          "Schreiben an Hans Ranzoni, Durchschlag"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "680b6278-f802-4895-b2c3-711af3518ad1",
+    "src_id": "KH-3.A1-Ranzoni,HdA_204",
+    "content": {
+      "id": "https://id.kulturpool.at/680b6278-f802-4895-b2c3-711af3518ad1/aggregation",
+      "type": "Aggregation",
+      "hasView": [
+        {
+          "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_204_02.jpg",
+          "type": "WebResource"
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x198",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_204.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/680b6278-f802-4895-b2c3-711af3518ad1/cho",
+        "date": [
+          "14.09.1953"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_204"
+        ],
+        "description": [
+          "Schreiben an den Magistrat der Stadt Wien Abt. 13 betreffend Hans Ranzoni, Durchschlag"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "f0c76b33-005d-43b4-84ff-e187d99413d9",
+    "src_id": "KH-3.A1-Ranzoni,HdA_188",
+    "content": {
+      "id": "https://id.kulturpool.at/f0c76b33-005d-43b4-84ff-e187d99413d9/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x182",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_188.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/f0c76b33-005d-43b4-84ff-e187d99413d9/cho",
+        "date": [
+          "20.12.1948"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_188"
+        ],
+        "description": [
+          "Schreiben an Frau Professor Ranzoni, Durchschlag"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "b1966c82-5b51-4f75-9f23-967e6f10dd21",
+    "src_id": "KH-3.A1-Ranzoni,HdA_195",
+    "content": {
+      "id": "https://id.kulturpool.at/b1966c82-5b51-4f75-9f23-967e6f10dd21/aggregation",
+      "type": "Aggregation",
+      "hasView": [
+        {
+          "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_195_02.jpg",
+          "type": "WebResource"
+        }
+      ],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x189",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_195.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/b1966c82-5b51-4f75-9f23-967e6f10dd21/cho",
+        "date": [
+          "09.11.1951"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_195"
+        ],
+        "description": [
+          "Schreiben von Hans Ranzoni"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "115c374f-08f7-445b-9dc6-96e34cafe1d0",
+    "src_id": "KH-3.A1-Ranzoni,HdA_199",
+    "content": {
+      "id": "https://id.kulturpool.at/115c374f-08f7-445b-9dc6-96e34cafe1d0/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x193",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_199.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/115c374f-08f7-445b-9dc6-96e34cafe1d0/cho",
+        "date": [
+          "26.11.1951"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_199"
+        ],
+        "description": [
+          "Schreiben von Hans Ranzoni"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "415e0d4d-b431-44b1-bf43-41f04003ce3e",
+    "src_id": "KH-3.A1-Ranzoni,HdA_206",
+    "content": {
+      "id": "https://id.kulturpool.at/415e0d4d-b431-44b1-bf43-41f04003ce3e/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x200",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_206.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/415e0d4d-b431-44b1-bf43-41f04003ce3e/cho",
+        "date": [
+          "24.09.1953"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_206"
+        ],
+        "description": [
+          "Schreiben vom Magistrat der Stadt Wien Abt. 13 betreffend Hans Ranzoni"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  },
+  {
+    "kp_id": "07157ef3-d47e-4db7-b66a-4b291fcba92f",
+    "src_id": "KH-3.A1-Ranzoni,HdA_200",
+    "content": {
+      "id": "https://id.kulturpool.at/07157ef3-d47e-4db7-b66a-4b291fcba92f/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://www.kuenstlerhaus-archiv.findbuch.net?ar_id=3824#332e41312e52616e7a6f6e692c486441x194",
+      "isShownBy": {
+        "id": "https://www.archiv.kuenstlerhaus.at/03Personenakten//E.._Augias-Import._~3.A1_Personenakten._~Ranzoni%2CHdA._~KH-3.A1-Ranzoni%2CHdA_200.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Künstlerhaus-Archiv, Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/07157ef3-d47e-4db7-b66a-4b291fcba92f/cho",
+        "date": [
+          "15.04.1953"
+        ],
+        "type": "ProvidedCHO",
+        "title": [
+          "Personenakt Hans Ranzoni der Ältere"
+        ],
+        "dcType": [
+          "Akten"
+        ],
+        "creator": [
+          "Wien, Künstlerhaus"
+        ],
+        "edmType": "TEXT",
+        "language": [
+          "de"
+        ],
+        "identifier": [
+          "KH-3.A1-Ranzoni,HdA_200"
+        ],
+        "description": [
+          "Anmeldung von Kunstwerken von Hans Ranzoni für die Donau Ausstellung"
+        ]
+      }
+    },
+    "institution_id": "kuenstlerhaus-gesellschaft-archiv",
+    "pipeline_id": "kuenstlerhaus"
+  }
+]

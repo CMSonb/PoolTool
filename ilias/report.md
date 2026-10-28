@@ -22,9 +22,11 @@ Running log of findings about the Kulturpool datasets and the scripts in `ilias/
 | `data/time_mapping.csv` | Each distinct time string with `begin_year`, `end_year`, `iso`, `method`, `score`, `source_uri`, `qualifier` (`run_time_mapping.py`) |
 | `data/time_review.csv` | Time strings the tool could not map, with PeriodO and ChronOntology candidates and empty `begin_year`/`end_year`/`decision` columns to fill in |
 | `data/periodo_periods.csv` | German and English labels of PeriodO periods with start/stop year (`build_period_table.py`) |
-| `data/periods.csv` | Reviewed periods and manual decisions (52 labels), written by `import_periods.py` from `periods_proposal.csv`; applied before the rules |
+| `data/periods.csv` | Reviewed periods and manual decisions (73 labels), written by `import_periods.py` from `periods_proposal.csv`; applied before the rules |
 | `data/periods_proposal.csv` | Proposed dates for the 86 unmapped time strings, to be reviewed before they go into `periods.csv` |
 | `data/time_api_check.csv` | Comparison of the mapped years with `dateMin`/`dateMax` of the Kulturpool search index (`check_dates_against_api.py`) |
+| `data/records_101_200/*_first_records.json` | Records 101-200 of every dataset (second sample, 99 MB, `sample_records.py --second`) |
+| `data/time_values_sample2.csv` | Distinct time strings of the second sample with the mapping result and a `new` flag (not in sample 1) (`check_second_sample.py`) |
 
 ## Field usage of the main-class fields (sample of 255 records)
 
@@ -135,3 +137,39 @@ All 86 rows of `time_review.csv` have a `kind`: 35 `period` (proposed `begin_yea
 - The parser now handles the 35 gap rows: `X bis Y`, date lists with abbreviated days (`01., 03., 04.10.1987`, `08.-18.08.1987`), masked days (`1933.03.xx`), hedging words (`vermutlich`, `ev.`), index prefixes (`01: 1952; 02: 1951`) and a date or year inside other text (`Poststempel: Augsburg, 13.03.1978`, method `rule_embedded`, score 0.6, only if all numbers in the text are the same year). Reviewed entries in `periods.csv` match the unchanged text and win over the rules.
 - Result on the 100-record sample (distinct strings / records): rule 2,143 / 5,088; table 50 / 385; timespan 60 / 86; rule_embedded 6 / 6; no_date 8 / 202; unmapped 0 / 0 (before `Modern` was decided: 1 / 6).
 - Notes on the decisions: `-60000000` now has begin and end -60000000 (a single year in EDTF long-year form, `Y-60000000`); this is probably a geological age and was entered as a point. `um 1720 und Ende 18. Jh.` ends in 1800, like the century rules. "1924 bzw. 1927" is the interval 1924/1927 as decided.
+
+### Second sample (records 101-200 per dataset)
+
+Test of how well the rules and `periods.csv` (tuned on records 1-100) generalise. 86 datasets, about 8,600 records; 2,166 distinct field/value pairs, of which 1,483 are new compared with sample 1.
+
+- Result for the new values (distinct / records): rule 1,400 / 1,969; timespan 50 / 52; rule_embedded 7 / 8; unmapped 26 / 109. So 1.8% of the new distinct values and 1.9% of all records in this sample are unmapped. 65 of the 109 unmapped records are one geological string from one dataset.
+- The 25 distinct unmapped strings fall into four groups:
+  - Named periods missing from `periods.csv` (13): Severisch, Hadrianisch, Constantinisch, Soldatenkaiser, Roman Provincial | Provinzialrömisch, Neuromantik, Jahrhundertwende, Early Middle Ages, Late Neolithic | Spätneolithisch, and the Greek pottery periods Geometric, Middle Geometric, Cretan, Attic.
+  - Not a time value: `Geschichte` (16 records, 2 datasets), `Sozialgeschichte` (2), `div.`; these are subject words in the `temporal` field.
+  - Geological time: `Phanerozoic | Cenozoic | Neogene | Miocene (Karpatium bis Unter-Badenium)` (65 records), same kind of value as `-60000000`.
+  - Rule gaps: `2 Hälfte des 19. Jhdt.`, `-125000 - -19650` (years with six digits), `zwischen 1950 und 1997`, serial volumes (`1 (1914)-5 (1917)`, `1867/70(1872) - ...`), two years in one text (`1967\nAngabe laut Verpackung: 1972`, `1906, ca. 1970 (Eintragungen)`), `Anfang 18. Jh. / Ergänzungen 20. Jh.`.
+- Silent errors found by checking the mapped values (not unmapped): `1809-9999` is mapped to 1809/9999 although 9999 is a placeholder for an unknown end; `[1809?]` loses its uncertainty marker (`1809` instead of `1809?`) because the `?` sits inside the brackets. Not fixed yet.
+- Compared with sample 1 the share of unmapped strings is lower (1.8% of new distinct values, against 3.8% before the review), but only because the review covered the sample 1 period names; new period names still appear in every new sample.
+
+### Proposal for the period names of the second sample
+
+`periods_proposal.csv` has 13 more `period` rows (appended, not yet in `periods.csv`): Severisch 193/235 and Hadrianisch 117/138 (high: both gazetteers agree), Geometric -900/-700 (high: Getty AAT, PeriodO and ChronOntology agree), 6 medium (Soldatenkaiser 235/284, Constantinisch 306/337, Early Middle Ages 500/1050, Late Neolithic -4000/-3000, Cretan -3500/-1050, Middle Geometric -850/-750) and 4 low without a dated source (Roman Provincial, Attic, Neuromantik, Jahrhundertwende).
+- Nine of the names (Minoan, Early/Middle Minoan, Cretan, Late Neolithic, Attic, Geometric, Middle Geometric, Roman Provincial) are Getty AAT TimeSpans in the data (`content.aggregatedCHO.temporal[].id`, `http://vocab.getty.edu/aat/...`). The AAT scope notes confirm several dates (Minoan 3500-1050 BCE, Geometric 900-700 BCE) but give none for Attic and Roman Provincial.
+- The 13 proposals were accepted as they are and imported (`periods.csv` now has 72 labels). Second sample after the import: unmapped 13 distinct values / 93 records (before 26 / 109); 12 distinct strings remain: the geological string (65 records), `Geschichte` and `Sozialgeschichte` (18), `div.`, and 8 parser gaps (`2 Hälfte des 19. Jhdt.`, `-125000 - -19650`, `zwischen 1950 und 1997`, serial volumes, texts with two years, `Anfang 18. Jh. / Ergänzungen 20. Jh.`).
+
+### Fixes after the second sample
+
+- No date: `Geschichte`, `Sozialgeschichte`, `div.` and a plain `9999` are treated as "no date".
+- Parser: `2 Hälfte des 19. Jhdt.`, six-digit years (`-125000 - -19650` gives `Y-125000/Y-19650`), `zwischen X und Y` (also inside text), serial volumes with years in brackets (`1 (1914)-5 (1917)`, earliest to latest year, method `rule_embedded`), texts with two different years (interval from the earliest to the latest year, `rule_embedded`, score 0.5), `, ca.` after a number no longer removes the comma (`1906, ca. 1970`), and additions are ignored (`Anfang 18. Jh. / Ergänzungen 20. Jh.` gives 1701/1733).
+- Silent errors: an end year of `9999` is an open end (`1809-9999` gives `1809/..`); `[1809?]` keeps its uncertainty marker. Side effect: `[1.]1856 - 2.1858[?]` now also gets `?` markers (`1856?/1858?`).
+- Assumptions made without a decision from you: for two years in one text and for serial volumes the interval runs from the earliest to the latest year; `ca.` in `1906, ca. 1970` marks both ends as approximate.
+- Second sample after the fixes: new values unmapped 1 distinct / 65 records (only the geological string `Phanerozoic | Cenozoic | Neogene | Miocene (...)`); sample 1 is unchanged except the one `?` marker above.
+
+### Geological string
+
+`Phanerozoic | Cenozoic | Neogene | Miocene (Karpatium bis Unter-Badenium)` (65 records, `nhm-wien-divina`, fossil specimens) is mapped to -17,200,000/-15,032,000 (`Y-17200000/Y-15032000`). Only the most specific label (`Miocene (Karpatium bis Unter-Badenium)`) is in `periods.csv`; the broader labels (Phanerozoic, Cenozoic, Neogene) are deliberately not, because they would get the same interval.
+- End 15.032 Ma is the end of the Early (Unter-) Badenian (Hohenegger, Ćorić, Wagreich 2014, Geologica Carpathica 65(1), 55-66). The Karpatian/Badenian boundary in the same paper is 16.303 Ma.
+- The begin, about 17.2 Ma (start of the Karpatian), is from memory and **not verified**: the paper and the searches did not give a start date for the Karpatian. Confidence low until checked.
+- Years are counted from the year 0, not from the present; the difference of about 2,000 years does not matter at this scale.
+- With this row nothing is unmapped any more in either sample.
+

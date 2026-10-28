@@ -12,7 +12,7 @@ PERIODO_PATH = DATA_DIR / "periodo_periods.csv"  # von build_period_table.py erz
 # Der ISO-8601-String verwendet die astronomische Zählung (1 v. Chr. = 0000, 2 v. Chr. = -0001).
 # Unschärfe-Markierungen ("~" ungefähr, "?" unsicher) und offene Intervalle ("..") sind EDTF.
 
-NO_DATE = {"ohne datierung", "ohne datum", "undatiert", "unbekannt", "unknown", "o. j.", "o.j.", "x"}
+NO_DATE = {"ohne datierung", "ohne datum", "undatiert", "unbekannt", "unknown", "o. j.", "o.j.", "x", "geschichte", "sozialgeschichte", "div.", "9999"}
 
 MONTHS = {
     "januar": 1, "februar": 2, "märz": 3, "maerz": 3, "april": 4, "mai": 5, "juni": 6,
@@ -30,7 +30,7 @@ ORDINALS = {"erste": 1, "erstes": 1, "zweite": 2, "zweites": 2, "dritte": 3, "dr
 
 ERA_BCE = r"(?:v\.\s*Chr\.?|vor\s+Chr\.?|BCE|BC)"
 ERA_CE = r"(?:n\.\s*Chr\.?|nach\s+Chr\.?|CE|AD)"
-YEAR = rf"(?P<{{n}}>-?\d{{{{1,5}}}})(?:\.0)?(?:\s*(?P<{{n}}e>{ERA_BCE}|{ERA_CE}))?"
+YEAR = rf"(?P<{{n}}>-?\d{{{{1,7}}}})(?:\.0)?(?:\s*(?P<{{n}}e>{ERA_BCE}|{ERA_CE}))?"
 
 
 @dataclass
@@ -86,7 +86,7 @@ def mark(text: str, qualifier: str) -> str:
 def build(begin: tuple, end: tuple, qualifier: str, method: str = "rule") -> TimeResult:
     """TimeResult aus Anfangs-/Endpunkt (Jahr, Monat, Tag) bauen; None = offen."""
     begin = begin if begin and begin[0] is not None else None
-    end = end if end and end[0] is not None else None
+    end = end if end and end[0] is not None and end[0] != 9999 else None  # 9999 = Platzhalter für "offen"
     begin_text = format_point(*begin) if begin else ".."
     end_text = format_point(*end) if end else ".."
     if begin and end and begin == end:
@@ -107,7 +107,9 @@ def clean(text: str) -> tuple[str, str]:
         text = text.replace("(?)", " ").rstrip("?")
     if re.search(r"\b(?:ca|circa|um)\b|\bc\.", text, flags=re.IGNORECASE):
         qualifier.add("approx")
-        text = re.sub(r",?\s*(?:\bca\b|\bcirca\b|\bum\b|\bc\.)\.?", " ", text, flags=re.IGNORECASE)
+        # nachgestelltes ", ca." (hinter einer Zahl, vor Bindestrich/Schrägstrich/Ende) samt Komma entfernen
+        text = re.sub(r"(?<=\d)\s*,\s*ca\.?(?=\s*(?:-|/|;|$))", " ", text, flags=re.IGNORECASE)
+        text = re.sub(r"\b(?:ca|circa|um)\b\.?|\bc\.", " ", text, flags=re.IGNORECASE)
     if re.search(r"\b(?:vermutlich|wahrscheinlich|evtl|ev)\b", text, flags=re.IGNORECASE):
         qualifier.add("uncertain")
         text = re.sub(r"\b(?:vermutlich|wahrscheinlich|evtl|ev)\b\.?", " ", text, flags=re.IGNORECASE)
@@ -116,6 +118,12 @@ def clean(text: str) -> tuple[str, str]:
     text = text.strip()
     if text.startswith("[") and text.endswith("]"):
         text = text[1:-1].strip()
+        if text.endswith("?"):  # "[1809?]": Fragezeichen steht innerhalb der Klammern
+            qualifier.add("uncertain")
+            text = text.rstrip("?").strip()
+    # Nachträge ("Anfang 18. Jh. / Ergänzungen 20. Jh."): nur die ursprüngliche Datierung zählt
+    text = re.split(r"\s*[/;,]?\s*Ergänzung(?:en)?\b", text, maxsplit=1)[0].strip()
+    text = re.sub(r"\b(\d)\.?\s+Hälfte\s+des\b", r"\1. Hälfte", text)
     # Epochenname in Klammern am Ende (z. B. "(Flavisch)") verwerfen
     text = re.sub(r"\s*\([^\d()]*[A-Za-zÄÖÜäöüß][^\d()]*\)\s*$", "", text).strip()
     text = re.sub(r"\s+", " ", text)
@@ -167,7 +175,7 @@ def century_part(modifier: str) -> tuple[int, int] | None:
     modifier = re.sub(r"\s+", " ", modifier.lower().strip())
     if modifier in CENTURY_PARTS:
         return CENTURY_PARTS[modifier]
-    m = re.fullmatch(r"(?:(\d)\.|(" + "|".join(ORDINALS) + r"))\s+(hälfte|drittel|viertel)", modifier)
+    m = re.fullmatch(r"(?:(\d)\.?|(" + "|".join(ORDINALS) + r"))\s+(hälfte|drittel|viertel)", modifier)
     if not m:
         return None
     units = PART_UNITS[m.group(3)]
@@ -181,7 +189,7 @@ def century_part(modifier: str) -> tuple[int, int] | None:
 CENTURY_WORD = r"(?:jh|jhdt|jahrhundert)"
 CENTURY_CHUNK = (
     r"(?:(?P<mod>anfang|früh(?:es|en)?|mitte|mittleres|ende|spät(?:es|en)?|"
-    r"(?:\d\.|erste|erstes|zweite|zweites|dritte|drittes|letzte|letztes)\s+(?:hälfte|drittel|viertel))\s+)?"
+    r"(?:\d\.?|erste|erstes|zweite|zweites|dritte|drittes|letzte|letztes)\s+(?:hälfte|drittel|viertel))\s+)?"
     r"(?P<n>\d{1,2})\.?(?:\s*" + CENTURY_WORD + r"\.?)?"
 )
 
@@ -308,12 +316,41 @@ def parse_date_tokens(text: str, qualifier: str) -> TimeResult | None:
     return build(dates[0], dates[-1], qualifier)
 
 
+def parse_between(text: str, qualifier: str) -> TimeResult | None:
+    """"zwischen 1950 und 1997", auch innerhalb von Text ("Aufgenommen in Sri Lanka zwischen 1950 und 1997")."""
+    m = re.search(r"zwischen\s+(\S+)\s+und\s+(\S+)", text, flags=re.IGNORECASE)
+    if not m:
+        return None
+    a, b = parse_endpoint(m.group(1)), parse_endpoint(m.group(2).rstrip(".,;"))
+    if not (a and b) or a[0] > b[0]:
+        return None
+    result = build(a[0], b[0], qualifier, "rule" if text.lower().startswith("zwischen") else "rule_embedded")
+    result.score = 1.0 if result.method == "rule" else 0.6
+    return result
+
+
+def parse_serial(text: str, qualifier: str) -> TimeResult | None:
+    """Bandzählungen mit Jahr in Klammern ("1 (1914)-5 (1917)"): frühestes bis spätestes Jahr im Text."""
+    if not re.search(r"\d+\s*\(\d{4}\)", text):
+        return None
+    years = [int(y) for y in re.findall(r"(?<![\d/])\d{4}(?![\d])", text)]
+    if len(years) < 2:
+        return None
+    result = build((min(years), None, None), (max(years), None, None), qualifier, "rule_embedded")
+    result.score = 0.6
+    return result
+
+
 def parse_embedded(text: str, qualifier: str) -> TimeResult | None:
-    """Datum oder Jahr in umgebendem Text ("Poststempel: Augsburg, 13.03.1978"); nur wenn alle Zahlen dasselbe Jahr meinen."""
+    """Datum oder Jahr in umgebendem Text ("Poststempel: Augsburg, 13.03.1978"); bei mehreren Jahren das Intervall."""
     found = re.findall(r"(?<![\d.])(?:\d{1,2}\.\d{1,2}\.(\d{4})|(\d{4})-\d{2}-\d{2}|(\d{4}))(?![\d])", text)
     years = {int(a or b or c) for a, b, c in found}
-    if len(years) != 1 or not 1000 <= next(iter(years)) <= 2100:
+    if not years or not all(1000 <= y <= 2100 for y in years):
         return None
+    if len(years) > 1:  # mehrere Jahre im Text: Intervall vom frühesten bis zum spätesten
+        result = build((min(years), None, None), (max(years), None, None), qualifier, "rule_embedded")
+        result.score = 0.5
+        return result
     single = parse_endpoint(re.search(r"\d{1,2}\.\d{1,2}\.\d{4}|\d{4}-\d{2}-\d{2}|\d{4}", text).group())
     point = single[0] if len(found) == 1 else (next(iter(years)), None, None)
     result = build(point, point, qualifier, "rule_embedded")
@@ -393,7 +430,9 @@ def parse_text(text: str) -> TimeResult:
         parse_open,
         parse_date_tokens,
         parse_list,
+        parse_between,
         parse_period,
+        parse_serial,
         parse_embedded,
     ):
         result = parser(cleaned, qualifier)

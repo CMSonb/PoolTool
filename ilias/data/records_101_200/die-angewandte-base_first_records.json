@@ -1,0 +1,5323 @@
+[
+  {
+    "kp_id": "4902e801-afc7-442f-a2a0-784de0acf22d",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/dXkYPJct468dgyCivxz5W5/aoVFTR7DbpqBiez8PeZUqv",
+    "content": {
+      "id": "https://id.kulturpool.at/4902e801-afc7-442f-a2a0-784de0acf22d/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/aoVFTR7DbpqBiez8PeZUqv/preview-1920.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/dXkYPJct468dgyCivxz5W5/media/aoVFTR7DbpqBiez8PeZUqv",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000026992.TIF",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/4902e801-afc7-442f-a2a0-784de0acf22d/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Der Mengenbildungsprozess"
+        ],
+        "creator": [
+          "Franz Kaltenbeck",
+          "Peter Weibel",
+          "Werner Schimanovich"
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1971"
+        ],
+        "identifier": [
+          "ZKM000026992",
+          "aoVFTR7DbpqBiez8PeZUqv"
+        ],
+        "description": [
+          "Ausarbeitung der Dissertation von Werner Schimanovich unter Mitarbeit von Franz Kaltenbeck und Peter Weibel, publiziert in Manuskripte, 33, Graz, 1971"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "3dc39438-27c1-4965-8385-3cfb511e7a80",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/DhVyQvLqW2NDv8mgw2XiDh/NVD9DE4XB4VZVbQbmkfdHr",
+    "content": {
+      "id": "https://id.kulturpool.at/3dc39438-27c1-4965-8385-3cfb511e7a80/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/NVD9DE4XB4VZVbQbmkfdHr/preview-720.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/DhVyQvLqW2NDv8mgw2XiDh/media/NVD9DE4XB4VZVbQbmkfdHr",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000022799.TIF",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/3dc39438-27c1-4965-8385-3cfb511e7a80/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Anxiety / Angst"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          "Videokunst"
+        ],
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1974",
+          "1975"
+        ],
+        "identifier": [
+          "NVD9DE4XB4VZVbQbmkfdHr",
+          "ZKM000022799"
+        ],
+        "description": [
+          "Video, s/w, Ton, 2:15 min."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "ab1e487c-ce69-4f19-a0f8-c0d097d46eeb",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/Zd8R6C6m5FjdW433S5VJDB/QFFfUMmMz7D4yRiGKfGB6T",
+    "content": {
+      "id": "https://id.kulturpool.at/ab1e487c-ce69-4f19-a0f8-c0d097d46eeb/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/QFFfUMmMz7D4yRiGKfGB6T/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/Zd8R6C6m5FjdW433S5VJDB/media/QFFfUMmMz7D4yRiGKfGB6T",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000258373.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/ab1e487c-ce69-4f19-a0f8-c0d097d46eeb/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Bibliotheca Insomnia. Bildwerke oder Entwurf einer Psychologie anhand einer zur Schau gestellten Materialsprache"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "TEXT",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "language": [
+          "de",
+          "en"
+        ],
+        "temporal": [
+          "2018"
+        ],
+        "identifier": [
+          "QFFfUMmMz7D4yRiGKfGB6T",
+          "ZKM000258373"
+        ],
+        "description": [
+          "Peter Weibel, »Bibliotheca Insomnia, Bildwerke oder Entwurf einer Psychologie anhand einer zur Schau gestellten Materialsprache [Bibliotheca Insomnia, Image/Works of a Proposed Psychology on the Basis of an Demonstratively Displayed Language of Materials]«, in: Loys Egg, Peter Weibel (Hg.), Bibliotheca Insomnia. 1978–1979, Verlag für moderne Kunst, Wien, 2018 [1979], S. 85–93."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "afc61994-147c-4e36-9842-0cb0f586006a",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/2THDaVkjcwBSgXtWMbfGgb/EfPHoogFrF6U3Y8mFELKmz",
+    "content": {
+      "id": "https://id.kulturpool.at/afc61994-147c-4e36-9842-0cb0f586006a/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/EfPHoogFrF6U3Y8mFELKmz/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/2THDaVkjcwBSgXtWMbfGgb/media/EfPHoogFrF6U3Y8mFELKmz",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/WI_Intimate_Assemblages_1_Ecologies_1.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/afc61994-147c-4e36-9842-0cb0f586006a/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Intimate Assemblages: #1 Ecologies. The Institute for Postnatural Studies, Dennis Dizon & Klasse für Alle"
+        ],
+        "creator": [
+          "Andrea Lumplecker",
+          "Dennis Dizon",
+          "Klasse für Alle",
+          "The Institute for Postnatural Studies"
+        ],
+        "edmType": "TEXT",
+        "spatial": [
+          "Kevin Space, Wien"
+        ],
+        "subject": [
+          "Ecologies",
+          "Fieldwork",
+          "Listening",
+          "Multidisciplinary",
+          "Organisms",
+          "Relational Ontologies",
+          "Research",
+          "Summer School",
+          "Workshop Series"
+        ],
+        "dcRights": [
+          "Denise Helene Sumi"
+        ],
+        "language": [
+          "en"
+        ],
+        "temporal": [
+          "2024-07-25/2024-07-27"
+        ],
+        "identifier": [
+          "EfPHoogFrF6U3Y8mFELKmz",
+          "WI_Intimate Assemblages #1 Ecologies_1.pdf"
+        ],
+        "description": [
+          "Veranstalter: \nKevin Space (Denise Helene Sumi)\n\nText: \nThe intensifying polycrisis necessitates transformative shifts within our understandings of ecologies, economies and society. This urgency extends to the realms of art and academia, highlighting the need for more speculative research into our relationship with the world as well as the act of creation and knowledge production itself. The 3-day workshop and event series “Intimate Assemblages: #1 Ecologies” aims to delve into diverse organisms and conditions inherent in artistic production and presentation processes, exploring issues of assemblages, coexistence and relationalities. Simultaneously, it raises questions about the roles visual artists and researchers can play in these critical times and how to position oneself within immanent ecologies that are likewise technologically and culturally mediated. The workshop questions how we, as practitioners, can be sensitive in interacting with different ecologies, technologies, and cultural practices, and wants to explore possibilities such as nonviolent extraction, disturbances and the means of labour love."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "56a955f6-0af8-458b-a8af-5fb46fd40a43",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/YCHRokQADXwRZXx44CC3v5/f88TmuZMTjDe8urD3hFnHj",
+    "content": {
+      "id": "https://id.kulturpool.at/56a955f6-0af8-458b-a8af-5fb46fd40a43/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/f88TmuZMTjDe8urD3hFnHj/preview-1000.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/YCHRokQADXwRZXx44CC3v5/media/f88TmuZMTjDe8urD3hFnHj",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000026462.JPG",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/56a955f6-0af8-458b-a8af-5fb46fd40a43/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Zeit-Schaufenster"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          "Graz"
+        ],
+        "subject": [
+          "Installation",
+          "Intervention"
+        ],
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1970",
+          "1979"
+        ],
+        "identifier": [
+          "ZKM000026462",
+          "f88TmuZMTjDe8urD3hFnHj"
+        ],
+        "description": [
+          "Idee 1970, realisiert 1979 im Rahmen des Steirischen Herbst ’79, Radio Reiss, Glockenspielplatz 7, Graz"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "abe2c62f-7cd5-4f03-b326-ba363946f4b7",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/iEmNkFcCfiS3afogUT5njj/feRMFfmL4qUHk9Jv9MjR7f",
+    "content": {
+      "id": "https://id.kulturpool.at/abe2c62f-7cd5-4f03-b326-ba363946f4b7/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/feRMFfmL4qUHk9Jv9MjR7f/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/iEmNkFcCfiS3afogUT5njj/media/feRMFfmL4qUHk9Jv9MjR7f",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000259310.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/abe2c62f-7cd5-4f03-b326-ba363946f4b7/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Liebe"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "TEXT",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "1985"
+        ],
+        "identifier": [
+          "ZKM000259310",
+          "feRMFfmL4qUHk9Jv9MjR7f"
+        ],
+        "description": [
+          "Peter Weibel, »Liebe«, in: Peter Weibel, Eva H. Plattner (Hg.), Jaroslav Seifert: Auf den Wellen von TSF. Gedichte, Hora Verl., Wien, 1985, S. 50."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "8cbc9e3c-bdc2-48ca-bea2-e6b5de0f9073",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/fFhekHKNwD2gpG2eA4hyrC/T9qKYXsr4W5jXb85dm53Ct",
+    "content": {
+      "id": "https://id.kulturpool.at/8cbc9e3c-bdc2-48ca-bea2-e6b5de0f9073/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/T9qKYXsr4W5jXb85dm53Ct/preview-1920.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/fFhekHKNwD2gpG2eA4hyrC/media/T9qKYXsr4W5jXb85dm53Ct",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000026554.TIF",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/8cbc9e3c-bdc2-48ca-bea2-e6b5de0f9073/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Motion Poem. Entwurf"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1966"
+        ],
+        "identifier": [
+          "T9qKYXsr4W5jXb85dm53Ct",
+          "ZKM000026554"
+        ],
+        "description": [
+          "Entwurf für temporale Texte, Neontexte"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "16330a65-8484-4c37-ad7d-aae74c224536",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/WqtBwSxei5HBAUtqP5sXcn/WjSJKmYjt4egtNYY7jfQeM",
+    "content": {
+      "id": "https://id.kulturpool.at/16330a65-8484-4c37-ad7d-aae74c224536/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/WjSJKmYjt4egtNYY7jfQeM/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/WqtBwSxei5HBAUtqP5sXcn/media/WjSJKmYjt4egtNYY7jfQeM",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000259221.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/16330a65-8484-4c37-ad7d-aae74c224536/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Zwischen Zeichen und Material. Malerei in Italien"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "TEXT",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "2008"
+        ],
+        "identifier": [
+          "WjSJKmYjt4egtNYY7jfQeM",
+          "ZKM000259221"
+        ],
+        "description": [
+          "Peter Weibel, »Zwischen Zeichen und Material. Malerei in Italien«, in: Christa Steinle, Gudrun Danzer (Hg.), Viaggio in Italia. Italienische Kunst 1960 bis 1990 aus der Sammlung der Neuen Galerie Graz und der VAF-Stiftung Frankfurt am Main, König, Köln, 2008, S. 205–213."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "30f24f2e-6784-4d63-a5b6-373115946e90",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/QLn2W8MGMe5tgpKkJDmrUE/PUbhwSH5hxJa3CqF983Ub7",
+    "content": {
+      "id": "https://id.kulturpool.at/30f24f2e-6784-4d63-a5b6-373115946e90/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/PUbhwSH5hxJa3CqF983Ub7/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/QLn2W8MGMe5tgpKkJDmrUE/media/PUbhwSH5hxJa3CqF983Ub7",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/WI_Das_konnte_Sie_auch_interessieren_1.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/30f24f2e-6784-4d63-a5b6-373115946e90/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Das könnte Sie auch interessieren'. Methoden zur Erforschung algorithmischer Empfehlungssysteme"
+        ],
+        "creator": [
+          "Clemens Apprich",
+          "Inga Luchs",
+          "Marcel Broersma"
+        ],
+        "edmType": "TEXT",
+        "spatial": [
+          "Wiesbaden"
+        ],
+        "subject": [
+          "Algorithmen",
+          "Empfehlungssysteme",
+          "Medientheorie",
+          "Methoden"
+        ],
+        "dcRights": [
+          "Clemens Apprich"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "2024-06-15"
+        ],
+        "identifier": [
+          "PUbhwSH5hxJa3CqF983Ub7",
+          "WI_Das könnte Sie auch interessieren_1.pdf"
+        ],
+        "description": [
+          "Beitrag in Sammelband (peer-reviewed), in: Sven Stollfuß, Laura Niebling, Felix Raczkowski: Handbuch Digitale Medien und Methoden. VS Springer. 2024-06-15, Wiesbaden, HE, Deutschland; ISBN/ISSN/ISMN: 978-3-658-36629-2"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "59904f91-04ee-4546-83a8-648dac954702",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/HyrPkGRYwevB7CCk42MGjB/53A5CcLhpewyxJYvSTJkYB",
+    "content": {
+      "id": "https://id.kulturpool.at/59904f91-04ee-4546-83a8-648dac954702/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/53A5CcLhpewyxJYvSTJkYB/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/HyrPkGRYwevB7CCk42MGjB/media/53A5CcLhpewyxJYvSTJkYB",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000258690.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/59904f91-04ee-4546-83a8-648dac954702/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Freies Hirn im Cyberspace. Peter Weibel über Kunst und Medien der \"Zweiten Moderne\", Spiegel-Gespräch"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "TEXT",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "1999"
+        ],
+        "identifier": [
+          "53A5CcLhpewyxJYvSTJkYB",
+          "ZKM000258690"
+        ],
+        "description": [
+          "Peter Weibel, »Freies Hirn im Cyberspace. Peter Weibel über Kunst und Medien der \"Zweiten Moderne\", Spiegel-Gespräch«, in: Rudolf Augstein (Hg.), (Der Spiegel, Nr. 3), Spiegel-Verl. Rudolf Augstein, Hamburg, 18.01.1999, S. 187–189."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "784bdf68-bd28-48ae-a324-b77df7b496e5",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/67mDM7nuCjHRkfqeEAaq6c/2Txn4vLGV33BsLokChnC2A",
+    "content": {
+      "id": "https://id.kulturpool.at/784bdf68-bd28-48ae-a324-b77df7b496e5/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/2Txn4vLGV33BsLokChnC2A/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/67mDM7nuCjHRkfqeEAaq6c/media/2Txn4vLGV33BsLokChnC2A",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000258330.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/784bdf68-bd28-48ae-a324-b77df7b496e5/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Die Ars Electronica. Zwischen Kunst und Wissenschaft"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "TEXT",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "1999"
+        ],
+        "identifier": [
+          "2Txn4vLGV33BsLokChnC2A",
+          "ZKM000258330"
+        ],
+        "description": [
+          "Peter Weibel, »Die Ars Electronica. Zwischen Kunst und Wissenschaft [Ars Electronica between Art and Science]«, in: Hannes Leopoldseder, Christiane Schöpf, Gerfried Stocker (Hg.), Ars Electronica 79–99. 20 Jahre Festival für Kunst, Technologie und Gesellschaft [Ars Electronica, 20 Years of the Festival for Art, Technology and Society], Friedrich VDV Druck, Linz, 1999, S. 70–74."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "be4a5e4c-dddc-4bbd-a951-7b0eb6c7594f",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/a8LRaLAdFJQDsXuw7JPv38/m8LY9LHyyuk75NH55HcHMJ",
+    "content": {
+      "id": "https://id.kulturpool.at/be4a5e4c-dddc-4bbd-a951-7b0eb6c7594f/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/m8LY9LHyyuk75NH55HcHMJ/preview-1920.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/a8LRaLAdFJQDsXuw7JPv38/media/m8LY9LHyyuk75NH55HcHMJ",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000027971.TIF",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/be4a5e4c-dddc-4bbd-a951-7b0eb6c7594f/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Verdrehte Dreiecke"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          "Wien"
+        ],
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1976"
+        ],
+        "identifier": [
+          "ZKM000027971",
+          "m8LY9LHyyuk75NH55HcHMJ"
+        ],
+        "description": [
+          "Installationsansicht, Galerie nächst St. Stephan, Wien, 1977"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "2c2f3679-49a0-492b-a33b-9241afdcb8e1",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/b476d5VLREovhjuZBA7Dkd/Bq6kfSNMyyQtgtd7BTWMHW",
+    "content": {
+      "id": "https://id.kulturpool.at/2c2f3679-49a0-492b-a33b-9241afdcb8e1/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/Bq6kfSNMyyQtgtd7BTWMHW/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/b476d5VLREovhjuZBA7Dkd/media/Bq6kfSNMyyQtgtd7BTWMHW",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000258946.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/2c2f3679-49a0-492b-a33b-9241afdcb8e1/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Textbeiträge ... Prof. Peter Weibel"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "TEXT",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "2011"
+        ],
+        "identifier": [
+          "Bq6kfSNMyyQtgtd7BTWMHW",
+          "ZKM000258946"
+        ],
+        "description": [
+          "Peter Weibel, »Textbeiträge ... Prof. Peter Weibel«, in: Kinder Kunst Baden-Baden. 10 Jahre Kunstbegegnungsstätte Fee Schlapper e.V. Baden-Baden, 2001-2011, Kunstbegegnungsstätte Fee Schlapper, Baden-Baden, 2011, S. 020–021."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "b035758c-2a37-45c2-a61b-713c9cd3cac4",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/2Q3SHr78di6XEPsFwxmv3w/Saj7NqrMcgKpsF6qivoYZp",
+    "content": {
+      "id": "https://id.kulturpool.at/b035758c-2a37-45c2-a61b-713c9cd3cac4/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/Saj7NqrMcgKpsF6qivoYZp/preview-1688.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/2Q3SHr78di6XEPsFwxmv3w/media/Saj7NqrMcgKpsF6qivoYZp",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/WI_Art_in_Memes_4.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/b035758c-2a37-45c2-a61b-713c9cd3cac4/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Art in Memes, Memes in Art"
+        ],
+        "creator": [
+          "Sophie Publig"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          "Universität für angewandte Kunst Wien, Wien"
+        ],
+        "subject": [
+          "Digitale Kunst",
+          "Kunst im Internet",
+          "Kunstgeschichte",
+          "Kunsttheorie",
+          "Meme Studies"
+        ],
+        "dcRights": [
+          "Sophie Publig"
+        ],
+        "temporal": [
+          "2022-03-01/2022-06-30"
+        ],
+        "identifier": [
+          "Saj7NqrMcgKpsF6qivoYZp",
+          "WI_Art in Memes_4.jpg"
+        ],
+        "description": [
+          "Lehrtätigkeit; Abbildung"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "a94a737e-9700-40ea-9093-35af1a060645",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/fu5jH8NWWEujSh8G4hRGN8/8oW8H5Rzb96WvPu9WYtWEr",
+    "content": {
+      "id": "https://id.kulturpool.at/a94a737e-9700-40ea-9093-35af1a060645/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/8oW8H5Rzb96WvPu9WYtWEr/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/fu5jH8NWWEujSh8G4hRGN8/media/8oW8H5Rzb96WvPu9WYtWEr",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000259049.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/a94a737e-9700-40ea-9093-35af1a060645/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Vorwort"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "TEXT",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "2017"
+        ],
+        "identifier": [
+          "8oW8H5Rzb96WvPu9WYtWEr",
+          "ZKM000259049"
+        ],
+        "description": [
+          "Peter Weibel, »Vorwort [Forword]«, in: Inés Ratz, Peter Coeln, Rebekka Reuter (Hg.), Alfons Schilling. Beyond Photography, VfmK Verl. für modere Kunst, Wien, 2017, S. 6–7."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "3ddd3a95-47a1-4349-b0ec-cb00bc60fd44",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/49a9WHkEdMYnBGjcVNZBxf/EyPmRD7y6WNXB2vsHZc4gg",
+    "content": {
+      "id": "https://id.kulturpool.at/3ddd3a95-47a1-4349-b0ec-cb00bc60fd44/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/EyPmRD7y6WNXB2vsHZc4gg/preview-1113.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/49a9WHkEdMYnBGjcVNZBxf/media/EyPmRD7y6WNXB2vsHZc4gg",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000027606.TIF",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/3ddd3a95-47a1-4349-b0ec-cb00bc60fd44/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Ein bioenergetisches Paradoxon"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          "Wien"
+        ],
+        "subject": [
+          "Bio-Art"
+        ],
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1975"
+        ],
+        "identifier": [
+          "EyPmRD7y6WNXB2vsHZc4gg",
+          "ZKM000027606"
+        ],
+        "description": [
+          "Installation mit lebenden Algen in der Ausstellung \"Zur Kosmologie des Paradoxen (I)\", Galerie nächst St. Stephan, Wien 15.10.–08.11.1975"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "8bcc522b-78a7-4b14-82c3-7dbe0a802716",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/TnskU2wsmuuZKmfhXEZwnQ/DXReAASHc93viG6Cc9ZM9h",
+    "content": {
+      "id": "https://id.kulturpool.at/8bcc522b-78a7-4b14-82c3-7dbe0a802716/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/DXReAASHc93viG6Cc9ZM9h/preview-1920.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/TnskU2wsmuuZKmfhXEZwnQ/media/DXReAASHc93viG6Cc9ZM9h",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000027524.TIF",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/8bcc522b-78a7-4b14-82c3-7dbe0a802716/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Es ist verboten zu verbieten"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1966",
+          "1974"
+        ],
+        "identifier": [
+          "DXReAASHc93viG6Cc9ZM9h",
+          "ZKM000027524"
+        ],
+        "description": [
+          "Idee 1966, ausgeführt 1974"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "dc27831c-ea6a-4833-8cba-abbd5d62bdce",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/VqThceoe9RJLe76chH5EBf/atJ8KEWeMbqvoLtnWL6Tdp",
+    "content": {
+      "id": "https://id.kulturpool.at/dc27831c-ea6a-4833-8cba-abbd5d62bdce/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/atJ8KEWeMbqvoLtnWL6Tdp/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/VqThceoe9RJLe76chH5EBf/media/atJ8KEWeMbqvoLtnWL6Tdp",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000258341.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/dc27831c-ea6a-4833-8cba-abbd5d62bdce/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "artmix. Die Entgrenzung der Künste"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "TEXT",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "2007"
+        ],
+        "identifier": [
+          "ZKM000258341",
+          "atJ8KEWeMbqvoLtnWL6Tdp"
+        ],
+        "description": [
+          "Peter Weibel, »artmix. Die Entgrenzung der Künste«, in: Rolf W. Stoll (Hg.), (Neue Zeitschrift für Musik. Das Magazin für Neue Töne, Jg. 168, H. 5), Schott Music, Mainz, 2007, S. 16–21.\n\nInhalt: mit 1 CD"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "23dd13a6-ef3a-4ed2-9d85-94170198e976",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/AsR79qmDQLt4YhTFxFtkZf/kGALq5YyqF6Q2nn9VgfoP4",
+    "content": {
+      "id": "https://id.kulturpool.at/23dd13a6-ef3a-4ed2-9d85-94170198e976/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/kGALq5YyqF6Q2nn9VgfoP4/preview-1000.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/AsR79qmDQLt4YhTFxFtkZf/media/kGALq5YyqF6Q2nn9VgfoP4",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000026438.JPG",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/23dd13a6-ef3a-4ed2-9d85-94170198e976/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Imaginärer Würfel"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          "Wien"
+        ],
+        "subject": [
+          "Installation",
+          "Videokunst"
+        ],
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1978",
+          "1980"
+        ],
+        "identifier": [
+          "ZKM000026438",
+          "kGALq5YyqF6Q2nn9VgfoP4"
+        ],
+        "description": [
+          "Idee 1978, Video Art Austria, Museum des 20. Jahrhunderts, Schweizergarten, Wien, 1980"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "84d7ee1d-4c3b-48dd-952f-620484f88e92",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/M4696Y6AbjvtzhcB4L6uoe/HGr3MYx5mxtMhYPs5vq5yP",
+    "content": {
+      "id": "https://id.kulturpool.at/84d7ee1d-4c3b-48dd-952f-620484f88e92/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/HGr3MYx5mxtMhYPs5vq5yP/preview-1920.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/M4696Y6AbjvtzhcB4L6uoe/media/HGr3MYx5mxtMhYPs5vq5yP",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000027707.TIF",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/84d7ee1d-4c3b-48dd-952f-620484f88e92/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Selbstporträt (Messer als Spiegel)"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          "Fotografie"
+        ],
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1975"
+        ],
+        "identifier": [
+          "HGr3MYx5mxtMhYPs5vq5yP",
+          "ZKM000027707"
+        ],
+        "description": [
+          "Fotografie, s/w"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "156caaad-c8db-428c-81f5-97ff57f39d63",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/AMJQV56JLoijgVi77ffEDV/jcYU3ygpubxjHwtGyN6HME",
+    "content": {
+      "id": "https://id.kulturpool.at/156caaad-c8db-428c-81f5-97ff57f39d63/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/jcYU3ygpubxjHwtGyN6HME/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/AMJQV56JLoijgVi77ffEDV/media/jcYU3ygpubxjHwtGyN6HME",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/WI_Untimely_Media_2.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/156caaad-c8db-428c-81f5-97ff57f39d63/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Untimely Media/Domestic Techniques. The 60s and 70s between New York and Vienna"
+        ],
+        "creator": [
+          "Charlotte Reuß",
+          "Sophie Publig"
+        ],
+        "edmType": "TEXT",
+        "spatial": [
+          "Wien"
+        ],
+        "subject": [
+          "Feminism",
+          "Gender Studies",
+          "Kunstgeschichte",
+          "Kunsttheorie"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "2019"
+        ],
+        "identifier": [
+          "WI_Untimely Media_2.pdf",
+          "jcYU3ygpubxjHwtGyN6HME"
+        ],
+        "description": [
+          "Tagungsbericht; Verband Österreichischer Kunsthistorikerinnen und Kunsthistoriker (Hrsg.); 2019; S. 2-3; Full-Text"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "195eb254-910e-49d1-8aa7-22fcb7362de3",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/aBDGqK6TCm2h5wKLP4XJpz/C4x2h7MTMRzxjH3hm7B4pv",
+    "content": {
+      "id": "https://id.kulturpool.at/195eb254-910e-49d1-8aa7-22fcb7362de3/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/C4x2h7MTMRzxjH3hm7B4pv/preview-1920.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/aBDGqK6TCm2h5wKLP4XJpz/media/C4x2h7MTMRzxjH3hm7B4pv",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000237226.tif",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/195eb254-910e-49d1-8aa7-22fcb7362de3/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Initiation"
+        ],
+        "creator": [
+          "Manfred Willimann",
+          "Peter Weibel"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          "Frankfurt"
+        ],
+        "subject": [
+          "Body Art",
+          "Performance"
+        ],
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1971"
+        ],
+        "identifier": [
+          "C4x2h7MTMRzxjH3hm7B4pv",
+          "ZKM000237226"
+        ],
+        "description": [
+          "04.06.1971, Frankfurt t.a.t., Experimenta 4"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "5d91f182-f2b1-4dd0-bfde-8535f00ddcae",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/Yfr4PEw6QhxtqgY8JZkbNu/dGiJAbYDvNgfQDmoxiHASB",
+    "content": {
+      "id": "https://id.kulturpool.at/5d91f182-f2b1-4dd0-bfde-8535f00ddcae/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/dGiJAbYDvNgfQDmoxiHASB/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/Yfr4PEw6QhxtqgY8JZkbNu/media/dGiJAbYDvNgfQDmoxiHASB",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/pw_qc_5a1.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/5d91f182-f2b1-4dd0-bfde-8535f00ddcae/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Quantum Cinema_Research_Analysis und Scientific Computing"
+        ],
+        "creator": [
+          "Renate Quehenberger"
+        ],
+        "edmType": "TEXT",
+        "spatial": [
+          "Universität für angewandte Kunst Wien, Wien"
+        ],
+        "subject": [
+          "Analysis",
+          "Anthropology der Künste",
+          "Geometrie",
+          "Medientheorie",
+          "Quantenphysik",
+          "Scientific Computing",
+          "artistic research",
+          "diskrete Mathematik",
+          "experimentelle Physik"
+        ],
+        "language": [
+          "en"
+        ],
+        "temporal": [
+          "2010/2013"
+        ],
+        "identifier": [
+          "dGiJAbYDvNgfQDmoxiHASB",
+          "pw_qc_5a1.pdf"
+        ],
+        "description": [
+          "Analysis und Scientific Computing"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "8e876eb1-732a-4dbc-a448-9dc8098bce39",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/dTbimtvrmq2CbnwjnXUT39/H9s37yEi4TyaqnhsQtbedL",
+    "content": {
+      "id": "https://id.kulturpool.at/8e876eb1-732a-4dbc-a448-9dc8098bce39/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/H9s37yEi4TyaqnhsQtbedL/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/dTbimtvrmq2CbnwjnXUT39/media/H9s37yEi4TyaqnhsQtbedL",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000259505_hFH5t04.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/8e876eb1-732a-4dbc-a448-9dc8098bce39/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Raum und Zeit, entleibt. Der Leib, von Raum und Zeit befreit"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "TEXT",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "1999"
+        ],
+        "identifier": [
+          "H9s37yEi4TyaqnhsQtbedL",
+          "ZKM000259505"
+        ],
+        "description": [
+          "Peter Weibel, »Raum und Zeit, entleibt. Der Leib, von Raum und Zeit befreit«, in: Arnulf Rohsmann (Hg.), Peter Weibel. Globale Gier, Kärtner Landesgalerie, Klagenfurt, 1999, S. 35–37."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "0680c40c-d2b2-49fc-b741-cfa2d614956c",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/SztWF3SwjrfWDgqNhoWohd/KpK6jiNetaXYRaQUt7JyMQ",
+    "content": {
+      "id": "https://id.kulturpool.at/0680c40c-d2b2-49fc-b741-cfa2d614956c/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/KpK6jiNetaXYRaQUt7JyMQ/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/SztWF3SwjrfWDgqNhoWohd/media/KpK6jiNetaXYRaQUt7JyMQ",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000259163.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/0680c40c-d2b2-49fc-b741-cfa2d614956c/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "The World as a Rewriting Program: On the Progress of Culture through Transcription"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "TEXT",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "language": [
+          "en"
+        ],
+        "temporal": [
+          "2013"
+        ],
+        "identifier": [
+          "KpK6jiNetaXYRaQUt7JyMQ",
+          "ZKM000259163"
+        ],
+        "description": [
+          "Peter Weibel, »The World as a Rewriting Program: On the Progress of Culture through Transcription«, in: Yana Milev (Hg.), D.A. A Transdisciplinary Handbook of Design Anthropology, Peter Lang, Frankfurt a. M., 2013, S. 950–954."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "d2120319-4515-4424-a707-9843e93d11a6",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/CCjjPAewwEhgHfYHpFPBHA/6ExyUAUyyQH5UwAHfamcM9",
+    "content": {
+      "id": "https://id.kulturpool.at/d2120319-4515-4424-a707-9843e93d11a6/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/6ExyUAUyyQH5UwAHfamcM9/preview-1538.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/CCjjPAewwEhgHfYHpFPBHA/media/6ExyUAUyyQH5UwAHfamcM9",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000028018.TIF",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/d2120319-4515-4424-a707-9843e93d11a6/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Possible"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          "Wien"
+        ],
+        "subject": [
+          "Expanded Cinema"
+        ],
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1969",
+          "1977"
+        ],
+        "identifier": [
+          "6ExyUAUyyQH5UwAHfamcM9",
+          "ZKM000028018"
+        ],
+        "description": [
+          "Installationsansicht: Avantgardefilm Festival Projektionskunst, 17. – 21.02.1977, Künstlerhaus, Kunstmesse K 45, Wien"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "41f7e282-7b4a-4cd1-ba9b-d2164c2e0deb",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/YHjUroRW3sFwwmEhJSWyoa/5Ry3Bc7ZhKEoyTewYEGdZU",
+    "content": {
+      "id": "https://id.kulturpool.at/41f7e282-7b4a-4cd1-ba9b-d2164c2e0deb/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/5Ry3Bc7ZhKEoyTewYEGdZU/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/YHjUroRW3sFwwmEhJSWyoa/media/5Ry3Bc7ZhKEoyTewYEGdZU",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000258761.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/41f7e282-7b4a-4cd1-ba9b-d2164c2e0deb/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "HELIOS – La nube luminosa"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "TEXT",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "language": [
+          "de",
+          "en"
+        ],
+        "temporal": [
+          "2010"
+        ],
+        "identifier": [
+          "5Ry3Bc7ZhKEoyTewYEGdZU",
+          "ZKM000258761"
+        ],
+        "description": [
+          "Peter Weibel, »HELIOS – La nube luminosa [HELIOS - La nube luminosa]«, in: Peter Weibel (Hg.), rosalie Lichtkunst. The Universal Theater of Light [rosalie Light Art. The Universal Theatre of Light], Scheidegger & Spiess, Zürich, 2010, S. 46–60."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "4ac5ff94-0dab-4bbc-b32c-34b6511999e0",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/GNhttZWK2LHRm26FVmRjDC/R2JTg9NaKacGDENXsTUxsG",
+    "content": {
+      "id": "https://id.kulturpool.at/4ac5ff94-0dab-4bbc-b32c-34b6511999e0/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/R2JTg9NaKacGDENXsTUxsG/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/GNhttZWK2LHRm26FVmRjDC/media/R2JTg9NaKacGDENXsTUxsG",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000258895.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/4ac5ff94-0dab-4bbc-b32c-34b6511999e0/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Das Signaturjahr. Ein Gastkommentar"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "TEXT",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "2018"
+        ],
+        "identifier": [
+          "R2JTg9NaKacGDENXsTUxsG",
+          "ZKM000258895"
+        ],
+        "description": [
+          "Peter Weibel, »Das Signaturjahr. Ein Gastkommentar«, in: , (OÖ Nachrichten, 21. April 2018), Demokratische Druck- und Verlagsges. , Linz, 2018, S. 4."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "1ed8b689-7ce7-4d3c-85ae-e24b66534a67",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/8ZM5Gc3gPob5cnXVLF3fg4/EKvRqnZSVLEdAJHNxWwngB",
+    "content": {
+      "id": "https://id.kulturpool.at/1ed8b689-7ce7-4d3c-85ae-e24b66534a67/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/EKvRqnZSVLEdAJHNxWwngB/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/8ZM5Gc3gPob5cnXVLF3fg4/media/EKvRqnZSVLEdAJHNxWwngB",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000258334.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/1ed8b689-7ce7-4d3c-85ae-e24b66534a67/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Art in Transition"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "TEXT",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "2013"
+        ],
+        "identifier": [
+          "EKvRqnZSVLEdAJHNxWwngB",
+          "ZKM000258334"
+        ],
+        "description": [
+          "Peter Weibel, »Art in Transition«, in: Gerald Bast (Hg.), Artists in Multi Functions, Univ. of Applied Arts, Wien, 2013, S. 8–9."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "f4025ec9-c00b-4227-bf9b-e6153fa7d0a6",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/8Wp3UGAbMTFEJRrhTViRAo/cLn4sE86qrNq2TXFyXTP9h",
+    "content": {
+      "id": "https://id.kulturpool.at/f4025ec9-c00b-4227-bf9b-e6153fa7d0a6/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/cLn4sE86qrNq2TXFyXTP9h/preview-1920.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/8Wp3UGAbMTFEJRrhTViRAo/media/cLn4sE86qrNq2TXFyXTP9h",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/Choose_Your_Avatar_Workshop_015.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/f4025ec9-c00b-4227-bf9b-e6153fa7d0a6/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Choose Your Avatar – Girlblogging as Posthumanist Practice"
+        ],
+        "creator": [
+          "Aksioma",
+          "Charlotte Reuß",
+          "Predavanje Delavnica",
+          "Sophie Publig"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          "Ljubljana"
+        ],
+        "subject": [
+          "Digital Cultures",
+          "Digitale Kunst",
+          "Feminism",
+          "Philosophie",
+          "Posthumanism"
+        ],
+        "dcRights": [
+          "Predavanje Delavnica"
+        ],
+        "temporal": [
+          "2025-05-13"
+        ],
+        "identifier": [
+          "Choose_Your_Avatar_Workshop_015.jpg",
+          "cLn4sE86qrNq2TXFyXTP9h"
+        ],
+        "description": [
+          "In this workshop, participants will explore the fluid identity of the Girl Online through the lens of autotheory, using digital tools inspired by girlblogging practices such as journaling, speculative storytelling, fan fiction, browser tab histories, and moodboard archaeology. By reimagining life paths as narratives shaped by mood, energy, and traits—similar to creating a game character in The Sims—you’ll be able to consider how we construct and perform our identities online and irl. Projecting the contradictions embodied by the Girl Online onto personal avatar creation offers the possibility to perform a critique of gender stereotypes in connection to platform capitalism, while acknowledging the Girl Online’s identity as one rooted in late capitalism. Playing with the cultural artifacts of girlblogging allows participants to unearth the entanglements between their digital and meatspace selves and experiment with renarrating their existence through the perspective of the Girl Online.\n\nTakeaways:\nA deeper understanding of the construction of fluid identities in the context of digital cultures, late stage capitalism, and posthumanism. \nPractical tools for storytelling and autotheory to craft new narratives. \nMedia-specific techniques to engage with and reinterpret online artifacts, like browser tab histories and Tumblr archaeology. \nUpdated insights into the interweaving between personal identity and digital cultures through the lens of the Girl Online.\n\nDuration: 2 hours\n\nMaterials and knowledge required:\nNo prior knowledge is required—just an open mind and willingness to explore!\nParticipants should bring a laptop or tablet for online exploration and writing.\nA notebook or journal is recommended for offline sketching of ideas and reflections.\n\nThis workshop is additionally supported by the Austrian Cultural Forum."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "6692bc47-f9a6-4f63-b1c8-1cc6eb6d33d6",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/3YDUwZ39frVcGgcQDhgWxJ/WbNfPdtx9WmFBZnutDwwF4",
+    "content": {
+      "id": "https://id.kulturpool.at/6692bc47-f9a6-4f63-b1c8-1cc6eb6d33d6/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/WbNfPdtx9WmFBZnutDwwF4/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/3YDUwZ39frVcGgcQDhgWxJ/media/WbNfPdtx9WmFBZnutDwwF4",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000259381.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/6692bc47-f9a6-4f63-b1c8-1cc6eb6d33d6/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Momente der Interaktivität"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "TEXT",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "1989"
+        ],
+        "identifier": [
+          "WbNfPdtx9WmFBZnutDwwF4",
+          "ZKM000259381"
+        ],
+        "description": [
+          "Peter Weibel, »Momente der Interaktivität«, in: Kunstforum International, Verl. Kunstforum International, Köln, 1989, S. 87–99."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "a5d4daed-c1aa-4c06-8e57-3aa966a6fa85",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/gfZfcnyvfhEUtji6HXTpdL/cSjsLA5DwfSyAGsgC8aTyD",
+    "content": {
+      "id": "https://id.kulturpool.at/a5d4daed-c1aa-4c06-8e57-3aa966a6fa85/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/cSjsLA5DwfSyAGsgC8aTyD/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/gfZfcnyvfhEUtji6HXTpdL/media/cSjsLA5DwfSyAGsgC8aTyD",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000258387.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/a5d4daed-c1aa-4c06-8e57-3aa966a6fa85/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Brennpunkt dumme Kiste. Die Info-Box (1995) von Schneider und Schumacher"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "TEXT",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "1999"
+        ],
+        "identifier": [
+          "ZKM000258387",
+          "cSjsLA5DwfSyAGsgC8aTyD"
+        ],
+        "description": [
+          "Peter Weibel, »Brennpunkt dumme Kiste. Die Info-Box (1995) von Schneider und Schumacher«, in: (Berliner Morgenpost), Springer, Berlin, 05.09.1999, S. 25."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "9feb1e68-b2a1-4312-908e-c8ce2a199ac7",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/AZrKnZ5XKEUrc4c6HnEKUA/WQJLtrZVg27BApXgkMkjRz",
+    "content": {
+      "id": "https://id.kulturpool.at/9feb1e68-b2a1-4312-908e-c8ce2a199ac7/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/WQJLtrZVg27BApXgkMkjRz/preview-665.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/AZrKnZ5XKEUrc4c6HnEKUA/media/WQJLtrZVg27BApXgkMkjRz",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000026393.JPG",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/9feb1e68-b2a1-4312-908e-c8ce2a199ac7/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "[Die \"Knödelschlacht\" rief 200 Polizisten herbei]"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          "Wien"
+        ],
+        "subject": [
+          "Zeitungsartikel"
+        ],
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1967"
+        ],
+        "identifier": [
+          "WQJLtrZVg27BApXgkMkjRz",
+          "ZKM000026393"
+        ],
+        "description": [
+          "Zeitungsbericht im Kurier, Wien, 26.07.1967"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "6a01910e-2e8d-440e-a9ee-e8f21df7c829",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/fwMZVBFHREbkjrHGpcV5vW/KKkoNJXDWGAMFuBBpm37SB",
+    "content": {
+      "id": "https://id.kulturpool.at/6a01910e-2e8d-440e-a9ee-e8f21df7c829/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/KKkoNJXDWGAMFuBBpm37SB/preview-1920.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/fwMZVBFHREbkjrHGpcV5vW/media/KKkoNJXDWGAMFuBBpm37SB",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000027415.TIF",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/6a01910e-2e8d-440e-a9ee-e8f21df7c829/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Illusion in/der Natur und Kunst"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          "Performance"
+        ],
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1970",
+          "1974"
+        ],
+        "identifier": [
+          "KKkoNJXDWGAMFuBBpm37SB",
+          "ZKM000027415"
+        ],
+        "description": [
+          "Idee 1970, aufgeführt am 15.11.1974, Kulturforum, Bonn"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "d099bf71-cfe3-4c34-bcbf-cd7e49bf91b8",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/JRZ866w2iLAk4vSdMJvmHu/QYaaCJs7tJrUVg5afjYaAJ",
+    "content": {
+      "id": "https://id.kulturpool.at/d099bf71-cfe3-4c34-bcbf-cd7e49bf91b8/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/QYaaCJs7tJrUVg5afjYaAJ/preview-715.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/JRZ866w2iLAk4vSdMJvmHu/media/QYaaCJs7tJrUVg5afjYaAJ",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000026271.JPG",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/d099bf71-cfe3-4c34-bcbf-cd7e49bf91b8/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Das Publikum als Exponat (Publikum als Ausstellung)"
+        ],
+        "creator": [
+          "Hermann J. Hendrich",
+          "Peter Weibel",
+          "Thomas Römer",
+          "Valie Export"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          "Wien"
+        ],
+        "subject": [
+          "Closed Circuit Installation",
+          "Video-Aktion",
+          "Videoperformance"
+        ],
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1969"
+        ],
+        "identifier": [
+          "QYaaCJs7tJrUVg5afjYaAJ",
+          "ZKM000026271"
+        ],
+        "description": [
+          "Still, Interviews mit Besuchern der Multi Media 01, 10. und 11. April 1969, s/w, Ton, 100'; Teil der Ausstellung Multi Media 1, Galerie junge Generation, Blutgasse 3, Wien 1. Videoperformance, Closed Circuit Installation"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "b72825fe-e1de-4ad4-91ec-6e634eb2ef69",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/76Yv3yvybJM3NZvgLTEQ3Q/VPEHeymQKAzA8PdqVaF9B8",
+    "content": {
+      "id": "https://id.kulturpool.at/b72825fe-e1de-4ad4-91ec-6e634eb2ef69/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/VPEHeymQKAzA8PdqVaF9B8/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/76Yv3yvybJM3NZvgLTEQ3Q/media/VPEHeymQKAzA8PdqVaF9B8",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000259409.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/b72825fe-e1de-4ad4-91ec-6e634eb2ef69/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Nachwort"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "TEXT",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "2003"
+        ],
+        "identifier": [
+          "VPEHeymQKAzA8PdqVaF9B8",
+          "ZKM000259409"
+        ],
+        "description": [
+          "Peter Weibel, »Nachwort«, in: Peter Weibel (Hg.), Phantom der Lust. Visionen des Masochismus in der Kunst, Band 1, Essays und Texte, Belleville Verl., München, 2003, S. 466–467."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "ede48644-6b4e-4a45-bc5d-48eff1e04cc1",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/foX6PW4rzSSc2B4zg8ugVv/CDzTpPFAEuYfwXdwMpX7hx",
+    "content": {
+      "id": "https://id.kulturpool.at/ede48644-6b4e-4a45-bc5d-48eff1e04cc1/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/CDzTpPFAEuYfwXdwMpX7hx/preview-1920.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/foX6PW4rzSSc2B4zg8ugVv/media/CDzTpPFAEuYfwXdwMpX7hx",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000025947.TIF",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/ede48644-6b4e-4a45-bc5d-48eff1e04cc1/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Vulkanologie der Emotionen"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          "Wien"
+        ],
+        "subject": [
+          "Video"
+        ],
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1971"
+        ],
+        "identifier": [
+          "CDzTpPFAEuYfwXdwMpX7hx",
+          "ZKM000025947"
+        ],
+        "description": [
+          "Nach der gleichnamigen Körperaktion, die 1971 in Wien stattfand, 1973 für Video rekonstruiert, s/w, 5'"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "ccf690cb-68cf-4f37-a56a-fdcb32b4f2e2",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/ZZjSwJmMsTbzgnezTUAuUt/bSniubyvx2TwQTPuWQs8RX",
+    "content": {
+      "id": "https://id.kulturpool.at/ccf690cb-68cf-4f37-a56a-fdcb32b4f2e2/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/bSniubyvx2TwQTPuWQs8RX/preview-1920.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/ZZjSwJmMsTbzgnezTUAuUt/media/bSniubyvx2TwQTPuWQs8RX",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/Becoming_Girl_044.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/ccf690cb-68cf-4f37-a56a-fdcb32b4f2e2/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Becoming-Girl–On Posthuman Subjectivities and Algorithmic Epistemologies"
+        ],
+        "creator": [
+          "Aksioma",
+          "Charlotte Reuß",
+          "Predavanje Delavnica",
+          "Sophie Publig"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          "Ljubljana"
+        ],
+        "subject": [
+          "Digital Cultures",
+          "Digitale Kunst",
+          "Feminism",
+          "Philosophie",
+          "Posthumanism"
+        ],
+        "dcRights": [
+          "Predavanje Delavnica"
+        ],
+        "temporal": [
+          "2025-05-13"
+        ],
+        "identifier": [
+          "Becoming_Girl_044.jpg",
+          "bSniubyvx2TwQTPuWQs8RX"
+        ],
+        "description": [
+          "From TikTok phenomena like #GirlDinner to the rediscovery of girlblogging, the Girl Online embodies an era where hyperfemininity, nostalgia, and cuteness become tactical tools for navigating algorithmic systems. By strategically exploiting traditional categories of gender and identity, these digital aesthetics merge with methods of queer-feminist theory, postcapitalist thought, and posthumanist perspectives to illuminate the crafting of personal narratives beyond rigid conceptions of gender. Drawing inspiration from platforms like Tumblr and Pinterest, we examine the Girl Online as a form of subjectivity that mediates between the collective and individual by means of a common aesthetic and language. This starting point allows for subversion and perversion of traditional conceptions of identity. Recognising that complicity with algorithmic structures of commercial social media platforms arise as a lack of alternatives in late stage capitalism, we frame algorithmicity not only as a constraint but as a space of subversion, where the Girl Online can be recontextualized to challenge normative identities. Under the mantra of ‘the only way out is through’ we interrogate the tensions of living within surveillant control societies while exploring how subjectivities shaped by the algorithm can offer playful and profound avenues toward the posthumanist project. In this process of becoming-machinic, unfolding into becoming-girl, we offer a means to reimagine fixed notions of identity, expanding the horizons of self-expression in an era of pervasive technological entanglement.\n\nThis event is additionally supported by the Austrian Cultural Forum."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "69733219-801f-40a4-9df1-d6e4d8ece8e5",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/95qhFPVtbukiLwoqfr5NFj/BJppD8TGekLjHToeWQje9a",
+    "content": {
+      "id": "https://id.kulturpool.at/69733219-801f-40a4-9df1-d6e4d8ece8e5/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/BJppD8TGekLjHToeWQje9a/preview-652.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/95qhFPVtbukiLwoqfr5NFj/media/BJppD8TGekLjHToeWQje9a",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000027532.TIF",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/69733219-801f-40a4-9df1-d6e4d8ece8e5/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Zeichen"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          "Performance",
+          "Videokunst"
+        ],
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1974"
+        ],
+        "identifier": [
+          "BJppD8TGekLjHToeWQje9a",
+          "ZKM000027532"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "3cb08aee-7896-4e50-a002-cb67d736fa14",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/MJuG8Bih9ph57o7UWrkifB/JFaasFknU7YExhTASH9iNT",
+    "content": {
+      "id": "https://id.kulturpool.at/3cb08aee-7896-4e50-a002-cb67d736fa14/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/JFaasFknU7YExhTASH9iNT/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/MJuG8Bih9ph57o7UWrkifB/media/JFaasFknU7YExhTASH9iNT",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000259473.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/3cb08aee-7896-4e50-a002-cb67d736fa14/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Der Pavillon der Medien. Eine neue Gleichung zwischen Kunst und Architektur"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "TEXT",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "language": [
+          "de",
+          "en"
+        ],
+        "temporal": [
+          "1995"
+        ],
+        "identifier": [
+          "JFaasFknU7YExhTASH9iNT",
+          "ZKM000259473"
+        ],
+        "description": [
+          "Peter Weibel, »Der Pavillon der Medien. Eine neue Gleichung zwischen Kunst und Architektur [The Media Pavillon. Art and Architecture in the Age of Cyberspace]«, in: Peter Weibel (Hg.), Der Pavillon der Medien. Eine neue Gleichung zwischen Kunst und Architektur. Österreichs Beitrag zur 46. Biennale di Venezia 1995 [The Media Pavillon. Art and Architecture in the Age of Cyberspace], Springer, Wien/New York, 1995, S. o.S."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "a3316610-864f-48f4-8129-6a320f0256cd",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/7fTWJNBNcmXLHYjRSdXzsK/NuujFvT6bGwiReEJRdRaiZ",
+    "content": {
+      "id": "https://id.kulturpool.at/a3316610-864f-48f4-8129-6a320f0256cd/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/NuujFvT6bGwiReEJRdRaiZ/preview-1000.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/7fTWJNBNcmXLHYjRSdXzsK/media/NuujFvT6bGwiReEJRdRaiZ",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000022715.JPG",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/a3316610-864f-48f4-8129-6a320f0256cd/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Switchertexte"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1974"
+        ],
+        "identifier": [
+          "NuujFvT6bGwiReEJRdRaiZ",
+          "ZKM000022715"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "93391f32-5e0d-4321-a40e-9495e91b5b86",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/JujuEj7iCDT2MbZsVdipDd/crbnr5eAUAue6ECjg2dGSZ",
+    "content": {
+      "id": "https://id.kulturpool.at/93391f32-5e0d-4321-a40e-9495e91b5b86/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/crbnr5eAUAue6ECjg2dGSZ/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/JujuEj7iCDT2MbZsVdipDd/media/crbnr5eAUAue6ECjg2dGSZ",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000258681.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/93391f32-5e0d-4321-a40e-9495e91b5b86/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Das fotografische Großbild im Zeitalter der Geschwindigkeit"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "TEXT",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "1996"
+        ],
+        "identifier": [
+          "ZKM000258681",
+          "crbnr5eAUAue6ECjg2dGSZ"
+        ],
+        "description": [
+          "Peter Weibel, »Das fotografische Großbild im Zeitalter der Geschwindigkeit«, in: Norbert Bolz, Ulrich Rüffer (Hg.), Das große stille Bild, Fink, München, 1996, S. 46–73."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "db8bea71-484b-4656-886f-f91e0f862336",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/WqfTAF6WKS6YKkgedHPufa/6udrVmaBVHxPgNbmmiDL8X",
+    "content": {
+      "id": "https://id.kulturpool.at/db8bea71-484b-4656-886f-f91e0f862336/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/6udrVmaBVHxPgNbmmiDL8X/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/WqfTAF6WKS6YKkgedHPufa/media/6udrVmaBVHxPgNbmmiDL8X",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000259196.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/db8bea71-484b-4656-886f-f91e0f862336/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Zur Geschichte der Künstlerfotografie als ein Motor der Fotografiegeschichte"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "TEXT",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "2011"
+        ],
+        "identifier": [
+          "6udrVmaBVHxPgNbmmiDL8X",
+          "ZKM000259196"
+        ],
+        "description": [
+          "Peter Weibel, »Zur Geschichte der Künstlerfotografie als ein Motor der Fotografiegeschichte«, in: Christa Steinle, Peter Peer, Karin Buol-Wischenau (Hg.), Rückblende. Die Fotosammlung der Neuen Galerie Graz, Folio Verl., Wien, Bozen, 2011 [1981/84], S. 372–437."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "986aeb4c-44d0-4db1-967d-ac3aa856f720",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/QjNXuEaBaERCz6csrDDvE8/nWL99cLxZHYRFF7de2D4sw",
+    "content": {
+      "id": "https://id.kulturpool.at/986aeb4c-44d0-4db1-967d-ac3aa856f720/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/nWL99cLxZHYRFF7de2D4sw/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/QjNXuEaBaERCz6csrDDvE8/media/nWL99cLxZHYRFF7de2D4sw",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/WI_Prix_Ars_Electronica_2025_1.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/986aeb4c-44d0-4db1-967d-ac3aa856f720/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Prix Ars Electronica 2025"
+        ],
+        "creator": [
+          "Clemens Apprich"
+        ],
+        "edmType": "TEXT",
+        "spatial": [
+          "Ars Electronica, Linz"
+        ],
+        "subject": [
+          "AI",
+          "Digital Art"
+        ],
+        "dcRights": [
+          "Clemens Apprich"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "2025-09-04"
+        ],
+        "identifier": [
+          "WI_Prix Ars Electronica 2025_1.pdf",
+          "nWL99cLxZHYRFF7de2D4sw"
+        ],
+        "description": [
+          "Preis; Kategorie: Artificial Life & Intelligence\n\nText: \nThe category “Artificial Life & Intelligence“ is dedicated to\nartistic practice and thinking related to all areas of Artificial Life,\nArtificial Intelligence, and Life Sciences, including artwork\nengaging with Biotech, Genetic Engineering, Synthetic Biology\netc. as well as Machine Learning, Deep Learning, and any other\nform of Artificial Intelligence Research. However, it is not the\ntechnologies themselves that win the awards but rather the art\nprojects that focus on the transformative nature of these\ntechnologies and explore how the application of these\ntechnologies impacts our lives, society, and what it means to be\nhuman."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "4e87a066-32d3-4e53-a7e5-54f24999abc4",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/g4ZxoKztHmXc8v5rJEoHWu/gT9BXdUJWvFSVY9eqhwZdD",
+    "content": {
+      "id": "https://id.kulturpool.at/4e87a066-32d3-4e53-a7e5-54f24999abc4/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/gT9BXdUJWvFSVY9eqhwZdD/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/g4ZxoKztHmXc8v5rJEoHWu/media/gT9BXdUJWvFSVY9eqhwZdD",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/WI_In_Terms_of_Media_3.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/4e87a066-32d3-4e53-a7e5-54f24999abc4/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "In Terms of Media. On Data Materialism, Techno Poetics, Atmospheres of Conflict, and Planetary Interfaces"
+        ],
+        "creator": [
+          "Alex Quicho",
+          "Asia Bazdyrieva",
+          "Chattopadhyay Budhaditya",
+          "DeForrest Brown Jr.",
+          "Elisa Giardina Papa",
+          "Luciana Parisi",
+          "Lukáš Likavčan",
+          "Margarida Mendes",
+          "Orit Halpern",
+          "Patricia Reed",
+          "Steve Goodman",
+          "Thomas LaMarre"
+        ],
+        "edmType": "TEXT",
+        "spatial": [
+          "AIL, Universität für angewandte Kunst Wien, Wien"
+        ],
+        "subject": [
+          "Atmospheres of Conflict",
+          "Data Materialism",
+          "Digital Cultures",
+          "Medientheorie",
+          "Planetary Interfaces",
+          "Techno Poetics"
+        ],
+        "dcRights": [
+          "Weibel Institute for Digital Cultures"
+        ],
+        "language": [
+          "en"
+        ],
+        "temporal": [
+          "2024-11-20/2024-11-22"
+        ],
+        "identifier": [
+          "WI_In Terms of Media_3.pdf",
+          "gT9BXdUJWvFSVY9eqhwZdD"
+        ],
+        "description": [
+          "Konferenz, veranstaltet von Weibel Institute for Digital Cultures, AIL, Valerie Messini, Sophie Publig, Mikkel Rørbo, Denise Helene Sumi; Online-Ankündigung"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "496fc47c-a803-48a0-99ea-320cc4849aac",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/GDC5SHc7asye7VRrpxzzTh/4c6d9zgEyptaAUptdaShsN",
+    "content": {
+      "id": "https://id.kulturpool.at/496fc47c-a803-48a0-99ea-320cc4849aac/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/4c6d9zgEyptaAUptdaShsN/preview-1920.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/GDC5SHc7asye7VRrpxzzTh/media/4c6d9zgEyptaAUptdaShsN",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000027133.TIF",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/496fc47c-a803-48a0-99ea-320cc4849aac/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Formel-Homomorphismen zwischen logischen Theorien. Isomorphismen zwischen Modal-Operatoren und Quantoren-Folgen"
+        ],
+        "creator": [
+          "Peter Weibel",
+          "Werner Schimanovich"
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1972",
+          "2005"
+        ],
+        "identifier": [
+          "4c6d9zgEyptaAUptdaShsN",
+          "ZKM000027133"
+        ],
+        "description": [
+          "Werner Schimanovich, Peter Weibel Erstveröffentlichung in: Werner Depauli Schimanovich (Hg.), Kurt Gödel und die mathematische Logik, Europolis 5, Trauner Verlag, Linz 2005, S. 465–478"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "ab598112-d5d7-4d8a-ac83-826592930ba4",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/TnUd7ywYhHJGdWaGnCiTgu/egWpsW2b7YFz2wbH2dZVH7",
+    "content": {
+      "id": "https://id.kulturpool.at/ab598112-d5d7-4d8a-ac83-826592930ba4/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/egWpsW2b7YFz2wbH2dZVH7/preview-652.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/TnUd7ywYhHJGdWaGnCiTgu/media/egWpsW2b7YFz2wbH2dZVH7",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000027531.TIF",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/ab598112-d5d7-4d8a-ac83-826592930ba4/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Zeichen"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          "Performance",
+          "Videokunst"
+        ],
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1974"
+        ],
+        "identifier": [
+          "ZKM000027531",
+          "egWpsW2b7YFz2wbH2dZVH7"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "ef573661-79d0-4125-8ff0-102ec3e36ca1",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/hTczqbTa6JUrvkYZcHp7Gc/6wfSsySZSKpUXNaJBEEBo5",
+    "content": {
+      "id": "https://id.kulturpool.at/ef573661-79d0-4125-8ff0-102ec3e36ca1/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/6wfSsySZSKpUXNaJBEEBo5/preview-704.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/hTczqbTa6JUrvkYZcHp7Gc/media/6wfSsySZSKpUXNaJBEEBo5",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000026043.JPG",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/ef573661-79d0-4125-8ff0-102ec3e36ca1/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Quadrat"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1966"
+        ],
+        "identifier": [
+          "6wfSsySZSKpUXNaJBEEBo5",
+          "ZKM000026043"
+        ],
+        "description": [
+          "Steintext – Textstein"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "85b15aad-a170-4621-8266-4967e5d6fc57",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/bxoSHesFnDjBE2s9Brhhnr/2SEiYCFxxzTopcfJXVokv7",
+    "content": {
+      "id": "https://id.kulturpool.at/85b15aad-a170-4621-8266-4967e5d6fc57/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/2SEiYCFxxzTopcfJXVokv7/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/bxoSHesFnDjBE2s9Brhhnr/media/2SEiYCFxxzTopcfJXVokv7",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000259007.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/85b15aad-a170-4621-8266-4967e5d6fc57/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Videotechnik und Filmästhetik. Anmerkungen zur Zukunftsindustrie (1983)"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "TEXT",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "1984"
+        ],
+        "identifier": [
+          "2SEiYCFxxzTopcfJXVokv7",
+          "ZKM000259007"
+        ],
+        "description": [
+          "Peter Weibel, »Videotechnik und Filmästhetik. Anmerkungen zur Zukunftsindustrie (1983)«, in: Staatliche Kunsthalle Berlin, Bundesverband Bildender Künstler Bonn (Hg.), Kunst und Medien, Publica Verl. Ges., Berlin, 1984 [1982 oder 1983?], S. 74–81."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "47b6ad33-30fc-4a18-b461-03295cdfadd7",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/jZAmasBLZyww6RY9oYVzox/Y7SJnmRj3rvByrB3UC5pbS",
+    "content": {
+      "id": "https://id.kulturpool.at/47b6ad33-30fc-4a18-b461-03295cdfadd7/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/Y7SJnmRj3rvByrB3UC5pbS/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/jZAmasBLZyww6RY9oYVzox/media/Y7SJnmRj3rvByrB3UC5pbS",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000259469.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/47b6ad33-30fc-4a18-b461-03295cdfadd7/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Patrick Hughes. Perspektivische Kunst als Ent-Täuschung im Zeitalter von Post-Truth"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "TEXT",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "2020"
+        ],
+        "identifier": [
+          "Y7SJnmRj3rvByrB3UC5pbS",
+          "ZKM000259469"
+        ],
+        "description": [
+          "Peter Weibel, »Patrick Hughes. Perspektivische Kunst als Ent-Täuschung im Zeitalter von Post-Truth«, in: Thomas Weber (ed.), Patrick Hughes (geb. 1939 Birmingham). Geometry in Motion. Paintings and Multiples by Patrick Hughes, Galerie Boisserée, Köln, 2020, S. o. S."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "13b13a03-7de0-4e69-9f68-58d144221d51",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/oFEcpvEgtDZ8b5ywvBVpUL/FmL5EkQjKCvoPihHAEVVgP",
+    "content": {
+      "id": "https://id.kulturpool.at/13b13a03-7de0-4e69-9f68-58d144221d51/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/FmL5EkQjKCvoPihHAEVVgP/preview-728.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/oFEcpvEgtDZ8b5ywvBVpUL/media/FmL5EkQjKCvoPihHAEVVgP",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000025485.JPG",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/13b13a03-7de0-4e69-9f68-58d144221d51/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Funktionsanleitung von TV-Aktion Nr. I"
+        ],
+        "dcType": [
+          "Text"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1972"
+        ],
+        "identifier": [
+          "FmL5EkQjKCvoPihHAEVVgP",
+          "ZKM000025485"
+        ],
+        "description": [
+          "The Endless Sandwich"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "3f888d2c-a420-4a96-b202-3fdfde5b1e2d",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/NDBbK6B7FtyNitMndUvcSe/7sffUp2QJMFC69UpcAK2Jc",
+    "content": {
+      "id": "https://id.kulturpool.at/3f888d2c-a420-4a96-b202-3fdfde5b1e2d/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/7sffUp2QJMFC69UpcAK2Jc/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/NDBbK6B7FtyNitMndUvcSe/media/7sffUp2QJMFC69UpcAK2Jc",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000258849.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/3f888d2c-a420-4a96-b202-3fdfde5b1e2d/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Das jüngste Gerücht"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "TEXT",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "1977"
+        ],
+        "identifier": [
+          "7sffUp2QJMFC69UpcAK2Jc",
+          "ZKM000258849"
+        ],
+        "description": [
+          "Peter Weibel, »Das jüngste Gerücht«, in: IFI (Informationen für Informanten) Information, Wien, 1977, S. o. S.\n\nInhalt: Nur der Scan vorhanden. Bibliographisch nicht mehr zu ermitteln"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "cc831e51-8e61-488b-9caa-e5bb4977b49d",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/GSm8mbgN6ryHMqhzM8jFmq/irjh54ewmZ9SttNMB7iB5C",
+    "content": {
+      "id": "https://id.kulturpool.at/cc831e51-8e61-488b-9caa-e5bb4977b49d/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/irjh54ewmZ9SttNMB7iB5C/preview-1920.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/GSm8mbgN6ryHMqhzM8jFmq/media/irjh54ewmZ9SttNMB7iB5C",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000029484.TIF",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/cc831e51-8e61-488b-9caa-e5bb4977b49d/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Imaginärer Würfel"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          "Graz"
+        ],
+        "subject": [
+          "Skulptur",
+          "Videokunst"
+        ],
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1978"
+        ],
+        "identifier": [
+          "ZKM000029484",
+          "irjh54ewmZ9SttNMB7iB5C"
+        ],
+        "description": [
+          "Idee 1978, Video Art Austria, Museum des 20. Jahrhunderts, Schweizergarten, Wien, 1980"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "f6fdf43a-443f-4567-bc78-01fbe52a8702",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/4F4N2xg8q4KR9yW9sAeyf5/dbDoSM3gCNHRMBydwRhTrH",
+    "content": {
+      "id": "https://id.kulturpool.at/f6fdf43a-443f-4567-bc78-01fbe52a8702/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/dbDoSM3gCNHRMBydwRhTrH/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/4F4N2xg8q4KR9yW9sAeyf5/media/dbDoSM3gCNHRMBydwRhTrH",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000258583.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/f6fdf43a-443f-4567-bc78-01fbe52a8702/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Egon Schiele. Die Sammlung Leopold"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "TEXT",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "1997"
+        ],
+        "identifier": [
+          "ZKM000258583",
+          "dbDoSM3gCNHRMBydwRhTrH"
+        ],
+        "description": [
+          "Peter Weibel, »Egon Schiele. Die Sammlung Leopold«, in: (Joanneum aktuell, Nr. 2), Steiermärkisches Landesmuseum Joanneum, Graz, 1997, S. 2–3."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "68c38fc8-ea49-4791-8408-29ac23356245",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/8BV9co9U58mHwV7StfVMS2/DTYKLC3hRwPHuZTKRmMMLo",
+    "content": {
+      "id": "https://id.kulturpool.at/68c38fc8-ea49-4791-8408-29ac23356245/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/DTYKLC3hRwPHuZTKRmMMLo/preview-1920.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/8BV9co9U58mHwV7StfVMS2/media/DTYKLC3hRwPHuZTKRmMMLo",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000027259.TIF",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/68c38fc8-ea49-4791-8408-29ac23356245/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Autoidentität"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          "Graz"
+        ],
+        "subject": [
+          "Videokunst"
+        ],
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1973"
+        ],
+        "identifier": [
+          "DTYKLC3hRwPHuZTKRmMMLo",
+          "ZKM000027259"
+        ],
+        "description": [
+          "Video-Aktion, in: Trigon 73, Audiovisuelle Botschaften, Graz 1973"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "27478c64-9294-467a-a25f-e2c1df2476fb",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/2xjwCMVPXsceLXH3FNjwBW/YD9mZbgVNvrhgPPSCrwLU6",
+    "content": {
+      "id": "https://id.kulturpool.at/27478c64-9294-467a-a25f-e2c1df2476fb/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/YD9mZbgVNvrhgPPSCrwLU6/preview-1000.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/2xjwCMVPXsceLXH3FNjwBW/media/YD9mZbgVNvrhgPPSCrwLU6",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000025196.JPG",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/27478c64-9294-467a-a25f-e2c1df2476fb/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Ringpark-Projekt-Kino"
+        ],
+        "creator": [
+          "Heinz Lindinger",
+          "Marcus Eibelmayer",
+          "Peter Niedermair",
+          "Peter Weibel",
+          "Werner Schimanovich"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          "Wien"
+        ],
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1970",
+          "1981"
+        ],
+        "identifier": [
+          "YD9mZbgVNvrhgPPSCrwLU6",
+          "ZKM000025196"
+        ],
+        "description": [
+          "Konzept"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "3c524021-4c0e-485e-af68-86f3fa0f9c68",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/mrhz7pFAgM5473bdhj5iuD/6MyFFEf4GmVZHPCofc3j3y",
+    "content": {
+      "id": "https://id.kulturpool.at/3c524021-4c0e-485e-af68-86f3fa0f9c68/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/6MyFFEf4GmVZHPCofc3j3y/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/mrhz7pFAgM5473bdhj5iuD/media/6MyFFEf4GmVZHPCofc3j3y",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/IW_Choose_Your_Avatar_-_Girlblogging_as_posthumanist_practice_1.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/3c524021-4c0e-485e-af68-86f3fa0f9c68/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Choose Your Avatar – Girlblogging as Posthumanist Practice"
+        ],
+        "creator": [
+          "Aksioma",
+          "Charlotte Reuß",
+          "Sophie Publig"
+        ],
+        "edmType": "TEXT",
+        "spatial": [
+          "Ljubljana"
+        ],
+        "subject": [
+          "Digital Cultures",
+          "Digitale Kunst",
+          "Feminism",
+          "Philosophie",
+          "Posthumanism"
+        ],
+        "language": [
+          "en"
+        ],
+        "temporal": [
+          "2025-05-13"
+        ],
+        "identifier": [
+          "6MyFFEf4GmVZHPCofc3j3y",
+          "IW_Choose Your Avatar - Girlblogging as posthumanist practice_1.pdf"
+        ],
+        "description": [
+          "In this workshop, participants will explore the fluid identity of the Girl Online through the lens of autotheory, using digital tools inspired by girlblogging practices such as journaling, speculative storytelling, fan fiction, browser tab histories, and moodboard archaeology. By reimagining life paths as narratives shaped by mood, energy, and traits—similar to creating a game character in The Sims—you’ll be able to consider how we construct and perform our identities online and irl. Projecting the contradictions embodied by the Girl Online onto personal avatar creation offers the possibility to perform a critique of gender stereotypes in connection to platform capitalism, while acknowledging the Girl Online’s identity as one rooted in late capitalism. Playing with the cultural artifacts of girlblogging allows participants to unearth the entanglements between their digital and meatspace selves and experiment with renarrating their existence through the perspective of the Girl Online.\n\nTakeaways:\nA deeper understanding of the construction of fluid identities in the context of digital cultures, late stage capitalism, and posthumanism. \nPractical tools for storytelling and autotheory to craft new narratives. \nMedia-specific techniques to engage with and reinterpret online artifacts, like browser tab histories and Tumblr archaeology. \nUpdated insights into the interweaving between personal identity and digital cultures through the lens of the Girl Online.\n\nDuration: 2 hours\n\nMaterials and knowledge required:\nNo prior knowledge is required—just an open mind and willingness to explore!\nParticipants should bring a laptop or tablet for online exploration and writing.\nA notebook or journal is recommended for offline sketching of ideas and reflections.\n\nThis workshop is additionally supported by the Austrian Cultural Forum."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "31cf5888-a088-4056-94ea-474f163d7240",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/h73b8qaueDVbvde29n74DZ/9dCZdN3yLYjdSL2Gz38hF4",
+    "content": {
+      "id": "https://id.kulturpool.at/31cf5888-a088-4056-94ea-474f163d7240/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/9dCZdN3yLYjdSL2Gz38hF4/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/h73b8qaueDVbvde29n74DZ/media/9dCZdN3yLYjdSL2Gz38hF4",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000258772.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/31cf5888-a088-4056-94ea-474f163d7240/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Holon: Towards a Philosophy of Biophilia"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "TEXT",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "language": [
+          "en"
+        ],
+        "temporal": [
+          "2023"
+        ],
+        "identifier": [
+          "9dCZdN3yLYjdSL2Gz38hF4",
+          "ZKM000258772"
+        ],
+        "description": [
+          "Peter Weibel, »Holon: Towards a Philosophy of Biophilia«, in: Peter Weibel (ed.), \"BioMedia. The Age of Media with Life-like Behavior\". (ZKM Book), (Spector Books), Spector Books, Leipzig, 2023, 32–43."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "a9fa8c9c-2ff2-44d3-842c-7b07259ec1db",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/7zSHUvqWQh6rVJGZjJeRVb/m6arnhQTZbtF9N55JLUuCG",
+    "content": {
+      "id": "https://id.kulturpool.at/a9fa8c9c-2ff2-44d3-842c-7b07259ec1db/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/m6arnhQTZbtF9N55JLUuCG/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-sa/4.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/7zSHUvqWQh6rVJGZjJeRVb/media/m6arnhQTZbtF9N55JLUuCG",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/WI_Leitfaden_fur_Studierende_2.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/a9fa8c9c-2ff2-44d3-842c-7b07259ec1db/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Students Guide: Image Use in Scientific Work"
+        ],
+        "creator": [
+          "Charlotte Reuß"
+        ],
+        "edmType": "TEXT",
+        "spatial": [
+          "Universität für angewandte Kunst Wien, Wien"
+        ],
+        "subject": [
+          "Copyright"
+        ],
+        "language": [
+          "en"
+        ],
+        "temporal": [
+          "2023"
+        ],
+        "identifier": [
+          "WI_Leitfaden für Studierende_2.pdf",
+          "m6arnhQTZbtF9N55JLUuCG"
+        ],
+        "description": [
+          "Wissenschaftliche Veröffentlichung; Status of November 2023"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "a6b8d179-eaab-4314-a89e-0294981d5045",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/7AAfpy8H6GZWJkgwwnjavH/D3VBh55aa6WV87ZuUjdFoM",
+    "content": {
+      "id": "https://id.kulturpool.at/a6b8d179-eaab-4314-a89e-0294981d5045/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/D3VBh55aa6WV87ZuUjdFoM/preview-720.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/7AAfpy8H6GZWJkgwwnjavH/media/D3VBh55aa6WV87ZuUjdFoM",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000026896.TIF",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/a6b8d179-eaab-4314-a89e-0294981d5045/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "TV-Aquarium. TV-Tod 1"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          "Performance",
+          "Videokunst"
+        ],
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1970",
+          "1972"
+        ],
+        "identifier": [
+          "D3VBh55aa6WV87ZuUjdFoM",
+          "ZKM000026896"
+        ],
+        "description": [
+          "Teleaktion (iv a): \"Kommunikation ist das Medium\", Teil 1: \"Das Medium beim Wort genommen\", ca. 3 min. Erstsendung 29. Juni 1972, Impulse 7, ORF. Zahllose Proteste der Tierfreunde. Foto 2 aus Serie von 6"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "d5f688ba-d872-4c6b-9ad2-ba7cd70784bd",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/fbosppATHyd67QoYHAVV9d/VYc39SpBkMqcGdSCfZdqaP",
+    "content": {
+      "id": "https://id.kulturpool.at/d5f688ba-d872-4c6b-9ad2-ba7cd70784bd/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/VYc39SpBkMqcGdSCfZdqaP/preview-882.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/fbosppATHyd67QoYHAVV9d/media/VYc39SpBkMqcGdSCfZdqaP",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000021509.JPG",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/d5f688ba-d872-4c6b-9ad2-ba7cd70784bd/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Bitte eingreifen – Bitte umblättern"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          "Zeichnung"
+        ],
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "identifier": [
+          "VYc39SpBkMqcGdSCfZdqaP",
+          "ZKM000021509"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "c62ddd0d-668a-48af-bca5-9e7a9ea3245c",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/XA3vhwuYkofgiiefm5ePp4/LXwb5RoxH9YLGYwBMy9Qwa",
+    "content": {
+      "id": "https://id.kulturpool.at/c62ddd0d-668a-48af-bca5-9e7a9ea3245c/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/LXwb5RoxH9YLGYwBMy9Qwa/preview-1920.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/XA3vhwuYkofgiiefm5ePp4/media/LXwb5RoxH9YLGYwBMy9Qwa",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000026954.TIF",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/c62ddd0d-668a-48af-bca5-9e7a9ea3245c/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Imaginäre Wasserskulptur"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          "Fernsehen",
+          "Videokunst"
+        ],
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1971"
+        ],
+        "identifier": [
+          "LXwb5RoxH9YLGYwBMy9Qwa",
+          "ZKM000026954"
+        ],
+        "description": [
+          "Video, s/w, Ton, 48 sec., Erstausstrahlung in Impulse 7, ORF, 29.06.1972"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "54b1c233-7036-452e-94a6-fab2b03eb754",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/LzYV7TbEAedTwVKvLevTLG/EFqAjXrkRjsBAgjWhSQskf",
+    "content": {
+      "id": "https://id.kulturpool.at/54b1c233-7036-452e-94a6-fab2b03eb754/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/EFqAjXrkRjsBAgjWhSQskf/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/LzYV7TbEAedTwVKvLevTLG/media/EFqAjXrkRjsBAgjWhSQskf",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000259179.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/54b1c233-7036-452e-94a6-fab2b03eb754/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Zobernig's Paradox or Autological Art"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "TEXT",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "language": [
+          "en",
+          "fr"
+        ],
+        "temporal": [
+          "2009"
+        ],
+        "identifier": [
+          "EFqAjXrkRjsBAgjWhSQskf",
+          "ZKM000259179"
+        ],
+        "description": [
+          "Peter Weibel, »Zobernig's Paradox or Autological Art«, in: Heimo Zobernig Catalogue. Cover Afrika Private Club, Les presses du réel, Dijon, 2009 [1993], S. 194–196.\n\nInhalt: Franz. Text u.d.T.: Le paradoxe de Zobernig ou l'art autologique. S. 162 - 165."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "2bf489d9-ee24-414b-afd3-1cade239a298",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/GtZehtHv5vyZXft9QuRpiV/c5UHzzg6G5roSFKusSjiVt",
+    "content": {
+      "id": "https://id.kulturpool.at/2bf489d9-ee24-414b-afd3-1cade239a298/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/c5UHzzg6G5roSFKusSjiVt/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/GtZehtHv5vyZXft9QuRpiV/media/c5UHzzg6G5roSFKusSjiVt",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/pw_qc_9i1.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/2bf489d9-ee24-414b-afd3-1cade239a298/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Quantum Cinema_Archive_Oktober 2012"
+        ],
+        "creator": [
+          "Renate Quehenberger"
+        ],
+        "edmType": "TEXT",
+        "subject": [
+          "Analysis",
+          "Anthropology der Künste",
+          "Geometrie",
+          "Medientheorie",
+          "Quantenphysik",
+          "Scientific Computing",
+          "artistic research",
+          "diskrete Mathematik",
+          "experimentelle Physik"
+        ],
+        "language": [
+          "en"
+        ],
+        "temporal": [
+          "2012"
+        ],
+        "identifier": [
+          "c5UHzzg6G5roSFKusSjiVt",
+          "pw_qc_9i1.pdf"
+        ],
+        "description": [
+          "Monat: Oktober 2012"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "3c638687-be47-4fc7-bd3c-85e072997ba4",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/6yvkm8wChQZGM2uLJdWFEd/5Cg7p9P3CUFraXve5KvdAP",
+    "content": {
+      "id": "https://id.kulturpool.at/3c638687-be47-4fc7-bd3c-85e072997ba4/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/5Cg7p9P3CUFraXve5KvdAP/preview-1648.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/6yvkm8wChQZGM2uLJdWFEd/media/5Cg7p9P3CUFraXve5KvdAP",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000027250.TIF",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/3c638687-be47-4fc7-bd3c-85e072997ba4/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Zeitknochen – Raummuskeln. Vom Wissen des Körpers II"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1972"
+        ],
+        "identifier": [
+          "5Cg7p9P3CUFraXve5KvdAP",
+          "ZKM000027250"
+        ],
+        "description": [
+          "Die Bewegung eines Armes, einzeln gerahmt in langsamen Schritten, wo jeder Schritt von einer Sekunde bis zu einer Million gezählt wird, demonstriert, wieviel Wissen, das über Millionen von Jahren erworben wurde, in die Form und Funktion der Organe investiert wurde."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "07ce44da-c672-4b14-85b8-5cacece1ebd5",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/NUxiiCD7g4VCMHUJmmVfmj/hQXo8jitXPQsFmqeUiE5gL",
+    "content": {
+      "id": "https://id.kulturpool.at/07ce44da-c672-4b14-85b8-5cacece1ebd5/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/hQXo8jitXPQsFmqeUiE5gL/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/NUxiiCD7g4VCMHUJmmVfmj/media/hQXo8jitXPQsFmqeUiE5gL",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000259335.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/07ce44da-c672-4b14-85b8-5cacece1ebd5/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Peter Weibel. Malerei und Geometrie ..."
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "TEXT",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "1990"
+        ],
+        "identifier": [
+          "ZKM000259335",
+          "hQXo8jitXPQsFmqeUiE5gL"
+        ],
+        "description": [
+          "Peter Weibel, »Peter Weibel. Malerei und Geometrie ...«, in: Wolfgang Drechsler (Hg.), Zeichen im Fluss. Tómas Cisarowski ... Museum moderner Kunst, Wien, 1990, S. 110–115."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "5959854c-7bf8-41e7-8d54-64b0e6bf4460",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/JiaDYiDbgkqoc5MJmj5LC5/eFJisgbe33CRtgUZ2jbAQ6",
+    "content": {
+      "id": "https://id.kulturpool.at/5959854c-7bf8-41e7-8d54-64b0e6bf4460/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/eFJisgbe33CRtgUZ2jbAQ6/preview-1920.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/JiaDYiDbgkqoc5MJmj5LC5/media/eFJisgbe33CRtgUZ2jbAQ6",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000026984.TIF",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/5959854c-7bf8-41e7-8d54-64b0e6bf4460/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Monopol und Massenmedien. Konzept"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          "Tele-Aktion",
+          "Videokunst"
+        ],
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1971"
+        ],
+        "identifier": [
+          "ZKM000026984",
+          "eFJisgbe33CRtgUZ2jbAQ6"
+        ],
+        "description": [
+          "Konzept für Tele-Aktion Nr. (v) in: Werkstatt Aspekt, 3, Wien 1972"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "732fd4dc-9bea-4d38-a446-c75ff3bfa169",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/Ao99LgYoDXnD7UnfKuJpvq/4Z6hweksMitEdFyGbhQWb5",
+    "content": {
+      "id": "https://id.kulturpool.at/732fd4dc-9bea-4d38-a446-c75ff3bfa169/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/4Z6hweksMitEdFyGbhQWb5/preview-1920.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/Ao99LgYoDXnD7UnfKuJpvq/media/4Z6hweksMitEdFyGbhQWb5",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000027993.TIF",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/732fd4dc-9bea-4d38-a446-c75ff3bfa169/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Das gequälte Quadrat [/Gequältes Quadrat]"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          "Wien"
+        ],
+        "subject": [
+          "Skulptur"
+        ],
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1977"
+        ],
+        "identifier": [
+          "4Z6hweksMitEdFyGbhQWb5",
+          "ZKM000027993"
+        ],
+        "description": [
+          "Installationsansicht, Die unendliche Einwort Ausstellung & Skulpturen, 18.–28.05.1977 [oder März], Galerie nächst St. Stephan, Wien"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "1a7fda24-7a19-46e3-bd02-80c26341bbe8",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/jDDB3EkJ4SCpBU8pPV8xaR/M67BgKGMoc8zXccZxeq6GB",
+    "content": {
+      "id": "https://id.kulturpool.at/1a7fda24-7a19-46e3-bd02-80c26341bbe8/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/M67BgKGMoc8zXccZxeq6GB/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/jDDB3EkJ4SCpBU8pPV8xaR/media/M67BgKGMoc8zXccZxeq6GB",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000259259.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/1a7fda24-7a19-46e3-bd02-80c26341bbe8/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Kunst als soziale Konstruktion"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "TEXT",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "1997"
+        ],
+        "identifier": [
+          "M67BgKGMoc8zXccZxeq6GB",
+          "ZKM000259259"
+        ],
+        "description": [
+          "Peter Weibel, »Kunst als soziale Konstruktion«, in: Albert Müller (Hg.), Konstruktivismus und Kognitionswissenschaft. Kulturelle Wurzeln und Ergebnisse. Heinz von Foerster gewidmet, Springer Verl., Wien/New York, 1997, S. 183–197."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "0284ce2d-6c82-43ee-be51-0adcc03ec74f",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/W7S6tGvT3ZtiMSWFiN5EZm/M8U75CYz5TBjQM3hH9VmhE",
+    "content": {
+      "id": "https://id.kulturpool.at/0284ce2d-6c82-43ee-be51-0adcc03ec74f/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/M8U75CYz5TBjQM3hH9VmhE/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/W7S6tGvT3ZtiMSWFiN5EZm/media/M8U75CYz5TBjQM3hH9VmhE",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/WI_Der_Mensch_futtert_die_Maschine_kaut_1.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/0284ce2d-6c82-43ee-be51-0adcc03ec74f/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "\"Der Mensch füttert, die Maschine kaut\""
+        ],
+        "creator": [
+          "Clemens Apprich",
+          "Johannes Lau"
+        ],
+        "edmType": "TEXT",
+        "spatial": [
+          "Wien"
+        ],
+        "subject": [
+          "Algorithmen",
+          "Digitalisierung",
+          "KI",
+          "Universitätspolitik"
+        ],
+        "dcRights": [
+          "Clemens Apprich"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "2021-06-09"
+        ],
+        "identifier": [
+          "M8U75CYz5TBjQM3hH9VmhE",
+          "WI_Der Mensch füttert, die Maschine kaut_1. pdf"
+        ],
+        "description": [
+          "Zeitungsbericht, Der Standard, 09. Juni 2021; Text: Medientheoretiker Clemens Apprich beschäftigt sich damit, wie künstliche Intelligenz produktiv für das Denken in den Geisteswissenschaften eingesetzt werden kann."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "26b33b59-d2e6-4542-a811-a41d73404bdf",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/EsSPwHiRqi5TksVNyg9Wju/Lefu7UBv5knpWgLTLPHEnG",
+    "content": {
+      "id": "https://id.kulturpool.at/26b33b59-d2e6-4542-a811-a41d73404bdf/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/Lefu7UBv5knpWgLTLPHEnG/preview-1920.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/EsSPwHiRqi5TksVNyg9Wju/media/Lefu7UBv5knpWgLTLPHEnG",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000026903.TIF",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/26b33b59-d2e6-4542-a811-a41d73404bdf/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "TV-Terrarium. TV-Tod 3"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          "Performance",
+          "Videokunst"
+        ],
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1970"
+        ],
+        "identifier": [
+          "Lefu7UBv5knpWgLTLPHEnG",
+          "ZKM000026903"
+        ],
+        "description": [
+          "Ursprünglich eine Tele-Aktion, doch von der Impulse-7-Sendung wegen Grausamkeit ausgeschlossen. Erst am 15. November 1974 im Kulturforum, Bonn, als Videoinstallation realisiert"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "b7b83964-8f61-4820-8c48-dc0aa077686c",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/YUj4uCZZwqeQXFL737xw3t/R4ZTFFBn86ALpWNypuGviU",
+    "content": {
+      "id": "https://id.kulturpool.at/b7b83964-8f61-4820-8c48-dc0aa077686c/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/R4ZTFFBn86ALpWNypuGviU/preview-1920.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/YUj4uCZZwqeQXFL737xw3t/media/R4ZTFFBn86ALpWNypuGviU",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000027464.TIF",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/b7b83964-8f61-4820-8c48-dc0aa077686c/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Studien zur Theorie der Automaten"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1974"
+        ],
+        "identifier": [
+          "R4ZTFFBn86ALpWNypuGviU",
+          "ZKM000027464"
+        ],
+        "description": [
+          "C. E. Shannon; J. McCarthy (Hrsg.): »Studien zur Theorie der Automaten«, 1974, Erw. Ausg. u. Übers. durch Franz Kaltenbeck u. Peter Weibel; mit Zeichn. von Dieter Roth"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "68a99e0a-2279-4884-aa7c-23145926dde1",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/nH2Ea5VTiWB7zqQ3PBugZZ/UNcSt3FGdhqBHN2pqVW3SW",
+    "content": {
+      "id": "https://id.kulturpool.at/68a99e0a-2279-4884-aa7c-23145926dde1/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/UNcSt3FGdhqBHN2pqVW3SW/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/nH2Ea5VTiWB7zqQ3PBugZZ/media/UNcSt3FGdhqBHN2pqVW3SW",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000258398.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/68a99e0a-2279-4884-aa7c-23145926dde1/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "CAVS and the Genome of Art-and-Technology"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "TEXT",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "language": [
+          "en"
+        ],
+        "temporal": [
+          "2019"
+        ],
+        "identifier": [
+          "UNcSt3FGdhqBHN2pqVW3SW",
+          "ZKM000258398"
+        ],
+        "description": [
+          "Peter Weibel, »CAVS and the Genome of Art-and-Technology«, in: Elizabeth Goldring, Ellen Sebring (ed.), Centerbook. The Center for Advanced Visual Studies and the Evolution of Art-Science-Technology at MIT, SA+P Press, MIT School of Architecture and Planning, Cambridge, Massachusetts , 2019, 276–281.\n\nInhalt: nur Scan; Band in Bibliothek vorhanden"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "faf93d98-c822-4da3-b4d9-84755b416ed2",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/kTEdNL2Edtk6Z2ETsWcm7P/DEaCTLeHu3XZPM5f9Z9NVC",
+    "content": {
+      "id": "https://id.kulturpool.at/faf93d98-c822-4da3-b4d9-84755b416ed2/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/DEaCTLeHu3XZPM5f9Z9NVC/preview-1920.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/kTEdNL2Edtk6Z2ETsWcm7P/media/DEaCTLeHu3XZPM5f9Z9NVC",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000026836.TIF",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/faf93d98-c822-4da3-b4d9-84755b416ed2/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Stöhnender Stein. Nicht-Humanes Gedicht"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          "Wien"
+        ],
+        "subject": [
+          "Naturpoem"
+        ],
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1969"
+        ],
+        "identifier": [
+          "DEaCTLeHu3XZPM5f9Z9NVC",
+          "ZKM000026836"
+        ],
+        "description": [
+          "Naturpoem, Planet Erde. Zivilisatorischer Prozess – Biophysik – Naturprozess. Umweltwunde. Realisiert am 10. Jänner 1972 für einen Film des Hessischen Rundfunks, vom Gedicht zum Objekt von Klaus Peter Dencker."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "fc1d4d50-5196-4845-b38f-7dcf84f71f35",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/3BbaBJMGSyv7rcKRSXez6D/Exetid4HF9sed8sqwqsp98",
+    "content": {
+      "id": "https://id.kulturpool.at/fc1d4d50-5196-4845-b38f-7dcf84f71f35/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/Exetid4HF9sed8sqwqsp98/preview-1920.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/3BbaBJMGSyv7rcKRSXez6D/media/Exetid4HF9sed8sqwqsp98",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000025808.TIF",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/fc1d4d50-5196-4845-b38f-7dcf84f71f35/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Beobachtung der Beobachtung. Unbestimmtheit"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          "Closed-Circuit-Installation",
+          "Installation",
+          "Videokunst"
+        ],
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1973"
+        ],
+        "identifier": [
+          "Exetid4HF9sed8sqwqsp98",
+          "ZKM000025808"
+        ],
+        "description": [
+          "Videoinstallation, Closed Circuit Installation, 3 Videokameras, 3 Monitore, Metallgestelle, Bodenmarkierung, 400 cm Durchmesser; Installationsansicht: Trigon '73, Audiovisuelle Botschaften, Künstlerhaus, Graz; Foto: Valie EXPORT"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "abdfb4b7-da29-4bdf-9fbc-78d192ceb92b",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/Aa5A4ds7HBCb7ABiUsgiwz/JKXWRNoadaRRy4EPdWEjnr",
+    "content": {
+      "id": "https://id.kulturpool.at/abdfb4b7-da29-4bdf-9fbc-78d192ceb92b/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/JKXWRNoadaRRy4EPdWEjnr/preview-707.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/Aa5A4ds7HBCb7ABiUsgiwz/media/JKXWRNoadaRRy4EPdWEjnr",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000025433.JPG",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/abdfb4b7-da29-4bdf-9fbc-78d192ceb92b/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Navigationssysteme"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1972"
+        ],
+        "identifier": [
+          "JKXWRNoadaRRy4EPdWEjnr",
+          "ZKM000025433"
+        ],
+        "description": [
+          "Konzeptuelle Fotoserie (26 Teile)"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "07094d48-3d72-4a73-be95-5a74a2dc111a",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/BFbtvs8p8oqCMBU4yBJxDK/kvEe3WNDUS6GVpKEadQARy",
+    "content": {
+      "id": "https://id.kulturpool.at/07094d48-3d72-4a73-be95-5a74a2dc111a/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/kvEe3WNDUS6GVpKEadQARy/preview-1920.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/BFbtvs8p8oqCMBU4yBJxDK/media/kvEe3WNDUS6GVpKEadQARy",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000026987.TIF",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/07094d48-3d72-4a73-be95-5a74a2dc111a/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Der Mengenbildungsprozess"
+        ],
+        "creator": [
+          "Franz Kaltenbeck",
+          "Peter Weibel",
+          "Werner Schimanovich"
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1971"
+        ],
+        "identifier": [
+          "ZKM000026987",
+          "kvEe3WNDUS6GVpKEadQARy"
+        ],
+        "description": [
+          "Ausarbeitung der Dissertation von Werner Schimanovich unter Mitarbeit von Franz Kaltenbeck und Peter Weibel, publiziert in Manuskripte, 33, Graz, 1971"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "12eb7588-dd84-48dc-b7d2-f3c02d5174da",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/42ARcZfKR4R8oz4N2HVEh3/PwsFhNMcGFugBpesuegrr2",
+    "content": {
+      "id": "https://id.kulturpool.at/12eb7588-dd84-48dc-b7d2-f3c02d5174da/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/PwsFhNMcGFugBpesuegrr2/preview-652.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/42ARcZfKR4R8oz4N2HVEh3/media/PwsFhNMcGFugBpesuegrr2",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000026949.TIF",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/12eb7588-dd84-48dc-b7d2-f3c02d5174da/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Fluidum und Eigentum. Körperverhältnisse als Eigentumsmaße"
+        ],
+        "creator": [
+          "Peter Weibel",
+          "Susanne Widl"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          "Wien"
+        ],
+        "subject": [
+          "Performance",
+          "Videokunst"
+        ],
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1971"
+        ],
+        "identifier": [
+          "PwsFhNMcGFugBpesuegrr2",
+          "ZKM000026949"
+        ],
+        "description": [
+          "Körperaktion, 1972 für Video rekonstruiert, s/w, 7 min, Akteure: Peter Weibel, Susanne Widl"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "dfcb8bed-1360-4051-8805-804c3bb0a5cf",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/ctewcaxDYAzFEeECw6r44v/GrjVvNTawDhC7d2rg29D6H",
+    "content": {
+      "id": "https://id.kulturpool.at/dfcb8bed-1360-4051-8805-804c3bb0a5cf/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/GrjVvNTawDhC7d2rg29D6H/preview-1920.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/ctewcaxDYAzFEeECw6r44v/media/GrjVvNTawDhC7d2rg29D6H",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/WI_ASMR_Lounge_1.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/dfcb8bed-1360-4051-8805-804c3bb0a5cf/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Dr. ASMR Lounge. Sleep by Theory"
+        ],
+        "creator": [
+          "Gabriel S. Moses"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          "Weibel Institut für digitale Kulturen, Universität für angewandte Kunst Wien, Wien"
+        ],
+        "subject": [
+          "ASMR",
+          "Digital Cultures",
+          "Philosophie"
+        ],
+        "dcRights": [
+          "Weibel Institute for Digital Cultures"
+        ],
+        "temporal": [
+          "2025-06-27"
+        ],
+        "identifier": [
+          "GrjVvNTawDhC7d2rg29D6H",
+          "WI_ASMR Lounge_1.jpg"
+        ],
+        "description": [
+          "Performance; Abbildundddg"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "f1facce5-0add-41a9-b639-5c7dc344ca48",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/TxHiYrCMm59sJu5kPyj3Ar/APCVVinp8XnL4zQGLJSJot",
+    "content": {
+      "id": "https://id.kulturpool.at/f1facce5-0add-41a9-b639-5c7dc344ca48/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/APCVVinp8XnL4zQGLJSJot/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/TxHiYrCMm59sJu5kPyj3Ar/media/APCVVinp8XnL4zQGLJSJot",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/pw_qc_9b3.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/f1facce5-0add-41a9-b639-5c7dc344ca48/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Quantum Cinema_Archive_August 2012"
+        ],
+        "creator": [
+          "Renate Quehenberger"
+        ],
+        "edmType": "TEXT",
+        "spatial": [
+          "University of Orléans, Orléans"
+        ],
+        "subject": [
+          "Analysis",
+          "Anthropology der Künste",
+          "Geometrie",
+          "Medientheorie",
+          "Quantenphysik",
+          "Scientific Computing",
+          "artistic research",
+          "diskrete Mathematik",
+          "experimentelle Physik"
+        ],
+        "language": [
+          "en"
+        ],
+        "temporal": [
+          "2012"
+        ],
+        "identifier": [
+          "APCVVinp8XnL4zQGLJSJot",
+          "pw_qc_9b3.pdf"
+        ],
+        "description": [
+          "Foundational Principles in Quantum Information (FOUN.QI 2 ); University of Orléans (France)\nWorkshop associated to UCNC 2012 with the support of the GT IQ.\nOpening Talk by Renate Quehenberger: „A digital Space Model for the Simulation of Quantum Phenomena\"."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "4d91e29b-e957-424b-8e01-1988226b46ad",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/LXrtBnhD4KhmD6XttUvvud/3AtmK6qGN3yJYSx8g4Ejix",
+    "content": {
+      "id": "https://id.kulturpool.at/4d91e29b-e957-424b-8e01-1988226b46ad/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/3AtmK6qGN3yJYSx8g4Ejix/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/LXrtBnhD4KhmD6XttUvvud/media/3AtmK6qGN3yJYSx8g4Ejix",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/pw_qc_9c3.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/4d91e29b-e957-424b-8e01-1988226b46ad/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Quantum Cinema_Archive_Dezember 2013"
+        ],
+        "creator": [
+          "Renate Quehenberger"
+        ],
+        "edmType": "TEXT",
+        "spatial": [
+          "MAK Wien, Wien"
+        ],
+        "subject": [
+          "Analysis",
+          "Anthropology der Künste",
+          "Geometrie",
+          "Medientheorie",
+          "Quantenphysik",
+          "Scientific Computing",
+          "artistic research",
+          "diskrete Mathematik",
+          "experimentelle Physik"
+        ],
+        "language": [
+          "en"
+        ],
+        "temporal": [
+          "2013"
+        ],
+        "identifier": [
+          "3AtmK6qGN3yJYSx8g4Ejix",
+          "pw_qc_9c3.pdf"
+        ],
+        "description": [
+          "QC&MAK; Out of the Box. 10 QUESTIONS ABOUT ARTISTIC RESEARCH at the Museum of Applied Arts Vienna (MAK)"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "f29baa45-73b2-4472-8943-d194ce2c67d8",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/MS9gssEFetHGic9mNYka8z/fJGzsr6eAqVQh3WfkaGMV4",
+    "content": {
+      "id": "https://id.kulturpool.at/f29baa45-73b2-4472-8943-d194ce2c67d8/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/fJGzsr6eAqVQh3WfkaGMV4/preview-1920.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/MS9gssEFetHGic9mNYka8z/media/fJGzsr6eAqVQh3WfkaGMV4",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000027482.TIF",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/f29baa45-73b2-4472-8943-d194ce2c67d8/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Studien zur Theorie der Automaten"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1974"
+        ],
+        "identifier": [
+          "ZKM000027482",
+          "fJGzsr6eAqVQh3WfkaGMV4"
+        ],
+        "description": [
+          "C. E. Shannon; J. McCarthy (Hrsg.): »Studien zur Theorie der Automaten«, 1974, Erw. Ausg. u. Übers. durch Franz Kaltenbeck u. Peter Weibel; mit Zeichn. von Dieter Roth"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "15834de0-6188-47d8-a16d-71890e16f7af",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/LJLn4RUqHYj8nUomfcEEaD/GBcHZ8WVFym7i8TUJjFzNB",
+    "content": {
+      "id": "https://id.kulturpool.at/15834de0-6188-47d8-a16d-71890e16f7af/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/GBcHZ8WVFym7i8TUJjFzNB/preview-1920.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/LJLn4RUqHYj8nUomfcEEaD/media/GBcHZ8WVFym7i8TUJjFzNB",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000027264.TIF",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/15834de0-6188-47d8-a16d-71890e16f7af/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Beobachtung der Beobachtung. Unbestimmtheit"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          "Künstlerhaus, Graz"
+        ],
+        "subject": [
+          "Closed-Circuit-Installation",
+          "Installation",
+          "Videokunst"
+        ],
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1973"
+        ],
+        "identifier": [
+          "GBcHZ8WVFym7i8TUJjFzNB",
+          "ZKM000027264"
+        ],
+        "description": [
+          "Peter Weibel, »Beobachtung der Beobachtung: Unbestimmtheit«, 1973, Closed-Circuit-Installation; 3 CRT Monitore, 3 Kameras, 3 Stative, 3 Metallrahmen, Bodenmarkierung, Objekt: 157, Ø 400 cm, Foto: Werner Schulz"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "d1c57765-555d-4675-9297-18ccfef8c971",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/Xsd9z96EVUay5Mgrur6EmJ/YMRPFY8RyeR88F9Yvu6vn6",
+    "content": {
+      "id": "https://id.kulturpool.at/d1c57765-555d-4675-9297-18ccfef8c971/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/YMRPFY8RyeR88F9Yvu6vn6/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/Xsd9z96EVUay5Mgrur6EmJ/media/YMRPFY8RyeR88F9Yvu6vn6",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000258549.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/d1c57765-555d-4675-9297-18ccfef8c971/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Digitale Doubles: Von der Kopie zum Klon"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "TEXT",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "1999"
+        ],
+        "identifier": [
+          "YMRPFY8RyeR88F9Yvu6vn6",
+          "ZKM000258549"
+        ],
+        "description": [
+          "Peter Weibel, »Digitale Doubles: Von der Kopie zum Klon«, in: Die klassische Kopie. Goethes zweites Gartenhaus., (Vernissage. Die Zeitschrift zur Ausstellung, Nr. 5), Vernissage-Verl., Heidelberg, 1999, S. 22–31."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "9dd35f78-af69-48c4-9ef4-cde6ca3d51a8",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/ZgxeRRuab3Ws8xLaHCGCXb/WQp6P9yHZWEjGV4W65yfs6",
+    "content": {
+      "id": "https://id.kulturpool.at/9dd35f78-af69-48c4-9ef4-cde6ca3d51a8/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/WQp6P9yHZWEjGV4W65yfs6/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/ZgxeRRuab3Ws8xLaHCGCXb/media/WQp6P9yHZWEjGV4W65yfs6",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000259146.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/9dd35f78-af69-48c4-9ef4-cde6ca3d51a8/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Wider das moderne Paradigma romantischer Entgrenzung und für eine neue Ethik im digitalen Zeitalter"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "TEXT",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "2019"
+        ],
+        "identifier": [
+          "WQp6P9yHZWEjGV4W65yfs6",
+          "ZKM000259146"
+        ],
+        "description": [
+          "Peter Weibel, »Wider das moderne Paradigma romantischer Entgrenzung und für eine neue Ethik im digitalen Zeitalter«, in: Hermes Andreas Kick, Manfred Oeming (Hg.), Grenzen und Entgrenzung. Ethische Orientierung in einer destabilisierten Welt, (Affekt - Emotion - Ethik, Bd. 18), LIT Verlag, Münster, 2019, S. 123–131."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "7a3550eb-a782-4bf4-9de5-9c64747598a7",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/8VQ8oXutELXxfunVBAjvkW/HDVKzD3cYCJkRTGzTqbznY",
+    "content": {
+      "id": "https://id.kulturpool.at/7a3550eb-a782-4bf4-9de5-9c64747598a7/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/HDVKzD3cYCJkRTGzTqbznY/preview-652.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/8VQ8oXutELXxfunVBAjvkW/media/HDVKzD3cYCJkRTGzTqbznY",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000027731.TIF",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/7a3550eb-a782-4bf4-9de5-9c64747598a7/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Tritität"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          "Videokunst",
+          "Videopoem"
+        ],
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1975"
+        ],
+        "identifier": [
+          "HDVKzD3cYCJkRTGzTqbznY",
+          "ZKM000027731"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "b87956b7-0b6b-46ab-8827-60f9e87fa4ed",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/RRPdRb2ng24t2DbA7FQEpg/TanskaHxhKJD2RNXx8cWp4",
+    "content": {
+      "id": "https://id.kulturpool.at/b87956b7-0b6b-46ab-8827-60f9e87fa4ed/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/TanskaHxhKJD2RNXx8cWp4/preview-652.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/RRPdRb2ng24t2DbA7FQEpg/media/TanskaHxhKJD2RNXx8cWp4",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000027684.TIF",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/b87956b7-0b6b-46ab-8827-60f9e87fa4ed/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Schrei/ben"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          "Performance",
+          "Videokunst"
+        ],
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1975"
+        ],
+        "identifier": [
+          "TanskaHxhKJD2RNXx8cWp4",
+          "ZKM000027684"
+        ],
+        "description": [
+          "Das deutsche Wort »schreiben« inkludiert die Worte »Schrei« und »reiben«."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "bae47c2b-2352-4f65-9866-67a9142adab8",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/MTn2MWm4KYB5EqpK9f9oAf/9EFwGGHqdV8wkgRgrmzLFn",
+    "content": {
+      "id": "https://id.kulturpool.at/bae47c2b-2352-4f65-9866-67a9142adab8/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/9EFwGGHqdV8wkgRgrmzLFn/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/MTn2MWm4KYB5EqpK9f9oAf/media/9EFwGGHqdV8wkgRgrmzLFn",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000258683.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/bae47c2b-2352-4f65-9866-67a9142adab8/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Franz Erhard Walther oder die performative Wende der Skulptur"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "TEXT",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "2014"
+        ],
+        "identifier": [
+          "9EFwGGHqdV8wkgRgrmzLFn",
+          "ZKM000258683"
+        ],
+        "description": [
+          "Peter Weibel, »Franz Erhard Walther oder die performative Wende der Skulptur«, in: Peter Weibel (Hg.), Franz Erhard Walther. Objekte, benutzen, Walther König, Köln, 2014, 2., aktualisierte und erw. Aufl., S. 5–18.\n\nInhalt: Die vorliegende Neuauflage des Buches beruht auf den Faksimiles der originalen Textzeichnungen von Franz Erhard Walther und nicht auf der typografischen Umsetzung der ersten Auflage. Die Wiederentdeckung dieser Originale im Archiv des Künstlers bot den Anlass, »Objekte, benutzen« erneut und um zahlreiche Materialien und Texte erweitert herauszugeben. Die Neuauflage kann insofern auch als ursprüngliche Ausgabe verstanden werden."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "5a9f0bdf-a053-4cba-86ff-5f761476b190",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/5pjscidaoywfF7KWZmzYs3/PDrAuXDTUEKhSDhFXz4hGB",
+    "content": {
+      "id": "https://id.kulturpool.at/5a9f0bdf-a053-4cba-86ff-5f761476b190/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/PDrAuXDTUEKhSDhFXz4hGB/cover-orig.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/5pjscidaoywfF7KWZmzYs3/media/PDrAuXDTUEKhSDhFXz4hGB",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/pw_qc_6e2.mp4",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/5a9f0bdf-a053-4cba-86ff-5f761476b190/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Quantum Cinema_Expert Talk: Gerard´t Hooft"
+        ],
+        "creator": [
+          "Gerard´t Hooft",
+          "Renate Quehenberger"
+        ],
+        "edmType": "VIDEO",
+        "spatial": [
+          "Genf"
+        ],
+        "subject": [
+          "Analysis",
+          "Anthropology der Künste",
+          "Geometrie",
+          "Medientheorie",
+          "Quantenphysik",
+          "Scientific Computing",
+          "artistic research",
+          "diskrete Mathematik",
+          "experimentelle Physik"
+        ],
+        "language": [
+          "en"
+        ],
+        "temporal": [
+          "2011"
+        ],
+        "identifier": [
+          "PDrAuXDTUEKhSDhFXz4hGB",
+          "pw_qc_6e2.mp4"
+        ],
+        "description": [
+          "Interview; Renate Quehenberger interviews the physicist and nobel laureate Gerard ‚t Hoo! about the expected conclusion concerning the high energy particle experiment at CERN’s LHC. Part II of the Expert Talk with Gerard`t Hooft."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "71f007e2-48d4-483c-84b6-fb542e75860e",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/68mxP7hQYBwDe7XPiWNoug/mt2CqG2GtaFqdXim2wS5ra",
+    "content": {
+      "id": "https://id.kulturpool.at/71f007e2-48d4-483c-84b6-fb542e75860e/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/mt2CqG2GtaFqdXim2wS5ra/preview-652.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/68mxP7hQYBwDe7XPiWNoug/media/mt2CqG2GtaFqdXim2wS5ra",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000027353.TIF",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/71f007e2-48d4-483c-84b6-fb542e75860e/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Selbstgespräch als Dialog"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          "Video"
+        ],
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1973"
+        ],
+        "identifier": [
+          "ZKM000027353",
+          "mt2CqG2GtaFqdXim2wS5ra"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "d77d1768-277e-40cd-846f-73133ca8339b",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/SZ6ig7cbh2uWexZhfASsU3/dHKpfxPYQnXzGbBGN22woU",
+    "content": {
+      "id": "https://id.kulturpool.at/d77d1768-277e-40cd-846f-73133ca8339b/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/dHKpfxPYQnXzGbBGN22woU/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/SZ6ig7cbh2uWexZhfASsU3/media/dHKpfxPYQnXzGbBGN22woU",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000259130.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/d77d1768-277e-40cd-846f-73133ca8339b/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Was kann ein Automat?"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "TEXT",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "2000"
+        ],
+        "identifier": [
+          "ZKM000259130",
+          "dHKpfxPYQnXzGbBGN22woU"
+        ],
+        "description": [
+          "Peter Weibel, »Was kann ein Automat?«, in: Olaf Arndt, Stefanie Peter, Dagmar Wünnenberg (Hg.), Hyperorganismen. Essays, Fotos, Sounds der Ausstellung ›Wissen‹, Internationalismus Verl., Hannover, 2000 [1973], S. 451."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "4bde3f43-d88c-4ce9-aa3a-a3374e84380f",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/2QNDgq5vcjzimgGKhuNSL2/Xna2XCWePWjhFQuTGd6inQ",
+    "content": {
+      "id": "https://id.kulturpool.at/4bde3f43-d88c-4ce9-aa3a-a3374e84380f/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/Xna2XCWePWjhFQuTGd6inQ/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/2QNDgq5vcjzimgGKhuNSL2/media/Xna2XCWePWjhFQuTGd6inQ",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000258730.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/4bde3f43-d88c-4ce9-aa3a-a3374e84380f/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Gestalten und Codieren"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "TEXT",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "2019"
+        ],
+        "identifier": [
+          "Xna2XCWePWjhFQuTGd6inQ",
+          "ZKM000258730"
+        ],
+        "description": [
+          "Peter Weibel, »Gestalten und Codieren«, in: Die ganze Welt ein Bauhaus, Hirmer Verlag, München, 2019, S. 175–180."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "c4f570e2-69f3-4efe-8cbd-7e0e766a9e67",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/kj7YvQkLXAv3cJiguf8NDQ/b8F4xWGjNDvKhVg6gn6T8Y",
+    "content": {
+      "id": "https://id.kulturpool.at/c4f570e2-69f3-4efe-8cbd-7e0e766a9e67/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/b8F4xWGjNDvKhVg6gn6T8Y/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/kj7YvQkLXAv3cJiguf8NDQ/media/b8F4xWGjNDvKhVg6gn6T8Y",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000258463.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/c4f570e2-69f3-4efe-8cbd-7e0e766a9e67/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Demokratie und der ›iconic turn‹"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "TEXT",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "language": [
+          "de",
+          "en"
+        ],
+        "temporal": [
+          "2013"
+        ],
+        "identifier": [
+          "ZKM000258463",
+          "b8F4xWGjNDvKhVg6gn6T8Y"
+        ],
+        "description": [
+          "Peter Weibel, »Demokratie und der ›iconic turn‹ [Democracy and the Iconic Turn]«, in: Maria Christine Holter, Barbara Höller (Hg.), Zeit(lose) Zeichen. Gegenwartskunst in Referenz zu Otto Neurath [Time(less) Signs. Contemporary Art in Reference to Otto Neurath], Kerber, Bielefeld, 2013, S. 165."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "a6ef4d26-5276-4b0b-a62e-a61ebf0dd567",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/CWDdPcorGbJJvY3gdHsiuo/5MAXvby5vpXWxhL2h9MMKp",
+    "content": {
+      "id": "https://id.kulturpool.at/a6ef4d26-5276-4b0b-a62e-a61ebf0dd567/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/5MAXvby5vpXWxhL2h9MMKp/preview-1920.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/CWDdPcorGbJJvY3gdHsiuo/media/5MAXvby5vpXWxhL2h9MMKp",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000027319.TIF",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/a6ef4d26-5276-4b0b-a62e-a61ebf0dd567/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Ph Schlchssfz"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1973"
+        ],
+        "identifier": [
+          "5MAXvby5vpXWxhL2h9MMKp",
+          "ZKM000027319"
+        ],
+        "description": [
+          "Aufnahme des Vortrags"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "ea580359-582f-46a6-b417-93e365a6d0f1",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/VcsFV8ZGWXPWknbAyu8E7W/NvDmXESWf8Yp7SgArugL3c",
+    "content": {
+      "id": "https://id.kulturpool.at/ea580359-582f-46a6-b417-93e365a6d0f1/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/NvDmXESWf8Yp7SgArugL3c/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/VcsFV8ZGWXPWknbAyu8E7W/media/NvDmXESWf8Yp7SgArugL3c",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/WI_Institutionskritik_2.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/ea580359-582f-46a6-b417-93e365a6d0f1/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Institutionskritik an Museen und Datenbanken in der post-\ndigitalen Wende"
+        ],
+        "creator": [
+          "Alisa Beck",
+          "Astrid Poyer",
+          "Charlotte Reuß",
+          "Dominik Hruza",
+          "Gürsoy Doğtaş",
+          "Marc-Paul Ibitz",
+          "Veronika Kocher"
+        ],
+        "edmType": "TEXT",
+        "spatial": [
+          "Universität für angewandte Kunst Wien, Wien"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "2022-05-12/2022-05-13"
+        ],
+        "identifier": [
+          "NvDmXESWf8Yp7SgArugL3c",
+          "WI_Institutionskritik_2.pdf"
+        ],
+        "description": [
+          "Symposium des Forschungsprojekts \"IMAGE+ Platform for Open Art Education\"; Vollständiges Programm und Biografien"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "caaf761c-1724-47fa-ac03-379d0d1f7f19",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/SLTTo5naj3GVHJZ88VzRcS/8nnajZ8VKz9Tupt4qMfyKs",
+    "content": {
+      "id": "https://id.kulturpool.at/caaf761c-1724-47fa-ac03-379d0d1f7f19/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/8nnajZ8VKz9Tupt4qMfyKs/preview-652.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/SLTTo5naj3GVHJZ88VzRcS/media/8nnajZ8VKz9Tupt4qMfyKs",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000026978.TIF",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/caaf761c-1724-47fa-ac03-379d0d1f7f19/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Drei Linien eine Reise"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          "Videokunst"
+        ],
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1971"
+        ],
+        "identifier": [
+          "8nnajZ8VKz9Tupt4qMfyKs",
+          "ZKM000026978"
+        ],
+        "description": [
+          "Die Linie auf einer Landkarte, die Linie in einem Zugwaggon, die imaginäre Linie auf den Schienen während einer Reise. 3 verschieden lange Linien in einem einzigen Zeitraum übereinander gelagert."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "28150884-1eac-44fb-a6dc-4bc68c3ba866",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/nGJJBZ7wuRAZW2tCQvnGCq/Yt9tWFfrZL8Eb7YrdgwWws",
+    "content": {
+      "id": "https://id.kulturpool.at/28150884-1eac-44fb-a6dc-4bc68c3ba866/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/Yt9tWFfrZL8Eb7YrdgwWws/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/nGJJBZ7wuRAZW2tCQvnGCq/media/Yt9tWFfrZL8Eb7YrdgwWws",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/WI_Tendencies_1.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/28150884-1eac-44fb-a6dc-4bc68c3ba866/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Tendencies: The Overview Effect"
+        ],
+        "creator": [
+          "Jerry Galle",
+          "Kris Verdonck",
+          "Marjolijn Dijkman",
+          "Mikkel Rørbo",
+          "Pierre Jean Giloux",
+          "Raphaël Stevens",
+          "SEAD collective"
+        ],
+        "edmType": "TEXT",
+        "spatial": [
+          "Bozar"
+        ],
+        "subject": [
+          "Artificial Intelligence",
+          "Digitale Kunst",
+          "Skulptur",
+          "Sound Art"
+        ],
+        "dcRights": [
+          "Mikkel Rørbo"
+        ],
+        "language": [
+          "en"
+        ],
+        "temporal": [
+          "2019-04-27/2019-06-09"
+        ],
+        "identifier": [
+          "WI_Tendencies_1.pdf",
+          "Yt9tWFfrZL8Eb7YrdgwWws"
+        ],
+        "description": [
+          "Ausstellung\n\nExhibition Announcement: The Overview Effect\nThe TENDENCIES exhibition focuses on works that question\nscientific and technological innovations as much as they\nincorporate them. For this fourth edition, it looks at our\nrelationship with possible futures, be they dystopian or utopian.\nSound and visual installations by six artists, Marjolijn Dijkman,\nJerry Galle, Mikkel Rørbo, Kris Verdonck, Pierre Jean Giloux, and\nthe SEAD collective, are brought together to provoke an\noverview effect, like that experienced by certain astronauts\nwhen they observe Earth from space and realise how fragile life\nis.\n\nWill artificial intelligence help all human beings to live together\non Earth intelligently or, on the contrary, will it reveal our own\nlimitations and those of our development strategy?\nTENDENCIES tries to find an answer…"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "b0deb4b1-1086-4fb7-b4b5-c2df62db4916",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/JtLPwPMjphqN4sCBi6L4Kp/nwdw7Y9WZzmzLLiFPEo2hE",
+    "content": {
+      "id": "https://id.kulturpool.at/b0deb4b1-1086-4fb7-b4b5-c2df62db4916/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/nwdw7Y9WZzmzLLiFPEo2hE/preview-1920.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/JtLPwPMjphqN4sCBi6L4Kp/media/nwdw7Y9WZzmzLLiFPEo2hE",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000024484.TIF",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/b0deb4b1-1086-4fb7-b4b5-c2df62db4916/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Split Medium Simultan"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          "Textaktion"
+        ],
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1974"
+        ],
+        "identifier": [
+          "ZKM000024484",
+          "nwdw7Y9WZzmzLLiFPEo2hE"
+        ],
+        "description": [
+          "Ein Text über das Problem der Gleichzeitigkeit wird gleichzeitig auf zwei Schreibmaschinen getippt. Die Tabulatur der Schreibmaschine ist ja in zwei Hälften geteilt. Die eine Hälfte für die linke Hand, die andere für die rechte Hand."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "c5eab20f-d3d5-4fb2-8fa8-734e2e3d92b3",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/nkr7sfweKZcN6qwNAuHZts/StoAzTWW7QjvsX6HtUG9Lq",
+    "content": {
+      "id": "https://id.kulturpool.at/c5eab20f-d3d5-4fb2-8fa8-734e2e3d92b3/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/StoAzTWW7QjvsX6HtUG9Lq/preview-1920.png",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/nkr7sfweKZcN6qwNAuHZts/media/StoAzTWW7QjvsX6HtUG9Lq",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000027965.TIF",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/c5eab20f-d3d5-4fb2-8fa8-734e2e3d92b3/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Lokales Fernsehen. Kabelfernsehen"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "temporal": [
+          "1976"
+        ],
+        "identifier": [
+          "StoAzTWW7QjvsX6HtUG9Lq",
+          "ZKM000027965"
+        ],
+        "description": [
+          "05.03.1976, Ifi-projekt"
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  },
+  {
+    "kp_id": "f06989d6-e0da-4473-a1f5-7dc3d9c7ff46",
+    "src_id": "https://base.uni-ak.ac.at/manage/item/a3TRbRdZnbabU4oddp83um/G5onoQhmz7DXGr4DTLaPhZ",
+    "content": {
+      "id": "https://id.kulturpool.at/f06989d6-e0da-4473-a1f5-7dc3d9c7ff46/aggregation",
+      "type": "Aggregation",
+      "object": "https://base.uni-ak.ac.at/manage/p/G5onoQhmz7DXGr4DTLaPhZ/preview.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://base.uni-ak.ac.at/recherche/a3TRbRdZnbabU4oddp83um/media/G5onoQhmz7DXGr4DTLaPhZ",
+      "isShownBy": {
+        "id": "https://base.uni-ak.ac.at/manage/p/ZKM000258881.pdf",
+        "type": "WebResource"
+      },
+      "dataProvider": "Universität für angewandte Kunst Wien",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/f06989d6-e0da-4473-a1f5-7dc3d9c7ff46/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Scopophilia – massenmediale Lust"
+        ],
+        "creator": [
+          "Peter Weibel"
+        ],
+        "edmType": "TEXT",
+        "dcRights": [
+          "Peter Weibel"
+        ],
+        "language": [
+          "de"
+        ],
+        "temporal": [
+          "2003"
+        ],
+        "identifier": [
+          "G5onoQhmz7DXGr4DTLaPhZ",
+          "ZKM000258881"
+        ],
+        "description": [
+          "Peter Weibel, »Scopophilia – massenmediale Lust«, in: Irmgard Bohunovsky-Bärnthaler (Hg.), Von der Lust am Zerstören und dem Glück der Wiederholung. Vortragsreihe von der Galerie Carinthia im Stift Ossiach vom 25. bis 27. Juli 2002, (Ritter Theorie), Ritter, Klagenfurt/Wien, 2003 [2002], S. 179–191."
+        ]
+      }
+    },
+    "institution_id": "die-angewandte",
+    "pipeline_id": "die-angewandte-base"
+  }
+]

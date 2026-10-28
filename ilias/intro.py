@@ -84,9 +84,12 @@ def write_first_records(archive: Path, member_name: str, limit: int = 3) -> Path
 
 
 def write_all_first_records(
-    archive: Path, limit: int = 3, target_dir: Path = FIRST_RECORDS_DIR
+    archive: Path, limit: int = 3, target_dir: Path = FIRST_RECORDS_DIR, skip: int = 0
 ) -> list[Path]:
-    """Die ersten Datensätze jedes Datensets in einem Durchlauf als {datenset}_first_records.json speichern."""
+    """Die ersten Datensätze jedes Datensets in einem Durchlauf als {datenset}_first_records.json speichern.
+
+    Mit skip werden zuerst so viele Datensätze übersprungen (z. B. skip=100, limit=100 für Datensatz 101-200).
+    """
     target_dir.mkdir(parents=True, exist_ok=True)
     targets = []
     with tarfile.open(archive, mode="r:gz") as tar:
@@ -99,10 +102,15 @@ def write_all_first_records(
                 continue
 
             first_records = []
+            seen = 0
             for raw_line in handle:
                 line = raw_line.decode("utf-8").strip()
-                if line:
-                    first_records.append(json.loads(line))
+                if not line:
+                    continue
+                seen += 1
+                if seen <= skip:
+                    continue
+                first_records.append(json.loads(line))
                 if len(first_records) >= limit:
                     break
 

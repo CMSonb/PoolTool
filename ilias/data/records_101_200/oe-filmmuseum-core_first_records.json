@@ -1,0 +1,830 @@
+[
+  {
+    "kp_id": "76b8c99e-e567-45e9-b616-e1704fc497b3",
+    "src_id": "1715782491652",
+    "content": {
+      "id": "https://id.kulturpool.at/76b8c99e-e567-45e9-b616-e1704fc497b3/aggregation",
+      "type": "Aggregation",
+      "object": "https://filmmuseum-archiv.jart.org:8443/jart/prj3/filmmuseum_archiv/resources/dbcon_def/uploads/kulturerbe/Feininger-In-Moskau_002_2024-07-23_2207982.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "dcRights": [
+        "Österreichisches Filmmuseum"
+      ],
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://data.filmmuseum.at/object/1715782491652",
+      "isShownBy": {
+        "id": "https://filmmuseum-archiv.jart.org:8443/jart/prj3/filmmuseum_archiv/resources/dbcon_def/uploads/kulturerbe/Feininger-In-Moskau_002_2024-07-23_2207982.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Österreichisches Filmmuseum",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/76b8c99e-e567-45e9-b616-e1704fc497b3/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Feininger in Moskau"
+        ],
+        "dcType": [
+          "Film"
+        ],
+        "created": [
+          "1991"
+        ],
+        "creator": [
+          "Gustav Deutsch"
+        ],
+        "edmType": "VIDEO",
+        "identifier": [
+          "0802-09-4083"
+        ],
+        "description": [
+          {
+            "@value": "Found Footage-Aufnahmen des kommunistischen Moskau. Das Material entfaltet durch Schäden und Doppelbelichtungen eine eigenartige Ästhetik, die an Gemälde von Lionel Feininger erinnert. (Text: Hanna Schimek/Anna Högner)",
+            "@language": "de"
+          },
+          {
+            "@value": "Found footage of communist Moscow. Through damage and double exposures, the material develops a peculiar aesthetic reminiscent of paintings by Lionel Feininger. (Text: Hanna Schimek/Anna Högner)",
+            "@language": "en"
+          }
+        ]
+      }
+    },
+    "institution_id": "oesterreichisches-filmmuseum",
+    "pipeline_id": "oe-filmmuseum-core"
+  },
+  {
+    "kp_id": "d06e5d2d-4396-41d5-a9b8-f1ffac201eeb",
+    "src_id": "1715782491648",
+    "content": {
+      "id": "https://id.kulturpool.at/d06e5d2d-4396-41d5-a9b8-f1ffac201eeb/aggregation",
+      "type": "Aggregation",
+      "object": "https://filmmuseum-archiv.jart.org:8443/jart/prj3/filmmuseum_archiv/resources/dbcon_def/uploads/kulturerbe/Delial_001_2024-07-23_2207442.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://data.filmmuseum.at/object/1715782491648",
+      "isShownBy": {
+        "id": "https://filmmuseum-archiv.jart.org:8443/jart/prj3/filmmuseum_archiv/resources/dbcon_def/uploads/kulturerbe/Delial_001_2024-07-23_2207442.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Österreichisches Filmmuseum",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/d06e5d2d-4396-41d5-a9b8-f1ffac201eeb/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Delial"
+        ],
+        "dcType": [
+          "Film"
+        ],
+        "creator": [
+          "Gustav Deutsch"
+        ],
+        "edmType": "VIDEO",
+        "identifier": [
+          "0802-09-4104"
+        ],
+        "description": [
+          {
+            "@value": "Geschnittenes Found Footage-Material, das mit großer Wahrscheinlichkeit nicht von Gustav Deutsch editiert wurde. Es handelt sich um Restmaterial, das er als \"Bits and Pieces\" und möglichen Ausgangspunkt für künstlerische Arbeiten aufgehoben hat, ohne es jemals in einer filmischen Arbeit zu verwenden. (Text: Hanna Schimek/Anna Högner)",
+            "@language": "de"
+          },
+          {
+            "@value": "Edited found footage that was very likely not edited by Gustav Deutsch. It is residual footage that he kept as \"bits and pieces\" and as a possible starting point for other artworks without ever using it in a film. (Text: Hanna Schimek/Anna Högner)",
+            "@language": "en"
+          }
+        ]
+      }
+    },
+    "institution_id": "oesterreichisches-filmmuseum",
+    "pipeline_id": "oe-filmmuseum-core"
+  },
+  {
+    "kp_id": "e7b3223f-c119-4eb2-8d65-9e8e231f070c",
+    "src_id": "1715782491650",
+    "content": {
+      "id": "https://id.kulturpool.at/e7b3223f-c119-4eb2-8d65-9e8e231f070c/aggregation",
+      "type": "Aggregation",
+      "object": "https://filmmuseum-archiv.jart.org:8443/jart/prj3/filmmuseum_archiv/resources/dbcon_def/uploads/kulturerbe/Exercises-au-Baguette_001_2024-07-23_2207678.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "dcRights": [
+        "Hanna Schimek"
+      ],
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://data.filmmuseum.at/object/1715782491650",
+      "isShownBy": {
+        "id": "https://filmmuseum-archiv.jart.org:8443/jart/prj3/filmmuseum_archiv/resources/dbcon_def/uploads/kulturerbe/Exercises-au-Baguette_001_2024-07-23_2207678.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Österreichisches Filmmuseum",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/e7b3223f-c119-4eb2-8d65-9e8e231f070c/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Exercises au Baguette"
+        ],
+        "dcType": [
+          "Film"
+        ],
+        "created": [
+          "1984"
+        ],
+        "creator": [
+          "Hanna Schimek"
+        ],
+        "edmType": "VIDEO",
+        "spatial": [
+          "Österreich"
+        ],
+        "identifier": [
+          "0802-09-4140"
+        ],
+        "description": [
+          {
+            "@value": "Der Film ist Teil einer Serie von 8mm-Filmen von Hanna Schimek, die sich mit der Körperlichkeit des Tanzens befasst. Die Kamera führte Gustav Deutsch. (Text: Hanna Schimek/Anna Högner)",
+            "@language": "de"
+          },
+          {
+            "@value": "This film is part of a series of 8mm films by Hanna Schimek dealing with the physicality of dance. The camera was operated by Gustav Deutsch. (Text: Hanna Schimek/Anna Högner)",
+            "@language": "en"
+          }
+        ]
+      }
+    },
+    "institution_id": "oesterreichisches-filmmuseum",
+    "pipeline_id": "oe-filmmuseum-core"
+  },
+  {
+    "kp_id": "aa5ce6f5-7a60-4b72-962f-e573d7426d51",
+    "src_id": "1715782491640",
+    "content": {
+      "id": "https://id.kulturpool.at/aa5ce6f5-7a60-4b72-962f-e573d7426d51/aggregation",
+      "type": "Aggregation",
+      "object": "https://filmmuseum-archiv.jart.org:8443/jart/prj3/filmmuseum_archiv/resources/dbcon_def/uploads/kulturerbe/Blaue-Kompressor_-Der_006_2024-07-23_2207452.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "dcRights": [
+        "Österreichisches Filmmuseum"
+      ],
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://data.filmmuseum.at/object/1715782491640",
+      "isShownBy": {
+        "id": "https://filmmuseum-archiv.jart.org:8443/jart/prj3/filmmuseum_archiv/resources/dbcon_def/uploads/kulturerbe/Blaue-Kompressor_-Der_006_2024-07-23_2207452.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Österreichisches Filmmuseum",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/aa5ce6f5-7a60-4b72-962f-e573d7426d51/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Der blaue Kompressor & das Geschenk des Jahrhunderts"
+        ],
+        "dcType": [
+          "Film"
+        ],
+        "created": [
+          "1988"
+        ],
+        "creator": [
+          "Gustav Deutsch"
+        ],
+        "edmType": "VIDEO",
+        "spatial": [
+          "Österreich"
+        ],
+        "identifier": [
+          "0802-09-3690"
+        ],
+        "description": [
+          {
+            "@value": "Rohmaterial von 1988 über die Arbeit der Gruppe \"Der Blaue Kompressor\" am Gartenprojekt \"Jardin de Wiltz\". Über dieses Projekt gibt es den Film – \"WOSSEA MTOTOM – Die Wiese ist grün im Garten von Wiltz\" von Gustav Deutsch, Gerda Lampalzer und Manfred Neuwirth. Teile des Materials zeigen einen Ausflug nach Paris. Zu sehen ist der Park beim Naturhistorischen Museum in Paris. (Text: Hanna Schimek/Anna Högner)",
+            "@language": "de"
+          },
+          {
+            "@value": "Raw material from 1988 about the work of the group Der Blaue Kompressor on the garden project Jardin de Wiltz. There is a film about this project – \"WOSSEA MTOTOM – The Meadow is Green In the Garden of Wiltz\" by Gustav Deutsch, Gerda Lampalzer and Manfred Neuwirth. Some of the footage shows an excursion to Paris. The scenes in the park were shot at the Natural History Museum in Paris. (Text: Hanna Schimek/Anna Högner)",
+            "@language": "en"
+          }
+        ]
+      }
+    },
+    "institution_id": "oesterreichisches-filmmuseum",
+    "pipeline_id": "oe-filmmuseum-core"
+  },
+  {
+    "kp_id": "6544ac82-7a21-4ba7-810b-dee4c00356cb",
+    "src_id": "1715782491628",
+    "content": {
+      "id": "https://id.kulturpool.at/6544ac82-7a21-4ba7-810b-dee4c00356cb/aggregation",
+      "type": "Aggregation",
+      "object": "https://filmmuseum-archiv.jart.org:8443/jart/prj3/filmmuseum_archiv/resources/dbcon_def/uploads/kulturerbe/Adria_005_2024-07-23_2207356.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "dcRights": [
+        "Österreichisches Filmmuseum"
+      ],
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://data.filmmuseum.at/object/1715782491628",
+      "isShownBy": {
+        "id": "https://filmmuseum-archiv.jart.org:8443/jart/prj3/filmmuseum_archiv/resources/dbcon_def/uploads/kulturerbe/Adria_005_2024-07-23_2207356.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Österreichisches Filmmuseum",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/6544ac82-7a21-4ba7-810b-dee4c00356cb/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Adria - Urlaubsfilme 1954-1968 (Film - Schule des Sehens I)"
+        ],
+        "dcType": [
+          "Film"
+        ],
+        "created": [
+          "1990"
+        ],
+        "creator": [
+          "Gustav Deutsch"
+        ],
+        "edmType": "VIDEO",
+        "spatial": [
+          "Österreich (1919-1937)"
+        ],
+        "identifier": [
+          "0004-07-0207"
+        ],
+        "description": [
+          {
+            "@value": "\"Adria\" ist eine künstlerische Analyse des Mediums Film, in seiner Bedeutung als \"Schule des Sehens\". Das Subjekt dieser Analyse ist das österreichische Hobby-, und Amateurfilmschaffen in seinen Anfängen, eingeschränkt auf Urlaubsfilme von der Adria. (Text: Gustav Deutsch)",
+            "@language": "de"
+          },
+          {
+            "@value": "\"Adria\" is an artistic analysis of film as a medium and of its meaning as \"School of Seeing\". The subjects of this analysis are the beginnings of Austrian hobby and amateur filmmaking, limited to vacation home movies shot at the Adriatic Sea. (Text: Gustav Deutsch)",
+            "@language": "en"
+          }
+        ]
+      }
+    },
+    "institution_id": "oesterreichisches-filmmuseum",
+    "pipeline_id": "oe-filmmuseum-core"
+  },
+  {
+    "kp_id": "e5a5d137-a1a6-4651-8e47-0e929e664bc6",
+    "src_id": "1715782491619",
+    "content": {
+      "id": "https://id.kulturpool.at/e5a5d137-a1a6-4651-8e47-0e929e664bc6/aggregation",
+      "type": "Aggregation",
+      "object": "https://filmmuseum-archiv.jart.org:8443/jart/prj3/filmmuseum_archiv/resources/dbcon_def/uploads/kulturerbe/Bademode_001_2024-07-23_2207600.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "dcRights": [
+        "Österreichisches Filmmuseum"
+      ],
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://data.filmmuseum.at/object/1715782491619",
+      "isShownBy": {
+        "id": "https://filmmuseum-archiv.jart.org:8443/jart/prj3/filmmuseum_archiv/resources/dbcon_def/uploads/kulturerbe/Bademode_001_2024-07-23_2207600.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Österreichisches Filmmuseum",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/e5a5d137-a1a6-4651-8e47-0e929e664bc6/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Bademode 1980/ die erste"
+        ],
+        "dcType": [
+          "Film"
+        ],
+        "created": [
+          "1980"
+        ],
+        "creator": [
+          "Gustav Deutsch"
+        ],
+        "edmType": "VIDEO",
+        "spatial": [
+          "Österreich"
+        ],
+        "identifier": [
+          "0002-09-1469"
+        ],
+        "description": [
+          {
+            "@value": "Found Footage, Wiederholung der immer gleichen Szenen mit zwei jungen Frauen bei der Vorführung von Bademode unter einer Dusche. Die Wiederholung ist ein wiederkehrendes Motiv in den filmischen und künstlerischen Arbeiten von Gustav Deutsch. (Text: Hanna Schimek/Anna Högner)",
+            "@language": "de"
+          },
+          {
+            "@value": "Found footage, a repetition of the same scenes with two young women presenting swimwear in a shower. Repetition is a recurring motif in Gustav Deutsch's cinematic and artistic works. (Text: Hanna Schimek/Anna Högner)",
+            "@language": "en"
+          }
+        ]
+      }
+    },
+    "institution_id": "oesterreichisches-filmmuseum",
+    "pipeline_id": "oe-filmmuseum-core"
+  },
+  {
+    "kp_id": "29efb5d5-71f9-4601-b927-f81b01519f09",
+    "src_id": "1715782491638",
+    "content": {
+      "id": "https://id.kulturpool.at/29efb5d5-71f9-4601-b927-f81b01519f09/aggregation",
+      "type": "Aggregation",
+      "object": "https://filmmuseum-archiv.jart.org:8443/jart/prj3/filmmuseum_archiv/resources/dbcon_def/uploads/kulturerbe/Auto-Film-Serie_005_2024-07-23_220794.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "dcRights": [
+        "Österreichisches Filmmuseum"
+      ],
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://data.filmmuseum.at/object/1715782491638",
+      "isShownBy": {
+        "id": "https://filmmuseum-archiv.jart.org:8443/jart/prj3/filmmuseum_archiv/resources/dbcon_def/uploads/kulturerbe/Auto-Film-Serie_005_2024-07-23_220794.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Österreichisches Filmmuseum",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/29efb5d5-71f9-4601-b927-f81b01519f09/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Auto Film Serie"
+        ],
+        "dcType": [
+          "Film"
+        ],
+        "creator": [
+          "Gustav Deutsch"
+        ],
+        "edmType": "VIDEO",
+        "spatial": [
+          "Luxemburg"
+        ],
+        "identifier": [
+          "0802-09-4118"
+        ],
+        "description": [
+          {
+            "@value": "8mm-Aufnahmen einer Autofahrt in Luxemburg. Es wird Kim Hogben, ein Mitglied der Gruppe \"Der Blaue Kompressor\", vom Bahnhof abgeholt. Gustav Deutsch und Hanna Schimek waren mit der Künstler*innengruppe in Luxemburg, wo sie mit Personen mit besonderen Bedürfnissen am Gartenprojekt \"Jardin de Wiltz\" arbeiteten. (Text: Hanna Schimek/Anna Högner)",
+            "@language": "de"
+          },
+          {
+            "@value": "8mm footage of a trip by car in Luxembourg. Kim Hogben, a member of the group Der Blaue Kompressor, is picked up from the train station. Gustav Deutsch and Hanna Schimek were with the group in Luxembourg, where they worked with people with special needs on the garden project Jardin de Wiltz. (Text: Hanna Schimek/Anna Högner)",
+            "@language": "en"
+          }
+        ]
+      }
+    },
+    "institution_id": "oesterreichisches-filmmuseum",
+    "pipeline_id": "oe-filmmuseum-core"
+  },
+  {
+    "kp_id": "d89c4da7-d3f3-4b34-8988-1aa2e16eef45",
+    "src_id": "1715782491642",
+    "content": {
+      "id": "https://id.kulturpool.at/d89c4da7-d3f3-4b34-8988-1aa2e16eef45/aggregation",
+      "type": "Aggregation",
+      "object": "https://filmmuseum-archiv.jart.org:8443/jart/prj3/filmmuseum_archiv/resources/dbcon_def/uploads/kulturerbe/Blaue-Zimmer_-Das_003_2024-07-23_2207609.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "dcRights": [
+        "Österreichisches Filmmuseum"
+      ],
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://data.filmmuseum.at/object/1715782491642",
+      "isShownBy": {
+        "id": "https://filmmuseum-archiv.jart.org:8443/jart/prj3/filmmuseum_archiv/resources/dbcon_def/uploads/kulturerbe/Blaue-Zimmer_-Das_003_2024-07-23_2207609.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Österreichisches Filmmuseum",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/d89c4da7-d3f3-4b34-8988-1aa2e16eef45/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Das blaue Zimmer - 48 Std."
+        ],
+        "dcType": [
+          "Film"
+        ],
+        "created": [
+          "1989"
+        ],
+        "creator": [
+          "Gustav Deutsch"
+        ],
+        "edmType": "VIDEO",
+        "spatial": [
+          "Österreich"
+        ],
+        "identifier": [
+          "0802-09-3691"
+        ],
+        "description": [
+          {
+            "@value": "Gustav Deutsch filmt sein Schlafzimmer 48 Stunden lang. Die 8mm-Kamera nimmt etwa alle 5 Minuten ein Bild auf. Es entsteht eine geraffte Aufnahme der vergehenden Zeit. (Text: Hanna Schimek/Anna Högner)",
+            "@language": "de"
+          },
+          {
+            "@value": "Gustav Deutsch filmed his bedroom over the course of 48 hours. His 8mm camera took a picture approximately every five minutes. The result is a condensed recording of the passing of time. (Text: Hanna Schimek/Anna Högner)",
+            "@language": "en"
+          }
+        ]
+      }
+    },
+    "institution_id": "oesterreichisches-filmmuseum",
+    "pipeline_id": "oe-filmmuseum-core"
+  },
+  {
+    "kp_id": "64270176-7a71-4b0f-8faa-c78645db735b",
+    "src_id": "1715782491630",
+    "content": {
+      "id": "https://id.kulturpool.at/64270176-7a71-4b0f-8faa-c78645db735b/aggregation",
+      "type": "Aggregation",
+      "object": "https://filmmuseum-archiv.jart.org:8443/jart/prj3/filmmuseum_archiv/resources/dbcon_def/uploads/kulturerbe/Alpengluehen_Doppelprojektion_02_2024-07-23_2207763.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "dcRights": [
+        "Österreichisches Filmmuseum"
+      ],
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://data.filmmuseum.at/object/1715782491630",
+      "isShownBy": {
+        "id": "https://filmmuseum-archiv.jart.org:8443/jart/prj3/filmmuseum_archiv/resources/dbcon_def/uploads/kulturerbe/Alpengluehen_Doppelprojektion_02_2024-07-23_2207763.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Österreichisches Filmmuseum",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/64270176-7a71-4b0f-8faa-c78645db735b/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Alpenglühen/ 10000 Watt"
+        ],
+        "dcType": [
+          "Film"
+        ],
+        "created": [
+          "1998"
+        ],
+        "creator": [
+          "Gustav Deutsch",
+          "Hanna Schimek"
+        ],
+        "edmType": "VIDEO",
+        "spatial": [
+          "Österreich"
+        ],
+        "identifier": [
+          "0802-09-4093"
+        ],
+        "description": [
+          {
+            "@value": "Mit zwei Super-8-Kameras werden in Zeitrafferaufnahmen vierundzwanzig Stunden der Lichtinstallation von Hanna Schimek und Gustav Deutsch aufgezeichnet. Die Installation und Aktion fand im Rahmen des ersten SilvrettAteliers Bielerhöhe, Vorarlberg, 26.8 - 27.8.1998 statt. Am Fuße der Staumauer des Silvretta Stausees wurden Scheinwerfer installiert und mit Rotfilter versehen. (Text: Gustav Deutsch/Hanna Schimek)",
+            "@language": "de"
+          },
+          {
+            "@value": "Twenty-four hours of Hanna Schimek and Gustav Deutsch's light installation were recorded as a time lapse using two Super 8 cameras. The installation and action took place as part of the first SilvrettAtelier Bielerhöhe in Vorarlberg, August 26-27, 1998. Spotlights with red filters were installed at the foot of the dam wall of the Silvretta reservoir. (Text: Gustav Deutsch/Hanna Schimek)",
+            "@language": "en"
+          }
+        ]
+      }
+    },
+    "institution_id": "oesterreichisches-filmmuseum",
+    "pipeline_id": "oe-filmmuseum-core"
+  },
+  {
+    "kp_id": "35c4929a-50e3-4447-874f-b4ea183e98d0",
+    "src_id": "1715782491585",
+    "content": {
+      "id": "https://id.kulturpool.at/35c4929a-50e3-4447-874f-b4ea183e98d0/aggregation",
+      "type": "Aggregation",
+      "object": "https://filmmuseum-archiv.jart.org:8443/jart/prj3/filmmuseum_archiv/resources/dbcon_def/uploads/kulturerbe/100-Steine-100-Schritte_Doppelprojektion_001_2024-07-23_2207342.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "dcRights": [
+        "Österreichisches Filmmuseum"
+      ],
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://data.filmmuseum.at/object/1715782491585",
+      "isShownBy": {
+        "id": "https://filmmuseum-archiv.jart.org:8443/jart/prj3/filmmuseum_archiv/resources/dbcon_def/uploads/kulturerbe/100-Steine-100-Schritte_Doppelprojektion_001_2024-07-23_2207342.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Österreichisches Filmmuseum",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/35c4929a-50e3-4447-874f-b4ea183e98d0/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "100 Steine/ 100 Schritte"
+        ],
+        "dcType": [
+          "Film"
+        ],
+        "created": [
+          "1988"
+        ],
+        "creator": [
+          "Gustav Deutsch",
+          "Hanna Schimek"
+        ],
+        "edmType": "VIDEO",
+        "spatial": [
+          "Marokko"
+        ],
+        "identifier": [
+          "0802-09-4097"
+        ],
+        "description": [
+          {
+            "@value": "Djebel Grouz, Figuig, Marokko. Hundert Steine, gesammelt und zu einem Haufen geschlichtet, wurden einer nach dem anderen eine gerade Strecke von hundert Schritten weit getragen, und am Endpunkt der Strecke zu einem neuen Haufen geschlichtet. Ein Weg entsteht im Gehen. (Text: Gustav Deutsch)\nDer Film zeigt den Künstler in behutsamer Interaktion mit der Landschaft. In der Tradition der Land Art erforscht Gustav Deutsch die Wüste um die Oase Figuig künstlerisch. Die Arbeit steht im Kontext des Werkzyklus \"Die Kunst der Reise\". (Text: Hanna Schimek/Anna Högner)",
+            "@language": "de"
+          },
+          {
+            "@value": "Djebel Grouz, Figuig, Morocco. One hundred stones, collected and piled up, were carried one by one over a straight distance of one hundred paces and then piled into a new heap at the end of the route. A path is created by walking. (Text: Gustav Deutsch)\nThe film shows the artist interacting carefully with the landscape. In the tradition of Land Art, Gustav Deutsch artistically explores the desert around the Figuig oasis. The work is part of the cycle \"The Art of the Journey\". (Text: Hanna Schimek/Anna Högner)",
+            "@language": "en"
+          }
+        ]
+      }
+    },
+    "institution_id": "oesterreichisches-filmmuseum",
+    "pipeline_id": "oe-filmmuseum-core"
+  },
+  {
+    "kp_id": "192e80b8-e29a-42b9-85f4-0f088d1605fd",
+    "src_id": "1715782491644",
+    "content": {
+      "id": "https://id.kulturpool.at/192e80b8-e29a-42b9-85f4-0f088d1605fd/aggregation",
+      "type": "Aggregation",
+      "object": "https://filmmuseum-archiv.jart.org:8443/jart/prj3/filmmuseum_archiv/resources/dbcon_def/uploads/kulturerbe/Bruxelles-Trip_-The_003_2024-07-23_2207749.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "dcRights": [
+        "Österreichisches Filmmuseum"
+      ],
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://data.filmmuseum.at/object/1715782491644",
+      "isShownBy": {
+        "id": "https://filmmuseum-archiv.jart.org:8443/jart/prj3/filmmuseum_archiv/resources/dbcon_def/uploads/kulturerbe/Bruxelles-Trip_-The_003_2024-07-23_2207749.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Österreichisches Filmmuseum",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/192e80b8-e29a-42b9-85f4-0f088d1605fd/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "The Bruxelles Trip"
+        ],
+        "dcType": [
+          "Film"
+        ],
+        "created": [
+          "1986"
+        ],
+        "creator": [
+          "Gustav Deutsch"
+        ],
+        "edmType": "VIDEO",
+        "spatial": [
+          "Belgien"
+        ],
+        "identifier": [
+          "0802-09-4103"
+        ],
+        "description": [
+          {
+            "@value": "Aufnahmen einer Reise von Mitgliedern der Künstler*innengruppe \"Der Blaue Kompressor\" von Wiltz (Luxemburg) nach Brüssel. Auf 8mm-Farbaufnahmen der Gruppe vor dem Hintergrund des Atomiums folgt eine Montage von abgefilmten Schwarzweiß-Dias einer gleichnamigen Dias Serie. Sie zeigen die vier Reisenden und das Atomium von Innen. (Text: Hanna Schimek/Anna Högner)",
+            "@language": "de"
+          },
+          {
+            "@value": "Footage of a journey by members of the artist group Der Blaue Kompressor from Wiltz (Luxembourg) to Brussels. 8mm color footage of the group against the backdrop of the Atomium is followed by a montage of filmed black-and-white slides from a slide series of the same name. They show the four travelers and the Atomium from the inside. (Text: Hanna Schimek/Anna Högner)",
+            "@language": "en"
+          }
+        ]
+      }
+    },
+    "institution_id": "oesterreichisches-filmmuseum",
+    "pipeline_id": "oe-filmmuseum-core"
+  },
+  {
+    "kp_id": "6240d819-f143-4a6d-992b-e981a5f16c3a",
+    "src_id": "1715782491622",
+    "content": {
+      "id": "https://id.kulturpool.at/6240d819-f143-4a6d-992b-e981a5f16c3a/aggregation",
+      "type": "Aggregation",
+      "object": "https://filmmuseum-archiv.jart.org:8443/jart/prj3/filmmuseum_archiv/resources/dbcon_def/uploads/kulturerbe/3-min-Ewigkeit_Dreifachprojektion_001_2024-07-24_1607149.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "dcRights": [
+        "Österreichisches Filmmuseum"
+      ],
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://data.filmmuseum.at/object/1715782491622",
+      "isShownBy": {
+        "id": "https://filmmuseum-archiv.jart.org:8443/jart/prj3/filmmuseum_archiv/resources/dbcon_def/uploads/kulturerbe/3-min-Ewigkeit_Dreifachprojektion_001_2024-07-24_1607149.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Österreichisches Filmmuseum",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/6240d819-f143-4a6d-992b-e981a5f16c3a/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "3 min aus der Ewigkeit / Feuer, Wasser, Nachtgewitter"
+        ],
+        "dcType": [
+          "Film"
+        ],
+        "created": [
+          "1986"
+        ],
+        "creator": [
+          "Gustav Deutsch"
+        ],
+        "edmType": "VIDEO",
+        "spatial": [
+          "Österreich"
+        ],
+        "identifier": [
+          "0802-09-4980"
+        ],
+        "description": [
+          {
+            "@value": "Teil des Filmisches Tryptichons \"3 min aus der Ewigkeit / Feuer, Wasser, Nachtgewitter\". Gustav Deutsch bezeichnet es als \"Beobachtung von Elementaren Geschehnissen (mit großem Symbolgehalt) ohne Möglichkeit zur Bestimmung von Ort und Zeit (Work in Progress)\". Die ursprünglich intendierte Vorführung der Arbeit ist nicht überliefert, für die digitale Version wurde in Rücksprache mit der künstlerischen Beraterin Hanna Schimek eine Dreifachprojektion erstellt. (Text: Hanna Schimek/Anna Högner)",
+            "@language": "de"
+          },
+          {
+            "@value": "Part of the cinematic triptych \"3 Min from Eternity/Fire, Water, Night Storm.\" Gustav Deutsch describes it as an \"observation of elementary events (with great symbolic meaning) without the possibility of determining time or place (work in progress).\" The originally intended presentation of the work has not survived. For the digital version, a triple projection was created in consultation with the artistic advisor Hanna Schimek. (Text: Hanna Schimek/Anna Högner)",
+            "@language": "en"
+          }
+        ]
+      }
+    },
+    "institution_id": "oesterreichisches-filmmuseum",
+    "pipeline_id": "oe-filmmuseum-core"
+  },
+  {
+    "kp_id": "2da5dd8b-b2b0-4ae4-b5d6-feb5c755d49b",
+    "src_id": "1715782491624",
+    "content": {
+      "id": "https://id.kulturpool.at/2da5dd8b-b2b0-4ae4-b5d6-feb5c755d49b/aggregation",
+      "type": "Aggregation",
+      "object": "https://filmmuseum-archiv.jart.org:8443/jart/prj3/filmmuseum_archiv/resources/dbcon_def/uploads/kulturerbe/Im-Drehen_004_2024-07-23_2207389.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "dcRights": [
+        "Österreichisches Filmmuseum"
+      ],
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://data.filmmuseum.at/object/1715782491624",
+      "isShownBy": {
+        "id": "https://filmmuseum-archiv.jart.org:8443/jart/prj3/filmmuseum_archiv/resources/dbcon_def/uploads/kulturerbe/Im-Drehen_004_2024-07-23_2207389.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Österreichisches Filmmuseum",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/2da5dd8b-b2b0-4ae4-b5d6-feb5c755d49b/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Im Drehen"
+        ],
+        "dcType": [
+          "Film"
+        ],
+        "created": [
+          "1988"
+        ],
+        "creator": [
+          "Gustav Deutsch"
+        ],
+        "edmType": "VIDEO",
+        "spatial": [
+          "Marokko"
+        ],
+        "identifier": [
+          "0802-09-4017"
+        ],
+        "description": [
+          {
+            "@value": "\"Tägliche Aufzeichnung des Horizonts, durch eine Drehung um 360° um die eigene Achse. Von 1.1.-31.1.1988 in der saharischen Oase Figuig.\" (Gustav Deutsch). Der Film wurde als Doppelprojektion mit dem Film \"Im Gehen\" konzipiert. Als Einzelwerk trug er später auch den Titel \"360° v.l.n.r. tägl. 1.1. - 31.1.1988\". Für die digitale Version wurde in Rücksprache mit der künstlerischen Beraterin Hanna Schimek eine digitale Collage mit dem Film \"Im Gehen\" erstellt. (Text: Hanna Schimek/Anna Högner)",
+            "@language": "de"
+          },
+          {
+            "@value": "\"Daily recording of the horizon, by rotating 360° on my own axis. From January 1-31, 1988 in the Saharan oasis of Figuig.\" (Gustav Deutsch). The film was conceived as a double projection with the film \"Im Gehen.\" As a single work, it was also known as \"360° v.l.n.r. tägl. 1.1. - 31.1.1988.\" For the digital version, a digital collage with the film \"Im Gehen\" was created in consultation with the artistic advisor Hanna Schimek. (Text: Hanna Schimek/Anna Högner)",
+            "@language": "en"
+          }
+        ]
+      }
+    },
+    "institution_id": "oesterreichisches-filmmuseum",
+    "pipeline_id": "oe-filmmuseum-core"
+  },
+  {
+    "kp_id": "16361120-7e86-4282-a0b2-ff7d20310851",
+    "src_id": "1715782491617",
+    "content": {
+      "id": "https://id.kulturpool.at/16361120-7e86-4282-a0b2-ff7d20310851/aggregation",
+      "type": "Aggregation",
+      "object": "https://filmmuseum-archiv.jart.org:8443/jart/prj3/filmmuseum_archiv/resources/dbcon_def/uploads/kulturerbe/Mariage-Blanc_002_2024-07-23_2207521.jpg",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "dcRights": [
+        "Österreichisches Filmmuseum"
+      ],
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://data.filmmuseum.at/object/1715782491617",
+      "isShownBy": {
+        "id": "https://filmmuseum-archiv.jart.org:8443/jart/prj3/filmmuseum_archiv/resources/dbcon_def/uploads/kulturerbe/Mariage-Blanc_002_2024-07-23_2207521.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Österreichisches Filmmuseum",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/16361120-7e86-4282-a0b2-ff7d20310851/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Mariage blanc"
+        ],
+        "dcType": [
+          "Film"
+        ],
+        "created": [
+          "1996"
+        ],
+        "creator": [
+          "Gustav Deutsch",
+          "Mostafa Tabbou"
+        ],
+        "edmType": "VIDEO",
+        "spatial": [
+          "Österreich"
+        ],
+        "identifier": [
+          "0002-09-0112 BKA"
+        ],
+        "description": [
+          {
+            "@value": "Der Film Mariage Blanc thematisiert diese sehr intime Form der versuchten Immigration und ist für Mostafa Tabbou Fiktion und Realität zugleich. Der Film wurde an drei Tagen im Juli 1996 im Hotel de Paris in Casablanca in Marokko aufgenommen. (Text: Gustav Deutsch)",
+            "@language": "de"
+          },
+          {
+            "@value": "The film \"Mariage Blanc\" deals with a very intimate form of attempted immigration and is both fiction and a reality for Mostafa Tabbou. The film was shot over three days in July 1996 at the Hotel de Paris in Casablanca, Morocco. (Text: Gustav Deutsch)",
+            "@language": "en"
+          }
+        ]
+      }
+    },
+    "institution_id": "oesterreichisches-filmmuseum",
+    "pipeline_id": "oe-filmmuseum-core"
+  }
+]

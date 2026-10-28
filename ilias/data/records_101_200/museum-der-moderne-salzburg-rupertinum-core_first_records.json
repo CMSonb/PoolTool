@@ -1,0 +1,6010 @@
+[
+  {
+    "kp_id": "6bca60d8-0279-4f47-abac-8ae10e4fcfc3",
+    "src_id": "objects-46807",
+    "content": {
+      "id": "https://id.kulturpool.at/6bca60d8-0279-4f47-abac-8ae10e4fcfc3/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/46807/nue-assise",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/76560",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/6bca60d8-0279-4f47-abac-8ae10e4fcfc3/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Nue assise"
+        ],
+        "dcType": [
+          "Druckgrafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500010480",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Laurens, Henri",
+                "@language": "en"
+              },
+              {
+                "@value": "Laurens, Henri",
+                "@language": "nl"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "© Bildrecht, Wien 2024",
+            "@language": "de"
+          },
+          {
+            "@value": "Gemeinfrei",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BG 25",
+          "46807"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "bf81c1db-3bae-4d41-abba-495d2b36e075",
+    "src_id": "objects-45702",
+    "content": {
+      "id": "https://id.kulturpool.at/bf81c1db-3bae-4d41-abba-495d2b36e075/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45702/der-bau-der-arche",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/95576",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/bf81c1db-3bae-4d41-abba-495d2b36e075/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Der Bau der Arche"
+        ],
+        "dcType": [
+          "Druckgrafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115384",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Corinth, Lovis",
+                "@language": "en"
+              },
+              {
+                "@value": "Corinth, Lovis",
+                "@language": "nl"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Gemeinfrei",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BA 4773_1-8_2",
+          "45702"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "7a4a9c72-c051-4bc6-91c1-9c55258f5a3d",
+    "src_id": "objects-45213",
+    "content": {
+      "id": "https://id.kulturpool.at/7a4a9c72-c051-4bc6-91c1-9c55258f5a3d/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45213/ein-tag-im-leben-des-malers-thony",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/49320",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/7a4a9c72-c051-4bc6-91c1-9c55258f5a3d/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Ein Tag im Leben des Malers Thöny"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_40_2",
+          "45213"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "a9c93430-7920-4c53-8cc3-ea465ddefa2e",
+    "src_id": "objects-46365",
+    "content": {
+      "id": "https://id.kulturpool.at/a9c93430-7920-4c53-8cc3-ea465ddefa2e/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/46365/scenes-bachiques",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/66651",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/a9c93430-7920-4c53-8cc3-ea465ddefa2e/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Scènes Bachiques"
+        ],
+        "dcType": [
+          "Druckgrafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500017659",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Traviès, Joseph",
+                "@language": "nl"
+              },
+              {
+                "@value": "Traviès de Villers, Charles Joseph",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Gemeinfrei",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BA 14707_1-2_2",
+          "46365"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "67d86b87-9461-41a1-9e41-090bc39c976b",
+    "src_id": "objects-45703",
+    "content": {
+      "id": "https://id.kulturpool.at/67d86b87-9461-41a1-9e41-090bc39c976b/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45703/die-flucht-in-die-arche",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/95097",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/67d86b87-9461-41a1-9e41-090bc39c976b/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Die Flucht in die Arche"
+        ],
+        "dcType": [
+          "Druckgrafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115384",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Corinth, Lovis",
+                "@language": "en"
+              },
+              {
+                "@value": "Corinth, Lovis",
+                "@language": "nl"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Gemeinfrei",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BA 4773_1-8_3",
+          "45703"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "3d109235-626f-4330-bb51-20d331a2b6b0",
+    "src_id": "objects-45625",
+    "content": {
+      "id": "https://id.kulturpool.at/3d109235-626f-4330-bb51-20d331a2b6b0/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45625/entwurfszeichnung-zum-buch-der-traume",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/49327",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/3d109235-626f-4330-bb51-20d331a2b6b0/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Entwurfszeichnung zum „Buch der Träume“"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 16716",
+          "45625"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "602bd0f1-a385-4201-8b46-b80664d006cb",
+    "src_id": "objects-45706",
+    "content": {
+      "id": "https://id.kulturpool.at/602bd0f1-a385-4201-8b46-b80664d006cb/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45706/die-wasser-fallen",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/95715",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/602bd0f1-a385-4201-8b46-b80664d006cb/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Die Wasser fallen"
+        ],
+        "dcType": [
+          "Druckgrafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115384",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Corinth, Lovis",
+                "@language": "en"
+              },
+              {
+                "@value": "Corinth, Lovis",
+                "@language": "nl"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Gemeinfrei",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BA 4773_1-8_6",
+          "45706"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "32470cb8-7e14-4634-8c65-47bda304396f",
+    "src_id": "objects-45285",
+    "content": {
+      "id": "https://id.kulturpool.at/32470cb8-7e14-4634-8c65-47bda304396f/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45285/ruhendes-bauernpaar",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/49633",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/32470cb8-7e14-4634-8c65-47bda304396f/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Ruhendes Bauernpaar"
+        ],
+        "dcType": [
+          "Druckgrafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500013940",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Barlach, Ernst",
+                "@language": "en"
+              },
+              {
+                "@value": "Barlach, Ernst",
+                "@language": "nl"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Gemeinfrei",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BA 12170_1-13_13",
+          "45285"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "32d1e10a-4bcf-410b-8d56-da6ddaecb342",
+    "src_id": "objects-45704",
+    "content": {
+      "id": "https://id.kulturpool.at/32d1e10a-4bcf-410b-8d56-da6ddaecb342/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45704/die-arche-mit-der-ladung",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/96513",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/32d1e10a-4bcf-410b-8d56-da6ddaecb342/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Die Arche mit der Ladung"
+        ],
+        "dcType": [
+          "Druckgrafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115384",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Corinth, Lovis",
+                "@language": "en"
+              },
+              {
+                "@value": "Corinth, Lovis",
+                "@language": "nl"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Gemeinfrei",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BA 4773_1-8_4",
+          "45704"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "0cc549ad-26e8-41f8-a96d-e01504af20ea",
+    "src_id": "objects-45282",
+    "content": {
+      "id": "https://id.kulturpool.at/0cc549ad-26e8-41f8-a96d-e01504af20ea/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45282/der-pope",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/49630",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/0cc549ad-26e8-41f8-a96d-e01504af20ea/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Der Pope"
+        ],
+        "dcType": [
+          "Druckgrafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500013940",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Barlach, Ernst",
+                "@language": "en"
+              },
+              {
+                "@value": "Barlach, Ernst",
+                "@language": "nl"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Gemeinfrei",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BA 12170_1-13_10",
+          "45282"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "c3a65ecb-ed6d-4697-a358-6e8803a2fa3b",
+    "src_id": "objects-45628",
+    "content": {
+      "id": "https://id.kulturpool.at/c3a65ecb-ed6d-4697-a358-6e8803a2fa3b/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45628/selbstportrat",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/49330",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/c3a65ecb-ed6d-4697-a358-6e8803a2fa3b/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Selbstporträt"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500491432",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Kalb, Edmund",
+                "@language": "nl"
+              },
+              {
+                "@value": "Kalb, Edmund",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BA 16719",
+          "45628"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "6ec2f7e7-ef30-4023-b07f-f66a27ae5fec",
+    "src_id": "objects-45279",
+    "content": {
+      "id": "https://id.kulturpool.at/6ec2f7e7-ef30-4023-b07f-f66a27ae5fec/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45279/drei-frauen-im-gesprach",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/49627",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/6ec2f7e7-ef30-4023-b07f-f66a27ae5fec/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Drei Frauen im Gespräch"
+        ],
+        "dcType": [
+          "Druckgrafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500013940",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Barlach, Ernst",
+                "@language": "en"
+              },
+              {
+                "@value": "Barlach, Ernst",
+                "@language": "nl"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Gemeinfrei",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BA 12170_1-13_7",
+          "45279"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "7f98756c-9181-4f39-8caf-c6e7e6fc5a83",
+    "src_id": "objects-45212",
+    "content": {
+      "id": "https://id.kulturpool.at/7f98756c-9181-4f39-8caf-c6e7e6fc5a83/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45212/briefzeichnung-die-thonys-gehen-auf-urlaub-nach-honfleur",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47938",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/7f98756c-9181-4f39-8caf-c6e7e6fc5a83/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Briefzeichnung (Die Thönys gehen auf Urlaub nach Honfleur)"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_62_2",
+          "45212"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "6836a70b-08c3-433a-b829-37070fe78f49",
+    "src_id": "objects-45214",
+    "content": {
+      "id": "https://id.kulturpool.at/6836a70b-08c3-433a-b829-37070fe78f49/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45214/ein-tagesablauf-der-thonys",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/49325",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/6836a70b-08c3-433a-b829-37070fe78f49/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Ein Tagesablauf der Thönys"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_60_2",
+          "45214"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "5e88c594-0190-46e9-a136-c5af3eed06f0",
+    "src_id": "objects-45276",
+    "content": {
+      "id": "https://id.kulturpool.at/5e88c594-0190-46e9-a136-c5af3eed06f0/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45276/frauengruppe",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/49624",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/5e88c594-0190-46e9-a136-c5af3eed06f0/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Frauengruppe"
+        ],
+        "dcType": [
+          "Druckgrafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500013940",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Barlach, Ernst",
+                "@language": "en"
+              },
+              {
+                "@value": "Barlach, Ernst",
+                "@language": "nl"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Gemeinfrei",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BA 12170_1-13_4",
+          "45276"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "8dcbe1c8-1b81-4f1e-b3c1-268e31a68478",
+    "src_id": "objects-45281",
+    "content": {
+      "id": "https://id.kulturpool.at/8dcbe1c8-1b81-4f1e-b3c1-268e31a68478/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45281/drei-ruhende-frauen",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/49629",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/8dcbe1c8-1b81-4f1e-b3c1-268e31a68478/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Drei ruhende Frauen"
+        ],
+        "dcType": [
+          "Druckgrafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500013940",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Barlach, Ernst",
+                "@language": "en"
+              },
+              {
+                "@value": "Barlach, Ernst",
+                "@language": "nl"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Gemeinfrei",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BA 12170_1-13_9",
+          "45281"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "f0c862ce-bcb3-45d9-a0ba-59a165ec34ba",
+    "src_id": "objects-45283",
+    "content": {
+      "id": "https://id.kulturpool.at/f0c862ce-bcb3-45d9-a0ba-59a165ec34ba/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45283/menschengruppe",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/49631",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/f0c862ce-bcb3-45d9-a0ba-59a165ec34ba/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Menschengruppe"
+        ],
+        "dcType": [
+          "Druckgrafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500013940",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Barlach, Ernst",
+                "@language": "en"
+              },
+              {
+                "@value": "Barlach, Ernst",
+                "@language": "nl"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Gemeinfrei",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BA 12170_1-13_11",
+          "45283"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "67e3b348-526b-475d-93e2-8f0f9a7ecf0e",
+    "src_id": "objects-45280",
+    "content": {
+      "id": "https://id.kulturpool.at/67e3b348-526b-475d-93e2-8f0f9a7ecf0e/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45280/zwei-russische-bauerinnen",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/49628",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/67e3b348-526b-475d-93e2-8f0f9a7ecf0e/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Zwei russische Bäuerinnen"
+        ],
+        "dcType": [
+          "Druckgrafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500013940",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Barlach, Ernst",
+                "@language": "en"
+              },
+              {
+                "@value": "Barlach, Ernst",
+                "@language": "nl"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Gemeinfrei",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BA 12170_1-13_8",
+          "45280"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "8bf10bad-0bad-49d1-9502-78feecc98053",
+    "src_id": "objects-45199",
+    "content": {
+      "id": "https://id.kulturpool.at/8bf10bad-0bad-49d1-9502-78feecc98053/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45199/ein-tagesablauf-der-thonys",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47944",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/8bf10bad-0bad-49d1-9502-78feecc98053/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Ein Tagesablauf der Thönys"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_60_1",
+          "45199"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "9e49f1ee-eada-412d-9b80-c928456235e8",
+    "src_id": "objects-45210",
+    "content": {
+      "id": "https://id.kulturpool.at/9e49f1ee-eada-412d-9b80-c928456235e8/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45210/picasso-im-freundeskreis-im-cafe-flora--aus-der-van-goghau",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/49323",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/9e49f1ee-eada-412d-9b80-c928456235e8/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Picasso im Freundeskreis im Café Flora / Aus der Van Gogh-Ausstellung"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_47_2",
+          "45210"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "04dbf08a-12d8-4356-888a-b3636dfdae10",
+    "src_id": "objects-45211",
+    "content": {
+      "id": "https://id.kulturpool.at/04dbf08a-12d8-4356-888a-b3636dfdae10/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45211/cecette",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/49324",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/04dbf08a-12d8-4356-888a-b3636dfdae10/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Cecette"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_50_2",
+          "45211"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "11565517-fb57-4ff7-94e0-5b4357682b64",
+    "src_id": "objects-45275",
+    "content": {
+      "id": "https://id.kulturpool.at/11565517-fb57-4ff7-94e0-5b4357682b64/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45275/ruhende-steppe",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/49623",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/11565517-fb57-4ff7-94e0-5b4357682b64/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Ruhende Steppe"
+        ],
+        "dcType": [
+          "Druckgrafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500013940",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Barlach, Ernst",
+                "@language": "en"
+              },
+              {
+                "@value": "Barlach, Ernst",
+                "@language": "nl"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Gemeinfrei",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BA 12170_1-13_3",
+          "45275"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "bde42ff0-9cbf-40fe-a9bc-0b8739cfaea4",
+    "src_id": "objects-45277",
+    "content": {
+      "id": "https://id.kulturpool.at/bde42ff0-9cbf-40fe-a9bc-0b8739cfaea4/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45277/auf-der-strae",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/49625",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/bde42ff0-9cbf-40fe-a9bc-0b8739cfaea4/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Auf der Straße"
+        ],
+        "dcType": [
+          "Druckgrafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500013940",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Barlach, Ernst",
+                "@language": "en"
+              },
+              {
+                "@value": "Barlach, Ernst",
+                "@language": "nl"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Gemeinfrei",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BA 12170_1-13_5",
+          "45277"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "8890e2ba-6e5b-4478-8a72-0e690c75d3af",
+    "src_id": "objects-45278",
+    "content": {
+      "id": "https://id.kulturpool.at/8890e2ba-6e5b-4478-8a72-0e690c75d3af/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45278/bauernwagelchen",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/49626",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/8890e2ba-6e5b-4478-8a72-0e690c75d3af/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Bauernwägelchen"
+        ],
+        "dcType": [
+          "Druckgrafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500013940",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Barlach, Ernst",
+                "@language": "en"
+              },
+              {
+                "@value": "Barlach, Ernst",
+                "@language": "nl"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Gemeinfrei",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BA 12170_1-13_6",
+          "45278"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "dc21c888-0b6d-4376-922a-71f36bdd39bf",
+    "src_id": "objects-45204",
+    "content": {
+      "id": "https://id.kulturpool.at/dc21c888-0b6d-4376-922a-71f36bdd39bf/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45204/thonys-gemalde-kardinal-jean-verdier-im-jeu-de-paume",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47940",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/dc21c888-0b6d-4376-922a-71f36bdd39bf/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Thönys Gemälde \"Kardinal Jean Verdier\" im Jeu de Paume"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_65",
+          "45204"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "b81eecc1-5ed0-4657-81f5-6a959315e93b",
+    "src_id": "objects-45194",
+    "content": {
+      "id": "https://id.kulturpool.at/b81eecc1-5ed0-4657-81f5-6a959315e93b/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45194/aussicht-von-meinem-fenster-sudfranzosische-landschaft",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47933",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/b81eecc1-5ed0-4657-81f5-6a959315e93b/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Aussicht von meinem Fenster (Südfranzösische Landschaft)"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_55",
+          "45194"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "57a29373-fca1-42c0-ba23-cadf2a7a2324",
+    "src_id": "objects-45207",
+    "content": {
+      "id": "https://id.kulturpool.at/57a29373-fca1-42c0-ba23-cadf2a7a2324/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45207/thony-auf-der-weltausstellung",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/48220",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/57a29373-fca1-42c0-ba23-cadf2a7a2324/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Thöny auf der Weltausstellung"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_43_2",
+          "45207"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "c718e8bb-b47d-4be1-afc2-2daf1df5e622",
+    "src_id": "objects-45209",
+    "content": {
+      "id": "https://id.kulturpool.at/c718e8bb-b47d-4be1-afc2-2daf1df5e622/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45209/bildskizze-zum-gemalde-zwischenakt",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/49392",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/c718e8bb-b47d-4be1-afc2-2daf1df5e622/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Bildskizze zum Gemälde \"Zwischenakt\""
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_46_2",
+          "45209"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "23faec7a-1acb-4a1c-8709-91c9e74c1089",
+    "src_id": "objects-45206",
+    "content": {
+      "id": "https://id.kulturpool.at/23faec7a-1acb-4a1c-8709-91c9e74c1089/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45206/this-afternoon-washingtonsquare",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47941",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/23faec7a-1acb-4a1c-8709-91c9e74c1089/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "This Afternoon, Washington-Square"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_67",
+          "45206"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "0f7a0fc1-ebd1-4e43-9a6c-51b7922606d6",
+    "src_id": "objects-45166",
+    "content": {
+      "id": "https://id.kulturpool.at/0f7a0fc1-ebd1-4e43-9a6c-51b7922606d6/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45166/stalin",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47905",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/0f7a0fc1-ebd1-4e43-9a6c-51b7922606d6/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Stalin"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_27",
+          "45166"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "4a638b58-9ab5-4159-9b16-267193df8bca",
+    "src_id": "objects-45188",
+    "content": {
+      "id": "https://id.kulturpool.at/4a638b58-9ab5-4159-9b16-267193df8bca/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45188/gelage",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47927",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/4a638b58-9ab5-4159-9b16-267193df8bca/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Gelage"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_49",
+          "45188"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "e9d42641-e4df-4a18-b0f1-5394c67d4663",
+    "src_id": "objects-45196",
+    "content": {
+      "id": "https://id.kulturpool.at/e9d42641-e4df-4a18-b0f1-5394c67d4663/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45196/die-welt-stimmt-nicht--ah-une-bonne-idee--die-welt-s",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47935",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/e9d42641-e4df-4a18-b0f1-5394c67d4663/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Die Welt stimmt nicht ... Ah! Une Bonne Idee! ... Die Welt stimmt wieder!"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_57",
+          "45196"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "2b7a50d9-ae32-4677-82f5-79ba66f6f594",
+    "src_id": "objects-45198",
+    "content": {
+      "id": "https://id.kulturpool.at/2b7a50d9-ae32-4677-82f5-79ba66f6f594/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45198/bon-voyage",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/48219",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/2b7a50d9-ae32-4677-82f5-79ba66f6f594/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Bon Voyage"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_59",
+          "45198"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "fea174f2-06b7-4406-9cb6-c80e9256c090",
+    "src_id": "objects-45203",
+    "content": {
+      "id": "https://id.kulturpool.at/fea174f2-06b7-4406-9cb6-c80e9256c090/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45203/wieder-bei-miss-paris",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47939",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/fea174f2-06b7-4406-9cb6-c80e9256c090/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Wieder bei Miss Paris"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_64",
+          "45203"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "04a117c6-b213-452c-aea7-d795ff2f831e",
+    "src_id": "objects-45208",
+    "content": {
+      "id": "https://id.kulturpool.at/04a117c6-b213-452c-aea7-d795ff2f831e/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45208/ein-tag-aus-den-letzten-wochen",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/49321",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/04a117c6-b213-452c-aea7-d795ff2f831e/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Ein Tag aus den letzten Wochen"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_44_2",
+          "45208"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "669eb699-b9da-4171-ad31-515f507a8011",
+    "src_id": "objects-45190",
+    "content": {
+      "id": "https://id.kulturpool.at/669eb699-b9da-4171-ad31-515f507a8011/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45190/new-york-straenszene-mit-weiblicher-figur",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47929",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/669eb699-b9da-4171-ad31-515f507a8011/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "New York, Straßenszene mit weiblicher Figur"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_51",
+          "45190"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "ee838999-3a69-4618-b9c4-97f60fa7689f",
+    "src_id": "objects-45201",
+    "content": {
+      "id": "https://id.kulturpool.at/ee838999-3a69-4618-b9c4-97f60fa7689f/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45201/briefzeichnung",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/48218",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/ee838999-3a69-4618-b9c4-97f60fa7689f/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Briefzeichnung"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_62_1",
+          "45201"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "095ba88f-7a63-4265-840e-623333d055dd",
+    "src_id": "objects-45189",
+    "content": {
+      "id": "https://id.kulturpool.at/095ba88f-7a63-4265-840e-623333d055dd/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45189/mlle-sphinx",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47928",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/095ba88f-7a63-4265-840e-623333d055dd/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Mlle. Sphinx"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_50_1",
+          "45189"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "fc7e0d9c-602f-4a5b-9bec-413a09582c6a",
+    "src_id": "objects-45197",
+    "content": {
+      "id": "https://id.kulturpool.at/fc7e0d9c-602f-4a5b-9bec-413a09582c6a/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45197/kardinal-verdier-in-der-ausstellung",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47936",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/fc7e0d9c-602f-4a5b-9bec-413a09582c6a/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Kardinal Verdier in der Ausstellung"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_58",
+          "45197"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "0e0676bf-c1eb-4257-b790-f44b07b11118",
+    "src_id": "objects-45174",
+    "content": {
+      "id": "https://id.kulturpool.at/0e0676bf-c1eb-4257-b790-f44b07b11118/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45174/die-streikenden-spielen-theater--straenbild-streikbeobach",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47913",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/0e0676bf-c1eb-4257-b790-f44b07b11118/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Die Streikenden spielen Theater / Straßenbild (Streikbeobachtung)"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_35",
+          "45174"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "d3367a0f-25a4-4cb7-8a0c-2d7002eb5220",
+    "src_id": "objects-45184",
+    "content": {
+      "id": "https://id.kulturpool.at/d3367a0f-25a4-4cb7-8a0c-2d7002eb5220/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45184/thony-und-thea-im-erzbischoflichen-palais",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47923",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/d3367a0f-25a4-4cb7-8a0c-2d7002eb5220/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Thöny und Thea im Erzbischöflichen Palais"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_45",
+          "45184"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "469808c7-f648-47dd-8a51-5ac870f9ce68",
+    "src_id": "objects-45185",
+    "content": {
+      "id": "https://id.kulturpool.at/469808c7-f648-47dd-8a51-5ac870f9ce68/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45185/bildskizze-zum-gemalde-paris-jardin-des-plantes",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47924",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/469808c7-f648-47dd-8a51-5ac870f9ce68/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Bildskizze zum Gemälde \"Paris, Jardin des Plantes\""
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_46_1",
+          "45185"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "55d78b0e-370c-4e09-890f-d9d7a1b10379",
+    "src_id": "objects-45192",
+    "content": {
+      "id": "https://id.kulturpool.at/55d78b0e-370c-4e09-890f-d9d7a1b10379/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45192/cecette-et-la-mouche",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47931",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/55d78b0e-370c-4e09-890f-d9d7a1b10379/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Cecette et la mouche"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_53",
+          "45192"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "e0d2588d-9050-4ec4-8d00-16419489dff6",
+    "src_id": "objects-45191",
+    "content": {
+      "id": "https://id.kulturpool.at/e0d2588d-9050-4ec4-8d00-16419489dff6/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45191/new-york-189th-street",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47930",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/e0d2588d-9050-4ec4-8d00-16419489dff6/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "New York, 189th street"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_52",
+          "45191"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "1eaa3bb1-3584-4715-8c6d-558fcf85016d",
+    "src_id": "objects-45195",
+    "content": {
+      "id": "https://id.kulturpool.at/1eaa3bb1-3584-4715-8c6d-558fcf85016d/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45195/der-alltag-in-sanarysurmer",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47934",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/1eaa3bb1-3584-4715-8c6d-558fcf85016d/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Der Alltag in Sanary-sur-Mer"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_56",
+          "45195"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "093d5360-d3c8-4761-a971-65dc51a7238d",
+    "src_id": "objects-45193",
+    "content": {
+      "id": "https://id.kulturpool.at/093d5360-d3c8-4761-a971-65dc51a7238d/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45193/cecette-liebt-die-frische-luft-auch",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47932",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/093d5360-d3c8-4761-a971-65dc51a7238d/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Cecette liebt die frische Luft auch"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_54",
+          "45193"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "257ae7d7-a338-4da9-9f4d-a4fb52c79fe4",
+    "src_id": "objects-45179",
+    "content": {
+      "id": "https://id.kulturpool.at/257ae7d7-a338-4da9-9f4d-a4fb52c79fe4/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45179/ein-tag-im-leben-des-malers-thony",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47943",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/257ae7d7-a338-4da9-9f4d-a4fb52c79fe4/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Ein Tag im Leben des Malers Thöny"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_40_1",
+          "45179"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "f68f2618-c2c5-4e7d-98d7-96ba122a5a6b",
+    "src_id": "objects-45175",
+    "content": {
+      "id": "https://id.kulturpool.at/f68f2618-c2c5-4e7d-98d7-96ba122a5a6b/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45175/synaya-pension",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47914",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/f68f2618-c2c5-4e7d-98d7-96ba122a5a6b/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Synaya Pension"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_36",
+          "45175"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "493640c8-8d83-4f1d-bd5a-bfe33612d291",
+    "src_id": "objects-45167",
+    "content": {
+      "id": "https://id.kulturpool.at/493640c8-8d83-4f1d-bd5a-bfe33612d291/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45167/fischmarkt",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47906",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/493640c8-8d83-4f1d-bd5a-bfe33612d291/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Fischmarkt"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_28",
+          "45167"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "90f482ab-274e-4816-ba1e-3471bd4a8c72",
+    "src_id": "objects-45182",
+    "content": {
+      "id": "https://id.kulturpool.at/90f482ab-274e-4816-ba1e-3471bd4a8c72/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45182/osterreichischer-abend-in-der-weltausstellung",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47921",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/90f482ab-274e-4816-ba1e-3471bd4a8c72/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Österreichischer Abend in der Weltausstellung"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_43_1",
+          "45182"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "dd898879-2e67-4510-b69b-178fd868cb45",
+    "src_id": "objects-45172",
+    "content": {
+      "id": "https://id.kulturpool.at/dd898879-2e67-4510-b69b-178fd868cb45/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45172/la-fayette-occupe--chambre-des-deputes-streikbeobachtung",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47911",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/dd898879-2e67-4510-b69b-178fd868cb45/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "La Fayette Occupe / Chambre des Deputes (Streikbeobachtung)"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_33",
+          "45172"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "f26271f4-f5c3-4c9f-b446-174c51bed19e",
+    "src_id": "objects-45183",
+    "content": {
+      "id": "https://id.kulturpool.at/f26271f4-f5c3-4c9f-b446-174c51bed19e/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45183/ein-tag-aus-den-letzten-wochen",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47922",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/f26271f4-f5c3-4c9f-b446-174c51bed19e/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Ein Tag aus den letzten Wochen"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_44_1",
+          "45183"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "0cbe29a3-82c5-4ade-83ce-4aac0e7fdffb",
+    "src_id": "objects-45186",
+    "content": {
+      "id": "https://id.kulturpool.at/0cbe29a3-82c5-4ade-83ce-4aac0e7fdffb/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45186/empfang-bei-kardinal-verdier--hitler-in-einer-munchner-auss",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47925",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/0cbe29a3-82c5-4ade-83ce-4aac0e7fdffb/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Empfang bei Kardinal Verdier / Hitler in einer Münchner Ausstellung"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_47_1",
+          "45186"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "37001dc5-326b-486c-adc6-fb668c8c05bd",
+    "src_id": "objects-45181",
+    "content": {
+      "id": "https://id.kulturpool.at/37001dc5-326b-486c-adc6-fb668c8c05bd/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45181/kriegserklarung-franz-josefs-i-an-die-welt-1914",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47920",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/37001dc5-326b-486c-adc6-fb668c8c05bd/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Kriegserklärung Franz Josefs I an die Welt 1914"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_42",
+          "45181"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "4d95ff67-8cba-4268-bf3a-63e564d97606",
+    "src_id": "objects-45180",
+    "content": {
+      "id": "https://id.kulturpool.at/4d95ff67-8cba-4268-bf3a-63e564d97606/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45180/besuch-des-erzbischofs-von-paris-kardinal-verdier-bei-mr-mme",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47919",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/4d95ff67-8cba-4268-bf3a-63e564d97606/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Besuch des Erzbischofs von Paris Kardinal Verdier bei Mr Mme. Prof. Thöny in Paris, 19. April 1937"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_41",
+          "45180"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "b80ed719-4692-4cb8-b365-e06c65d08f7f",
+    "src_id": "objects-45187",
+    "content": {
+      "id": "https://id.kulturpool.at/b80ed719-4692-4cb8-b365-e06c65d08f7f/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45187/raoul-dufy",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47926",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/b80ed719-4692-4cb8-b365-e06c65d08f7f/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Raoul Dufy"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_48",
+          "45187"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "f892be8c-a612-4f9f-a7f1-f8beebfe6cac",
+    "src_id": "objects-45165",
+    "content": {
+      "id": "https://id.kulturpool.at/f892be8c-a612-4f9f-a7f1-f8beebfe6cac/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45165/politische-allegorie",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47904",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/f892be8c-a612-4f9f-a7f1-f8beebfe6cac/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Politische Allegorie"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_26",
+          "45165"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "5031bf7a-1113-43fe-a8be-5cde6f7be279",
+    "src_id": "objects-45177",
+    "content": {
+      "id": "https://id.kulturpool.at/5031bf7a-1113-43fe-a8be-5cde6f7be279/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45177/adolf-hitler-und-seine-gefolgschaft",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47916",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/5031bf7a-1113-43fe-a8be-5cde6f7be279/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Adolf Hitler und seine Gefolgschaft"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_38",
+          "45177"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "88506e30-30fc-49e1-a40b-03f721eb3bad",
+    "src_id": "objects-45176",
+    "content": {
+      "id": "https://id.kulturpool.at/88506e30-30fc-49e1-a40b-03f721eb3bad/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45176/der-kunstler-inmitten-seiner-verpflichtungen",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47915",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/88506e30-30fc-49e1-a40b-03f721eb3bad/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Der Künstler inmitten seiner Verpflichtungen"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_37",
+          "45176"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "62c69d4f-babe-46b6-839f-62fc41563190",
+    "src_id": "objects-45169",
+    "content": {
+      "id": "https://id.kulturpool.at/62c69d4f-babe-46b6-839f-62fc41563190/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45169/gratz",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47908",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/62c69d4f-babe-46b6-839f-62fc41563190/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Gratz"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_30",
+          "45169"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "55d33ae5-45cc-4206-a1eb-821c09773db3",
+    "src_id": "objects-45178",
+    "content": {
+      "id": "https://id.kulturpool.at/55d33ae5-45cc-4206-a1eb-821c09773db3/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45178/kurt-et-florence--billux-eva--hilde-u-w--die-2-pariser",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47917",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/55d33ae5-45cc-4206-a1eb-821c09773db3/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Kurt et Florence - Billux, Eva - Hilde u. W. - die 2 Pariser - und der Vater malt"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_39",
+          "45178"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "826cbdcc-f4d9-4812-a3bc-3e12c90daf9a",
+    "src_id": "objects-45170",
+    "content": {
+      "id": "https://id.kulturpool.at/826cbdcc-f4d9-4812-a3bc-3e12c90daf9a/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45170/1914--1934-offizier",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47909",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/826cbdcc-f4d9-4812-a3bc-3e12c90daf9a/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "1914 / 1934 (Offizier)"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_31",
+          "45170"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "889892c4-1658-447e-b428-13077ba8933e",
+    "src_id": "objects-45168",
+    "content": {
+      "id": "https://id.kulturpool.at/889892c4-1658-447e-b428-13077ba8933e/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45168/paris",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47907",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/889892c4-1658-447e-b428-13077ba8933e/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Paris"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_29",
+          "45168"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "39d05b8b-b8dc-4109-9257-cfb867c89ba5",
+    "src_id": "objects-45161",
+    "content": {
+      "id": "https://id.kulturpool.at/39d05b8b-b8dc-4109-9257-cfb867c89ba5/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45161/hafen-von-toulon",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47900",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/39d05b8b-b8dc-4109-9257-cfb867c89ba5/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Hafen von Toulon"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_22",
+          "45161"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "340d9190-2e01-45ce-9bb6-92b7b04f2d03",
+    "src_id": "objects-45171",
+    "content": {
+      "id": "https://id.kulturpool.at/340d9190-2e01-45ce-9bb6-92b7b04f2d03/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45171/figuren-im-garten-des-klosters-saintpauldemausole-in-sain",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47910",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/340d9190-2e01-45ce-9bb6-92b7b04f2d03/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Figuren im Garten des Klosters Saint-Paul-de-Mausole in Saint-Rémy-de-Provence"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_32",
+          "45171"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "2fdecafb-1f02-4f0d-84f6-2850006beca0",
+    "src_id": "objects-45173",
+    "content": {
+      "id": "https://id.kulturpool.at/2fdecafb-1f02-4f0d-84f6-2850006beca0/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45173/blick-aus-thonys-fenster-in-sanarysurmer",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47912",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/2fdecafb-1f02-4f0d-84f6-2850006beca0/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Blick aus Thönys Fenster in Sanary-sur-Mer"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_34",
+          "45173"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "cc6c4683-804e-4662-b023-6e5ac5a4feeb",
+    "src_id": "objects-45157",
+    "content": {
+      "id": "https://id.kulturpool.at/cc6c4683-804e-4662-b023-6e5ac5a4feeb/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45157/picasso",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47896",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/cc6c4683-804e-4662-b023-6e5ac5a4feeb/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Picasso"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_18",
+          "45157"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "cc92bfed-ef0e-44b3-ad69-8406cd7f81b7",
+    "src_id": "objects-45163",
+    "content": {
+      "id": "https://id.kulturpool.at/cc92bfed-ef0e-44b3-ad69-8406cd7f81b7/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45163/la-restauration-monarchique-en-allemagne",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47902",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/cc92bfed-ef0e-44b3-ad69-8406cd7f81b7/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "La Restauration Monarchique en Allemagne"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_24",
+          "45163"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "c06f2f3b-2db3-4c6e-8916-098121d66abe",
+    "src_id": "objects-45164",
+    "content": {
+      "id": "https://id.kulturpool.at/c06f2f3b-2db3-4c6e-8916-098121d66abe/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45164/die-ix-symphonie-und-das-gleichzeitige",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47903",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/c06f2f3b-2db3-4c6e-8916-098121d66abe/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Die IX. Symphonie und das Gleichzeitige"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_25",
+          "45164"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "82bb40f5-9f98-4940-95d9-f79c348569be",
+    "src_id": "objects-45162",
+    "content": {
+      "id": "https://id.kulturpool.at/82bb40f5-9f98-4940-95d9-f79c348569be/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45162/madrid",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47901",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/82bb40f5-9f98-4940-95d9-f79c348569be/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Madrid"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_23",
+          "45162"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "0396c2d4-a10e-4a98-af96-de18c7c7b7bc",
+    "src_id": "objects-44212",
+    "content": {
+      "id": "https://id.kulturpool.at/0396c2d4-a10e-4a98-af96-de18c7c7b7bc/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/44212/illustration-zu-august-strindberg-der-vater-zwischen-seite",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/49190",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/0396c2d4-a10e-4a98-af96-de18c7c7b7bc/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Illustration zu August Strindberg „Der Vater“ zwischen Seite 26 und 27"
+        ],
+        "dcType": [
+          "Druckgrafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500354397",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Schinnerer, Adolf Ferdinand",
+                "@language": "nl"
+              },
+              {
+                "@value": "Schinnerer, Adolf Ferdinand",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Hubert Auer",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BA 12786_1-12_4",
+          "44212"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "e7bcbf37-3d20-4294-ad95-f61adef50fbf",
+    "src_id": "objects-45153",
+    "content": {
+      "id": "https://id.kulturpool.at/e7bcbf37-3d20-4294-ad95-f61adef50fbf/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45153/evas-hausel",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47892",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/e7bcbf37-3d20-4294-ad95-f61adef50fbf/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Evas Häusel"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_14",
+          "45153"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "3e0cd306-6796-4eb5-8a52-823ff10e1017",
+    "src_id": "objects-45156",
+    "content": {
+      "id": "https://id.kulturpool.at/3e0cd306-6796-4eb5-8a52-823ff10e1017/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45156/pygmalion",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47895",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/3e0cd306-6796-4eb5-8a52-823ff10e1017/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Pygmalion"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_17",
+          "45156"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "4b870675-965b-486f-9556-eef76736471a",
+    "src_id": "objects-45146",
+    "content": {
+      "id": "https://id.kulturpool.at/4b870675-965b-486f-9556-eef76736471a/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45146/mussolini-und-thony",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47885",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/4b870675-965b-486f-9556-eef76736471a/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Mussolini und Thöny"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_7",
+          "45146"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "4e667e44-9aeb-4ab6-9c03-715468dfb1e7",
+    "src_id": "objects-44219",
+    "content": {
+      "id": "https://id.kulturpool.at/4e667e44-9aeb-4ab6-9c03-715468dfb1e7/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/44219/illustration-zu-august-strindberg-der-vater-zwischen-seite",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/49197",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/4e667e44-9aeb-4ab6-9c03-715468dfb1e7/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Illustration zu August Strindberg „Der Vater“ zwischen Seite 60 und 61"
+        ],
+        "dcType": [
+          "Druckgrafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500354397",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Schinnerer, Adolf Ferdinand",
+                "@language": "nl"
+              },
+              {
+                "@value": "Schinnerer, Adolf Ferdinand",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Hubert Auer",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BA 12786_1-12_11",
+          "44219"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "08612202-3773-46b1-8a39-1205f1079483",
+    "src_id": "objects-44213",
+    "content": {
+      "id": "https://id.kulturpool.at/08612202-3773-46b1-8a39-1205f1079483/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/44213/illustration-zu-august-strindberg-der-vater-zwischen-seite",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/49191",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/08612202-3773-46b1-8a39-1205f1079483/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Illustration zu August Strindberg „Der Vater“ zwischen Seite 34 und 35"
+        ],
+        "dcType": [
+          "Druckgrafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500354397",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Schinnerer, Adolf Ferdinand",
+                "@language": "nl"
+              },
+              {
+                "@value": "Schinnerer, Adolf Ferdinand",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Hubert Auer",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BA 12786_1-12_5",
+          "44213"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "f93d73e5-106c-4846-872c-cb9a1434a412",
+    "src_id": "objects-45154",
+    "content": {
+      "id": "https://id.kulturpool.at/f93d73e5-106c-4846-872c-cb9a1434a412/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45154/afrique--la-future-de-leurope",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47893",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/f93d73e5-106c-4846-872c-cb9a1434a412/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Afrique - La Future de l'Europe"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_15",
+          "45154"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "266c8efd-4401-4a69-9cbc-bb2472cc00cd",
+    "src_id": "objects-45152",
+    "content": {
+      "id": "https://id.kulturpool.at/266c8efd-4401-4a69-9cbc-bb2472cc00cd/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45152/ludwig-marcuse-julius-meiergraefe-erich-klossowski-und-li",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47891",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/266c8efd-4401-4a69-9cbc-bb2472cc00cd/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Ludwig Marcuse, Julius Meier-Graefe, Erich Klossowski und Lion Feuchtwanger im Café Lyon"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_13",
+          "45152"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "9dbcb545-c539-4105-aa29-3b052bfaccf9",
+    "src_id": "objects-45155",
+    "content": {
+      "id": "https://id.kulturpool.at/9dbcb545-c539-4105-aa29-3b052bfaccf9/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45155/hafen-von-toulon",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47894",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/9dbcb545-c539-4105-aa29-3b052bfaccf9/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Hafen von Toulon"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_16",
+          "45155"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "161197b3-45f1-4ee9-9787-092dfd59aa85",
+    "src_id": "objects-45160",
+    "content": {
+      "id": "https://id.kulturpool.at/161197b3-45f1-4ee9-9787-092dfd59aa85/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45160/bandol-und-badeplatz",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47899",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/161197b3-45f1-4ee9-9787-092dfd59aa85/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Bandol und Badeplatz"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_21",
+          "45160"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "3fe7910c-632d-412f-ab7c-9829eb82f78e",
+    "src_id": "objects-45159",
+    "content": {
+      "id": "https://id.kulturpool.at/3fe7910c-632d-412f-ab7c-9829eb82f78e/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45159/thea-hatte-sich-leider-sehr-dem-trunk-ergeben-und-hat-reden",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47898",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/3fe7910c-632d-412f-ab7c-9829eb82f78e/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Thea hatte sich leider sehr dem Trunk ergeben und hat Reden gehalten."
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_20",
+          "45159"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "37e35268-e28b-43df-84a3-d374c3361a53",
+    "src_id": "objects-45150",
+    "content": {
+      "id": "https://id.kulturpool.at/37e35268-e28b-43df-84a3-d374c3361a53/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45150/ironische-szene-mit-sitzendem-mann-und-apparatur",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47889",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/37e35268-e28b-43df-84a3-d374c3361a53/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Ironische Szene mit sitzendem Mann und Apparatur"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_11",
+          "45150"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "1c4f2901-ec63-4aab-a775-a2f6aefd29cc",
+    "src_id": "objects-45149",
+    "content": {
+      "id": "https://id.kulturpool.at/1c4f2901-ec63-4aab-a775-a2f6aefd29cc/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45149/lido-porte-issol",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47888",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/1c4f2901-ec63-4aab-a775-a2f6aefd29cc/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Lido Porte Issol"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_10",
+          "45149"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "5158a28c-8080-4c8e-9f53-98201762d4c6",
+    "src_id": "objects-45151",
+    "content": {
+      "id": "https://id.kulturpool.at/5158a28c-8080-4c8e-9f53-98201762d4c6/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45151/der-weltreisenden-thony-und-theas-angsttraum-vor-der-reise",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47890",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/5158a28c-8080-4c8e-9f53-98201762d4c6/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Der Weltreisenden Thöny und Theas Angsttraum vor der Reise"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_12",
+          "45151"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "64830aab-a1ea-4dad-b83d-a97ca7929038",
+    "src_id": "objects-43993",
+    "content": {
+      "id": "https://id.kulturpool.at/64830aab-a1ea-4dad-b83d-a97ca7929038/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/43993/illustration-zur-erzahlung-der-spanische-grande",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/49031",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/64830aab-a1ea-4dad-b83d-a97ca7929038/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Illustration zur Erzählung „Der spanische Grande“"
+        ],
+        "dcType": [
+          "Druckgrafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Gemeinfrei",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BA 4356_1-6_6",
+          "43993"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "706d8196-8250-4995-85e5-88eddc01b017",
+    "src_id": "objects-45158",
+    "content": {
+      "id": "https://id.kulturpool.at/706d8196-8250-4995-85e5-88eddc01b017/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45158/herzlichen-gru-aus-minka",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47897",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/706d8196-8250-4995-85e5-88eddc01b017/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Herzlichen Gruß aus Minka"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_19",
+          "45158"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "297bd9be-4fc6-42f0-b5c2-514c5fb4c400",
+    "src_id": "objects-45148",
+    "content": {
+      "id": "https://id.kulturpool.at/297bd9be-4fc6-42f0-b5c2-514c5fb4c400/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45148/landschaft-mit-figuren-zwei-zeichnende-manner",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47942",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/297bd9be-4fc6-42f0-b5c2-514c5fb4c400/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Landschaft mit Figuren (zwei zeichnende Männer)"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_9",
+          "45148"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "f376f95e-600f-4b16-aa97-a7e2313728ea",
+    "src_id": "objects-44210",
+    "content": {
+      "id": "https://id.kulturpool.at/f376f95e-600f-4b16-aa97-a7e2313728ea/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/44210/illustration-zu-august-strindberg-der-vater-zwischen-seite",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/49188",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/f376f95e-600f-4b16-aa97-a7e2313728ea/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Illustration zu August Strindberg „Der Vater“ zwischen Seite 10 und 11"
+        ],
+        "dcType": [
+          "Druckgrafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500354397",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Schinnerer, Adolf Ferdinand",
+                "@language": "nl"
+              },
+              {
+                "@value": "Schinnerer, Adolf Ferdinand",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Hubert Auer",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BA 12786_1-12_2",
+          "44210"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "8d577d5e-9702-4a37-ba8d-be0a3bdc5796",
+    "src_id": "objects-44214",
+    "content": {
+      "id": "https://id.kulturpool.at/8d577d5e-9702-4a37-ba8d-be0a3bdc5796/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/44214/illustration-zu-august-strindberg-der-vater-zwischen-seite",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/49192",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/8d577d5e-9702-4a37-ba8d-be0a3bdc5796/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Illustration zu August Strindberg „Der Vater“ zwischen Seite 40 und 41"
+        ],
+        "dcType": [
+          "Druckgrafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500354397",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Schinnerer, Adolf Ferdinand",
+                "@language": "nl"
+              },
+              {
+                "@value": "Schinnerer, Adolf Ferdinand",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Hubert Auer",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BA 12786_1-12_6",
+          "44214"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "ec5a5de1-986e-4197-bf12-b1ace2929556",
+    "src_id": "objects-45144",
+    "content": {
+      "id": "https://id.kulturpool.at/ec5a5de1-986e-4197-bf12-b1ace2929556/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45144/strandleben-sanarysurmer",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47883",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/ec5a5de1-986e-4197-bf12-b1ace2929556/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Strandleben Sanary-sur-Mer"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_5",
+          "45144"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "f07675a2-8858-472b-bbe0-43b4ea0946fc",
+    "src_id": "objects-45147",
+    "content": {
+      "id": "https://id.kulturpool.at/f07675a2-8858-472b-bbe0-43b4ea0946fc/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45147/paris-parc-des-princes",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47886",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/f07675a2-8858-472b-bbe0-43b4ea0946fc/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Paris Parc des Princes"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_8",
+          "45147"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "7c01b2ce-9ec0-4a03-a4f8-d583b75c1301",
+    "src_id": "objects-44211",
+    "content": {
+      "id": "https://id.kulturpool.at/7c01b2ce-9ec0-4a03-a4f8-d583b75c1301/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/44211/illustration-zu-august-strindberg-der-vater-zwischen-seite",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/49189",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/7c01b2ce-9ec0-4a03-a4f8-d583b75c1301/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Illustration zu August Strindberg „Der Vater“ zwischen Seite 14 und 15"
+        ],
+        "dcType": [
+          "Druckgrafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500354397",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Schinnerer, Adolf Ferdinand",
+                "@language": "nl"
+              },
+              {
+                "@value": "Schinnerer, Adolf Ferdinand",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Hubert Auer",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BA 12786_1-12_3",
+          "44211"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "a7f94494-d94f-42f1-bb94-759e5c617fcf",
+    "src_id": "objects-45145",
+    "content": {
+      "id": "https://id.kulturpool.at/a7f94494-d94f-42f1-bb94-759e5c617fcf/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45145/camaretsurmer",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47884",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/a7f94494-d94f-42f1-bb94-759e5c617fcf/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Camaret-sur-Mer"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_6",
+          "45145"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "88f2968d-82df-4ba6-af4c-5df7339bcb35",
+    "src_id": "objects-44220",
+    "content": {
+      "id": "https://id.kulturpool.at/88f2968d-82df-4ba6-af4c-5df7339bcb35/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/44220/illustration-zu-august-strindberg-der-vater-zwischen-seite",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/49198",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/88f2968d-82df-4ba6-af4c-5df7339bcb35/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Illustration zu August Strindberg „Der Vater“ zwischen Seite 64 und 65"
+        ],
+        "dcType": [
+          "Druckgrafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500354397",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Schinnerer, Adolf Ferdinand",
+                "@language": "nl"
+              },
+              {
+                "@value": "Schinnerer, Adolf Ferdinand",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Hubert Auer",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BA 12786_1-12_12",
+          "44220"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "426c632d-227f-4a3f-96c8-d1c46dd69154",
+    "src_id": "objects-44353",
+    "content": {
+      "id": "https://id.kulturpool.at/426c632d-227f-4a3f-96c8-d1c46dd69154/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/44353/fruits",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/48818",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/426c632d-227f-4a3f-96c8-d1c46dd69154/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Fruits"
+        ],
+        "dcType": [
+          "Druckgrafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500017300",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Matisse, Henri",
+                "@language": "en"
+              },
+              {
+                "@value": "Matisse, Henri",
+                "@language": "nl"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "© Bildrecht, Wien 2024",
+            "@language": "de"
+          },
+          {
+            "@value": "Gemeinfrei",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BA 9966_1-19_7",
+          "44353"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "7162d10e-a0f2-4ecf-94ca-83f6498dd45a",
+    "src_id": "objects-45141",
+    "content": {
+      "id": "https://id.kulturpool.at/7162d10e-a0f2-4ecf-94ca-83f6498dd45a/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45141/rheingold-1-akt",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47879",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/7162d10e-a0f2-4ecf-94ca-83f6498dd45a/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Rheingold 1. Akt"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_2",
+          "45141"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "13b6e2cc-102b-4871-94aa-56c65fce5cf9",
+    "src_id": "objects-44217",
+    "content": {
+      "id": "https://id.kulturpool.at/13b6e2cc-102b-4871-94aa-56c65fce5cf9/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/44217/illustration-zu-august-strindberg-der-vater-zwischen-seite",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/49195",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/13b6e2cc-102b-4871-94aa-56c65fce5cf9/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Illustration zu August Strindberg „Der Vater“ zwischen Seite 48 und 49"
+        ],
+        "dcType": [
+          "Druckgrafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500354397",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Schinnerer, Adolf Ferdinand",
+                "@language": "nl"
+              },
+              {
+                "@value": "Schinnerer, Adolf Ferdinand",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Hubert Auer",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BA 12786_1-12_9",
+          "44217"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "335584c6-0715-4556-8e09-e322149c013d",
+    "src_id": "objects-45143",
+    "content": {
+      "id": "https://id.kulturpool.at/335584c6-0715-4556-8e09-e322149c013d/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45143/th-als-opfer-des-unmusikalischen-frankreich",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47881",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/335584c6-0715-4556-8e09-e322149c013d/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Th. als Opfer des unmusikalischen Frankreich"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_4",
+          "45143"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "60fe94e0-ed80-42ba-8175-c89d76bb7c0a",
+    "src_id": "objects-44203",
+    "content": {
+      "id": "https://id.kulturpool.at/60fe94e0-ed80-42ba-8175-c89d76bb7c0a/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/44203/illustration-zu-les-gueules-noires-zwischen-seite-194-und",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/48872",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/60fe94e0-ed80-42ba-8175-c89d76bb7c0a/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Illustration zu „Les Gueules Noires“ zwischen Seite 194 und 195"
+        ],
+        "dcType": [
+          "Druckgrafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500017451",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Steinlen, Théophile Alexandre",
+                "@language": "nl"
+              },
+              {
+                "@value": "Steinlen, Théophile Alexandre",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Hubert Auer",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BA 7032_1-15_14",
+          "44203"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  },
+  {
+    "kp_id": "b835b744-d8de-4b86-bf4e-5370275ec211",
+    "src_id": "objects-45142",
+    "content": {
+      "id": "https://id.kulturpool.at/b835b744-d8de-4b86-bf4e-5370275ec211/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "isShownAt": "https://emuseum.mdmsalzburg.at/objects/45142/sommermode-1938",
+      "isShownBy": {
+        "id": "https://emuseum.mdmsalzburg.at/internal/media/dispatcher/47880",
+        "type": "WebResource"
+      },
+      "dataProvider": "Museum der Moderne Salzburg",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/b835b744-d8de-4b86-bf4e-5370275ec211/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Sommermode 1938"
+        ],
+        "dcType": [
+          "Grafik"
+        ],
+        "creator": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500115152",
+            "type": "Agent",
+            "prefLabel": [
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "nl"
+              },
+              {
+                "@value": "Thöny, Wilhelm",
+                "@language": "en"
+              }
+            ]
+          }
+        ],
+        "edmType": "IMAGE",
+        "dcRights": [
+          {
+            "@value": "Foto: Bettina Salomon",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "BS 4278_1-67_3",
+          "45142"
+        ]
+      }
+    },
+    "institution_id": "museum-der-moderne-rupertinum",
+    "pipeline_id": "museum-der-moderne-salzburg-rupertinum-core"
+  }
+]

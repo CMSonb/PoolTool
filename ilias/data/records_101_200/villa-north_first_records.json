@@ -1,0 +1,6816 @@
+[
+  {
+    "kp_id": "e965da03-84cb-472a-b859-aba6f3b13bfb",
+    "src_id": "KOHA-OAI-TEST:6901",
+    "content": {
+      "id": "https://id.kulturpool.at/e965da03-84cb-472a-b859-aba6f3b13bfb/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=6901",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/DIA/IDBASIC/VNA_DIA_ID_basic_157.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/e965da03-84cb-472a-b859-aba6f3b13bfb/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Häuserfassade San Francisco "
+        ],
+        "dcType": [
+          {
+            "@value": "Kleinbild Dia Farbe",
+            "@language": "de"
+          },
+          "Dia"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          {
+            "@value": "San Francisco",
+            "@language": "de"
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Fassade",
+            "@language": "de"
+          },
+          {
+            "@value": "Straße",
+            "@language": "de"
+          },
+          {
+            "@value": "Katalog",
+            "@language": "de"
+          },
+          {
+            "@value": "Haus",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_DIA_ID_basic_157"
+        ],
+        "description": [
+          {
+            "@value": "Häuserfassade San Francisco ",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "efe70698-1dec-48fe-b94a-4a4cff4badc5",
+    "src_id": "KOHA-OAI-TEST:13291",
+    "content": {
+      "id": "https://id.kulturpool.at/efe70698-1dec-48fe-b94a-4a4cff4badc5/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=13291",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/FOTO/VNA_FOTO_276.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/efe70698-1dec-48fe-b94a-4a4cff4badc5/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Zwei Männer und Frau bei Tor Stift Millstatt"
+        ],
+        "dcType": [
+          {
+            "@value": "Foto Positiv",
+            "@language": "de"
+          },
+          "Visuelles Material"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          {
+            "@value": "Millstatt am See",
+            "@language": "de"
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Mann",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_FOTO_276"
+        ],
+        "description": [
+          {
+            "@value": "Zwei Männer und Frau bei Tor Stift Millstatt",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "2e699145-a996-4530-9faa-b1bf398cca4b",
+    "src_id": "KOHA-OAI-TEST:18449",
+    "content": {
+      "id": "https://id.kulturpool.at/2e699145-a996-4530-9faa-b1bf398cca4b/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=18449",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/DIA/DIA8/VNA_DIA_KT08_208.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/2e699145-a996-4530-9faa-b1bf398cca4b/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Leiterwagen mit Reifen, Türkei"
+        ],
+        "dcType": [
+          {
+            "@value": "Kleinbild Dia Farbe",
+            "@language": "de"
+          },
+          "Dia"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Fahrzeug",
+            "@language": "de"
+          },
+          {
+            "@value": "Wagen",
+            "@language": "de"
+          },
+          {
+            "@value": "Bemalung",
+            "@language": "de"
+          },
+          {
+            "@value": "Reifen",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_DIA_KT08_208"
+        ],
+        "description": [
+          {
+            "@value": "Leiterwagen mit Reifen, Türkei",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "6c1877f8-1bd8-4647-bcb2-d732cb8d71c9",
+    "src_id": "KOHA-OAI-TEST:6276",
+    "content": {
+      "id": "https://id.kulturpool.at/6c1877f8-1bd8-4647-bcb2-d732cb8d71c9/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=6276",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/FOTO/VNA_FOTO_215.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/6c1877f8-1bd8-4647-bcb2-d732cb8d71c9/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Porträt - Karl Maria Klob"
+        ],
+        "dcType": [
+          {
+            "@value": "Foto Positiv",
+            "@language": "de"
+          },
+          "Visuelles Material"
+        ],
+        "extent": [
+          "ca. 6,5 x 11,0cm"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          {
+            "@value": "Wien",
+            "@language": "de"
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Mann",
+            "@language": "de"
+          },
+          {
+            "@value": "Bildnis",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "publisher": [
+          "L. Guttman, Wien"
+        ],
+        "identifier": [
+          "VNA_FOTO_215"
+        ],
+        "contributor": [
+          {
+            "id": "Klob,+Karl+Maria",
+            "date": [
+              "1873-1932"
+            ],
+            "type": "Agent",
+            "prefLabel": [
+              "Klob, Karl Maria"
+            ]
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "2464382a-2ca5-4a18-8fc6-ba3d4fd6af11",
+    "src_id": "KOHA-OAI-TEST:18446",
+    "content": {
+      "id": "https://id.kulturpool.at/2464382a-2ca5-4a18-8fc6-ba3d4fd6af11/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=18446",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/DIA/DIA8/VNA_DIA_KT08_205.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/2464382a-2ca5-4a18-8fc6-ba3d4fd6af11/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Earthship - Hütte Landschaft"
+        ],
+        "dcType": [
+          {
+            "@value": "Kleinbild Dia Farbe",
+            "@language": "de"
+          },
+          "Dia"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Dach",
+            "@language": "de"
+          },
+          {
+            "@value": "Earthship",
+            "@language": "de"
+          },
+          {
+            "@value": "Hütte",
+            "@language": "de"
+          },
+          {
+            "@value": "Landschaft",
+            "@language": "de"
+          },
+          {
+            "@value": "Straße",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "isPartOf": [
+          "Earthship"
+        ],
+        "identifier": [
+          "VNA_DIA_KT08_205"
+        ],
+        "description": [
+          {
+            "@value": "Hütte Dach Straße Gebirge Landschaft",
+            "@language": "de"
+          },
+          {
+            "@value": "Earthship ",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "13a4d08b-ecb5-4d4c-b858-c18557cd4f54",
+    "src_id": "KOHA-OAI-TEST:11835",
+    "content": {
+      "id": "https://id.kulturpool.at/13a4d08b-ecb5-4d4c-b858-c18557cd4f54/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=11835",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/OBJ2/VNA_OBJ_243.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/13a4d08b-ecb5-4d4c-b858-c18557cd4f54/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Handspindel Lateinamerika"
+        ],
+        "dcType": [
+          "Objekt"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Design",
+            "@language": "de"
+          },
+          {
+            "@value": "Handspindel",
+            "@language": "de"
+          },
+          {
+            "@value": "Lateinamerika",
+            "@language": "de"
+          },
+          {
+            "@value": "Handwerk",
+            "@language": "de"
+          },
+          {
+            "@value": "Keramik",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_OBJ_243"
+        ],
+        "description": [
+          {
+            "@value": "Handspindel Lateinamerika",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "b9a43f52-9469-43a9-aad6-15339efab2f9",
+    "src_id": "KOHA-OAI-TEST:15262",
+    "content": {
+      "id": "https://id.kulturpool.at/b9a43f52-9469-43a9-aad6-15339efab2f9/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=15262",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/OBJ3/VNA_OBJ_731.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/b9a43f52-9469-43a9-aad6-15339efab2f9/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Keramik Schüssel bemalt"
+        ],
+        "dcType": [
+          "Objekt"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Antike",
+            "@language": "de"
+          },
+          {
+            "@value": "Keramikgefäß",
+            "@language": "de"
+          },
+          {
+            "@value": "Lateinamerika",
+            "@language": "de"
+          },
+          {
+            "@value": "Schüssel",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_OBJ_731"
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "ae0f0403-813f-4122-9a73-9d353a98983d",
+    "src_id": "KOHA-OAI-TEST:6275",
+    "content": {
+      "id": "https://id.kulturpool.at/ae0f0403-813f-4122-9a73-9d353a98983d/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=6275",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/FOTO/VNA_FOTO_214.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/ae0f0403-813f-4122-9a73-9d353a98983d/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Porträt Frau"
+        ],
+        "dcType": [
+          {
+            "@value": "Foto Positiv",
+            "@language": "de"
+          },
+          "Visuelles Material"
+        ],
+        "extent": [
+          "ca. 6,5 x 11,0cm"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          {
+            "@value": "Wien",
+            "@language": "de"
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Frau",
+            "@language": "de"
+          },
+          {
+            "@value": "Bildnis",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "publisher": [
+          "Winter, Wien"
+        ],
+        "identifier": [
+          "VNA_FOTO_214"
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "d97a0429-62f7-44bc-a955-b9f1794b9b66",
+    "src_id": "KOHA-OAI-TEST:6900",
+    "content": {
+      "id": "https://id.kulturpool.at/d97a0429-62f7-44bc-a955-b9f1794b9b66/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=6900",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/DIA/IDBASIC/VNA_DIA_ID_basic_156.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/d97a0429-62f7-44bc-a955-b9f1794b9b66/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Häuserfassade San Francisco "
+        ],
+        "dcType": [
+          {
+            "@value": "Kleinbild Dia Farbe",
+            "@language": "de"
+          },
+          "Dia"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          {
+            "@value": "San Francisco",
+            "@language": "de"
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Fassade",
+            "@language": "de"
+          },
+          {
+            "@value": "Straße",
+            "@language": "de"
+          },
+          {
+            "@value": "Katalog",
+            "@language": "de"
+          },
+          {
+            "@value": "Haus",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_DIA_ID_basic_156"
+        ],
+        "description": [
+          {
+            "@value": "Häuserfassade San Francisco ",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "abce5d63-eb66-4aec-b1ff-ea80549e551d",
+    "src_id": "KOHA-OAI-TEST:13290",
+    "content": {
+      "id": "https://id.kulturpool.at/abce5d63-eb66-4aec-b1ff-ea80549e551d/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=13290",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/FOTO/VNA_FOTO_275.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/abce5d63-eb66-4aec-b1ff-ea80549e551d/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Drei Personen Bei Stift?"
+        ],
+        "dcType": [
+          {
+            "@value": "Foto Positiv",
+            "@language": "de"
+          },
+          "Visuelles Material"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Individuum",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_FOTO_275"
+        ],
+        "description": [
+          {
+            "@value": "Drei Personen Bei Stift?",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "7dd4a4c1-c039-4910-9414-f93d8cafa6fe",
+    "src_id": "KOHA-OAI-TEST:11834",
+    "content": {
+      "id": "https://id.kulturpool.at/7dd4a4c1-c039-4910-9414-f93d8cafa6fe/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=11834",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/OBJ2/VNA_OBJ_242.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/7dd4a4c1-c039-4910-9414-f93d8cafa6fe/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Handspindel Lateinamerika"
+        ],
+        "dcType": [
+          "Objekt"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Design",
+            "@language": "de"
+          },
+          {
+            "@value": "Handspindel",
+            "@language": "de"
+          },
+          {
+            "@value": "Lateinamerika",
+            "@language": "de"
+          },
+          {
+            "@value": "Handwerk",
+            "@language": "de"
+          },
+          {
+            "@value": "Keramik",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_OBJ_242"
+        ],
+        "description": [
+          {
+            "@value": "Handspindel Lateinamerika",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "b1eb8d4d-3aa9-4429-82a0-5900c1a88cbd",
+    "src_id": "KOHA-OAI-TEST:15261",
+    "content": {
+      "id": "https://id.kulturpool.at/b1eb8d4d-3aa9-4429-82a0-5900c1a88cbd/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=15261",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/OBJ3/VNA_OBJ_730.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/b1eb8d4d-3aa9-4429-82a0-5900c1a88cbd/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Keramikschüssel mit Hänkel"
+        ],
+        "dcType": [
+          "Objekt"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Antike",
+            "@language": "de"
+          },
+          {
+            "@value": "Keramikgefäß",
+            "@language": "de"
+          },
+          {
+            "@value": "Lateinamerika",
+            "@language": "de"
+          },
+          {
+            "@value": "Schüssel",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_OBJ_730"
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "546d14e9-7d98-4efc-835a-0322027ea604",
+    "src_id": "KOHA-OAI-TEST:6274",
+    "content": {
+      "id": "https://id.kulturpool.at/546d14e9-7d98-4efc-835a-0322027ea604/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=6274",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/FOTO/VNA_FOTO_213.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/546d14e9-7d98-4efc-835a-0322027ea604/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Porträt zwei Frauen"
+        ],
+        "dcType": [
+          {
+            "@value": "Foto Positiv",
+            "@language": "de"
+          },
+          "Visuelles Material"
+        ],
+        "extent": [
+          "ca. 6,5 x 11,0cm"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          {
+            "@value": "Wien",
+            "@language": "de"
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Frau",
+            "@language": "de"
+          },
+          {
+            "@value": "Bildnis",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "publisher": [
+          "R.KRZIWANEK, Wien"
+        ],
+        "identifier": [
+          "VNA_FOTO_213"
+        ],
+        "description": [
+          {
+            "@value": "Porträt zwei Frauen",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "f01d2533-b923-40c1-9bfa-af06cbbe286c",
+    "src_id": "KOHA-OAI-TEST:13289",
+    "content": {
+      "id": "https://id.kulturpool.at/f01d2533-b923-40c1-9bfa-af06cbbe286c/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=13289",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/FOTO/VNA_FOTO_274.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/f01d2533-b923-40c1-9bfa-af06cbbe286c/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Frau mit Rosen – Aufgenommen Am 18.6.1916 – Mit lieben Grüßen meinem lieben Otto"
+        ],
+        "dcType": [
+          {
+            "@value": "Foto Positiv",
+            "@language": "de"
+          },
+          "Visuelles Material"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Frau",
+            "@language": "de"
+          },
+          {
+            "@value": "Garten",
+            "@language": "de"
+          },
+          {
+            "@value": "Rose",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_FOTO_274"
+        ],
+        "description": [
+          {
+            "@value": "Frau mit Rosen – Aufgenommen Am 18.6.1916 – Mit lieben Grüßen meinem lieben Otto",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "ee63268d-39e2-4a11-ad5b-90981f4a1e54",
+    "src_id": "KOHA-OAI-TEST:18441",
+    "content": {
+      "id": "https://id.kulturpool.at/ee63268d-39e2-4a11-ad5b-90981f4a1e54/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=18441",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/DIA/DIA8/VNA_DIA_KT08_200.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/ee63268d-39e2-4a11-ad5b-90981f4a1e54/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Tahtatepen Hacı Adil Moschee, Meram, Konya, Türkei"
+        ],
+        "dcType": [
+          {
+            "@value": "Kleinbild Dia Farbe",
+            "@language": "de"
+          },
+          "Dia"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Gruppe",
+            "@language": "de"
+          },
+          {
+            "@value": "Moschee",
+            "@language": "de"
+          },
+          {
+            "@value": "Kind",
+            "@language": "de"
+          },
+          {
+            "@value": "Straße",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_DIA_KT08_200"
+        ],
+        "description": [
+          {
+            "@value": "Tahtatepen Hacı Adil Moschee, Meram, Konya, Türkei",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "b087174f-d792-4902-a47b-e2aee3524923",
+    "src_id": "KOHA-OAI-TEST:11833",
+    "content": {
+      "id": "https://id.kulturpool.at/b087174f-d792-4902-a47b-e2aee3524923/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=11833",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/OBJ2/VNA_OBJ_241.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/b087174f-d792-4902-a47b-e2aee3524923/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Keramik Gefäß"
+        ],
+        "dcType": [
+          "Objekt"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Design",
+            "@language": "de"
+          },
+          {
+            "@value": "Gefäß",
+            "@language": "de"
+          },
+          {
+            "@value": "Objekt",
+            "@language": "de"
+          },
+          {
+            "@value": "Keramik",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_OBJ_241"
+        ],
+        "description": [
+          {
+            "@value": "Keramik Gefäß",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "5a1a7c3d-e4cd-4e22-8702-b53a378df08e",
+    "src_id": "KOHA-OAI-TEST:15260",
+    "content": {
+      "id": "https://id.kulturpool.at/5a1a7c3d-e4cd-4e22-8702-b53a378df08e/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=15260",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/OBJ3/VNA_OBJ_729.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/5a1a7c3d-e4cd-4e22-8702-b53a378df08e/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Keramikschüssel mit Hänkel"
+        ],
+        "dcType": [
+          "Objekt"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Antike",
+            "@language": "de"
+          },
+          {
+            "@value": "Keramikgefäß",
+            "@language": "de"
+          },
+          {
+            "@value": "Lateinamerika",
+            "@language": "de"
+          },
+          {
+            "@value": "Schüssel",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_OBJ_729"
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "0da1357c-b8f6-4c70-aaea-c6fb57083a9f",
+    "src_id": "KOHA-OAI-TEST:6899",
+    "content": {
+      "id": "https://id.kulturpool.at/0da1357c-b8f6-4c70-aaea-c6fb57083a9f/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=6899",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/DIA/IDBASIC/VNA_DIA_ID_basic_155.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/0da1357c-b8f6-4c70-aaea-c6fb57083a9f/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Dampfschiff Eppletonhall"
+        ],
+        "dcType": [
+          {
+            "@value": "Kleinbild Dia Farbe",
+            "@language": "de"
+          },
+          "Dia"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Dampf",
+            "@language": "de"
+          },
+          {
+            "@value": "Dampfschiff",
+            "@language": "de"
+          },
+          {
+            "@value": "Design",
+            "@language": "de"
+          },
+          {
+            "@value": "Schiff",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_DIA_ID_basic_155"
+        ],
+        "description": [
+          {
+            "@value": "Dampfschiff Eppletonhall",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "d76942df-cdc8-4396-9332-0bef6d4abcc3",
+    "src_id": "KOHA-OAI-TEST:13288",
+    "content": {
+      "id": "https://id.kulturpool.at/d76942df-cdc8-4396-9332-0bef6d4abcc3/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=13288",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/FOTO/VNA_FOTO_273.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/d76942df-cdc8-4396-9332-0bef6d4abcc3/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Michael Mayer Mann schaut ernst"
+        ],
+        "dcType": [
+          {
+            "@value": "Foto Positiv",
+            "@language": "de"
+          },
+          "Visuelles Material"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Mann",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_FOTO_273"
+        ],
+        "description": [
+          {
+            "@value": "Michael Mayer Mann schaut ernst",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "15edea9a-6414-4e2d-99b0-5b8fc1654eb1",
+    "src_id": "KOHA-OAI-TEST:6898",
+    "content": {
+      "id": "https://id.kulturpool.at/15edea9a-6414-4e2d-99b0-5b8fc1654eb1/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=6898",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/DIA/IDBASIC/VNA_DIA_ID_basic_154.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/15edea9a-6414-4e2d-99b0-5b8fc1654eb1/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Häuserfassade San Francisco - 1062 Fulton Street"
+        ],
+        "dcType": [
+          {
+            "@value": "Kleinbild Dia Farbe",
+            "@language": "de"
+          },
+          "Dia"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          {
+            "@value": "San Francisco",
+            "@language": "de"
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Fassade",
+            "@language": "de"
+          },
+          {
+            "@value": "Straße",
+            "@language": "de"
+          },
+          {
+            "@value": "Katalog",
+            "@language": "de"
+          },
+          {
+            "@value": "Haus",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_DIA_ID_basic_154"
+        ],
+        "description": [
+          {
+            "@value": "Häuserfassade San Francisco  Photo of a white Victorian house located at 1062 Fulton Street across from Alamo Square.",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "f3b88828-00ba-4a70-8f6c-909a7e331b02",
+    "src_id": "KOHA-OAI-TEST:11832",
+    "content": {
+      "id": "https://id.kulturpool.at/f3b88828-00ba-4a70-8f6c-909a7e331b02/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=11832",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/OBJ2/VNA_OBJ_240.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/f3b88828-00ba-4a70-8f6c-909a7e331b02/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Terracotta Öllampe"
+        ],
+        "dcType": [
+          "Objekt"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Antike",
+            "@language": "de"
+          },
+          {
+            "@value": "Design",
+            "@language": "de"
+          },
+          {
+            "@value": "Öllampe",
+            "@language": "de"
+          },
+          {
+            "@value": "Terrakotta",
+            "@language": "de"
+          },
+          {
+            "@value": "Objekt",
+            "@language": "de"
+          },
+          {
+            "@value": "Keramik",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_OBJ_240"
+        ],
+        "description": [
+          {
+            "@value": "Terracotta Öllampe",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "532f0fd3-c759-4b57-aaf3-60caecad8930",
+    "src_id": "KOHA-OAI-TEST:18438",
+    "content": {
+      "id": "https://id.kulturpool.at/532f0fd3-c759-4b57-aaf3-60caecad8930/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=18438",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/DIA/DIA8/VNA_DIA_KT08_197.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/532f0fd3-c759-4b57-aaf3-60caecad8930/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Steinhaus mit Schornstein und Baum"
+        ],
+        "dcType": [
+          {
+            "@value": "Kleinbild Dia Farbe",
+            "@language": "de"
+          },
+          "Dia"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Schornstein",
+            "@language": "de"
+          },
+          {
+            "@value": "Steinbau",
+            "@language": "de"
+          },
+          {
+            "@value": "Haus",
+            "@language": "de"
+          },
+          {
+            "@value": "Baum",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_DIA_KT08_197"
+        ],
+        "description": [
+          {
+            "@value": "Steinhaus mit Schornstein und Baum",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "0d59d2a2-a9e3-4e8c-a158-d1a482449efa",
+    "src_id": "KOHA-OAI-TEST:6273",
+    "content": {
+      "id": "https://id.kulturpool.at/0d59d2a2-a9e3-4e8c-a158-d1a482449efa/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=6273",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/FOTO/VNA_FOTO_212.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/0d59d2a2-a9e3-4e8c-a158-d1a482449efa/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Porträt Kind "
+        ],
+        "dcType": [
+          {
+            "@value": "Foto Positiv",
+            "@language": "de"
+          },
+          "Visuelles Material"
+        ],
+        "extent": [
+          "ca. 6,5 x 11,0cm"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          {
+            "@value": "Wien",
+            "@language": "de"
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Kind",
+            "@language": "de"
+          },
+          {
+            "@value": "Stuhl",
+            "@language": "de"
+          },
+          {
+            "@value": "Bildnis",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "publisher": [
+          "Atelier Elsa Josef Jost, Wien"
+        ],
+        "identifier": [
+          "VNA_FOTO_212"
+        ],
+        "description": [
+          {
+            "@value": "Klein Rudi North",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "ca5e252d-70c1-4b11-91fb-24a6213e8984",
+    "src_id": "KOHA-OAI-TEST:15259",
+    "content": {
+      "id": "https://id.kulturpool.at/ca5e252d-70c1-4b11-91fb-24a6213e8984/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=15259",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/OBJ3/VNA_OBJ_728.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/ca5e252d-70c1-4b11-91fb-24a6213e8984/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Keramik Schüssel bemalt"
+        ],
+        "dcType": [
+          "Objekt"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Antike",
+            "@language": "de"
+          },
+          {
+            "@value": "Keramikgefäß",
+            "@language": "de"
+          },
+          {
+            "@value": "Lateinamerika",
+            "@language": "de"
+          },
+          {
+            "@value": "Schüssel",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_OBJ_728"
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "42a9e254-e27a-4497-88dc-dea6420919b0",
+    "src_id": "KOHA-OAI-TEST:13287",
+    "content": {
+      "id": "https://id.kulturpool.at/42a9e254-e27a-4497-88dc-dea6420919b0/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=13287",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/FOTO/VNA_FOTO_272.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/42a9e254-e27a-4497-88dc-dea6420919b0/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Glockenturm Weg und Frau"
+        ],
+        "dcType": [
+          {
+            "@value": "Foto Positiv",
+            "@language": "de"
+          },
+          "Visuelles Material"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Glocke",
+            "@language": "de"
+          },
+          {
+            "@value": "Turm",
+            "@language": "de"
+          },
+          {
+            "@value": "Weg",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_FOTO_272"
+        ],
+        "description": [
+          {
+            "@value": "Glockenturm Weg und Frau",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "84d36396-cc30-412e-b516-e83742ef512f",
+    "src_id": "KOHA-OAI-TEST:6271",
+    "content": {
+      "id": "https://id.kulturpool.at/84d36396-cc30-412e-b516-e83742ef512f/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=6271",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/FOTO/VNA_FOTO_210.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/84d36396-cc30-412e-b516-e83742ef512f/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Porträt Mann"
+        ],
+        "dcType": [
+          {
+            "@value": "Foto Positiv",
+            "@language": "de"
+          },
+          "Visuelles Material"
+        ],
+        "extent": [
+          "ca. 6,5 x 11,0cm"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          {
+            "@value": "Wien",
+            "@language": "de"
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Hut",
+            "@language": "de"
+          },
+          {
+            "@value": "Mann",
+            "@language": "de"
+          },
+          {
+            "@value": "Bildnis",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "publisher": [
+          "Rosa Jenik Dörfler, Wien"
+        ],
+        "identifier": [
+          "VNA_FOTO_210"
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "ff155954-0a3e-41bc-a5f1-69676181a6ae",
+    "src_id": "KOHA-OAI-TEST:6897",
+    "content": {
+      "id": "https://id.kulturpool.at/ff155954-0a3e-41bc-a5f1-69676181a6ae/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=6897",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/DIA/IDBASIC/VNA_DIA_ID_basic_153.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/ff155954-0a3e-41bc-a5f1-69676181a6ae/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Häuserfassade San Francisco "
+        ],
+        "dcType": [
+          {
+            "@value": "Kleinbild Dia Farbe",
+            "@language": "de"
+          },
+          "Dia"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          {
+            "@value": "San Francisco",
+            "@language": "de"
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Fassade",
+            "@language": "de"
+          },
+          {
+            "@value": "Straße",
+            "@language": "de"
+          },
+          {
+            "@value": "Katalog",
+            "@language": "de"
+          },
+          {
+            "@value": "Haus",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_DIA_ID_basic_153"
+        ],
+        "description": [
+          {
+            "@value": "Häuserfassade San Francisco ",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "6e83e6e0-4a45-4c86-8cc4-99e1d9ba5184",
+    "src_id": "KOHA-OAI-TEST:18437",
+    "content": {
+      "id": "https://id.kulturpool.at/6e83e6e0-4a45-4c86-8cc4-99e1d9ba5184/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=18437",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/DIA/DIA8/VNA_DIA_KT08_196.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/6e83e6e0-4a45-4c86-8cc4-99e1d9ba5184/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Fenster bei Earthship von Michael E. Reynolds, USA"
+        ],
+        "dcType": [
+          {
+            "@value": "Kleinbild Dia Farbe",
+            "@language": "de"
+          },
+          "Dia"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Architektur",
+            "@language": "de"
+          },
+          {
+            "@value": "Earthship",
+            "@language": "de"
+          },
+          {
+            "@value": "Fenster",
+            "@language": "de"
+          },
+          {
+            "@value": "Raum",
+            "@language": "de"
+          },
+          {
+            "@value": "Turm",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_DIA_KT08_196"
+        ],
+        "description": [
+          {
+            "@value": "Fenster bei Earthship von Michael E. Reynolds, USA",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "0da0ef91-d0e4-4729-b24d-5e81fea910ee",
+    "src_id": "KOHA-OAI-TEST:11831",
+    "content": {
+      "id": "https://id.kulturpool.at/0da0ef91-d0e4-4729-b24d-5e81fea910ee/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=11831",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/OBJ2/VNA_OBJ_239.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/0da0ef91-d0e4-4729-b24d-5e81fea910ee/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Kreisel aus Holz mit Papierplättchen"
+        ],
+        "dcType": [
+          "Objekt"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Design",
+            "@language": "de"
+          },
+          {
+            "@value": "Holz",
+            "@language": "de"
+          },
+          {
+            "@value": "Kreisel",
+            "@language": "de"
+          },
+          {
+            "@value": "Papier",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_OBJ_239"
+        ],
+        "description": [
+          {
+            "@value": "Kreisel aus Holz mit Papierplättchen",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "144a204c-479b-470b-a98e-5398a953aa84",
+    "src_id": "KOHA-OAI-TEST:6270",
+    "content": {
+      "id": "https://id.kulturpool.at/144a204c-479b-470b-a98e-5398a953aa84/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=6270",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/FOTO/VNA_FOTO_209.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/144a204c-479b-470b-a98e-5398a953aa84/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Porträt Mann"
+        ],
+        "dcType": [
+          {
+            "@value": "Foto Positiv",
+            "@language": "de"
+          },
+          "Visuelles Material"
+        ],
+        "extent": [
+          "ca. 6,5 x 11,0cm"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          {
+            "@value": "Wien",
+            "@language": "de"
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Hut",
+            "@language": "de"
+          },
+          {
+            "@value": "Mann",
+            "@language": "de"
+          },
+          {
+            "@value": "Bildnis",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "publisher": [
+          "Atelier Westend, Wien"
+        ],
+        "identifier": [
+          "VNA_FOTO_209"
+        ],
+        "description": [
+          {
+            "@value": "\"Jan\"",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "db35de43-eeee-4f10-8618-49092ac6c43c",
+    "src_id": "KOHA-OAI-TEST:13286",
+    "content": {
+      "id": "https://id.kulturpool.at/db35de43-eeee-4f10-8618-49092ac6c43c/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=13286",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/FOTO/VNA_FOTO_271.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/db35de43-eeee-4f10-8618-49092ac6c43c/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Paar mit Hund – Sommer 1909"
+        ],
+        "dcType": [
+          {
+            "@value": "Foto Positiv",
+            "@language": "de"
+          },
+          "Visuelles Material"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Hund",
+            "@language": "de"
+          },
+          {
+            "@value": "Paar",
+            "@language": "de"
+          },
+          {
+            "@value": "Sommer",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "temporal": [
+          {
+            "@value": "1909",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_FOTO_271"
+        ],
+        "description": [
+          {
+            "@value": "Paar mit Hund – Sommer 1909",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "e5729c72-8dc7-409e-b793-59596b8ee56a",
+    "src_id": "KOHA-OAI-TEST:15258",
+    "content": {
+      "id": "https://id.kulturpool.at/e5729c72-8dc7-409e-b793-59596b8ee56a/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=15258",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/OBJ3/VNA_OBJ_727.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/e5729c72-8dc7-409e-b793-59596b8ee56a/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Keramikschüssel mit Hänkel"
+        ],
+        "dcType": [
+          "Objekt"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Antike",
+            "@language": "de"
+          },
+          {
+            "@value": "Keramikgefäß",
+            "@language": "de"
+          },
+          {
+            "@value": "Lateinamerika",
+            "@language": "de"
+          },
+          {
+            "@value": "Schüssel",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_OBJ_727"
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "686d0257-05d1-4490-a87d-0f532ba581fb",
+    "src_id": "KOHA-OAI-TEST:18434",
+    "content": {
+      "id": "https://id.kulturpool.at/686d0257-05d1-4490-a87d-0f532ba581fb/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=18434",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/DIA/DIA8/VNA_DIA_KT08_193.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/686d0257-05d1-4490-a87d-0f532ba581fb/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Steinwand Grotte Fels Kappadokien, Türkei"
+        ],
+        "dcType": [
+          {
+            "@value": "Kleinbild Dia Farbe",
+            "@language": "de"
+          },
+          "Dia"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Fels",
+            "@language": "de"
+          },
+          {
+            "@value": "Grotte",
+            "@language": "de"
+          },
+          {
+            "@value": "Weg",
+            "@language": "de"
+          },
+          {
+            "@value": "Steinbau",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_DIA_KT08_193"
+        ],
+        "description": [
+          {
+            "@value": "Steinwand Grotte Fels Kappadokien, Türkei",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "ffd2f6de-3ae1-43a8-8315-11e50c57d523",
+    "src_id": "KOHA-OAI-TEST:6896",
+    "content": {
+      "id": "https://id.kulturpool.at/ffd2f6de-3ae1-43a8-8315-11e50c57d523/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=6896",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/DIA/IDBASIC/VNA_DIA_ID_basic_152.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/ffd2f6de-3ae1-43a8-8315-11e50c57d523/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Häuserfassade San Francisco "
+        ],
+        "dcType": [
+          {
+            "@value": "Kleinbild Dia Farbe",
+            "@language": "de"
+          },
+          "Dia"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          {
+            "@value": "San Francisco",
+            "@language": "de"
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Fassade",
+            "@language": "de"
+          },
+          {
+            "@value": "Straße",
+            "@language": "de"
+          },
+          {
+            "@value": "Katalog",
+            "@language": "de"
+          },
+          {
+            "@value": "Haus",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_DIA_ID_basic_152"
+        ],
+        "description": [
+          {
+            "@value": "Häuserfassade San Francisco ",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "407b7464-46cf-42c4-bd77-0daac8ee0610",
+    "src_id": "KOHA-OAI-TEST:11830",
+    "content": {
+      "id": "https://id.kulturpool.at/407b7464-46cf-42c4-bd77-0daac8ee0610/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=11830",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/OBJ2/VNA_OBJ_238.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/407b7464-46cf-42c4-bd77-0daac8ee0610/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Gürteltier Kinderspielzeug"
+        ],
+        "dcType": [
+          "Objekt"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Gürteltier",
+            "@language": "de"
+          },
+          {
+            "@value": "Objekt",
+            "@language": "de"
+          },
+          {
+            "@value": "Modell",
+            "@language": "de"
+          },
+          {
+            "@value": "Spielzeug",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_OBJ_238"
+        ],
+        "description": [
+          {
+            "@value": "Gürteltier Kinderspielzeug",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "9a62db8a-e79e-4e87-9e92-606301a0b607",
+    "src_id": "KOHA-OAI-TEST:13285",
+    "content": {
+      "id": "https://id.kulturpool.at/9a62db8a-e79e-4e87-9e92-606301a0b607/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=13285",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/FOTO/VNA_FOTO_270.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/9a62db8a-e79e-4e87-9e92-606301a0b607/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Gertrude Mit Mann mit Brille"
+        ],
+        "dcType": [
+          {
+            "@value": "Foto Positiv",
+            "@language": "de"
+          },
+          "Visuelles Material"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Frau",
+            "@language": "de"
+          },
+          {
+            "@value": "Mann",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_FOTO_270"
+        ],
+        "description": [
+          {
+            "@value": "Gertrude Mit Mann mit Brille",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "d947c450-c11c-4f6b-953c-917f990e8c11",
+    "src_id": "KOHA-OAI-TEST:15257",
+    "content": {
+      "id": "https://id.kulturpool.at/d947c450-c11c-4f6b-953c-917f990e8c11/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=15257",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/OBJ3/VNA_OBJ_726.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/d947c450-c11c-4f6b-953c-917f990e8c11/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Keramikschüssel mit Hänkel"
+        ],
+        "dcType": [
+          "Objekt"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Antike",
+            "@language": "de"
+          },
+          {
+            "@value": "Keramikgefäß",
+            "@language": "de"
+          },
+          {
+            "@value": "Lateinamerika",
+            "@language": "de"
+          },
+          {
+            "@value": "Schüssel",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_OBJ_726"
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "642e39f4-63b2-4c27-b933-9bfe4b57e71e",
+    "src_id": "KOHA-OAI-TEST:6269",
+    "content": {
+      "id": "https://id.kulturpool.at/642e39f4-63b2-4c27-b933-9bfe4b57e71e/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=6269",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/FOTO/VNA_FOTO_208.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/642e39f4-63b2-4c27-b933-9bfe4b57e71e/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Porträt Frau"
+        ],
+        "dcType": [
+          {
+            "@value": "Foto Positiv",
+            "@language": "de"
+          },
+          "Visuelles Material"
+        ],
+        "extent": [
+          "ca. 6,5 x 11,0cm"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          {
+            "@value": "Wien",
+            "@language": "de"
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Frau",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "publisher": [
+          "Friedrich Schiller, Wien"
+        ],
+        "identifier": [
+          "VNA_FOTO_208"
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "d391c551-a17c-42e4-b118-2fed228d93e7",
+    "src_id": "KOHA-OAI-TEST:18429",
+    "content": {
+      "id": "https://id.kulturpool.at/d391c551-a17c-42e4-b118-2fed228d93e7/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=18429",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/DIA/DIA8/VNA_DIA_KT08_188.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/d391c551-a17c-42e4-b118-2fed228d93e7/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Straße grünes Haus und Minarett, Vermutlich Türkei"
+        ],
+        "dcType": [
+          {
+            "@value": "Kleinbild Dia Farbe",
+            "@language": "de"
+          },
+          "Dia"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Haus",
+            "@language": "de"
+          },
+          {
+            "@value": "Grün",
+            "@language": "de"
+          },
+          {
+            "@value": "Stadt",
+            "@language": "de"
+          },
+          {
+            "@value": "Minarett",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_DIA_KT08_188"
+        ],
+        "description": [
+          {
+            "@value": "Straße grünes Haus und Minarett, Vermutlich Türkei",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "0f5fc1a1-7bdd-4c7a-a20d-c68f542966ba",
+    "src_id": "KOHA-OAI-TEST:6895",
+    "content": {
+      "id": "https://id.kulturpool.at/0f5fc1a1-7bdd-4c7a-a20d-c68f542966ba/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=6895",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/DIA/IDBASIC/VNA_DIA_ID_basic_151.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/0f5fc1a1-7bdd-4c7a-a20d-c68f542966ba/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Häuserfassade San Francisco Painted Ladies"
+        ],
+        "dcType": [
+          {
+            "@value": "Kleinbild Dia Farbe",
+            "@language": "de"
+          },
+          "Dia"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          {
+            "@value": "San Francisco",
+            "@language": "de"
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Fassade",
+            "@language": "de"
+          },
+          {
+            "@value": "Straße",
+            "@language": "de"
+          },
+          {
+            "@value": "Katalog",
+            "@language": "de"
+          },
+          {
+            "@value": "Haus",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_DIA_ID_basic_151"
+        ],
+        "description": [
+          {
+            "@value": "Häuserfassade San Francisco Painted Ladies",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "5379e264-4f3d-4240-84fc-b403d501de46",
+    "src_id": "KOHA-OAI-TEST:11829",
+    "content": {
+      "id": "https://id.kulturpool.at/5379e264-4f3d-4240-84fc-b403d501de46/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=11829",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/OBJ2/VNA_OBJ_237.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/5379e264-4f3d-4240-84fc-b403d501de46/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Boot Modell "
+        ],
+        "dcType": [
+          "Objekt"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Blech",
+            "@language": "de"
+          },
+          {
+            "@value": "Design",
+            "@language": "de"
+          },
+          {
+            "@value": "Boot",
+            "@language": "de"
+          },
+          {
+            "@value": "Modell",
+            "@language": "de"
+          },
+          {
+            "@value": "Spielzeug",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_OBJ_237"
+        ],
+        "description": [
+          {
+            "@value": "Boot Modell ",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "2d8f2a56-9c77-480b-a381-1a8da3d10098",
+    "src_id": "KOHA-OAI-TEST:15256",
+    "content": {
+      "id": "https://id.kulturpool.at/2d8f2a56-9c77-480b-a381-1a8da3d10098/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=15256",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/OBJ3/VNA_OBJ_725.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/2d8f2a56-9c77-480b-a381-1a8da3d10098/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Keramikschüssel mit Hänkel"
+        ],
+        "dcType": [
+          "Objekt"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Antike",
+            "@language": "de"
+          },
+          {
+            "@value": "Keramikgefäß",
+            "@language": "de"
+          },
+          {
+            "@value": "Lateinamerika",
+            "@language": "de"
+          },
+          {
+            "@value": "Schüssel",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_OBJ_725"
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "d33c5d8c-2870-44fa-bf0b-7ad08a7c5d64",
+    "src_id": "KOHA-OAI-TEST:13284",
+    "content": {
+      "id": "https://id.kulturpool.at/d33c5d8c-2870-44fa-bf0b-7ad08a7c5d64/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=13284",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/FOTO/VNA_FOTO_269.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/d33c5d8c-2870-44fa-bf0b-7ad08a7c5d64/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Porträt Gertrude"
+        ],
+        "dcType": [
+          {
+            "@value": "Foto Positiv",
+            "@language": "de"
+          },
+          "Visuelles Material"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Frau",
+            "@language": "de"
+          },
+          {
+            "@value": "Bildnis",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_FOTO_269"
+        ],
+        "description": [
+          {
+            "@value": "Porträt Gertrude",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "1922b6a8-e8cf-4b49-90c4-46047530aaca",
+    "src_id": "KOHA-OAI-TEST:6268",
+    "content": {
+      "id": "https://id.kulturpool.at/1922b6a8-e8cf-4b49-90c4-46047530aaca/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=6268",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/FOTO/VNA_FOTO_207.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/1922b6a8-e8cf-4b49-90c4-46047530aaca/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Porträt drei Kinder"
+        ],
+        "dcType": [
+          {
+            "@value": "Foto Positiv",
+            "@language": "de"
+          },
+          "Visuelles Material"
+        ],
+        "extent": [
+          "ca. 6,5 x 11,0cm"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          {
+            "@value": "Wien",
+            "@language": "de"
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Kind",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "publisher": [
+          "Dr H. Heid, Wien"
+        ],
+        "identifier": [
+          "VNA_FOTO_207"
+        ],
+        "description": [
+          {
+            "@value": "Porträt drei Kinder",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "d3c526ba-c4a9-4a38-9fed-b15c11c2676e",
+    "src_id": "KOHA-OAI-TEST:18427",
+    "content": {
+      "id": "https://id.kulturpool.at/d3c526ba-c4a9-4a38-9fed-b15c11c2676e/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=18427",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/DIA/DIA8/VNA_DIA_KT08_186.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/d3c526ba-c4a9-4a38-9fed-b15c11c2676e/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Earthship in Steppe"
+        ],
+        "dcType": [
+          {
+            "@value": "Kleinbild Dia Farbe",
+            "@language": "de"
+          },
+          "Dia"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Earthship",
+            "@language": "de"
+          },
+          {
+            "@value": "Haus",
+            "@language": "de"
+          },
+          {
+            "@value": "Steppe",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_DIA_KT08_186"
+        ],
+        "description": [
+          {
+            "@value": "Earthship in Steppe",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "8be757c6-1024-40ea-bc02-fd3ee38b42f1",
+    "src_id": "KOHA-OAI-TEST:15255",
+    "content": {
+      "id": "https://id.kulturpool.at/8be757c6-1024-40ea-bc02-fd3ee38b42f1/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=15255",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/OBJ3/VNA_OBJ_724.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/8be757c6-1024-40ea-bc02-fd3ee38b42f1/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Keramik Schüssel bemalt"
+        ],
+        "dcType": [
+          "Objekt"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Antike",
+            "@language": "de"
+          },
+          {
+            "@value": "Keramikgefäß",
+            "@language": "de"
+          },
+          {
+            "@value": "Lateinamerika",
+            "@language": "de"
+          },
+          {
+            "@value": "Schüssel",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_OBJ_724"
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "c4447f37-e6af-4a63-a311-8e3fa11f984e",
+    "src_id": "KOHA-OAI-TEST:11828",
+    "content": {
+      "id": "https://id.kulturpool.at/c4447f37-e6af-4a63-a311-8e3fa11f984e/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=11828",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/OBJ2/VNA_OBJ_236.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/c4447f37-e6af-4a63-a311-8e3fa11f984e/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Keramik Stempel Antik"
+        ],
+        "dcType": [
+          "Objekt"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Design",
+            "@language": "de"
+          },
+          {
+            "@value": "Stempel",
+            "@language": "de"
+          },
+          {
+            "@value": "Keramik",
+            "@language": "de"
+          },
+          {
+            "@value": "Formgebung",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_OBJ_236"
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "284fc485-f53b-4cad-a5f1-5ad2720c5dfc",
+    "src_id": "KOHA-OAI-TEST:6894",
+    "content": {
+      "id": "https://id.kulturpool.at/284fc485-f53b-4cad-a5f1-5ad2720c5dfc/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=6894",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/DIA/IDBASIC/VNA_DIA_ID_basic_150.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/284fc485-f53b-4cad-a5f1-5ad2720c5dfc/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Häuserfassade San Francisco Grove Street"
+        ],
+        "dcType": [
+          {
+            "@value": "Kleinbild Dia Farbe",
+            "@language": "de"
+          },
+          "Dia"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          {
+            "@value": "San Francisco",
+            "@language": "de"
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Fassade",
+            "@language": "de"
+          },
+          {
+            "@value": "Straße",
+            "@language": "de"
+          },
+          {
+            "@value": "Katalog",
+            "@language": "de"
+          },
+          {
+            "@value": "Haus",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_DIA_ID_basic_150"
+        ],
+        "description": [
+          {
+            "@value": "Häuserfassade San Francisco Grove Street",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "d0d6168c-84be-4382-ace0-21710c6d14a2",
+    "src_id": "KOHA-OAI-TEST:6267",
+    "content": {
+      "id": "https://id.kulturpool.at/d0d6168c-84be-4382-ace0-21710c6d14a2/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=6267",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/FOTO/VNA_FOTO_206.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/d0d6168c-84be-4382-ace0-21710c6d14a2/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Porträt Kind und Möbel"
+        ],
+        "dcType": [
+          {
+            "@value": "Foto Positiv",
+            "@language": "de"
+          },
+          "Visuelles Material"
+        ],
+        "extent": [
+          "ca. 6,5 x 11,0cm"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          {
+            "@value": "Wien",
+            "@language": "de"
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Kind",
+            "@language": "de"
+          },
+          {
+            "@value": "Bildnis",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "publisher": [
+          "L. Frey, Wien"
+        ],
+        "identifier": [
+          "VNA_FOTO_206"
+        ],
+        "description": [
+          {
+            "@value": "Porträt Kind und Möbel",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "f9198875-3219-42f0-97dd-013295045468",
+    "src_id": "KOHA-OAI-TEST:13282",
+    "content": {
+      "id": "https://id.kulturpool.at/f9198875-3219-42f0-97dd-013295045468/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=13282",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/FOTO/VNA_FOTO_267.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/f9198875-3219-42f0-97dd-013295045468/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Ada und Mädchen und Bursche in Wiese"
+        ],
+        "dcType": [
+          {
+            "@value": "Foto Positiv",
+            "@language": "de"
+          },
+          "Visuelles Material"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Gruppe",
+            "@language": "de"
+          },
+          {
+            "@value": "Kind",
+            "@language": "de"
+          },
+          {
+            "@value": "Wiese",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_FOTO_267"
+        ],
+        "contributor": [
+          {
+            "id": "Pulawsky,+Adele+Michaele",
+            "date": [
+              "1896 - 1946"
+            ],
+            "type": "Agent",
+            "prefLabel": [
+              "Pulawsky, Adele Michaele"
+            ]
+          }
+        ],
+        "description": [
+          {
+            "@value": "Ada und Mädchen und Bursche in Wiese",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "90658dbe-497a-4dbe-9f71-19f025f20784",
+    "src_id": "KOHA-OAI-TEST:15254",
+    "content": {
+      "id": "https://id.kulturpool.at/90658dbe-497a-4dbe-9f71-19f025f20784/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=15254",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/OBJ3/VNA_OBJ_723.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/90658dbe-497a-4dbe-9f71-19f025f20784/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Keramikschüssel mit Hänkel"
+        ],
+        "dcType": [
+          "Objekt"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Antike",
+            "@language": "de"
+          },
+          {
+            "@value": "Keramikgefäß",
+            "@language": "de"
+          },
+          {
+            "@value": "Lateinamerika",
+            "@language": "de"
+          },
+          {
+            "@value": "Schüssel",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_OBJ_723"
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "8006f761-d30c-4017-9b65-b2003e22099d",
+    "src_id": "KOHA-OAI-TEST:11827",
+    "content": {
+      "id": "https://id.kulturpool.at/8006f761-d30c-4017-9b65-b2003e22099d/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=11827",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/OBJ2/VNA_OBJ_235.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/8006f761-d30c-4017-9b65-b2003e22099d/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Bronze Objekt mit Affen"
+        ],
+        "dcType": [
+          "Objekt"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Affen",
+            "@language": "de"
+          },
+          {
+            "@value": "Bronze",
+            "@language": "de"
+          },
+          {
+            "@value": "Brosche",
+            "@language": "de"
+          },
+          {
+            "@value": "Design",
+            "@language": "de"
+          },
+          {
+            "@value": "Objekt",
+            "@language": "de"
+          },
+          {
+            "@value": "Tiere",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_OBJ_235"
+        ],
+        "description": [
+          {
+            "@value": "Bronze Objekt mit Affen",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "8675a127-891a-4f5f-a80f-7f32849239cb",
+    "src_id": "KOHA-OAI-TEST:18417",
+    "content": {
+      "id": "https://id.kulturpool.at/8675a127-891a-4f5f-a80f-7f32849239cb/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=18417",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/DIA/DIA8/VNA_DIA_KT08_176.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/8675a127-891a-4f5f-a80f-7f32849239cb/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Earthship"
+        ],
+        "dcType": [
+          {
+            "@value": "Kleinbild Dia Farbe",
+            "@language": "de"
+          },
+          "Dia"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Earthship",
+            "@language": "de"
+          },
+          {
+            "@value": "Baustelle",
+            "@language": "de"
+          },
+          {
+            "@value": "Architektur",
+            "@language": "de"
+          },
+          {
+            "@value": "Energieeffizienz",
+            "@language": "de"
+          },
+          {
+            "@value": "Haus",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_DIA_KT08_176"
+        ],
+        "description": [
+          {
+            "@value": "Earthship",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "7db216ae-ae2f-41bd-98e0-729fbcf96294",
+    "src_id": "KOHA-OAI-TEST:6893",
+    "content": {
+      "id": "https://id.kulturpool.at/7db216ae-ae2f-41bd-98e0-729fbcf96294/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=6893",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/DIA/IDBASIC/VNA_DIA_ID_basic_149.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/7db216ae-ae2f-41bd-98e0-729fbcf96294/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Jazz Mural - Fassade bemalt - San Francisco, CA"
+        ],
+        "dcType": [
+          {
+            "@value": "Kleinbild Dia Farbe",
+            "@language": "de"
+          },
+          "Dia"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Architektur",
+            "@language": "de"
+          },
+          {
+            "@value": "Design",
+            "@language": "de"
+          },
+          {
+            "@value": "Fassade",
+            "@language": "de"
+          },
+          {
+            "@value": "Zeichnung",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_DIA_ID_basic_149"
+        ],
+        "description": [
+          {
+            "@value": "Jazz Mural - Fassade bemalt - San Francisco, CA Fassade bemalt ",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "14e64b61-cee2-4282-b7b8-ea86f42a8928",
+    "src_id": "KOHA-OAI-TEST:6266",
+    "content": {
+      "id": "https://id.kulturpool.at/14e64b61-cee2-4282-b7b8-ea86f42a8928/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=6266",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/FOTO/VNA_FOTO_205.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/14e64b61-cee2-4282-b7b8-ea86f42a8928/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Porträt Mann"
+        ],
+        "dcType": [
+          {
+            "@value": "Foto Positiv",
+            "@language": "de"
+          },
+          "Visuelles Material"
+        ],
+        "extent": [
+          "ca. 6,5 x 11,0cm"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          {
+            "@value": "Wien",
+            "@language": "de"
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Mann",
+            "@language": "de"
+          },
+          {
+            "@value": "Bildnis",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "publisher": [
+          "Wilhelm Neuss, Wien"
+        ],
+        "identifier": [
+          "VNA_FOTO_205"
+        ],
+        "description": [
+          {
+            "@value": "Platten Nummer: 29612",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "b7b1f482-108e-40f5-a9e0-54ac45decb70",
+    "src_id": "KOHA-OAI-TEST:11826",
+    "content": {
+      "id": "https://id.kulturpool.at/b7b1f482-108e-40f5-a9e0-54ac45decb70/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=11826",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/OBJ2/VNA_OBJ_234.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/b7b1f482-108e-40f5-a9e0-54ac45decb70/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Steinobjekt in Ankerform"
+        ],
+        "dcType": [
+          "Objekt"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Anker",
+            "@language": "de"
+          },
+          {
+            "@value": "Design",
+            "@language": "de"
+          },
+          {
+            "@value": "Steinplastik",
+            "@language": "de"
+          },
+          {
+            "@value": "Stein",
+            "@language": "de"
+          },
+          {
+            "@value": "Formgebung",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_OBJ_234"
+        ],
+        "description": [
+          {
+            "@value": "Steinobjekt in Ankerform",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "5e7cdd57-1f90-4a78-97de-db8bea49071a",
+    "src_id": "KOHA-OAI-TEST:13281",
+    "content": {
+      "id": "https://id.kulturpool.at/5e7cdd57-1f90-4a78-97de-db8bea49071a/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=13281",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/FOTO/VNA_FOTO_266.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/5e7cdd57-1f90-4a78-97de-db8bea49071a/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Kindergruppe auf Treppe"
+        ],
+        "dcType": [
+          {
+            "@value": "Foto Positiv",
+            "@language": "de"
+          },
+          "Visuelles Material"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Gruppe",
+            "@language": "de"
+          },
+          {
+            "@value": "Kind",
+            "@language": "de"
+          },
+          {
+            "@value": "Treppe",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_FOTO_266"
+        ],
+        "description": [
+          {
+            "@value": "Kindergruppe auf Treppe",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "9ae2451c-6289-4909-b21e-fd5766e54f10",
+    "src_id": "KOHA-OAI-TEST:18415",
+    "content": {
+      "id": "https://id.kulturpool.at/9ae2451c-6289-4909-b21e-fd5766e54f10/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=18415",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/DIA/DIA8/VNA_DIA_KT08_174.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/9ae2451c-6289-4909-b21e-fd5766e54f10/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Segelboote und Zuschauer am Wasser"
+        ],
+        "dcType": [
+          {
+            "@value": "Kleinbild Dia Farbe",
+            "@language": "de"
+          },
+          "Dia"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Freizeit",
+            "@language": "de"
+          },
+          {
+            "@value": "Gruppe",
+            "@language": "de"
+          },
+          {
+            "@value": "See",
+            "@language": "de"
+          },
+          {
+            "@value": "Segelboot",
+            "@language": "de"
+          },
+          {
+            "@value": "Wasser",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_DIA_KT08_174"
+        ],
+        "description": [
+          {
+            "@value": "Segelboote und Zuschauer am Wasser",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "2735b9ad-20b1-4801-9dc4-edc51b7e94e4",
+    "src_id": "KOHA-OAI-TEST:15253",
+    "content": {
+      "id": "https://id.kulturpool.at/2735b9ad-20b1-4801-9dc4-edc51b7e94e4/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=15253",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/OBJ3/VNA_OBJ_722.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/2735b9ad-20b1-4801-9dc4-edc51b7e94e4/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Keramik Schüssel bemalt"
+        ],
+        "dcType": [
+          "Objekt"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Antike",
+            "@language": "de"
+          },
+          {
+            "@value": "Keramikgefäß",
+            "@language": "de"
+          },
+          {
+            "@value": "Lateinamerika",
+            "@language": "de"
+          },
+          {
+            "@value": "Schüssel",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_OBJ_722"
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "805f546c-aa42-43f7-bb5f-0e24e12d4c6d",
+    "src_id": "KOHA-OAI-TEST:6892",
+    "content": {
+      "id": "https://id.kulturpool.at/805f546c-aa42-43f7-bb5f-0e24e12d4c6d/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=6892",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/DIA/IDBASIC/VNA_DIA_ID_basic_148.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/805f546c-aa42-43f7-bb5f-0e24e12d4c6d/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Häuser in San Francisco im Viktorianischem Stil"
+        ],
+        "dcType": [
+          {
+            "@value": "Kleinbild Dia Farbe",
+            "@language": "de"
+          },
+          "Dia"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Architektur",
+            "@language": "de"
+          },
+          {
+            "@value": "Holz",
+            "@language": "de"
+          },
+          {
+            "@value": "Haus",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_DIA_ID_basic_148"
+        ],
+        "description": [
+          {
+            "@value": "Haus Amerika",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "28e7fa12-608f-4ff2-970d-c248d101a7dc",
+    "src_id": "KOHA-OAI-TEST:13280",
+    "content": {
+      "id": "https://id.kulturpool.at/28e7fa12-608f-4ff2-970d-c248d101a7dc/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=13280",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/FOTO/VNA_FOTO_265.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/28e7fa12-608f-4ff2-970d-c248d101a7dc/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Mädchengruppe Schule – Ada?"
+        ],
+        "dcType": [
+          {
+            "@value": "Foto Positiv",
+            "@language": "de"
+          },
+          "Visuelles Material"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Mädchen",
+            "@language": "de"
+          },
+          {
+            "@value": "Schule",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_FOTO_265"
+        ],
+        "contributor": [
+          {
+            "id": "Pulawsky,+Adele+Michaele",
+            "date": [
+              "1896 - 1946"
+            ],
+            "type": "Agent",
+            "prefLabel": [
+              "Pulawsky, Adele Michaele"
+            ]
+          }
+        ],
+        "description": [
+          {
+            "@value": "Mädchengruppe Schule – Ada?",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "aa70526c-2fc4-45bb-b5f7-af141b70ac73",
+    "src_id": "KOHA-OAI-TEST:11825",
+    "content": {
+      "id": "https://id.kulturpool.at/aa70526c-2fc4-45bb-b5f7-af141b70ac73/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=11825",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/OBJ2/VNA_OBJ_233.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/aa70526c-2fc4-45bb-b5f7-af141b70ac73/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Steinobjekt in Ankerform"
+        ],
+        "dcType": [
+          "Objekt"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Anker",
+            "@language": "de"
+          },
+          {
+            "@value": "Design",
+            "@language": "de"
+          },
+          {
+            "@value": "Steinplastik",
+            "@language": "de"
+          },
+          {
+            "@value": "Stein",
+            "@language": "de"
+          },
+          {
+            "@value": "Formgebung",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_OBJ_233"
+        ],
+        "description": [
+          {
+            "@value": "Steinobjekt in Ankerform",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "37ab22aa-fd00-418b-8f75-f0caa08d1a7c",
+    "src_id": "KOHA-OAI-TEST:6264",
+    "content": {
+      "id": "https://id.kulturpool.at/37ab22aa-fd00-418b-8f75-f0caa08d1a7c/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=6264",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/FOTO/VNA_FOTO_203.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/37ab22aa-fd00-418b-8f75-f0caa08d1a7c/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Kind mit Katze bei Eingang"
+        ],
+        "dcType": [
+          {
+            "@value": "Foto Positiv",
+            "@language": "de"
+          },
+          "Visuelles Material"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Eingang",
+            "@language": "de"
+          },
+          {
+            "@value": "Katze",
+            "@language": "de"
+          },
+          {
+            "@value": "Kind",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_FOTO_203"
+        ],
+        "description": [
+          {
+            "@value": "Kind mit Katze bei Eingang",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "29ee7cf8-65ec-4783-a5ce-fb6531ef4db7",
+    "src_id": "KOHA-OAI-TEST:18413",
+    "content": {
+      "id": "https://id.kulturpool.at/29ee7cf8-65ec-4783-a5ce-fb6531ef4db7/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=18413",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/DIA/DIA8/VNA_DIA_KT08_172.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/29ee7cf8-65ec-4783-a5ce-fb6531ef4db7/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Felsenhäuser Cappadocia Goreme, Türkei"
+        ],
+        "dcType": [
+          {
+            "@value": "Kleinbild Dia Farbe",
+            "@language": "de"
+          },
+          "Dia"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          {
+            "@value": "Türkei",
+            "@language": "de"
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Berg",
+            "@language": "de"
+          },
+          {
+            "@value": "Fels",
+            "@language": "de"
+          },
+          {
+            "@value": "Architektur",
+            "@language": "de"
+          },
+          {
+            "@value": "Steinhaus",
+            "@language": "de"
+          },
+          {
+            "@value": "Haus",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_DIA_KT08_172"
+        ],
+        "description": [
+          {
+            "@value": "Felsenhäuser Cappadocia Goreme, Türkei",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "25cb2c8a-070d-440a-bbba-ed1eeb464312",
+    "src_id": "KOHA-OAI-TEST:15252",
+    "content": {
+      "id": "https://id.kulturpool.at/25cb2c8a-070d-440a-bbba-ed1eeb464312/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=15252",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/OBJ3/VNA_OBJ_721.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/25cb2c8a-070d-440a-bbba-ed1eeb464312/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Keramik Schüssel bemalt"
+        ],
+        "dcType": [
+          "Objekt"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Antike",
+            "@language": "de"
+          },
+          {
+            "@value": "Keramikgefäß",
+            "@language": "de"
+          },
+          {
+            "@value": "Lateinamerika",
+            "@language": "de"
+          },
+          {
+            "@value": "Schüssel",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_OBJ_721"
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "775d3673-791e-4261-b238-92c7aed57469",
+    "src_id": "KOHA-OAI-TEST:6263",
+    "content": {
+      "id": "https://id.kulturpool.at/775d3673-791e-4261-b238-92c7aed57469/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=6263",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/FOTO/VNA_FOTO_202.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/775d3673-791e-4261-b238-92c7aed57469/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Kreuz vor Hof Millstatt (postkarte)"
+        ],
+        "dcType": [
+          {
+            "@value": "Foto Positiv",
+            "@language": "de"
+          },
+          "Visuelles Material"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          {
+            "@value": "Millstatt am See",
+            "@language": "de"
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Postkarte",
+            "@language": "de"
+          },
+          {
+            "@value": "Schnee",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "publisher": [
+          "Steiner Foto"
+        ],
+        "identifier": [
+          "VNA_FOTO_202"
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "961023cb-fc89-413d-9760-18b508979150",
+    "src_id": "KOHA-OAI-TEST:6891",
+    "content": {
+      "id": "https://id.kulturpool.at/961023cb-fc89-413d-9760-18b508979150/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=6891",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/DIA/IDBASIC/VNA_DIA_ID_basic_147.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/961023cb-fc89-413d-9760-18b508979150/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Bauernhaus mit Zaun"
+        ],
+        "dcType": [
+          {
+            "@value": "Kleinbild Dia Farbe",
+            "@language": "de"
+          },
+          "Dia"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Architektur",
+            "@language": "de"
+          },
+          {
+            "@value": "Bauernhaus",
+            "@language": "de"
+          },
+          {
+            "@value": "Haus",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_DIA_ID_basic_147"
+        ],
+        "description": [
+          {
+            "@value": "Bauernhaus mit Zaun",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "d8301763-1a11-49ec-96ad-b89892b8840b",
+    "src_id": "KOHA-OAI-TEST:11824",
+    "content": {
+      "id": "https://id.kulturpool.at/d8301763-1a11-49ec-96ad-b89892b8840b/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=11824",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/OBJ2/VNA_OBJ_232.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/d8301763-1a11-49ec-96ad-b89892b8840b/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Tonkopf Tier"
+        ],
+        "dcType": [
+          "Objekt"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Tiere",
+            "@language": "de"
+          },
+          {
+            "@value": "Keramik",
+            "@language": "de"
+          },
+          {
+            "@value": "Archäologie",
+            "@language": "de"
+          },
+          {
+            "@value": "Formgebung",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_OBJ_232"
+        ],
+        "description": [
+          {
+            "@value": "Tonkopf Tier",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "ae7ef666-2d21-4037-819b-de5bbb67f4f2",
+    "src_id": "KOHA-OAI-TEST:18412",
+    "content": {
+      "id": "https://id.kulturpool.at/ae7ef666-2d21-4037-819b-de5bbb67f4f2/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=18412",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/DIA/DIA8/VNA_DIA_KT08_171.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/ae7ef666-2d21-4037-819b-de5bbb67f4f2/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Felsen und Berge von Kappadokien Goreme, Türkei"
+        ],
+        "dcType": [
+          {
+            "@value": "Kleinbild Dia Farbe",
+            "@language": "de"
+          },
+          "Dia"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Berg",
+            "@language": "de"
+          },
+          {
+            "@value": "Fels",
+            "@language": "de"
+          },
+          {
+            "@value": "Hügel",
+            "@language": "de"
+          },
+          {
+            "@value": "Stätte",
+            "@language": "de"
+          },
+          {
+            "@value": "Steinzeit",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_DIA_KT08_171"
+        ],
+        "description": [
+          {
+            "@value": "Felsen und Berge von Kappadokien Goreme, Türkei",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "84e45841-24ab-4fda-9081-cee869c96233",
+    "src_id": "KOHA-OAI-TEST:13279",
+    "content": {
+      "id": "https://id.kulturpool.at/84e45841-24ab-4fda-9081-cee869c96233/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=13279",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/FOTO/VNA_FOTO_264.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/84e45841-24ab-4fda-9081-cee869c96233/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Mädchengruppe im Wald"
+        ],
+        "dcType": [
+          {
+            "@value": "Foto Positiv",
+            "@language": "de"
+          },
+          "Visuelles Material"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Gruppe",
+            "@language": "de"
+          },
+          {
+            "@value": "Mädchen",
+            "@language": "de"
+          },
+          {
+            "@value": "Wald",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_FOTO_264"
+        ],
+        "description": [
+          {
+            "@value": "Mädchengruppe im Wald",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "5406effc-f1bf-41e2-8b97-5fb9c51e5e8d",
+    "src_id": "KOHA-OAI-TEST:6889",
+    "content": {
+      "id": "https://id.kulturpool.at/5406effc-f1bf-41e2-8b97-5fb9c51e5e8d/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=6889",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/DIA/IDBASIC/VNA_DIA_ID_basic_145.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/5406effc-f1bf-41e2-8b97-5fb9c51e5e8d/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Bauernhaus "
+        ],
+        "dcType": [
+          {
+            "@value": "Kleinbild Dia Farbe",
+            "@language": "de"
+          },
+          "Dia"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Architektur",
+            "@language": "de"
+          },
+          {
+            "@value": "Bauernhaus",
+            "@language": "de"
+          },
+          {
+            "@value": "Haus",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_DIA_ID_basic_145"
+        ],
+        "description": [
+          {
+            "@value": "Bauernhaus ",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "bbaa0d40-f797-435d-8722-c298358d46ae",
+    "src_id": "KOHA-OAI-TEST:15251",
+    "content": {
+      "id": "https://id.kulturpool.at/bbaa0d40-f797-435d-8722-c298358d46ae/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=15251",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/OBJ3/VNA_OBJ_720.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/bbaa0d40-f797-435d-8722-c298358d46ae/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Keramik Schüssel bemalt"
+        ],
+        "dcType": [
+          "Objekt"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Antike",
+            "@language": "de"
+          },
+          {
+            "@value": "Keramikgefäß",
+            "@language": "de"
+          },
+          {
+            "@value": "Lateinamerika",
+            "@language": "de"
+          },
+          {
+            "@value": "Schüssel",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_OBJ_720"
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "ace9f1d5-2387-465a-9a03-71bd86f3aaaf",
+    "src_id": "KOHA-OAI-TEST:14934",
+    "content": {
+      "id": "https://id.kulturpool.at/ace9f1d5-2387-465a-9a03-71bd86f3aaaf/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=14934",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/OBJ3/VNA_OBJ_403.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/ace9f1d5-2387-465a-9a03-71bd86f3aaaf/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Bronze Schmuck "
+        ],
+        "dcType": [
+          "Objekt"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Antike",
+            "@language": "de"
+          },
+          {
+            "@value": "Bronze",
+            "@language": "de"
+          },
+          {
+            "@value": "Schmuck",
+            "@language": "de"
+          },
+          {
+            "@value": "Tiere",
+            "@language": "de"
+          },
+          {
+            "@value": "Archäologie",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_OBJ_403"
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "467e24f6-9697-44b4-a1c6-d2b7b17fea1a",
+    "src_id": "KOHA-OAI-TEST:11823",
+    "content": {
+      "id": "https://id.kulturpool.at/467e24f6-9697-44b4-a1c6-d2b7b17fea1a/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=11823",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/OBJ2/VNA_OBJ_231.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/467e24f6-9697-44b4-a1c6-d2b7b17fea1a/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Handspindel Lateinamerika"
+        ],
+        "dcType": [
+          "Objekt"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Design",
+            "@language": "de"
+          },
+          {
+            "@value": "Handspindel",
+            "@language": "de"
+          },
+          {
+            "@value": "Lateinamerika",
+            "@language": "de"
+          },
+          {
+            "@value": "Handwerk",
+            "@language": "de"
+          },
+          {
+            "@value": "Keramik",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_OBJ_231"
+        ],
+        "description": [
+          {
+            "@value": "Handspindel Lateinamerika",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "8d6ce324-41b6-4580-8fbd-d908aeb40e91",
+    "src_id": "KOHA-OAI-TEST:14933",
+    "content": {
+      "id": "https://id.kulturpool.at/8d6ce324-41b6-4580-8fbd-d908aeb40e91/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=14933",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/OBJ3/VNA_OBJ_402.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/8d6ce324-41b6-4580-8fbd-d908aeb40e91/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Öl Lampe"
+        ],
+        "dcType": [
+          "Objekt"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Antike",
+            "@language": "de"
+          },
+          {
+            "@value": "Öllampe",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_OBJ_402"
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "6f390e36-7cc5-4251-a2a8-862175be59b5",
+    "src_id": "KOHA-OAI-TEST:13278",
+    "content": {
+      "id": "https://id.kulturpool.at/6f390e36-7cc5-4251-a2a8-862175be59b5/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=13278",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/FOTO/VNA_FOTO_263.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/6f390e36-7cc5-4251-a2a8-862175be59b5/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Mann mit Pferd"
+        ],
+        "dcType": [
+          {
+            "@value": "Foto Positiv",
+            "@language": "de"
+          },
+          "Visuelles Material"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Mann",
+            "@language": "de"
+          },
+          {
+            "@value": "Pferd",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_FOTO_263"
+        ],
+        "description": [
+          {
+            "@value": "Mann mit Pferd",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "9d2eff80-91c3-483b-8439-21d952b4d88f",
+    "src_id": "KOHA-OAI-TEST:15250",
+    "content": {
+      "id": "https://id.kulturpool.at/9d2eff80-91c3-483b-8439-21d952b4d88f/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=15250",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/OBJ3/VNA_OBJ_719.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/9d2eff80-91c3-483b-8439-21d952b4d88f/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Keramik Schüssel bemalt"
+        ],
+        "dcType": [
+          "Objekt"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Antike",
+            "@language": "de"
+          },
+          {
+            "@value": "Keramikgefäß",
+            "@language": "de"
+          },
+          {
+            "@value": "Lateinamerika",
+            "@language": "de"
+          },
+          {
+            "@value": "Schüssel",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_OBJ_719"
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "96e0ae10-a2ed-4179-b892-f45cfb009095",
+    "src_id": "KOHA-OAI-TEST:14932",
+    "content": {
+      "id": "https://id.kulturpool.at/96e0ae10-a2ed-4179-b892-f45cfb009095/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=14932",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/OBJ3/VNA_OBJ_401.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/96e0ae10-a2ed-4179-b892-f45cfb009095/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Brosche aus Knochen oder Horn"
+        ],
+        "dcType": [
+          "Objekt"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Bronze",
+            "@language": "de"
+          },
+          {
+            "@value": "Brosche",
+            "@language": "de"
+          },
+          {
+            "@value": "Horn",
+            "@language": "de"
+          },
+          {
+            "@value": "Knochen",
+            "@language": "de"
+          },
+          {
+            "@value": "Schmuck",
+            "@language": "de"
+          },
+          {
+            "@value": "Archäologie",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_OBJ_401"
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "a3356b7b-6e0c-47cf-9736-ceb78ef1054b",
+    "src_id": "KOHA-OAI-TEST:6262",
+    "content": {
+      "id": "https://id.kulturpool.at/a3356b7b-6e0c-47cf-9736-ceb78ef1054b/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=6262",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/FOTO/VNA_FOTO_201.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/a3356b7b-6e0c-47cf-9736-ceb78ef1054b/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Gruppe fröhlich am Tisch"
+        ],
+        "dcType": [
+          {
+            "@value": "Foto Positiv",
+            "@language": "de"
+          },
+          "Visuelles Material"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Feier",
+            "@language": "de"
+          },
+          {
+            "@value": "Gruppenaufnahme",
+            "@language": "de"
+          },
+          {
+            "@value": "Tisch",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_FOTO_201"
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "f0593618-db9d-4972-97fa-28fdef68e20b",
+    "src_id": "KOHA-OAI-TEST:18407",
+    "content": {
+      "id": "https://id.kulturpool.at/f0593618-db9d-4972-97fa-28fdef68e20b/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=18407",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/DIA/DIA8/VNA_DIA_KT08_166.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/f0593618-db9d-4972-97fa-28fdef68e20b/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Detail Baustelle Earthship"
+        ],
+        "dcType": [
+          {
+            "@value": "Kleinbild Dia Farbe",
+            "@language": "de"
+          },
+          "Dia"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Baustelle",
+            "@language": "de"
+          },
+          {
+            "@value": "Holz",
+            "@language": "de"
+          },
+          {
+            "@value": "Earthship",
+            "@language": "de"
+          },
+          {
+            "@value": "Ziegel",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_DIA_KT08_166"
+        ],
+        "description": [
+          {
+            "@value": "Detail Baustelle Earthship",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "15df1767-5dc2-4ce0-a4f5-47994561c05b",
+    "src_id": "KOHA-OAI-TEST:11822",
+    "content": {
+      "id": "https://id.kulturpool.at/15df1767-5dc2-4ce0-a4f5-47994561c05b/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=11822",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/OBJ2/VNA_OBJ_230.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/15df1767-5dc2-4ce0-a4f5-47994561c05b/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Plexiglas Form Durchsichtig"
+        ],
+        "dcType": [
+          "Objekt"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Design",
+            "@language": "de"
+          },
+          {
+            "@value": "Plexiglas",
+            "@language": "de"
+          },
+          {
+            "@value": "Objekt",
+            "@language": "de"
+          },
+          {
+            "@value": "Formgebung",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_OBJ_230"
+        ],
+        "description": [
+          {
+            "@value": "Plexiglas Form Durchsichtig",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "a8c1d0ee-789a-4f08-ae04-41439ed3acf1",
+    "src_id": "KOHA-OAI-TEST:6888",
+    "content": {
+      "id": "https://id.kulturpool.at/a8c1d0ee-789a-4f08-ae04-41439ed3acf1/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=6888",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/DIA/IDBASIC/VNA_DIA_ID_basic_144.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/a8c1d0ee-789a-4f08-ae04-41439ed3acf1/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Bauernhof mit Holz"
+        ],
+        "dcType": [
+          {
+            "@value": "Kleinbild Dia Farbe",
+            "@language": "de"
+          },
+          "Dia"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Architektur",
+            "@language": "de"
+          },
+          {
+            "@value": "Bauernhaus",
+            "@language": "de"
+          },
+          {
+            "@value": "Haus",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_DIA_ID_basic_144"
+        ],
+        "description": [
+          {
+            "@value": "Bauernhof mit Holz",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "c8c273b1-290e-4fed-9f58-97ca7996ab7f",
+    "src_id": "KOHA-OAI-TEST:14931",
+    "content": {
+      "id": "https://id.kulturpool.at/c8c273b1-290e-4fed-9f58-97ca7996ab7f/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=14931",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/OBJ3/VNA_OBJ_400.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/c8c273b1-290e-4fed-9f58-97ca7996ab7f/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Armband Schlangen zwei Stück in Blau"
+        ],
+        "dcType": [
+          "Objekt"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Armband",
+            "@language": "de"
+          },
+          {
+            "@value": "Schlangen",
+            "@language": "de"
+          },
+          {
+            "@value": "Schmuck",
+            "@language": "de"
+          },
+          {
+            "@value": "Natur",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_OBJ_400"
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "d6a9d79a-3572-49df-9f5c-677882ef1574",
+    "src_id": "KOHA-OAI-TEST:14930",
+    "content": {
+      "id": "https://id.kulturpool.at/d6a9d79a-3572-49df-9f5c-677882ef1574/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=14930",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/OBJ3/VNA_OBJ_399.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/d6a9d79a-3572-49df-9f5c-677882ef1574/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Ausgrabung, Kopf, Terracotta, Griechisch, Römisch"
+        ],
+        "dcType": [
+          "Objekt"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Ausgrabung",
+            "@language": "de"
+          },
+          {
+            "@value": "Antike",
+            "@language": "de"
+          },
+          {
+            "@value": "Kopf",
+            "@language": "de"
+          },
+          {
+            "@value": "Terrakotta",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_OBJ_399"
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "db74cb6f-120e-42fd-bdcc-b2433f0dc523",
+    "src_id": "KOHA-OAI-TEST:13277",
+    "content": {
+      "id": "https://id.kulturpool.at/db74cb6f-120e-42fd-bdcc-b2433f0dc523/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=13277",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/FOTO/VNA_FOTO_262.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/db74cb6f-120e-42fd-bdcc-b2433f0dc523/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Ada und Mann mit Hut vor Baum"
+        ],
+        "dcType": [
+          {
+            "@value": "Foto Positiv",
+            "@language": "de"
+          },
+          "Visuelles Material"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Frau",
+            "@language": "de"
+          },
+          {
+            "@value": "Hut",
+            "@language": "de"
+          },
+          {
+            "@value": "Mann",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_FOTO_262"
+        ],
+        "contributor": [
+          {
+            "id": "Pulawsky,+Adele+Michaele",
+            "date": [
+              "1896 - 1946"
+            ],
+            "type": "Agent",
+            "prefLabel": [
+              "Pulawsky, Adele Michaele"
+            ]
+          }
+        ],
+        "description": [
+          {
+            "@value": "Ada und Mann mit Hut vor Baum",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "2a55aa4d-89c6-4f67-a7b5-597a2da832ea",
+    "src_id": "KOHA-OAI-TEST:14929",
+    "content": {
+      "id": "https://id.kulturpool.at/2a55aa4d-89c6-4f67-a7b5-597a2da832ea/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=14929",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/OBJ3/VNA_OBJ_398.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/2a55aa4d-89c6-4f67-a7b5-597a2da832ea/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Ausgrabung mit Gravur"
+        ],
+        "dcType": [
+          "Objekt"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Ausgrabung",
+            "@language": "de"
+          },
+          {
+            "@value": "Gravierung",
+            "@language": "de"
+          },
+          {
+            "@value": "Inschrift",
+            "@language": "de"
+          },
+          {
+            "@value": "Muster",
+            "@language": "de"
+          },
+          {
+            "@value": "Splitter",
+            "@language": "de"
+          },
+          {
+            "@value": "Archäologie",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_OBJ_398"
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "bd1f2261-8ff4-49ac-8f15-9551733704db",
+    "src_id": "KOHA-OAI-TEST:6261",
+    "content": {
+      "id": "https://id.kulturpool.at/bd1f2261-8ff4-49ac-8f15-9551733704db/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=6261",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/FOTO/VNA_FOTO_200.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/bd1f2261-8ff4-49ac-8f15-9551733704db/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Frau Schnappschuss - Gertude Mayer"
+        ],
+        "dcType": [
+          {
+            "@value": "Foto Positiv",
+            "@language": "de"
+          },
+          "Visuelles Material"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Frau",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_FOTO_200"
+        ],
+        "contributor": [
+          "Gertrude North"
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "20aaa1aa-f4ca-4c9f-b88a-0d65f072cdff",
+    "src_id": "KOHA-OAI-TEST:18402",
+    "content": {
+      "id": "https://id.kulturpool.at/20aaa1aa-f4ca-4c9f-b88a-0d65f072cdff/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=18402",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/DIA/DIA8/VNA_DIA_KT08_161.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/20aaa1aa-f4ca-4c9f-b88a-0d65f072cdff/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Fahrrad Verkauf mit Überdachnung"
+        ],
+        "dcType": [
+          {
+            "@value": "Kleinbild Dia Farbe",
+            "@language": "de"
+          },
+          "Dia"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Fahrrad",
+            "@language": "de"
+          },
+          {
+            "@value": "Straßenverkauf",
+            "@language": "de"
+          },
+          {
+            "@value": "Straße",
+            "@language": "de"
+          },
+          {
+            "@value": "Rad",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_DIA_KT08_161"
+        ],
+        "description": [
+          {
+            "@value": "Fahrrad Verkauf mit Überdachnung",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "77ae9402-ff0d-450f-bb18-a3ea44ec07f5",
+    "src_id": "KOHA-OAI-TEST:15249",
+    "content": {
+      "id": "https://id.kulturpool.at/77ae9402-ff0d-450f-bb18-a3ea44ec07f5/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=15249",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/OBJ3/VNA_OBJ_718.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/77ae9402-ff0d-450f-bb18-a3ea44ec07f5/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Keramik Schüssel bemalt"
+        ],
+        "dcType": [
+          "Objekt"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Antike",
+            "@language": "de"
+          },
+          {
+            "@value": "Keramikgefäß",
+            "@language": "de"
+          },
+          {
+            "@value": "Lateinamerika",
+            "@language": "de"
+          },
+          {
+            "@value": "Schüssel",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_OBJ_718"
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "14eeea9b-c5b2-45a2-ad80-7f04d38a0975",
+    "src_id": "KOHA-OAI-TEST:6886",
+    "content": {
+      "id": "https://id.kulturpool.at/14eeea9b-c5b2-45a2-ad80-7f04d38a0975/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=6886",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/DIA/IDBASIC/VNA_DIA_ID_basic_142.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/14eeea9b-c5b2-45a2-ad80-7f04d38a0975/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Heu vor Bauernhof"
+        ],
+        "dcType": [
+          {
+            "@value": "Kleinbild Dia Farbe",
+            "@language": "de"
+          },
+          "Dia"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Bauernhof",
+            "@language": "de"
+          },
+          {
+            "@value": "Heu",
+            "@language": "de"
+          },
+          {
+            "@value": "Lagerung",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_DIA_ID_basic_142"
+        ],
+        "description": [
+          {
+            "@value": "Heu vor Bauernhof",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "61cb34b4-29d1-418c-bb64-6fa272eb2fee",
+    "src_id": "KOHA-OAI-TEST:14928",
+    "content": {
+      "id": "https://id.kulturpool.at/61cb34b4-29d1-418c-bb64-6fa272eb2fee/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=14928",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/OBJ3/VNA_OBJ_397.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/61cb34b4-29d1-418c-bb64-6fa272eb2fee/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Mittelalterliche Pfeilspitze"
+        ],
+        "dcType": [
+          "Objekt"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Mittelalter",
+            "@language": "de"
+          },
+          {
+            "@value": "Pfeil",
+            "@language": "de"
+          },
+          {
+            "@value": "Archäologie",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_OBJ_397"
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "5fbb7c75-5add-4f81-86c9-0abf9d60ab83",
+    "src_id": "KOHA-OAI-TEST:14927",
+    "content": {
+      "id": "https://id.kulturpool.at/5fbb7c75-5add-4f81-86c9-0abf9d60ab83/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=14927",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/OBJ3/VNA_OBJ_396.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/5fbb7c75-5add-4f81-86c9-0abf9d60ab83/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Schlüssel Bronze"
+        ],
+        "dcType": [
+          "Objekt"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Antike",
+            "@language": "de"
+          },
+          {
+            "@value": "Bronze",
+            "@language": "de"
+          },
+          {
+            "@value": "Schlüssel",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_OBJ_396"
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "32140cde-48fa-4389-9683-d0c136871144",
+    "src_id": "KOHA-OAI-TEST:13276",
+    "content": {
+      "id": "https://id.kulturpool.at/32140cde-48fa-4389-9683-d0c136871144/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=13276",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/FOTO/VNA_FOTO_261.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/32140cde-48fa-4389-9683-d0c136871144/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Gertrude Mit Mann"
+        ],
+        "dcType": [
+          {
+            "@value": "Foto Positiv",
+            "@language": "de"
+          },
+          "Visuelles Material"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Frau",
+            "@language": "de"
+          },
+          {
+            "@value": "Mann",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_FOTO_261"
+        ],
+        "description": [
+          {
+            "@value": "Gertrude Mit Mann",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "e6a7e1b3-54c7-408e-ac58-82e6d08a1754",
+    "src_id": "KOHA-OAI-TEST:15248",
+    "content": {
+      "id": "https://id.kulturpool.at/e6a7e1b3-54c7-408e-ac58-82e6d08a1754/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=15248",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/OBJ3/VNA_OBJ_717.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/e6a7e1b3-54c7-408e-ac58-82e6d08a1754/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Keramik Schüssel bemalt"
+        ],
+        "dcType": [
+          "Objekt"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Antike",
+            "@language": "de"
+          },
+          {
+            "@value": "Keramikgefäß",
+            "@language": "de"
+          },
+          {
+            "@value": "Lateinamerika",
+            "@language": "de"
+          },
+          {
+            "@value": "Schüssel",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_OBJ_717"
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "aa053881-2f43-4d99-baed-0766249aa65f",
+    "src_id": "KOHA-OAI-TEST:14926",
+    "content": {
+      "id": "https://id.kulturpool.at/aa053881-2f43-4d99-baed-0766249aa65f/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=14926",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/OBJ3/VNA_OBJ_395.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/aa053881-2f43-4d99-baed-0766249aa65f/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Öl Lampe"
+        ],
+        "dcType": [
+          "Objekt"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Antike",
+            "@language": "de"
+          },
+          {
+            "@value": "Öllampe",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_OBJ_395"
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "11136d78-3706-4c9d-b178-c1852208415a",
+    "src_id": "KOHA-OAI-TEST:18386",
+    "content": {
+      "id": "https://id.kulturpool.at/11136d78-3706-4c9d-b178-c1852208415a/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=18386",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/DIA/DIA8/VNA_DIA_KT08_145.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/11136d78-3706-4c9d-b178-c1852208415a/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Fountain Place, Hochhaus in Dallas, Texas, USA"
+        ],
+        "dcType": [
+          {
+            "@value": "Kleinbild Dia Farbe",
+            "@language": "de"
+          },
+          "Dia"
+        ],
+        "edmType": "IMAGE",
+        "spatial": [
+          {
+            "@value": "USA",
+            "@language": "de"
+          }
+        ],
+        "subject": [
+          {
+            "@value": "Kraftwagen",
+            "@language": "de"
+          },
+          {
+            "@value": "Gebäude",
+            "@language": "de"
+          },
+          {
+            "@value": "Stadt",
+            "@language": "de"
+          },
+          {
+            "@value": "Straße",
+            "@language": "de"
+          },
+          {
+            "@value": "Hochhaus",
+            "@language": "de"
+          },
+          {
+            "@value": "Architektur",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_DIA_KT08_145"
+        ],
+        "description": [
+          {
+            "@value": "Fountain Place ist ein 60-stöckiger spätmodernistischer Wolkenkratzer in der Innenstadt von Dallas, Texas. Mit einer Bauhöhe von 720 Fuß ist es das fünfthöchste Gebäude in Dallas und das 15. höchste in Texas.Architekten: Henry Nichols Cobb, Ieoh Ming Pei, Harry Weese; Architektonische Höhe: 720 Fuß",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "9312f930-ee62-448b-91ea-964d44baa99f",
+    "src_id": "KOHA-OAI-TEST:11821",
+    "content": {
+      "id": "https://id.kulturpool.at/9312f930-ee62-448b-91ea-964d44baa99f/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=11821",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/OBJ2/VNA_OBJ_229.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/9312f930-ee62-448b-91ea-964d44baa99f/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Bemaltes Gefäß"
+        ],
+        "dcType": [
+          "Objekt"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Gefäß",
+            "@language": "de"
+          },
+          {
+            "@value": "Objekt",
+            "@language": "de"
+          },
+          {
+            "@value": "Malerei",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_OBJ_229"
+        ],
+        "description": [
+          {
+            "@value": "Bemaltes Gefäß",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "02e96410-732f-47a6-83f5-f01bc595f716",
+    "src_id": "KOHA-OAI-TEST:14925",
+    "content": {
+      "id": "https://id.kulturpool.at/02e96410-732f-47a6-83f5-f01bc595f716/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=14925",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/OBJ3/VNA_OBJ_394.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/02e96410-732f-47a6-83f5-f01bc595f716/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Versteinert Schmuck"
+        ],
+        "dcType": [
+          "Objekt"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Ausgrabung",
+            "@language": "de"
+          },
+          {
+            "@value": "Reifen",
+            "@language": "de"
+          },
+          {
+            "@value": "Schmuck",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_OBJ_394"
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "52c1f93f-fa29-41fb-86d4-781dde171dcc",
+    "src_id": "KOHA-OAI-TEST:6260",
+    "content": {
+      "id": "https://id.kulturpool.at/52c1f93f-fa29-41fb-86d4-781dde171dcc/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=6260",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/FOTO/VNA_FOTO_199.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/52c1f93f-fa29-41fb-86d4-781dde171dcc/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Porträt Junge "
+        ],
+        "dcType": [
+          {
+            "@value": "Foto Positiv",
+            "@language": "de"
+          },
+          "Visuelles Material"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Junge",
+            "@language": "de"
+          },
+          {
+            "@value": "Bildnis",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "publisher": [
+          "HEINRICH SCHIMER XV. Sechshauserstr. 12"
+        ],
+        "identifier": [
+          "VNA_FOTO_199"
+        ],
+        "description": [
+          {
+            "@value": "Porträt Junge ",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  },
+  {
+    "kp_id": "e185ae5f-657f-4648-b647-9c9495449f85",
+    "src_id": "KOHA-OAI-TEST:6885",
+    "content": {
+      "id": "https://id.kulturpool.at/e185ae5f-657f-4648-b647-9c9495449f85/aggregation",
+      "type": "Aggregation",
+      "hasView": [],
+      "@context": "https://api.kulturpool.at/ns/v1/edm.json",
+      "provider": {
+        "@value": "Kulturpool",
+        "@language": "de"
+      },
+      "edmRights": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "isShownAt": "https://bibliothek.villanorth.at/cgi-bin/koha/opac-detail.pl?biblionumber=6885",
+      "isShownBy": {
+        "id": "https://archiv.villanorth.at/_arch/DIA/IDBASIC/VNA_DIA_ID_basic_141.jpg",
+        "type": "WebResource"
+      },
+      "dataProvider": "Villa North",
+      "aggregatedCHO": {
+        "id": "https://id.kulturpool.at/e185ae5f-657f-4648-b647-9c9495449f85/cho",
+        "type": "ProvidedCHO",
+        "title": [
+          "Stalleinfahrt Bauernhof"
+        ],
+        "dcType": [
+          {
+            "@value": "Kleinbild Dia Farbe",
+            "@language": "de"
+          },
+          "Dia"
+        ],
+        "edmType": "IMAGE",
+        "subject": [
+          {
+            "@value": "Bauernhof",
+            "@language": "de"
+          },
+          {
+            "@value": "Holz",
+            "@language": "de"
+          },
+          {
+            "@value": "Stall",
+            "@language": "de"
+          }
+        ],
+        "dcRights": [
+          {
+            "@value": "Villa North",
+            "@language": "de"
+          }
+        ],
+        "identifier": [
+          "VNA_DIA_ID_basic_141"
+        ],
+        "description": [
+          {
+            "@value": "Stalleinfahrt Bauernhof",
+            "@language": "de"
+          }
+        ]
+      }
+    },
+    "institution_id": "villa-north",
+    "pipeline_id": "villa-north"
+  }
+]
