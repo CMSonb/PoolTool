@@ -20,7 +20,7 @@ High Middle Ages,period,1050,1249,medium,PeriodO and ChronOntology both have 105
 Medieval,period,500,1500,low,"Conventional Mittelalter; PeriodO has 44 different definitions (start 400-601, end 1389-1600), ChronOntology none",
 Neuzeit,period,1500,,medium,All 5 ChronOntology entries are 1500/present; open end,
 Early Modern Age,period,1500,1800,low,Conventional Frühe Neuzeit; the only PeriodO entry (1526/1710) looks region-specific,
-Modern,period,,,none,Needs your decision: 6 PeriodO definitions from 1480 to 1900 start; unclear whether Moderne or Neuzeit is meant,
+Modern,period,1900,,medium,Decided by the user: Moderne from 1900 onward (open end); only evidence is dataset nhm-wien-divina; PeriodO has 6 conflicting definitions (start 1480 to 1900),
 Neolithikum,period,-5500,-2200,medium,"Central-European ChronOntology entries (-5500/-2200, -5300/-2200); PeriodO -6001/-2202",https://chronontology.dainst.org/period/TQLNGtPxf7q1
 Bronzezeit,period,-2200,-800,medium,"ChronOntology -2200/-800 (twice), -2200/-750, -2150/-800; PeriodO -2201/-802",https://chronontology.dainst.org/period/zYAfKG52TIAW
 Eisenzeit,period,-800,0,medium,Three ChronOntology entries -800/0; PeriodO -801/-52; Austria arguably ends with the Roman annexation (about -15),https://chronontology.dainst.org/period/xN6v4Aoto9Tu

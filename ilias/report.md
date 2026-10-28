@@ -131,7 +131,7 @@ All 86 rows of `time_review.csv` have a `kind`: 35 `period` (proposed `begin_yea
 
 ### After the review of the proposal
 
-- `import_periods.py` copied the 35 period rows and the 15 manual decisions of `periods_proposal.csv` into `periods.csv` (52 labels; "Minoan | Minoisch" became two entries). `Modern` has no dates and stays unmapped.
+- `import_periods.py` copied the 35 period rows and the 15 manual decisions of `periods_proposal.csv` into `periods.csv` (52 labels; "Minoan | Minoisch" became two entries). `Modern` was set to 1900 and onward (open end) by decision; the only evidence is the `nhm-wien-divina` dataset (6 records, objects like matchboxes and cigarette cases).
 - The parser now handles the 35 gap rows: `X bis Y`, date lists with abbreviated days (`01., 03., 04.10.1987`, `08.-18.08.1987`), masked days (`1933.03.xx`), hedging words (`vermutlich`, `ev.`), index prefixes (`01: 1952; 02: 1951`) and a date or year inside other text (`Poststempel: Augsburg, 13.03.1978`, method `rule_embedded`, score 0.6, only if all numbers in the text are the same year). Reviewed entries in `periods.csv` match the unchanged text and win over the rules.
-- Result on the 100-record sample (distinct strings / records): rule 2,143 / 5,088; table 50 / 385; timespan 60 / 86; rule_embedded 6 / 6; no_date 8 / 202; unmapped 1 / 6 (`Modern`).
+- Result on the 100-record sample (distinct strings / records): rule 2,143 / 5,088; table 50 / 385; timespan 60 / 86; rule_embedded 6 / 6; no_date 8 / 202; unmapped 0 / 0 (before `Modern` was decided: 1 / 6).
 - Notes on the decisions: `-60000000` now has begin and end -60000000 (a single year in EDTF long-year form, `Y-60000000`); this is probably a geological age and was entered as a point. `um 1720 und Ende 18. Jh.` ends in 1800, like the century rules. "1924 bzw. 1927" is the interval 1924/1927 as decided.

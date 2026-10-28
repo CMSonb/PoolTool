@@ -43,6 +43,7 @@ CASES = [
     ("01: 1952;\n02: 1951", 1951, 1952, "1951/1952", "rule"),
     ("Poststempel: Augsburg, 13.03.1978", 1978, 1978, "1978-03-13", "rule_embedded"),
     ("Neuzeit", 1500, None, "1500/..", "table"),
+    ("Modern", 1900, None, "1900/..", "table"),
     ("Romantik", 1790, 1850, "1790/1850", "table"),
     ("Minoan | Minoisch", -3500, -1050, "-3499/-1049", "table"),
     ("ca. 50 v. Chr.-50", -50, 50, "-0049~/0050~", "table"),
