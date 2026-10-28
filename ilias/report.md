@@ -22,7 +22,8 @@ Running log of findings about the Kulturpool datasets and the scripts in `ilias/
 | `data/time_mapping.csv` | Each distinct time string with `begin_year`, `end_year`, `iso`, `method`, `score`, `source_uri`, `qualifier` (`run_time_mapping.py`) |
 | `data/time_review.csv` | Time strings the tool could not map, with PeriodO and ChronOntology candidates and empty `begin_year`/`end_year`/`decision` columns to fill in |
 | `data/periodo_periods.csv` | German and English labels of PeriodO periods with start/stop year (`build_period_table.py`) |
-| `data/periods.csv` | Hand-checked period table; currently only the header, rows are added after review |
+| `data/periods.csv` | Reviewed periods and manual decisions (52 labels), written by `import_periods.py` from `periods_proposal.csv`; applied before the rules |
+| `data/periods_proposal.csv` | Proposed dates for the 86 unmapped time strings, to be reviewed before they go into `periods.csv` |
 | `data/time_api_check.csv` | Comparison of the mapped years with `dateMin`/`dateMax` of the Kulturpool search index (`check_dates_against_api.py`) |
 
 ## Field usage of the main-class fields (sample of 255 records)
@@ -119,3 +120,18 @@ Tool that maps time descriptions to years and ISO 8601 / EDTF. Sample: first 100
 - **Named periods have conflicting definitions in the gazetteers.** PeriodO has 11,355 German/English labels. "Römisches Reich" has one entry (-28/499), but "Roman Empire" has five different intervals (-28/499, -27/395, -27/476, -25/395 and others); ChronOntology gives -753/476 for "Römisches Reich". "Late Middle Ages" has 8 different intervals between 1001 and 1565, "Neolithikum" ranges from -10000 to -2000 in ChronOntology. A single PeriodO hit is therefore not treated as consensus: only rows in `periods.csv` are applied automatically, PeriodO and ChronOntology only appear as candidates in the review file.
 - **Check against the search index.** The Kulturpool search index stores `dateMin`/`dateMax` (Unix seconds). For 2,169 sample records with a parsable `date`, 2,059 agree within one year (95%). Of the 110 differences, 33 are ranges like `1900, ca- 1930, ca` where the index keeps only the first year; most others are different conventions: the index maps "Mitte 19. Jh." or "2. Hälfte 19. Jh." to the whole century (1800-1899) and gives `um 1900` as a single year, while the tool returns the stated part or the stated range. The index's `date` field was not used as ground truth.
 - **Not done yet:** hand-labelled gold set with precision per method; rows in `periods.csv`. The tests (`test_time_mapping.py`, `python3 -m unittest test_time_mapping`) use `unittest` because `pytest` is not installed.
+
+### Proposal for the unmapped time strings (`data/periods_proposal.csv`)
+
+All 86 rows of `time_review.csv` have a `kind`: 35 `period` (proposed `begin_year`/`end_year`, `confidence`, `basis`, `source_uri`), 35 `rule_gap` (the parser should be extended, no decision needed), 15 `needs_decision`, 1 `no_date`.
+
+- Confidence of the 35 period rows: 1 high (Antoninisch 138-192, both gazetteers agree), 16 medium (taken from or close to PeriodO/ChronOntology), 17 low (no gazetteer entry: Spätgotik, the Baroque phases, Klassizismus, Romantik, Realismus, Historismus, Jugendstil, Expressionismus and similar; proposed from common art-historical dating, not from a cited source), 1 without a proposal (`Modern`, six conflicting PeriodO definitions).
+- Choices that differ from the gazetteers: Biedermeier 1815-1848 (Austrian convention; ChronOntology has 1820-1859), `Römisches Reich` set to -27/476 like `Roman Empire` for consistency (PeriodO -28/499, ChronOntology -753/476), Eisenzeit -800/0 (ChronOntology majority).
+- None of these rows is in `periods.csv` yet; the proposal has not been reviewed.
+
+### After the review of the proposal
+
+- `import_periods.py` copied the 35 period rows and the 15 manual decisions of `periods_proposal.csv` into `periods.csv` (52 labels; "Minoan | Minoisch" became two entries). `Modern` has no dates and stays unmapped.
+- The parser now handles the 35 gap rows: `X bis Y`, date lists with abbreviated days (`01., 03., 04.10.1987`, `08.-18.08.1987`), masked days (`1933.03.xx`), hedging words (`vermutlich`, `ev.`), index prefixes (`01: 1952; 02: 1951`) and a date or year inside other text (`Poststempel: Augsburg, 13.03.1978`, method `rule_embedded`, score 0.6, only if all numbers in the text are the same year). Reviewed entries in `periods.csv` match the unchanged text and win over the rules.
+- Result on the 100-record sample (distinct strings / records): rule 2,143 / 5,088; table 50 / 385; timespan 60 / 86; rule_embedded 6 / 6; no_date 8 / 202; unmapped 1 / 6 (`Modern`).
+- Notes on the decisions: `-60000000` now has begin and end -60000000 (a single year in EDTF long-year form, `Y-60000000`); this is probably a geological age and was entered as a point. `um 1720 und Ende 18. Jh.` ends in 1800, like the century rules. "1924 bzw. 1927" is the interval 1924/1927 as decided.

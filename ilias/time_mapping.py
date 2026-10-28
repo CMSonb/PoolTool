@@ -12,7 +12,7 @@ PERIODO_PATH = DATA_DIR / "periodo_periods.csv"  # von build_period_table.py erz
 # Der ISO-8601-String verwendet die astronomische Zählung (1 v. Chr. = 0000, 2 v. Chr. = -0001).
 # Unschärfe-Markierungen ("~" ungefähr, "?" unsicher) und offene Intervalle ("..") sind EDTF.
 
-NO_DATE = {"ohne datierung", "ohne datum", "undatiert", "unbekannt", "unknown", "o. j.", "o.j."}
+NO_DATE = {"ohne datierung", "ohne datum", "undatiert", "unbekannt", "unknown", "o. j.", "o.j.", "x"}
 
 MONTHS = {
     "januar": 1, "februar": 2, "märz": 3, "maerz": 3, "april": 4, "mai": 5, "juni": 6,
@@ -61,6 +61,8 @@ def historical_year(number: str, era: str | None) -> int:
 
 def iso_year(year: int) -> str:
     """Historisches Jahr als astronomisches ISO-Jahr (4 Stellen, BCE mit Vorzeichen)."""
+    if abs(year) > 9999:
+        return f"Y{year}"  # EDTF-Schreibweise für Jahre mit mehr als vier Stellen; Jahr-0-Verschiebung irrelevant
     astronomical = year + 1 if year < 0 else year
     return f"-{abs(astronomical):04d}" if astronomical < 0 else f"{astronomical:04d}"
 
@@ -83,6 +85,8 @@ def mark(text: str, qualifier: str) -> str:
 
 def build(begin: tuple, end: tuple, qualifier: str, method: str = "rule") -> TimeResult:
     """TimeResult aus Anfangs-/Endpunkt (Jahr, Monat, Tag) bauen; None = offen."""
+    begin = begin if begin and begin[0] is not None else None
+    end = end if end and end[0] is not None else None
     begin_text = format_point(*begin) if begin else ".."
     end_text = format_point(*end) if end else ".."
     if begin and end and begin == end:
@@ -104,6 +108,10 @@ def clean(text: str) -> tuple[str, str]:
     if re.search(r"\b(?:ca|circa|um)\b|\bc\.", text, flags=re.IGNORECASE):
         qualifier.add("approx")
         text = re.sub(r",?\s*(?:\bca\b|\bcirca\b|\bum\b|\bc\.)\.?", " ", text, flags=re.IGNORECASE)
+    if re.search(r"\b(?:vermutlich|wahrscheinlich|evtl|ev)\b", text, flags=re.IGNORECASE):
+        qualifier.add("uncertain")
+        text = re.sub(r"\b(?:vermutlich|wahrscheinlich|evtl|ev)\b\.?", " ", text, flags=re.IGNORECASE)
+    text = re.sub(r"(?<=\d)\s+bis\s+(?=\d)", " - ", text)
     text = re.sub(r"^\s*Geschichte\s+", "", text)
     text = text.strip()
     if text.startswith("[") and text.endswith("]"):
@@ -128,6 +136,9 @@ def parse_endpoint(text: str):
     )
     if m:
         return (int(m.group(3)), int(m.group(2)), int(m.group(1))), None
+    m = re.fullmatch(r"(\d{4})\.(\d{2})\.xx", text, flags=re.IGNORECASE)
+    if m:
+        return (int(m.group(1)), int(m.group(2)), None), None
     m = re.fullmatch(r"(\d{4})\.(\d{1,2})\.(\d{1,2})", text)
     if m:
         return (int(m.group(1)), int(m.group(2)), int(m.group(3))), None
@@ -276,6 +287,40 @@ def parse_with_inner_range(text: str, qualifier: str) -> TimeResult | None:
     return result
 
 
+def parse_date_tokens(text: str, qualifier: str) -> TimeResult | None:
+    """Datumslisten mit abgekürzten Tagen ("30.09.1987, 01., 03., 04.10.1987", "08.-18.08.1987")."""
+    text = re.sub(r"\([^)]*\)", " ", text)
+    if not re.fullmatch(r"[\d.,/\-\s]+", text) or not re.search(r"\d{1,2}\.\d{1,2}\.\d{4}", text):
+        return None
+    month = year = None
+    dates = []
+    for token in reversed(re.findall(r"\d{1,2}\.(?:\d{1,2}\.)?(?:\d{4})?", text)):
+        parts = token.rstrip(".").split(".")
+        day = int(parts[0])
+        if len(parts) > 1:
+            month = int(parts[1])
+        if len(parts) > 2:
+            year = int(parts[2])
+        if month is None or year is None:
+            return None
+        dates.append((year, month, day))
+    dates.sort()
+    return build(dates[0], dates[-1], qualifier)
+
+
+def parse_embedded(text: str, qualifier: str) -> TimeResult | None:
+    """Datum oder Jahr in umgebendem Text ("Poststempel: Augsburg, 13.03.1978"); nur wenn alle Zahlen dasselbe Jahr meinen."""
+    found = re.findall(r"(?<![\d.])(?:\d{1,2}\.\d{1,2}\.(\d{4})|(\d{4})-\d{2}-\d{2}|(\d{4}))(?![\d])", text)
+    years = {int(a or b or c) for a, b, c in found}
+    if len(years) != 1 or not 1000 <= next(iter(years)) <= 2100:
+        return None
+    single = parse_endpoint(re.search(r"\d{1,2}\.\d{1,2}\.\d{4}|\d{4}-\d{2}-\d{2}|\d{4}", text).group())
+    point = single[0] if len(found) == 1 else (next(iter(years)), None, None)
+    result = build(point, point, qualifier, "rule_embedded")
+    result.score = 0.6
+    return result
+
+
 def period_key(label: str) -> str:
     """Bezeichnung für den Tabellenvergleich normalisieren."""
     return re.sub(r"\s+", " ", label.casefold().replace("\u00ad", "")).strip(" .")
@@ -290,7 +335,8 @@ def load_periods() -> tuple[dict, dict]:
         if path.exists():
             with path.open(newline="", encoding="utf-8") as handle:
                 for row in csv.DictReader(handle):
-                    row["begin_year"], row["end_year"] = int(row["begin_year"]), int(row["end_year"])
+                    for key in ("begin_year", "end_year"):
+                        row[key] = int(row[key]) if row[key] != "" else None  # leer = offenes Ende
                     table.setdefault(period_key(row["label"]), []).append(row)
         tables.append(table)
     return tuple(tables)
@@ -326,6 +372,15 @@ def parse_text(text: str) -> TimeResult:
     if not cleaned or cleaned.lower() in NO_DATE:
         return TimeResult(None, None, "", "no_date", 1.0)
 
+    # von Hand geprüfte Einträge gelten für den unveränderten Text und haben Vorrang vor den Regeln
+    checked = parse_period(text, qualifier)
+    if checked:
+        return checked
+
+    # Index-Präfix vor Werten ("01: 1952; 02: 1951")
+    if re.match(r"^\d{1,2}:\s*\d{4}", cleaned):
+        cleaned = re.sub(r"(^|[;\s])\d{1,2}:\s*", r"\1", cleaned).strip(" ;")
+
     single = parse_endpoint(cleaned)
     if single:
         return build(single[0], single[0], qualifier)
@@ -336,8 +391,10 @@ def parse_text(text: str) -> TimeResult:
         parse_decade,
         parse_with_inner_range,
         parse_open,
+        parse_date_tokens,
         parse_list,
         parse_period,
+        parse_embedded,
     ):
         result = parser(cleaned, qualifier)
         if result:

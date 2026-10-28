@@ -1,1 +1,53 @@
-label,language,begin_year,end_year,source,source_uri
+label,language,begin_year,end_year,source,source_uri,confidence
+ca. 75 v. Chr.-20,,-75,20,periods_proposal.csv (manual decision),,
+ca. 50 v. Chr.-50,,-50,50,periods_proposal.csv (manual decision),,
+ca. 100 v. Chr.-40,,-100,40,periods_proposal.csv (manual decision),,
+[1.]1856 - 2.1858[?],,1856,1858,periods_proposal.csv (manual decision),,
+1.1905/06 - 5.1909/10,,1905,1909,periods_proposal.csv (manual decision),,
+1924 bzw. 1927,,1924,1927,periods_proposal.csv (manual decision),,
+um 1710 lt. Signatur am Mittelbild 1714,,1710,1710,periods_proposal.csv (manual decision),,
+um 1720 und Ende 18. Jh.,,1720,1800,periods_proposal.csv (manual decision),,
+18##-4,,1800,1899,periods_proposal.csv (manual decision),,
+18##-12,,1800,1899,periods_proposal.csv (manual decision),,
+19??-05-01; 1937-05-19;,,1900,1937,periods_proposal.csv (manual decision),,
+[1980er-08-09],,1980,1989,periods_proposal.csv (manual decision),,
+"1850, ca- 1920, ca/ 1907",,1850,1920,periods_proposal.csv (manual decision),,
+-60000000,,-60000000,-60000000,periods_proposal.csv (manual decision),,
+"1960 (Eintragungen), 22222",,1960,1960,periods_proposal.csv (manual decision),,
+Late Middle Ages,,1300,1500,periods_proposal.csv (reviewed),https://chronontology.dainst.org/period/Dpvq1fbfjvBd,medium
+High Middle Ages,,1050,1249,periods_proposal.csv (reviewed),http://n2t.net/ark:/99152/p0qhb66m48r,medium
+Medieval,,500,1500,periods_proposal.csv (reviewed),,low
+Neuzeit,,1500,,periods_proposal.csv (reviewed),,medium
+Early Modern Age,,1500,1800,periods_proposal.csv (reviewed),,low
+Neolithikum,,-5500,-2200,periods_proposal.csv (reviewed),https://chronontology.dainst.org/period/TQLNGtPxf7q1,medium
+Bronzezeit,,-2200,-800,periods_proposal.csv (reviewed),https://chronontology.dainst.org/period/zYAfKG52TIAW,medium
+Eisenzeit,,-800,0,periods_proposal.csv (reviewed),https://chronontology.dainst.org/period/xN6v4Aoto9Tu,medium
+antik,,-800,476,periods_proposal.csv (reviewed),,low
+Hellenistisch,,-338,-31,periods_proposal.csv (reviewed),https://chronontology.dainst.org/period/VlDec80jvI8H,medium
+Minoan,,-3500,-1050,periods_proposal.csv (reviewed),https://chronontology.dainst.org/period/fIA3SHJthHYh,medium
+Minoisch,,-3500,-1050,periods_proposal.csv (reviewed),https://chronontology.dainst.org/period/fIA3SHJthHYh,medium
+Early Minoan,,-3200,-2000,periods_proposal.csv (reviewed),http://n2t.net/ark:/99152/p08m57hg6nn,medium
+Frühminoisch,,-3200,-2000,periods_proposal.csv (reviewed),http://n2t.net/ark:/99152/p08m57hg6nn,medium
+Middle Minoan,,-2000,-1600,periods_proposal.csv (reviewed),http://n2t.net/ark:/99152/p0qp9rs2xrr,medium
+Mittelminoisch,,-2000,-1600,periods_proposal.csv (reviewed),http://n2t.net/ark:/99152/p0qp9rs2xrr,medium
+Roman Empire,,-27,476,periods_proposal.csv (reviewed),http://n2t.net/ark:/99152/p0jrrjbvfhm,medium
+Römisches Reich,,-27,476,periods_proposal.csv (reviewed),http://n2t.net/ark:/99152/p0jrrjbvfhm,medium
+Antoninisch,,138,192,periods_proposal.csv (reviewed),http://n2t.net/ark:/99152/p0jrrjbdwtr,high
+Antoninisch-Severisch,,138,235,periods_proposal.csv (reviewed),,medium
+Tetrarchisch,,293,313,periods_proposal.csv (reviewed),https://chronontology.dainst.org/period/csD6YrDrpD6p,medium
+Renaissance,,1375,1600,periods_proposal.csv (reviewed),https://chronontology.dainst.org/period/ifyGMzR2s431,medium
+Spätgotik,,1350,1520,periods_proposal.csv (reviewed),,low
+Frühbarock,,1600,1650,periods_proposal.csv (reviewed),,low
+Hochbarock,,1650,1720,periods_proposal.csv (reviewed),,low
+Spätbarock,,1720,1780,periods_proposal.csv (reviewed),,low
+Klassizismus,,1770,1830,periods_proposal.csv (reviewed),,low
+Romantik,,1790,1850,periods_proposal.csv (reviewed),,low
+Biedermeier,,1815,1848,periods_proposal.csv (reviewed),https://chronontology.dainst.org/period/Z8o4SfOtGDWF,medium
+Realismus,,1840,1880,periods_proposal.csv (reviewed),,low
+Biedermeier-Realismus,,1815,1880,periods_proposal.csv (reviewed),,low
+Naturalismus,,1880,1900,periods_proposal.csv (reviewed),,low
+Historismus,,1840,1900,periods_proposal.csv (reviewed),,low
+Stimmungsimpressionismus,,1880,1910,periods_proposal.csv (reviewed),,low
+Jugendstil,,1890,1914,periods_proposal.csv (reviewed),,low
+Expressionismus,,1905,1925,periods_proposal.csv (reviewed),,low
+Kunst um 1900,,1890,1910,periods_proposal.csv (reviewed),,low

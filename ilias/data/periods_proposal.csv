@@ -1,0 +1,89 @@
+text,kind,begin_year,end_year,confidence,basis,source_uri
+ca. 75 v. Chr.-20,needs_decision,-75,20,,'v. Chr.-N' without an era on the end ('ca. 50 v. Chr.-50'): read the end as n. Chr. (50 BCE to 50 CE)? Only that reading makes 'ca. 50 v. Chr.-50' a range,
+ca. 50 v. Chr.-50,needs_decision,-50,50,,'v. Chr.-N' without an era on the end ('ca. 50 v. Chr.-50'): read the end as n. Chr. (50 BCE to 50 CE)? Only that reading makes 'ca. 50 v. Chr.-50' a range,
+ca. 100 v. Chr.-40,needs_decision,-100,40,,'v. Chr.-N' without an era on the end ('ca. 50 v. Chr.-50'): read the end as n. Chr. (50 BCE to 50 CE)? Only that reading makes 'ca. 50 v. Chr.-50' a range,
+[1.]1856 - 2.1858[?],needs_decision,1856,1858,,"Serial volume notation ('[1.]1856 - 2.1858[?]', '1.1905/06 - 5.1909/10'): first and last year of the volumes? Unclear which numbers are years",
+1.1905/06 - 5.1909/10,needs_decision,1905,1909,,"Serial volume notation ('[1.]1856 - 2.1858[?]', '1.1905/06 - 5.1909/10'): first and last year of the volumes? Unclear which numbers are years",
+1924 bzw. 1927,needs_decision,1924,1927,,"Two alternative or separate years ('1924 bzw. 1927', 'um 1710 lt. Signatur am Mittelbild 1714', 'um 1720 und Ende 18. Jh.'): take the interval between them or only the first?",
+um 1710 lt. Signatur am Mittelbild 1714,needs_decision,1710,1710,,"Two alternative or separate years ('1924 bzw. 1927', 'um 1710 lt. Signatur am Mittelbild 1714', 'um 1720 und Ende 18. Jh.'): take the interval between them or only the first?",
+um 1720 und Ende 18. Jh.,needs_decision,1720,1800,,"Two alternative or separate years ('1924 bzw. 1927', 'um 1710 lt. Signatur am Mittelbild 1714', 'um 1720 und Ende 18. Jh.'): take the interval between them or only the first?",
+18##-4,needs_decision,1800,1899,,"Partly masked dates ('18##-4', '19??-05-01; 1937-05-19;', '[1980er-08-09]', '1850, ca- 1920, ca/ 1907'): no reliable reading",
+18##-12,needs_decision,1800,1899,,"Partly masked dates ('18##-4', '19??-05-01; 1937-05-19;', '[1980er-08-09]', '1850, ca- 1920, ca/ 1907'): no reliable reading",
+19??-05-01; 1937-05-19;,needs_decision,1900,1937,,"Partly masked dates ('18##-4', '19??-05-01; 1937-05-19;', '[1980er-08-09]', '1850, ca- 1920, ca/ 1907'): no reliable reading",
+[1980er-08-09],needs_decision,1980,1989,,"Partly masked dates ('18##-4', '19??-05-01; 1937-05-19;', '[1980er-08-09]', '1850, ca- 1920, ca/ 1907'): no reliable reading",
+"1850, ca- 1920, ca/ 1907",needs_decision,1850,1920,,"Partly masked dates ('18##-4', '19??-05-01; 1937-05-19;', '[1980er-08-09]', '1850, ca- 1920, ca/ 1907'): no reliable reading",
+-60000000,needs_decision,-60000000,-60000000,,'-60000000' in a date field: probably 60 million years BCE (geology); cannot be written as a historical year in this tool,
+"1960 (Eintragungen), 22222",needs_decision,1960,1960,,"'1960 (Eintragungen), 22222': year with junk number; take 1960?",
+X,no_date,,,,Placeholder without information: treat as no date,
+Late Middle Ages,period,1300,1500,medium,"ChronOntology Spätmittelalter 1300/1500 (Landesarchäologen); PeriodO has 8 different intervals, 1300/1499 and 1301/1500 are closest",https://chronontology.dainst.org/period/Dpvq1fbfjvBd
+High Middle Ages,period,1050,1249,medium,PeriodO and ChronOntology both have 1050/1249 (other PeriodO entries differ),http://n2t.net/ark:/99152/p0qhb66m48r
+Medieval,period,500,1500,low,"Conventional Mittelalter; PeriodO has 44 different definitions (start 400-601, end 1389-1600), ChronOntology none",
+Neuzeit,period,1500,,medium,All 5 ChronOntology entries are 1500/present; open end,
+Early Modern Age,period,1500,1800,low,Conventional Frühe Neuzeit; the only PeriodO entry (1526/1710) looks region-specific,
+Modern,period,,,none,Needs your decision: 6 PeriodO definitions from 1480 to 1900 start; unclear whether Moderne or Neuzeit is meant,
+Neolithikum,period,-5500,-2200,medium,"Central-European ChronOntology entries (-5500/-2200, -5300/-2200); PeriodO -6001/-2202",https://chronontology.dainst.org/period/TQLNGtPxf7q1
+Bronzezeit,period,-2200,-800,medium,"ChronOntology -2200/-800 (twice), -2200/-750, -2150/-800; PeriodO -2201/-802",https://chronontology.dainst.org/period/zYAfKG52TIAW
+Eisenzeit,period,-800,0,medium,Three ChronOntology entries -800/0; PeriodO -801/-52; Austria arguably ends with the Roman annexation (about -15),https://chronontology.dainst.org/period/xN6v4Aoto9Tu
+antik,period,-800,476,low,No gazetteer entry for 'antik'; PeriodO Antike is -601/499. Proposal: Greek-Roman antiquity,
+Hellenistisch,period,-338,-31,medium,Single ChronOntology entry -338/-31 (often given as -323/-31),https://chronontology.dainst.org/period/VlDec80jvI8H
+Minoan | Minoisch,period,-3500,-1050,medium,Single ChronOntology entry; PeriodO -3601/-2102 looks region-specific,https://chronontology.dainst.org/period/fIA3SHJthHYh
+Early Minoan | Frühminoisch,period,-3200,-2000,medium,"PeriodO -3200/-2000 (also -3100/-2000, -3200/-2100)",http://n2t.net/ark:/99152/p08m57hg6nn
+Middle Minoan | Mittelminoisch,period,-2000,-1600,medium,PeriodO -2000/-1600 and -2001/-1601 agree,http://n2t.net/ark:/99152/p0qp9rs2xrr
+Roman Empire,period,-27,476,medium,PeriodO -27/476 and ChronOntology -27/476 agree (Principate to end of the Western empire),http://n2t.net/ark:/99152/p0jrrjbvfhm
+Römisches Reich,period,-27,476,medium,"Same interval as 'Roman Empire' for consistency; PeriodO -28/499, ChronOntology -753/476 (includes the kingdom and republic)",http://n2t.net/ark:/99152/p0jrrjbvfhm
+Antoninisch,period,138,192,high,PeriodO and ChronOntology agree,http://n2t.net/ark:/99152/p0jrrjbdwtr
+Antoninisch-Severisch,period,138,235,medium,"Union of Antoninisch (138-192) and Severisch (193-235, not in the gazetteers)",
+Tetrarchisch,period,293,313,medium,ChronOntology 293/313 (another entry has no end),https://chronontology.dainst.org/period/csD6YrDrpD6p
+Renaissance,period,1375,1600,medium,"ChronOntology 1375/1600; PeriodO 1350/1549, 1492/1699, 1500/1699, 1762/1877 (region-specific)",https://chronontology.dainst.org/period/ifyGMzR2s431
+Spätgotik,period,1350,1520,low,No gazetteer entry; usual Central-European dating (about 1350 to 1520),
+Frühbarock,period,1600,1650,low,No gazetteer entry; common art-historical convention,
+Hochbarock,period,1650,1720,low,No gazetteer entry; common art-historical convention,
+Spätbarock,period,1720,1780,low,No gazetteer entry; common art-historical convention (Austria: about 1720 to 1780),
+Klassizismus,period,1770,1830,low,No gazetteer entry; common convention in Austrian art history,
+Romantik,period,1790,1850,low,No gazetteer entry; common art-historical convention,
+Biedermeier,period,1815,1848,medium,Austrian convention (Congress of Vienna to Revolution); ChronOntology has 1820/1859,https://chronontology.dainst.org/period/Z8o4SfOtGDWF
+Realismus,period,1840,1880,low,"No gazetteer entry; common convention for art, literature differs (1848-1890)",
+Biedermeier-Realismus,period,1815,1880,low,Union of Biedermeier and Realismus; needs your decision,
+Naturalismus,period,1880,1900,low,No gazetteer entry; common convention,
+Historismus,period,1840,1900,low,No gazetteer entry; Austrian Ringstraße period about 1860-1900,
+Stimmungsimpressionismus,period,1880,1910,low,"No gazetteer entry; Austrian landscape painting, rough dating",
+Jugendstil,period,1890,1914,low,No gazetteer entry; common convention,
+Expressionismus,period,1905,1925,low,No gazetteer entry; common convention,
+Kunst um 1900,period,1890,1910,low,'um 1900' read as plus/minus 10 years; no gazetteer entry,
+"23.09.1985, 24.09.1985, 05./06.10.1985, 30.10.1985",rule_gap,,,,"Date lists with abbreviated days ('05./06.10.1985', '22., 23.05.1987', '08.-18.08.1987'): interval from first to last date",
+"30.09.1987, 01., 03., 04.10.1987",rule_gap,,,,"Date lists with abbreviated days ('05./06.10.1985', '22., 23.05.1987', '08.-18.08.1987'): interval from first to last date",
+"13.11.1986, 14., 15., 22., 23.11.1986",rule_gap,,,,"Date lists with abbreviated days ('05./06.10.1985', '22., 23.05.1987', '08.-18.08.1987'): interval from first to last date",
+"13.09.1985, 14./15./16.09.1985",rule_gap,,,,"Date lists with abbreviated days ('05./06.10.1985', '22., 23.05.1987', '08.-18.08.1987'): interval from first to last date",
+"11.12.1986, 12., 13., 15.12.1986",rule_gap,,,,"Date lists with abbreviated days ('05./06.10.1985', '22., 23.05.1987', '08.-18.08.1987'): interval from first to last date",
+"08.08.1987, 08.–18.08.1987",rule_gap,,,,"Date lists with abbreviated days ('05./06.10.1985', '22., 23.05.1987', '08.-18.08.1987'): interval from first to last date",
+"04.10.1985, 26.09.–10.10.1985 (Festivaldauer)",rule_gap,,,,"Date lists with abbreviated days ('05./06.10.1985', '22., 23.05.1987', '08.-18.08.1987'): interval from first to last date",
+"31.07.1986, 31.07.1986 (Eröffnung), 31.07.–31.08.1986 (Ausstellung)",rule_gap,,,,"Date lists with abbreviated days ('05./06.10.1985', '22., 23.05.1987', '08.-18.08.1987'): interval from first to last date",
+"23.01.1985, 24./26.01.1985",rule_gap,,,,"Date lists with abbreviated days ('05./06.10.1985', '22., 23.05.1987', '08.-18.08.1987'): interval from first to last date",
+"21.05.1987, 22./23.05.1987",rule_gap,,,,"Date lists with abbreviated days ('05./06.10.1985', '22., 23.05.1987', '08.-18.08.1987'): interval from first to last date",
+"21.05.1987, 22., 23.05.1987",rule_gap,,,,"Date lists with abbreviated days ('05./06.10.1985', '22., 23.05.1987', '08.-18.08.1987'): interval from first to last date",
+1936 bis 1975,rule_gap,,,,'X bis Y' as a range separator: 1936 bis 1975 gives 1936/1975,
+1932 bis 1952,rule_gap,,,,'X bis Y' as a range separator: 1936 bis 1975 gives 1936/1975,
+1936 bis 1956,rule_gap,,,,'X bis Y' as a range separator: 1936 bis 1975 gives 1936/1975,
+1937 bis 1964,rule_gap,,,,'X bis Y' as a range separator: 1936 bis 1975 gives 1936/1975,
+1940 bis 1941,rule_gap,,,,'X bis Y' as a range separator: 1936 bis 1975 gives 1936/1975,
+1954 bis 1962,rule_gap,,,,'X bis Y' as a range separator: 1936 bis 1975 gives 1936/1975,
+1933.03.xx,rule_gap,,,,Masked day or month ('xx'): 1933.03.xx gives 1933-03,
+1984.11.xx,rule_gap,,,,Masked day or month ('xx'): 1933.03.xx gives 1933-03,
+1983.10.xx,rule_gap,,,,Masked day or month ('xx'): 1933.03.xx gives 1933-03,
+1974.11.xx,rule_gap,,,,Masked day or month ('xx'): 1933.03.xx gives 1933-03,
+1971.09.xx,rule_gap,,,,Masked day or month ('xx'): 1933.03.xx gives 1933-03,
+vermutlich 1903,rule_gap,,,,"Hedging word before a year ('vermutlich', 'ev.'): the year with uncertain qualifier",
+ev. 1908,rule_gap,,,,"Hedging word before a year ('vermutlich', 'ev.'): the year with uncertain qualifier",
+05: 1946-05-12,rule_gap,,,,Index prefix 'NN:' before values: strip it and take the interval from earliest to latest,
+04:1949,rule_gap,,,,Index prefix 'NN:' before values: strip it and take the interval from earliest to latest,
+03: 1952,rule_gap,,,,Index prefix 'NN:' before values: strip it and take the interval from earliest to latest,
+"01: 1952;
+02: 1951",rule_gap,,,,Index prefix 'NN:' before values: strip it and take the interval from earliest to latest,
+01: 1941-10-28; 02: 1937-04-10; 03: 1944-11-11;,rule_gap,,,,Index prefix 'NN:' before values: strip it and take the interval from earliest to latest,
+"Poststempel: Augsburg, 13.03.1978",rule_gap,,,,"Text around a date ('Poststempel: Augsburg, 13.03.1978', 'Wiener Herbstmesse 1948', '1985 Korrespondenz ...'): take the date or year in the text",
+"Poststempel: Ingolstadt, 31.08.1978",rule_gap,,,,"Text around a date ('Poststempel: Augsburg, 13.03.1978', 'Wiener Herbstmesse 1948', '1985 Korrespondenz ...'): take the date or year in the text",
+"Poststempel: Innsbruck, 04.09.1987",rule_gap,,,,"Text around a date ('Poststempel: Augsburg, 13.03.1978', 'Wiener Herbstmesse 1948', '1985 Korrespondenz ...'): take the date or year in the text",
+Wiener Herbstmesse 1948,rule_gap,,,,"Text around a date ('Poststempel: Augsburg, 13.03.1978', 'Wiener Herbstmesse 1948', '1985 Korrespondenz ...'): take the date or year in the text",
+"1985 Korrespondenz
+04.06.1985 Sendung",rule_gap,,,,"Text around a date ('Poststempel: Augsburg, 13.03.1978', 'Wiener Herbstmesse 1948', '1985 Korrespondenz ...'): take the date or year in the text",
+[s.a. ca. 1887],rule_gap,,,,"Text around a date ('Poststempel: Augsburg, 13.03.1978', 'Wiener Herbstmesse 1948', '1985 Korrespondenz ...'): take the date or year in the text",
