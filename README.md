@@ -1,5 +1,7 @@
 # PoolTool
 
+<p align="center"><img src="title.png" alt="PoolTool Titelbild" width="600"></p>
+
 Kulturpool Hackathon 2026 – tools for analysing and normalising metadata in [Kulturpool](https://kulturpool.at) records.
 
 Team: 2townBefore, CarlaMariS, ikyriazi, MelissaSheena
@@ -98,6 +100,10 @@ Druckgraphik,https://example.org/concept/123
 More detail for developers: [`interface/README.md`](interface/README.md) and [`CONTEXT_PROMPTING.md`](CONTEXT_PROMPTING.md).
 
 ---
+
+## Prompting
+
+If you need some help or want to make some improvements using and AI assistant, there is a CONTEXT_PROMPTING.md file already available. Load this into your chat and your assistant should be good to go without having to use many tokens and reading all files using up many resources.
 
 ## Data analysis
 
