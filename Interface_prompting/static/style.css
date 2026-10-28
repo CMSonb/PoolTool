@@ -10,7 +10,15 @@
   --green-soft: #e6f3ee;
   --gold: #d88a32;
   --red: #a63c36;
-  font-family: "Atkinson Hyperlegible Next", "Atkinson Hyperlegible", "Segoe UI", Arial, sans-serif;
+  font-family: "Atkinson Hyperlegible Next", "Segoe UI", Arial, sans-serif;
+}
+
+@font-face {
+  font-family: "Atkinson Hyperlegible Next";
+  src: url("fonts/AtkinsonHyperlegibleNext.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 200 800;
+  font-display: swap;
 }
 
 * { box-sizing: border-box; }

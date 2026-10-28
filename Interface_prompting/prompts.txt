@@ -20,3 +20,11 @@ QUESTIONS
 7.	Log file: Is a CSV or JSON log acceptable, with the columns record ID, field, old value, new value, and vocabulary term? -> yes 
 8.	Tech stack: Do you have a preference (e.g. Python with Streamlit, or Flask with a small JavaScript frontend)? The vertical progress bar and the expandable ID lists are easiest to control with a custom frontend, but Streamlit is quicker to set up. A Dockerfile, docker-compose.yml, .gitignore and a README with run instructions will be included either way. -> Flask 
 9.	Vocabulary words with no candidates: Should these be skipped automatically, or shown with an empty candidate box? -> skipped automatically
+
+PDF/Markdown Output 
+Add an output with the following criteria: 
+    - next to the JSON output, we want an output as either a PDF/Markdown file (user's choice).
+    - use the same barriere-freie font as the website for the PDF. 
+    - This output should be a processing report for the user (an institution) outlining the changes they agreed too, and the changes they declined. It should be written in layman-language. It should explain why the declined changes were suggested (maybe via similarity values).
+    - It should also include an overview statistic of "total number of items", "possible changes", "how many were changed", "how many could have been changed". 
+    

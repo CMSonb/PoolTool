@@ -20,6 +20,7 @@ const exportPanel = document.querySelector("#export-panel");
 const exportSummary = document.querySelector("#export-summary");
 const dataFormat = document.querySelector("#data-format");
 const logFormat = document.querySelector("#log-format");
+const reportFormat = document.querySelector("#report-format");
 let activeJobId = null;
 let currentStep = null;
 let selectedVariants = new Set();
@@ -257,3 +258,8 @@ for (const [buttonId, kind] of [["download-data", "data"], ["download-log", "log
     window.location.assign(`/api/jobs/${encodeURIComponent(activeJobId)}/export/${kind}?${params}`);
   });
 }
+
+document.querySelector("#download-report").addEventListener("click", () => {
+  const params = new URLSearchParams({ format: reportFormat.value });
+  window.location.assign(`/api/jobs/${encodeURIComponent(activeJobId)}/export/report?${params}`);
+});

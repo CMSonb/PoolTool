@@ -4,9 +4,6 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Kulturpool – Metadaten normalisieren</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
   <script src="{{ url_for('static', filename='app.js') }}" defer></script>
 </head>
@@ -93,9 +90,16 @@
                   <option value="json">JSON</option>
                 </select>
               </label>
+              <label>Verarbeitungsbericht
+                <select id="report-format">
+                  <option value="markdown">Markdown</option>
+                  <option value="pdf">PDF</option>
+                </select>
+              </label>
             </div>
             <div class="export-buttons">
               <button id="download-data" class="button button-primary" type="button">Daten herunterladen</button>
+              <button id="download-report" class="button button-secondary" type="button">Bericht herunterladen</button>
               <button id="download-log" class="button button-secondary" type="button">Protokoll herunterladen</button>
               <button id="download-zip" class="button button-secondary" type="button">Beides als ZIP</button>
             </div>

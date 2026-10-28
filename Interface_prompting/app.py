@@ -108,10 +108,17 @@ def job_export(job_id, kind):
     job, err = _job_or_404(job_id)
     if err:
         return err
-    if kind not in {"zip", "data", "log"}:
+    if kind not in {"zip", "data", "log", "report"}:
         return jsonify(error="Unbekannter Export."), 404
     if not job.finished:
         return jsonify(error="Der Export ist erst nach dem letzten Schritt möglich."), 409
+    if kind == "report":
+        report_format = request.args.get("format", "markdown")
+        try:
+            path = job.export_report(report_format)
+        except ValueError as exc:
+            return jsonify(error=str(exc)), 400
+        return send_file(path, as_attachment=True, download_name=path.name)
     data_format = "jsonl" if request.args.get("data_format") == "jsonl" else "json"
     log_format = "json" if request.args.get("log_format") == "json" else "csv"
     paths = job.export(data_format, log_format)

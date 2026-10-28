@@ -9,7 +9,16 @@ import time
 import uuid
 import zipfile
 from pathlib import Path
+from xml.sax.saxutils import escape
 
+from reportlab.lib import colors
+from reportlab.lib.enums import TA_LEFT
+from reportlab.lib.pagesizes import A4
+from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
+from reportlab.lib.units import mm
+from reportlab.pdfbase import pdfmetrics
+from reportlab.pdfbase.ttfonts import TTFont
+from reportlab.platypus import Paragraph, SimpleDocTemplate, Spacer, Table, TableStyle
 from werkzeug.utils import secure_filename
 
 import config
@@ -35,6 +44,8 @@ LOG_COLUMNS = [
     "new_uri",
 ]
 
+REPORT_FONT = config.BASE_DIR / "static" / "fonts" / "AtkinsonHyperlegibleNext.ttf"
+
 
 class Job:
     def __init__(self, filename: str, threshold: float):
@@ -58,6 +69,7 @@ class Job:
         self.current: int | None = None
         self.log: list[dict] = []
         self.changed: set[int] = set()
+        self.possible_records: set[int] = set()
         self.stats = {"records": 0, "distinct_values": 0, "conforming": 0, "candidates": 0}
 
     # ------------------------------------------------------------------ Verarbeitung
@@ -123,6 +135,12 @@ class Job:
                 self.records = records
                 self.ids = ids
                 self.steps = steps
+                self.possible_records = {
+                    idx
+                    for step in steps
+                    for candidate in step["candidates"]
+                    for idx in candidate["rec_idx"]
+                }
                 self.stats = {
                     "records": len(records),
                     "distinct_values": len(variants),
@@ -167,6 +185,16 @@ class Job:
             mapping = {v: (step["term"], step["uri"]) for v in chosen}
             rec_set = sorted({i for v in chosen for i in cmap[v]["rec_idx"]})
 
+            step["accepted"] = [
+                self._report_candidate(candidate)
+                for candidate in step["candidates"]
+                if candidate["variant"] in chosen
+            ]
+            step["declined"] = [
+                self._report_candidate(candidate)
+                for candidate in step["candidates"]
+                if candidate["variant"] not in chosen
+            ]
             n_changes = 0
             for i in rec_set:
                 for ch in apply_mapping(self.records[i], self.field, self.split, mapping):
@@ -179,6 +207,14 @@ class Job:
             step["applied"] = len(chosen)
             self.current = self._next_pending(self.current)
             return {"variants": len(chosen), "records": len(rec_set), "changes": n_changes}
+
+    @staticmethod
+    def _report_candidate(candidate: dict) -> dict:
+        return {
+            "variant": candidate["variant"],
+            "score": candidate["score"],
+            "records": len(candidate["rec_idx"]),
+        }
 
     def all_ids(self, step_index: int, variant: str) -> list[str]:
         with self.lock:
@@ -277,6 +313,230 @@ class Job:
                 zf.write(data_path, data_path.name)
                 zf.write(log_path, log_path.name)
             return {"data": data_path, "log": log_path, "zip": zip_path}
+
+    def export_report(self, report_format: str) -> Path:
+        with self.lock:
+            if not self.finished:
+                raise ValueError("Der Bericht ist erst nach dem letzten Schritt verfügbar.")
+            if report_format not in {"markdown", "pdf"}:
+                raise ValueError("Unbekanntes Berichtsformat.")
+
+            outdir = config.OUTPUT_DIR / self.id
+            outdir.mkdir(parents=True, exist_ok=True)
+            extension = "md" if report_format == "markdown" else "pdf"
+            path = outdir / f"{self.stem}_{self.field}_verarbeitungsbericht.{extension}"
+            report = self._report_data()
+            if report_format == "markdown":
+                path.write_text(self._markdown_report(report), encoding="utf-8")
+            else:
+                self._write_pdf_report(path, report)
+            return path
+
+    def _report_data(self) -> dict:
+        accepted = [
+            (step["term"], decision)
+            for step in self.steps
+            for decision in step.get("accepted", [])
+        ]
+        declined = [
+            (step["term"], decision)
+            for step in self.steps
+            for decision in step.get("declined", [])
+        ]
+        return {
+            "filename": self.filename,
+            "field_label": config.field_cfg()["label"],
+            "vocab_file": config.field_cfg()["vocab_file"],
+            "threshold": self.threshold,
+            "created": time.strftime("%Y-%m-%d %H:%M"),
+            "total_records": len(self.records),
+            "possible_records": len(self.possible_records),
+            "changed_records": len(self.changed),
+            "candidate_count": sum(len(step["candidates"]) for step in self.steps),
+            "accepted_count": len(accepted),
+            "declined_count": len(declined),
+            "change_count": len(self.log),
+            "accepted": accepted,
+            "declined": declined,
+        }
+
+    @staticmethod
+    def _markdown_report(report: dict) -> str:
+        lines = [
+            "# Verarbeitungsbericht",
+            "",
+            f"- **Quelldatei:** {report['filename']}",
+            f"- **Metadatenfeld:** {report['field_label']}",
+            f"- **Vokabular:** {report['vocab_file']}",
+            f"- **Erstellt am:** {report['created']}",
+            f"- **Eingestellte Ähnlichkeitsschwelle:** {report['threshold']:.2f}",
+            "",
+            "## Überblick",
+            "",
+            "| Kennzahl | Anzahl |",
+            "| --- | ---: |",
+            f"| Datensätze insgesamt | {report['total_records']} |",
+            f"| Datensätze mit mindestens einem Vorschlag (hätten geändert werden können) | {report['possible_records']} |",
+            f"| Tatsächlich geänderte Datensätze | {report['changed_records']} |",
+            f"| Vorgeschlagene Varianten | {report['candidate_count']} |",
+            f"| Angenommene Vorschläge | {report['accepted_count']} |",
+            f"| Abgelehnte Vorschläge | {report['declined_count']} |",
+            f"| Einzelne Änderungen an Feldwerten | {report['change_count']} |",
+            "",
+            "Ein Vorschlag ist ein vorhandener Wert, der dem jeweiligen Vorzugsbegriff "
+            "zugeordnet wurde. Die Ähnlichkeit ist ein textbasierter Vergleichswert, "
+            "keine Wahrscheinlichkeit für die fachliche Richtigkeit. Vorschläge wurden "
+            "nur ab der eingestellten Schwelle angezeigt. Bei abgelehnten Vorschlägen "
+            "blieben die ursprünglichen Werte unverändert.",
+            "",
+        ]
+        for title, key in (("Angenommene Änderungen", "accepted"), ("Abgelehnte Vorschläge", "declined")):
+            lines.extend(
+                [
+                    f"## {title}",
+                    "",
+                    "| Vorhandener Wert | Vorgeschlagener Vorzugsbegriff | Ähnlichkeit | Betroffene Datensätze |",
+                    "| --- | --- | ---: | ---: |",
+                ]
+            )
+            if report[key]:
+                for term, decision in report[key]:
+                    cells = (
+                        decision["variant"],
+                        term,
+                        f"{decision['score']:.3f}",
+                        str(decision["records"]),
+                    )
+                    lines.append("| " + " | ".join(cell.replace("|", "\\|").replace("\n", " ") for cell in cells) + " |")
+            else:
+                lines.append("| Keine | – | – | – |")
+            lines.append("")
+        return "\n".join(lines)
+
+    @staticmethod
+    def _write_pdf_report(path: Path, report: dict) -> None:
+        if not REPORT_FONT.is_file():
+            raise FileNotFoundError(f"Die Schriftart für den PDF-Bericht fehlt: {REPORT_FONT}")
+        if "AtkinsonHyperlegibleNext" not in pdfmetrics.getRegisteredFontNames():
+            pdfmetrics.registerFont(TTFont("AtkinsonHyperlegibleNext", str(REPORT_FONT)))
+
+        styles = getSampleStyleSheet()
+        styles.add(ParagraphStyle(
+            name="ReportTitle",
+            parent=styles["Title"],
+            fontName="AtkinsonHyperlegibleNext",
+            fontSize=20,
+            leading=25,
+            textColor=colors.HexColor("#173c36"),
+            alignment=TA_LEFT,
+            spaceAfter=12,
+        ))
+        styles.add(ParagraphStyle(
+            name="ReportBody",
+            parent=styles["BodyText"],
+            fontName="AtkinsonHyperlegibleNext",
+            fontSize=9,
+            leading=13,
+        ))
+        styles.add(ParagraphStyle(
+            name="ReportHeading",
+            parent=styles["Heading2"],
+            fontName="AtkinsonHyperlegibleNext",
+            textColor=colors.HexColor("#173c36"),
+            spaceBefore=10,
+        ))
+        styles.add(ParagraphStyle(
+            name="ReportCell",
+            parent=styles["BodyText"],
+            fontName="AtkinsonHyperlegibleNext",
+            fontSize=8,
+            leading=10,
+            splitLongWords=True,
+        ))
+
+        def paragraph(text: str, style: str = "ReportBody") -> Paragraph:
+            return Paragraph(escape(str(text)), styles[style])
+
+        story = [
+            paragraph("Verarbeitungsbericht", "ReportTitle"),
+            paragraph(f"Quelldatei: {report['filename']}"),
+            paragraph(f"Metadatenfeld: {report['field_label']}"),
+            paragraph(f"Vokabular: {report['vocab_file']}"),
+            paragraph(f"Erstellt am: {report['created']}"),
+            paragraph(f"Eingestellte Ähnlichkeitsschwelle: {report['threshold']:.2f}"),
+            paragraph("Überblick", "ReportHeading"),
+        ]
+        stats = [
+            ["Kennzahl", "Anzahl"],
+            ["Datensätze insgesamt", str(report["total_records"])],
+            ["Datensätze mit mindestens einem Vorschlag (hätten geändert werden können)", str(report["possible_records"])],
+            ["Tatsächlich geänderte Datensätze", str(report["changed_records"])],
+            ["Vorgeschlagene Varianten", str(report["candidate_count"])],
+            ["Angenommene Vorschläge", str(report["accepted_count"])],
+            ["Abgelehnte Vorschläge", str(report["declined_count"])],
+            ["Einzelne Änderungen an Feldwerten", str(report["change_count"])],
+        ]
+        story.extend([
+            Table(stats, colWidths=[125 * mm, 30 * mm], repeatRows=1, hAlign="LEFT"),
+            Spacer(1, 7 * mm),
+            paragraph(
+                "Ein Vorschlag ist ein vorhandener Wert, der dem jeweiligen Vorzugsbegriff "
+                "zugeordnet wurde. Die Ähnlichkeit ist ein textbasierter Vergleichswert, "
+                "keine Wahrscheinlichkeit für die fachliche Richtigkeit. Vorschläge wurden "
+                "nur ab der eingestellten Schwelle angezeigt. Bei abgelehnten Vorschlägen "
+                "blieben die ursprünglichen Werte unverändert."
+            ),
+        ])
+        for title, key in (("Angenommene Änderungen", "accepted"), ("Abgelehnte Vorschläge", "declined")):
+            story.extend([
+                paragraph(title, "ReportHeading"),
+            ])
+            rows = [[
+                paragraph("Vorhandener Wert", "ReportCell"),
+                paragraph("Vorzugsbegriff", "ReportCell"),
+                paragraph("Ähnlichkeit", "ReportCell"),
+                paragraph("Datensätze", "ReportCell"),
+            ]]
+            rows.extend(
+                [
+                    paragraph(decision["variant"], "ReportCell"),
+                    paragraph(term, "ReportCell"),
+                    paragraph(f"{decision['score']:.3f}", "ReportCell"),
+                    paragraph(str(decision["records"]), "ReportCell"),
+                ]
+                for term, decision in report[key]
+            )
+            if len(rows) == 1:
+                rows.append([paragraph("Keine", "ReportCell"), "", "", ""])
+            story.append(Table(rows, colWidths=[48 * mm, 50 * mm, 28 * mm, 29 * mm], repeatRows=1, hAlign="LEFT"))
+
+        def style_table(table: Table) -> None:
+            table.setStyle(TableStyle([
+                ("BACKGROUND", (0, 0), (-1, 0), colors.HexColor("#e6f3ee")),
+                ("TEXTCOLOR", (0, 0), (-1, 0), colors.HexColor("#105544")),
+                ("FONTNAME", (0, 0), (-1, -1), "AtkinsonHyperlegibleNext"),
+                ("GRID", (0, 0), (-1, -1), 0.35, colors.HexColor("#dce3e7")),
+                ("VALIGN", (0, 0), (-1, -1), "TOP"),
+                ("LEFTPADDING", (0, 0), (-1, -1), 5),
+                ("RIGHTPADDING", (0, 0), (-1, -1), 5),
+                ("TOPPADDING", (0, 0), (-1, -1), 5),
+                ("BOTTOMPADDING", (0, 0), (-1, -1), 5),
+            ]))
+
+        for element in story:
+            if isinstance(element, Table):
+                style_table(element)
+
+        doc = SimpleDocTemplate(
+            str(path),
+            pagesize=A4,
+            rightMargin=18 * mm,
+            leftMargin=18 * mm,
+            topMargin=18 * mm,
+            bottomMargin=18 * mm,
+            title="Verarbeitungsbericht",
+        )
+        doc.build(story)
 
 
 def create_job(filename: str, threshold: float) -> Job:

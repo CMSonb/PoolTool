@@ -7,6 +7,7 @@ from pathlib import Path
 from unittest.mock import patch
 
 import config
+import jobs
 from app import app
 from data_utils import get_record_id
 from jobs import Job
@@ -15,6 +16,11 @@ from jobs import Job
 class WorkflowTests(unittest.TestCase):
     def test_upload_api_rejects_non_finite_threshold_and_oversized_file(self):
         client = app.test_client()
+        page = client.get("/")
+        self.assertEqual(page.status_code, 200)
+        self.assertIn('id="report-format"', page.get_data(as_text=True))
+        self.assertIn('id="download-report"', page.get_data(as_text=True))
+
         invalid_threshold = client.post(
             "/api/upload",
             data={"threshold": "nan", "file": (io.BytesIO(b"{}"), "records.jsonl")},
@@ -92,6 +98,10 @@ class WorkflowTests(unittest.TestCase):
                 json_log = json.loads(json_paths["log"].read_text(encoding="utf-8"))
                 self.assertEqual(json_log["anzahl_aenderungen"], 1)
                 self.assertEqual(json_log["aenderungen"][0]["record_id"], "institution-17")
+                report = job.export_report("markdown").read_text(encoding="utf-8")
+                self.assertIn("Angenommene Vorschläge | 1", report)
+                self.assertIn("Tatsächlich geänderte Datensätze | 1", report)
+                self.assertIn("Einzelne Änderungen an Feldwerten | 1", report)
 
     def test_unselected_candidate_can_be_left_unchanged(self):
         with tempfile.TemporaryDirectory() as temporary:
@@ -108,7 +118,10 @@ class WorkflowTests(unittest.TestCase):
             }
             input_path.write_text(json.dumps(record) + "\n", encoding="utf-8")
 
-            with patch.object(config, "VOCAB_DIR", vocab_dir):
+            with (
+                patch.object(config, "VOCAB_DIR", vocab_dir),
+                patch.object(config, "OUTPUT_DIR", root / "output"),
+            ):
                 job = Job("records.jsonl", 0.7)
                 job.process(input_path)
                 result = job.go([])
@@ -116,6 +129,45 @@ class WorkflowTests(unittest.TestCase):
             self.assertTrue(job.finished)
             self.assertEqual(result["changes"], 0)
             self.assertEqual(job.records[0]["content"]["aggregatedCHO"]["dcType"], ["Photographie"])
+            self.assertEqual(job.steps[0]["accepted"], [])
+            self.assertEqual(job.steps[0]["declined"], [
+                {"variant": "Photographie", "score": job.steps[0]["candidates"][0]["score"], "records": 1}
+            ])
+
+            with patch.object(config, "OUTPUT_DIR", root / "output"):
+                markdown_path = job.export_report("markdown")
+                markdown = markdown_path.read_text(encoding="utf-8")
+                self.assertIn("Datensätze insgesamt | 1", markdown)
+                self.assertIn("Datensätze mit mindestens einem Vorschlag (hätten geändert werden können) | 1", markdown)
+                self.assertIn("Tatsächlich geänderte Datensätze | 0", markdown)
+                self.assertIn("Abgelehnte Vorschläge | 1", markdown)
+                self.assertIn("Photographie", markdown)
+                self.assertIn("Fotografie", markdown)
+
+                pdf_path = job.export_report("pdf")
+                pdf_content = pdf_path.read_bytes()
+                self.assertTrue(pdf_content.startswith(b"%PDF-"))
+                self.assertIn(b"AtkinsonHyperlegibleNext", pdf_content)
+
+                jobs.JOBS[job.id] = job
+                self.addCleanup(jobs.JOBS.pop, job.id, None)
+                response = app.test_client().get(
+                    f"/api/jobs/{job.id}/export/report?format=markdown"
+                )
+                self.assertEqual(response.status_code, 200)
+                self.assertIn("Photographie", response.get_data(as_text=True))
+                response.close()
+                pdf_response = app.test_client().get(
+                    f"/api/jobs/{job.id}/export/report?format=pdf"
+                )
+                self.assertEqual(pdf_response.status_code, 200)
+                self.assertEqual(pdf_response.mimetype, "application/pdf")
+                self.assertTrue(pdf_response.get_data().startswith(b"%PDF-"))
+                pdf_response.close()
+                invalid_format = app.test_client().get(
+                    f"/api/jobs/{job.id}/export/report?format=html"
+                )
+                self.assertEqual(invalid_format.status_code, 400)
 
 
 if __name__ == "__main__":

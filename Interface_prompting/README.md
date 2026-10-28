@@ -80,8 +80,14 @@ gespeichert (`data/vocabularies/` und `output/`).
 
 Nach Abschluss können die vollständigen Datensätze als JSON-Array oder JSONL
 und das Änderungsprotokoll als CSV oder JSON heruntergeladen werden. Die ZIP-
-Option enthält beides. Protokolliert werden Datensatz-ID, Feld, alter und neuer
-Wert, Variante, Vorzugsbegriff und gegebenenfalls alte/neue URI.
+Option enthält beides. Zusätzlich kann ein Verarbeitungsbericht als Markdown-
+oder PDF-Datei erstellt werden. Das PDF verwendet dieselbe lokal eingebundene
+Atkinson-Hyperlegible-Next-Schrift wie die Website. Der Bericht fasst Datensatz-
+und Änderungssummen zusammen und listet angenommene sowie abgelehnte Vorschläge
+mit Ähnlichkeitswert und Zahl der betroffenen Datensätze auf. Ähnlichkeit ist
+ein textbasierter Vergleichswert, keine Wahrscheinlichkeit für die fachliche
+Richtigkeit. Protokolliert werden Datensatz-ID, Feld, alter und neuer Wert,
+Variante, Vorzugsbegriff und gegebenenfalls alte/neue URI.
 
 Uploads und Ergebnisse liegen in `uploads/` beziehungsweise `output/`. Der
 Upload wird nach der Verarbeitung entfernt. Die Sitzungen werden im
