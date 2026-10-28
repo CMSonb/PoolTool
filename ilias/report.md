@@ -22,11 +22,13 @@ Running log of findings about the Kulturpool datasets and the scripts in `ilias/
 | `data/time_mapping.csv` | Each distinct time string with `begin_year`, `end_year`, `iso`, `method`, `score`, `source_uri`, `qualifier` (`run_time_mapping.py`) |
 | `data/time_review.csv` | Time strings the tool could not map, with PeriodO and ChronOntology candidates and empty `begin_year`/`end_year`/`decision` columns to fill in |
 | `data/periodo_periods.csv` | German and English labels of PeriodO periods with start/stop year (`build_period_table.py`) |
-| `data/periods.csv` | Reviewed periods and manual decisions (73 labels), written by `import_periods.py` from `periods_proposal.csv`; applied before the rules |
+| `data/periods.csv` | Reviewed periods and manual decisions (86 labels), written by `import_periods.py` from `periods_proposal.csv`; applied before the rules |
 | `data/periods_proposal.csv` | Proposed dates for the 86 unmapped time strings, to be reviewed before they go into `periods.csv` |
 | `data/time_api_check.csv` | Comparison of the mapped years with `dateMin`/`dateMax` of the Kulturpool search index (`check_dates_against_api.py`) |
 | `data/records_101_200/*_first_records.json` | Records 101-200 of every dataset (second sample, 99 MB, `sample_records.py --second`) |
-| `data/time_values_sample2.csv` | Distinct time strings of the second sample with the mapping result and a `new` flag (not in sample 1) (`check_second_sample.py`) |
+| `data/time_values_sample2.csv` | Distinct time strings of the second sample with the mapping result and a `new` flag (not in sample 1) (`check_sample.py`) |
+| `data/records_201_300/*_first_records.json` | Records 201-300 of every dataset (third sample, 82 MB, `sample_records.py --third`, ignored by git) |
+| `data/time_values_sample3.csv` | Distinct time strings of the third sample with the mapping result and a `new` flag (not in samples 1 and 2) (`check_sample.py --third`) |
 
 ## Field usage of the main-class fields (sample of 255 records)
 
@@ -172,4 +174,25 @@ Test of how well the rules and `periods.csv` (tuned on records 1-100) generalise
 - The begin, about 17.2 Ma (start of the Karpatian), is from memory and **not verified**: the paper and the searches did not give a start date for the Karpatian. Confidence low until checked.
 - Years are counted from the year 0, not from the present; the difference of about 2,000 years does not matter at this scale.
 - With this row nothing is unmapped any more in either sample.
+
+### Third sample (records 201-300 per dataset)
+
+2,132 distinct field/value pairs, 1,367 new compared with samples 1 and 2 (`check_sample.py --third`; this script replaces `check_second_sample.py`).
+
+- New values (distinct / records): rule 1,301 / 1,558; timespan 36 / 40; rule_embedded 14 / 14; unmapped 16 / 20 (1.2% of the new distinct values).
+- Trend of new period names that were missing from the table: about 35 (sample 1, reviewed), 13 (sample 2), 9 (sample 3): Late Minoan | Spätminoisch, Spätklassizismus, African | Afrikanisch, Cypriote | Zyprisch, Frühchristlich, Frühmittelalterlich, Neolithic | Neolithisch, Roman Imperial | Römische Kaiserzeit, and `Realimus` (typo of Realismus, record from Belvedere). The number is falling but not zero.
+- Other unmapped strings: two-digit years (`09.09.01` and `28.06.01`, Wien Museum postcards of an actor who lived 1858-1910, so 1901; `Poststempel: Anger, 6.2.69` is 1969), masked months (`18##-02`, `18##-10`, `18##-11`) and `-195000000` (an ammonite, geological like `-60000000`).
+- Wrong or imprecise results among the mapped values (checked by hand, not fixed yet): `um 1730/40` is mapped to `1730~/0040~` (abbreviated end year, begin after end); `Jänner 1909` becomes `1909` because `Jänner` is missing in the month list; `1. Juni 1995` becomes `1995`; `1927-01-xx` becomes `1927`; `23.09.1980, 24.09.1980; 02.-26.09.1980` becomes `1980` because `;` is not accepted in date lists; `1920-1960 ca..` (double dot) gets score 0.5 as embedded text.
+
+### Fixes and proposals after the third sample
+
+- Fixed (all checked against the three samples, nothing else changed): abbreviated end years (`um 1730/40` gives `1730~/1740~`, `1927-28`, `[1915/18]`, `1660/70`, `1996-06-08/09` gives `1996-06-08/1996-06-09`), `Jänner`, `1. Juni 1995`, `1927-01-xx`, `;` in date lists, double dot after `ca.`.
+- Found while checking the old results: before the fix `[1915/18]` and `1660/70` were mapped to `1915/0018` and `1660/0070`, and dates with placeholder parts such as `1430-99-99` or `1907-94-21` were accepted as ISO dates. Months above 12 and days above 31 are now rejected; the placeholder dates are mapped to the year (`rule_embedded`).
+- 9 proposals appended to `periods_proposal.csv` (not yet imported): Late Minoan -1600/-1050, Spätklassizismus 1810/1850 (low), Cypriote -2300/-1050 (Getty AAT), Frühchristlich 175/625, Frühmittelalterlich 500/1050, Neolithic -5500/-2200, Roman Imperial -27/476, Realimus 1840/1880 (typo of Realismus, low), and `African | Afrikanisch` as `no_date` (a cultural origin, not a date).
+- Masked years (`18##-02`, `18##-10`, `18##-11`, `19??`) now map to the whole century (1800/1899), month and day ignored, as decided before for `18##-4`. `clean()` no longer reads the `??` of `19??` as an uncertainty marker.
+- Two-digit years (`09.09.01`, `28.06.01`, `Poststempel: Anger, 6.2.69`) are still unmapped. Example `09.09.01`: Wien Museum postcard (record `37f590fe-90f0-4288-a634-552a32acacda`, `date` = `["09.09.01", "1893"]`, dcType "gelaufen" = circulated, title "Josef Kainz (1858-1910) als König Astolf"). The record has two dates with different meanings: `1893` is probably the date of the role or photo, `09.09.01` the date the card was sent (1901). A rule "two-digit year below 26 is the 2000s" would give 2001 here, which is impossible (Kainz died in 1910).
+- Two-digit years (`dd.mm.yy`, `d.m.yy`) are read as 19yy, by decision (`09.09.01` gives `1901-09-09`, `28.06.01` gives `1901-06-28`, `Poststempel: Anger, 6.2.69` gives `1969-02-06`). This is an assumption about the collections seen (Wien Museum postcards, Jägerstätter letters); it would be wrong for two-digit years in the 2000s. No change in samples 1 and 2.
+- Third sample after all fixes: 10 distinct unmapped strings, nine of them the period names waiting for review (`Late Minoan`, `Spätklassizismus`, `African`, `Cypriote`, `Frühchristlich`, `Frühmittelalterlich`, `Neolithic`, `Realimus`, `Roman Imperial`) and `-195000000`.
+- The 9 proposals of the third sample were accepted and imported (`periods.csv` now has 86 labels); `African | Afrikanisch` is treated as no date (`african`, `afrikanisch` added to the no-date words). `-195000000` (ammonite) is the single year -195,000,000 by decision (`Y-195000000`).
+- After this all three samples (about 25,800 records) map completely: no unmapped string in sample 1, 2 or 3. Third sample, new values: rule 1,306 distinct, rule_embedded 15, table 9, timespan 36, no_date 1.
 

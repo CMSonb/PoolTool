@@ -12,10 +12,10 @@ PERIODO_PATH = DATA_DIR / "periodo_periods.csv"  # von build_period_table.py erz
 # Der ISO-8601-String verwendet die astronomische Zählung (1 v. Chr. = 0000, 2 v. Chr. = -0001).
 # Unschärfe-Markierungen ("~" ungefähr, "?" unsicher) und offene Intervalle ("..") sind EDTF.
 
-NO_DATE = {"ohne datierung", "ohne datum", "undatiert", "unbekannt", "unknown", "o. j.", "o.j.", "x", "geschichte", "sozialgeschichte", "div.", "9999"}
+NO_DATE = {"ohne datierung", "ohne datum", "undatiert", "unbekannt", "unknown", "o. j.", "o.j.", "x", "geschichte", "sozialgeschichte", "div.", "9999", "african", "afrikanisch"}
 
 MONTHS = {
-    "januar": 1, "februar": 2, "märz": 3, "maerz": 3, "april": 4, "mai": 5, "juni": 6,
+    "januar": 1, "jänner": 1, "jaenner": 1, "februar": 2, "märz": 3, "maerz": 3, "april": 4, "mai": 5, "juni": 6,
     "juli": 7, "august": 8, "september": 9, "oktober": 10, "november": 11, "dezember": 12,
 }
 
@@ -102,14 +102,14 @@ def clean(text: str) -> tuple[str, str]:
     """Text bereinigen und Qualifier (approx/uncertain) ermitteln."""
     text = text.replace("\n", " ").replace("–", "-").replace("—", "-").replace("©", " ").strip()
     qualifier = set()
-    if "(?)" in text or text.endswith("?"):
+    if "(?)" in text or (text.endswith("?") and not text.endswith("??")):  # "19??" ist eine Maske
         qualifier.add("uncertain")
         text = text.replace("(?)", " ").rstrip("?")
     if re.search(r"\b(?:ca|circa|um)\b|\bc\.", text, flags=re.IGNORECASE):
         qualifier.add("approx")
         # nachgestelltes ", ca." (hinter einer Zahl, vor Bindestrich/Schrägstrich/Ende) samt Komma entfernen
         text = re.sub(r"(?<=\d)\s*,\s*ca\.?(?=\s*(?:-|/|;|$))", " ", text, flags=re.IGNORECASE)
-        text = re.sub(r"\b(?:ca|circa|um)\b\.?|\bc\.", " ", text, flags=re.IGNORECASE)
+        text = re.sub(r"\b(?:ca|circa|um)\b\.*|\bc\.", " ", text, flags=re.IGNORECASE)
     if re.search(r"\b(?:vermutlich|wahrscheinlich|evtl|ev)\b", text, flags=re.IGNORECASE):
         qualifier.add("uncertain")
         text = re.sub(r"\b(?:vermutlich|wahrscheinlich|evtl|ev)\b\.?", " ", text, flags=re.IGNORECASE)
@@ -137,16 +137,22 @@ def parse_endpoint(text: str):
     if m:
         return (historical_year(m.group("y"), m.group("ye")), None, None), m.group("ye")
     m = re.fullmatch(r"(\d{4})-(\d{2})(?:-(\d{2}))?", text)
-    if m:
+    if m and 1 <= int(m.group(2)) <= 12 and (not m.group(3) or 1 <= int(m.group(3)) <= 31):
         return (int(m.group(1)), int(m.group(2)), int(m.group(3)) if m.group(3) else None), None
     m = re.fullmatch(r"(\d{1,2})\.(\d{1,2})\.(\d{4})", text) or re.fullmatch(
         r"(\d{1,2})-(\d{1,2})-(\d{4})", text
     )
     if m:
         return (int(m.group(3)), int(m.group(2)), int(m.group(1))), None
-    m = re.fullmatch(r"(\d{4})\.(\d{2})\.xx", text, flags=re.IGNORECASE)
+    m = re.fullmatch(r"(\d{1,2})\.(\d{1,2})\.(\d{2})", text)
+    if m and 1 <= int(m.group(2)) <= 12 and 1 <= int(m.group(1)) <= 31:
+        return (1900 + int(m.group(3)), int(m.group(2)), int(m.group(1))), None  # zweistelliges Jahr: 19yy (Annahme)
+    m = re.fullmatch(r"(\d{4})[.-](\d{2})[.-]xx", text, flags=re.IGNORECASE)
     if m:
         return (int(m.group(1)), int(m.group(2)), None), None
+    m = re.fullmatch(r"(\d{1,2})\.\s*([A-Za-zäöüÄÖÜ]+)\s+(\d{4})", text)
+    if m and m.group(2).lower() in MONTHS:
+        return (int(m.group(3)), MONTHS[m.group(2).lower()], int(m.group(1))), None
     m = re.fullmatch(r"(\d{4})\.(\d{1,2})\.(\d{1,2})", text)
     if m:
         return (int(m.group(1)), int(m.group(2)), int(m.group(3))), None
@@ -227,6 +233,22 @@ def parse_decade(text: str, qualifier: str) -> TimeResult | None:
     return build((start, None, None), (start + 9, None, None), qualifier)
 
 
+def complete_short_year(begin: tuple, end: tuple, right_text: str) -> tuple:
+    """Zweistelliges Ende ("1730/40", "1927-28", "1996-06-08/09") anhand der Genauigkeit des Beginns ergänzen."""
+    if not re.fullmatch(r"\d{2}", right_text.strip()):
+        return end
+    number = end[0]
+    year, month, day = begin
+    if day is not None and day <= number <= 31:
+        return (year, month, number)  # Tag: "1996-06-08/09"
+    if month is not None and day is None and month <= number <= 12:
+        return (year, number, None)  # Monat: "1996-06/07"
+    if month is None and year >= 1000:
+        completed = year // 100 * 100 + number  # Jahr: "1730/40"
+        return (completed if completed >= year else completed + 100, None, None)
+    return end
+
+
 def parse_range(text: str, qualifier: str) -> TimeResult | None:
     """Bereiche wie "1855-1861", "100 n. Chr. - 200 n. Chr.", "1470-", "1547-01-01/1547-12-31"."""
     # ISO-Intervall mit Schrägstrich
@@ -234,7 +256,7 @@ def parse_range(text: str, qualifier: str) -> TimeResult | None:
         left, _, right = text.partition("/")
         a, b = parse_endpoint(left), parse_endpoint(right)
         if a and b:
-            return build(a[0], b[0], qualifier)
+            return build(a[0], complete_short_year(a[0], b[0], right), qualifier)
         return None
 
     open_end = re.fullmatch(r"(.+?)\s*-\s*", text)
@@ -248,6 +270,8 @@ def parse_range(text: str, qualifier: str) -> TimeResult | None:
         if not (a and b):
             continue
         (begin, begin_era), (end, end_era) = a, b
+        if not (begin_era or end_era):
+            end = complete_short_year(begin, end, text[position + 1 :])
         if begin_era and not end_era and re.fullmatch(ERA_BCE, begin_era):
             return None  # "75 v. Chr.-20": BCE oder CE nicht entscheidbar
         if end_era and not begin_era:
@@ -298,7 +322,7 @@ def parse_with_inner_range(text: str, qualifier: str) -> TimeResult | None:
 def parse_date_tokens(text: str, qualifier: str) -> TimeResult | None:
     """Datumslisten mit abgekürzten Tagen ("30.09.1987, 01., 03., 04.10.1987", "08.-18.08.1987")."""
     text = re.sub(r"\([^)]*\)", " ", text)
-    if not re.fullmatch(r"[\d.,/\-\s]+", text) or not re.search(r"\d{1,2}\.\d{1,2}\.\d{4}", text):
+    if not re.fullmatch(r"[\d.,;/\-\s]+", text) or not re.search(r"\d{1,2}\.\d{1,2}\.\d{4}", text):
         return None
     month = year = None
     dates = []
@@ -343,19 +367,33 @@ def parse_serial(text: str, qualifier: str) -> TimeResult | None:
 
 def parse_embedded(text: str, qualifier: str) -> TimeResult | None:
     """Datum oder Jahr in umgebendem Text ("Poststempel: Augsburg, 13.03.1978"); bei mehreren Jahren das Intervall."""
-    found = re.findall(r"(?<![\d.])(?:\d{1,2}\.\d{1,2}\.(\d{4})|(\d{4})-\d{2}-\d{2}|(\d{4}))(?![\d])", text)
-    years = {int(a or b or c) for a, b, c in found}
+    found = re.findall(
+        r"(?<![\d.])(?:\d{1,2}\.\d{1,2}\.(\d{4})|(\d{4})-\d{2}-\d{2}|(\d{4})|\d{1,2}\.\d{1,2}\.(\d{2}))(?![\d])", text
+    )
+    # zweistelliges Jahr (d.m.yy): 19yy (Annahme)
+    years = {int(a or b or c) if (a or b or c) else 1900 + int(d) for a, b, c, d in found}
     if not years or not all(1000 <= y <= 2100 for y in years):
         return None
     if len(years) > 1:  # mehrere Jahre im Text: Intervall vom frühesten bis zum spätesten
         result = build((min(years), None, None), (max(years), None, None), qualifier, "rule_embedded")
         result.score = 0.5
         return result
-    single = parse_endpoint(re.search(r"\d{1,2}\.\d{1,2}\.\d{4}|\d{4}-\d{2}-\d{2}|\d{4}", text).group())
-    point = single[0] if len(found) == 1 else (next(iter(years)), None, None)
+    single = parse_endpoint(
+        re.search(r"\d{1,2}\.\d{1,2}\.\d{4}|\d{4}-\d{2}-\d{2}|\d{4}|\d{1,2}\.\d{1,2}\.\d{2}(?!\d)", text).group()
+    )
+    point = single[0] if single and len(found) == 1 else (next(iter(years)), None, None)
     result = build(point, point, qualifier, "rule_embedded")
     result.score = 0.6
     return result
+
+
+def parse_masked_year(text: str, qualifier: str) -> TimeResult | None:
+    """Jahr mit maskierten Stellen ("18##-02", "19??"): das ganze Jahrhundert; Monat und Tag werden ignoriert."""
+    m = re.fullmatch(r"(\d{2})(?:##|\?\?)(?:-\d{1,2}(?:-\d{1,2})?)?", text)
+    if not m:
+        return None
+    start = int(m.group(1)) * 100
+    return build((start, None, None), (start + 99, None, None), qualifier)
 
 
 def period_key(label: str) -> str:
@@ -426,6 +464,7 @@ def parse_text(text: str) -> TimeResult:
         parse_range,
         parse_centuries,
         parse_decade,
+        parse_masked_year,
         parse_with_inner_range,
         parse_open,
         parse_date_tokens,
