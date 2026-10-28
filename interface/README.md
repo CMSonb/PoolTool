@@ -17,10 +17,11 @@ Fotografie,
 Druckgraphik,https://example.org/concept/123
 ```
 
-Die mitgelieferten CSV-Dateien enthalten nur die Kopfzeile. Bitte vor der
-Verarbeitung mit dem eigenen Vokabular befüllen. `NORM_FIELD` bestimmt die
-Vokabular-Datei und das Metadatenfeld; verfügbar sind `dcType`, `medium` und
-`subject`. Standard ist `dcType`. Beim Feld `medium` werden kommaseparierte
+Bitte die Dateien vor der Verarbeitung mit dem eigenen Vokabular befüllen.
+`NORM_FIELD` bestimmt die Vokabular-Datei und das Metadatenfeld; verfügbar sind
+`dcType` (`dctype.csv`, bei überwiegend englischen Daten automatisch
+`dctype_en.csv`), `medium` (`medium.csv`) und `subject` (`subject.csv`).
+Standard ist `dcType`. Beim Feld `medium` werden kommaseparierte
 Bestandteile einzeln verglichen.
 
 ## 2. Lokal starten
@@ -28,7 +29,7 @@ Bestandteile einzeln verglichen.
 Voraussetzung: Python 3.10 oder neuer.
 
 ```powershell
-cd Interface_prompting
+cd interface
 py -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
@@ -38,12 +39,13 @@ python app.py
 
 Danach im Browser [http://localhost:5000](http://localhost:5000) öffnen. Für
 `medium` oder `subject` den Wert von `NORM_FIELD` entsprechend ändern. Die
-Standardanalyse verwendet den lokalen String-Matcher. Ein CLIP-Hook ist in
-`matching.py` vorbereitet und kann dort ergänzt werden.
+Standardanalyse verwendet den CLIP-Text-Encoder (`MATCHER = "clip"` in
+`config.py`); das Modell wird bei der ersten Analyse heruntergeladen. Für einen
+schnellen Offline-Lauf kann `MATCHER = "string"` gesetzt werden.
 
 ## 3. Mit Docker starten
 
-Im Verzeichnis `Interface_prompting`:
+Im Verzeichnis `interface`:
 
 ```powershell
 docker compose up --build
@@ -67,7 +69,7 @@ gespeichert (`data/vocabularies/` und `output/`).
 - Datensätze sollen das gewählte Feld unter
   `content.aggregatedCHO.<Feld>` enthalten.
 - Die Ähnlichkeitsschwelle ist beim Upload einstellbar. Der String-Matcher ist
-  ein offline nutzbarer Platzhalter für die geplante CLIP-Integration.
+  ein offline nutzbarer Ersatz für den CLIP-Matcher.
 - Kandidaten werden höchstens einem ähnlichsten Vokabularbegriff zugeordnet.
   Begriffe ohne Kandidaten werden automatisch übersprungen.
 -   Die angezeigte und protokollierte ID wird aus dem ersten verfügbaren
