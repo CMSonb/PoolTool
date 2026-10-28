@@ -17,6 +17,13 @@ Running log of findings about the Kulturpool datasets and the scripts in `ilias/
 | `data/compared_fields.csv` | One row per sampled record, one column per field path, `1` = field filled, `0` = missing or empty |
 | `data/mapping_main_classes.csv` | Feldbezeichnung, EDM Feld, JSON Key and JSON Key Path for the Hauptklassen of the mapping template |
 | `data/bk_terms.csv` | Flat list of all Basisklassifikation terms: `term` (German label), `uri` (written by `fetch_bk.py`) |
+| `data/first_records_100/*_first_records.json` | First 100 records of every dataset (written by `sample_records.py`, 93 MB, 8,600 records) |
+| `data/time_values.csv` | Distinct time strings of the 100-record sample per field and shape, with record and dataset counts (`time_values.py`) |
+| `data/time_mapping.csv` | Each distinct time string with `begin_year`, `end_year`, `iso`, `method`, `score`, `source_uri`, `qualifier` (`run_time_mapping.py`) |
+| `data/time_review.csv` | Time strings the tool could not map, with PeriodO and ChronOntology candidates and empty `begin_year`/`end_year`/`decision` columns to fill in |
+| `data/periodo_periods.csv` | German and English labels of PeriodO periods with start/stop year (`build_period_table.py`) |
+| `data/periods.csv` | Hand-checked period table; currently only the header, rows are added after review |
+| `data/time_api_check.csv` | Comparison of the mapped years with `dateMin`/`dateMax` of the Kulturpool search index (`check_dates_against_api.py`) |
 
 ## Field usage of the main-class fields (sample of 255 records)
 
@@ -100,3 +107,15 @@ Links to the vocabularies only.
 - Result: 2140 terms, all with a German `prefLabel`, URIs unique. The TIB terminology service lists 2142 individuals; the 2 extra are the scheme URI itself and `bk/Not_153`, which is not a class.
 - The bulk JSKOS downloads that BARTOC lists for BK (`api.dante.gbv.de/voc/concepts?...&download=json`) return an empty list, hence the crawl.
 - No `term_en` column, by decision. English labels do exist for at least some classes (`bk/81.64`: "Teaching process: other"), but not for all (`bk/5` has German only). Coverage was not measured. BARTOC still lists `languages: de` only.
+
+## Time mapping (`time_mapping.py`)
+
+Tool that maps time descriptions to years and ISO 8601 / EDTF. Sample: first 100 records per dataset (86 datasets, 8,600 records), by explicit decision a larger sample than the first-3 sample above; no full scan.
+
+- **Conventions.** `begin_year`/`end_year` use historical counting (1 BCE = -1, no year 0). The `iso` string uses astronomical years (1 BCE = `0000`, 2 BCE = `-0001`). `~` (approximate), `?` (uncertain) and `..` (open end) are EDTF, not base ISO 8601. Source values with a minus sign (`-0015 - 0230`, `(-15-476)`) are read as historical years, not as astronomical years; this is an assumption. Parts of a century: Anfang = years 1-33, Mitte = 34-66, Ende = 67-100, halves 1-50/51-100, thirds and quarters analogous.
+- **Time strings in the sample.** 2,272 distinct values in `temporal`, `date` and `issued` (2,472 with `coverage`, where only values with a digit or a TimeSpan are kept). Values appear as plain strings, `{"@value","@language"}` objects and TimeSpan objects.
+- **Result by method** (distinct strings / records): rule 2,114 / 5,056; timespan 60 / 86; no_date 7 / 201 ("ohne Datierung", "undatiert", "Unbekannt"); unmapped 87 / 430 (7.4% of the records). 121 results are marked approximate, 20 uncertain. The rules cover ISO dates and intervals, `dd.mm.yyyy`, month dates, ranges with `n. Chr.`/`v. Chr.`, centuries and parts of centuries, decades, open ends (`nach`, `ab`, `vor`), date lists and named periods with a range in brackets (`Römische Kaiserzeit (-15-476)`).
+- **Unmapped strings** (`time_review.csv`, 86 rows): almost all are named periods or styles (Late Middle Ages, Neolithikum, antik, Spätbarock, Hochbarock, Realismus, Römisches Reich, ...), plus a few odd date lists. Not implemented yet: the embedding step for spelling and language variants of table entries, and the LLM step.
+- **Named periods have conflicting definitions in the gazetteers.** PeriodO has 11,355 German/English labels. "Römisches Reich" has one entry (-28/499), but "Roman Empire" has five different intervals (-28/499, -27/395, -27/476, -25/395 and others); ChronOntology gives -753/476 for "Römisches Reich". "Late Middle Ages" has 8 different intervals between 1001 and 1565, "Neolithikum" ranges from -10000 to -2000 in ChronOntology. A single PeriodO hit is therefore not treated as consensus: only rows in `periods.csv` are applied automatically, PeriodO and ChronOntology only appear as candidates in the review file.
+- **Check against the search index.** The Kulturpool search index stores `dateMin`/`dateMax` (Unix seconds). For 2,169 sample records with a parsable `date`, 2,059 agree within one year (95%). Of the 110 differences, 33 are ranges like `1900, ca- 1930, ca` where the index keeps only the first year; most others are different conventions: the index maps "Mitte 19. Jh." or "2. Hälfte 19. Jh." to the whole century (1800-1899) and gives `um 1900` as a single year, while the tool returns the stated part or the stated range. The index's `date` field was not used as ground truth.
+- **Not done yet:** hand-labelled gold set with precision per method; rows in `periods.csv`. The tests (`test_time_mapping.py`, `python3 -m unittest test_time_mapping`) use `unittest` because `pytest` is not installed.

@@ -83,9 +83,11 @@ def write_first_records(archive: Path, member_name: str, limit: int = 3) -> Path
     return target
 
 
-def write_all_first_records(archive: Path, limit: int = 3) -> list[Path]:
+def write_all_first_records(
+    archive: Path, limit: int = 3, target_dir: Path = FIRST_RECORDS_DIR
+) -> list[Path]:
     """Die ersten Datensätze jedes Datensets in einem Durchlauf als {datenset}_first_records.json speichern."""
-    FIRST_RECORDS_DIR.mkdir(parents=True, exist_ok=True)
+    target_dir.mkdir(parents=True, exist_ok=True)
     targets = []
     with tarfile.open(archive, mode="r:gz") as tar:
         for member in tar:
@@ -105,7 +107,7 @@ def write_all_first_records(archive: Path, limit: int = 3) -> list[Path]:
                     break
 
             dataset, _ = split_member_name(member.name)
-            target = FIRST_RECORDS_DIR / f"{dataset}_first_records.json"
+            target = target_dir / f"{dataset}_first_records.json"
             target.write_text(json.dumps(first_records, indent=2, ensure_ascii=False), encoding="utf-8")
             targets.append(target)
     return targets

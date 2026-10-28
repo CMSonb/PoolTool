@@ -1,0 +1,2475 @@
+field,shape,text,begin,end,records,datasets
+coverage,string,2024-2024,,,15,1
+coverage,string,2020-2020,,,12,1
+coverage,string,2021-2021,,,9,1
+coverage,string,1801-1900,,,7,1
+coverage,string,2020-2023,,,6,1
+coverage,string,1900-1920,,,5,2
+coverage,string,1950-1960,,,5,1
+coverage,string,1501-1600,,,3,1
+coverage,string,1920-1940,,,3,1
+coverage,string,1910-1910,,,3,1
+coverage,string,1701-1800,,,2,1
+coverage,string,1916-1918,,,2,1
+coverage,string,1957-1957,,,2,1
+coverage,string,1973-1973,,,2,1
+coverage,string,1798-1822,,,2,1
+coverage,string,1978-1978,,,2,1
+coverage,string,1835-1835,,,2,1
+coverage,string,2018-2018,,,2,2
+coverage,string,1918-1918,,,2,1
+coverage,string,1965-1971,,,2,1
+coverage,string,2023-2023,,,2,1
+coverage,string,1880-1890,,,2,1
+coverage,string,1888-1890,,,2,1
+coverage,string,1718-1718,,,1,1
+coverage,string,1986-1986,,,1,1
+coverage,string,1928-1929,,,1,1
+coverage,string,1958-1958,,,1,1
+coverage,string,1551-1876,,,1,1
+coverage,string,1906-1906,,,1,1
+coverage,string,1801-1810,,,1,1
+coverage,string,1955-1955,,,1,1
+coverage,string,1867-1887,,,1,1
+coverage,string,1828-1828,,,1,1
+coverage,string,1922-1930,,,1,1
+coverage,string,1941-1942,,,1,1
+coverage,string,1845-1845,,,1,1
+coverage,string,1961-1961,,,1,1
+coverage,string,1872-1872,,,1,1
+coverage,string,1915-1915,,,1,1
+coverage,string,1901-1912,,,1,1
+coverage,string,1802-1802,,,1,1
+coverage,string,1881-1895,,,1,1
+coverage,string,1876-1885,,,1,1
+coverage,string,1953-1958,,,1,1
+coverage,string,1756-1760,,,1,1
+coverage,string,1715-1735,,,1,1
+coverage,string,1843-1843,,,1,1
+coverage,string,1847-1852,,,1,1
+coverage,string,1969-,,,1,1
+coverage,string,1919-1929,,,1,1
+coverage,string,1899-1908,,,1,1
+coverage,string,1830-1844,,,1,1
+coverage,string,1801-1850,,,1,1
+coverage,string,0501-0800,,,1,1
+coverage,string,1870-1890,,,1,1
+coverage,string,1927-1937,,,1,1
+coverage,string,1816-1816,,,1,1
+coverage,string,1587-1587,,,1,1
+coverage,string,1884-1884,,,1,1
+coverage,string,1864-1887,,,1,1
+coverage,string,1814-1829,,,1,1
+coverage,string,1905-1905,,,1,1
+coverage,string,0618-0800,,,1,1
+coverage,string,1963-1963,,,1,1
+coverage,string,1676-1890,,,1,1
+coverage,string,1920-1930,,,1,1
+coverage,string,1742-1760,,,1,1
+coverage,string,2005-2005,,,1,1
+coverage,string,1863-1883,,,1,1
+coverage,string,1910-1917,,,1,1
+coverage,string,1979-1979,,,1,1
+coverage,string,1907-1907,,,1,1
+coverage,string,1875-1885,,,1,1
+coverage,string,1900-1906,,,1,1
+coverage,string,1820-1821,,,1,1
+coverage,string,1930-1940,,,1,1
+coverage,string,1981-1981,,,1,1
+coverage,string,1701-1710,,,1,1
+coverage,string,1850-1863,,,1,1
+coverage,string,1898-1908,,,1,1
+coverage,string,1985-1985,,,1,1
+coverage,timespan,27.01.1960,1960,1960,1,1
+coverage,timespan,10.06.1960,1960,1960,1,1
+coverage,timespan,07.07.1986,1986,1986,1,1
+coverage,timespan,11.1957,1957,1957,1,1
+coverage,timespan,1938-1945,1938,1945,1,1
+coverage,timespan,25.02.1964,1964,1964,1,1
+coverage,timespan,18.03.1929,1929,1929,1,1
+coverage,timespan,10.02.1968,1968,1968,1,1
+coverage,timespan,23.08.1938,1938,1938,1,1
+coverage,timespan,1906,1906,1906,1,1
+coverage,timespan,1912,1912,1912,1,1
+coverage,timespan,07.1935,1935,1935,1,1
+coverage,timespan,19.04.1961,1961,1961,1,1
+coverage,timespan,1929-1932,1929,1932,1,1
+coverage,timespan,20.10.1968,1968,1968,1,1
+coverage,timespan,20.06.1969,1969,1969,1,1
+coverage,timespan,12.1944,1944,1944,1,1
+coverage,timespan,05.10.1940,1940,1940,1,1
+coverage,timespan,26.04.1965,1965,1965,1,1
+coverage,timespan,10.12.1971,1971,1971,1,1
+coverage,timespan,25.09.1968,1968,1968,1,1
+coverage,timespan,1950,1950,1951,1,1
+coverage,timespan,1897-1997,1897,1997,1,1
+coverage,timespan,14.03.1959,1959,1959,1,1
+coverage,timespan,03.08.1968,1968,1968,1,1
+coverage,timespan,15.11.1938,1938,1938,1,1
+coverage,timespan,08.03.1956,1956,1956,1,1
+coverage,timespan,21.01.1963,1963,1963,1,1
+coverage,timespan,1960,1960,1960,1,1
+coverage,timespan,05.1961,1961,1961,1,1
+coverage,timespan,23.05.1941,1941,1941,1,1
+coverage,timespan,1961,1961,1961,1,1
+coverage,timespan,07.1957,1957,1957,1,1
+coverage,timespan,03.1950,1950,1950,1,1
+coverage,timespan,01.03.1941,1941,1941,1,1
+coverage,timespan,25.11.1985,1985,1985,1,1
+coverage,timespan,14.10.1965,1965,1965,1,1
+coverage,timespan,1963,1963,1963,1,1
+coverage,timespan,26.05.1959,1959,1959,1,1
+coverage,timespan,20.10.1960,1960,1960,1,1
+coverage,timespan,04.09.1956,1956,1956,1,1
+coverage,timespan,18.07.1960,1960,1960,1,1
+coverage,timespan,27.11.1939,1939,1939,1,1
+coverage,timespan,1938-1978,1938,1978,1,1
+coverage,timespan,18.11.1937,1937,1937,1,1
+coverage,timespan,07.10.1939,1939,1939,1,1
+coverage,timespan,28.11.1938,1938,1938,1,1
+coverage,timespan,22.10.1968,1968,1968,1,1
+coverage,timespan,04.07.1960,1960,1960,1,1
+coverage,timespan,07.03.1972,1972,1972,1,1
+coverage,timespan,08.03.1931,1931,1931,1,1
+coverage,timespan,05.1937,1937,1937,1,1
+coverage,timespan,12.1959,1959,1959,1,1
+coverage,timespan,20.12.1962,1962,1962,1,1
+coverage,timespan,07.08.1972,1972,1972,1,1
+coverage,timespan,31.08.1960,1960,1960,1,1
+coverage,timespan,30.05.1939,1939,1939,1,1
+coverage,timespan,1938-1942,1938,1942,1,1
+coverage,timespan,20.03.1939,1939,1939,1,1
+coverage,timespan,09.11.1961,1961,1961,1,1
+coverage,timespan,04.01.1940,1940,1940,1,1
+coverage,timespan,02.12.1936,1936,1936,1,1
+coverage,timespan,12.1936,1936,1936,1,1
+coverage,timespan,11.05.1939,1939,1939,1,1
+coverage,timespan,02.1950,1950,1950,1,1
+coverage,timespan,02.07.1940,1940,1940,1,1
+coverage,timespan,08.1952,1952,1952,1,1
+coverage,timespan,03.11.1939,1939,1939,1,1
+coverage,timespan,1978,1978,1978,1,1
+coverage,timespan,1920-1970,1920,1970,1,1
+coverage,timespan,02.08.1944,1944,1944,1,1
+coverage,timespan,15.02.1956,1956,1956,1,1
+coverage,timespan,02.10.1940,1940,1940,1,1
+coverage,timespan,1910,1910,1910,1,1
+coverage,timespan,1911,1911,1911,1,1
+coverage,timespan,28.12.1964,1964,1964,1,1
+coverage,timespan,21.09.1938,1938,1938,1,1
+coverage,timespan,04.1933,1933,1933,1,1
+coverage,timespan,12.1955,1955,1955,1,1
+coverage,timespan,11.1955,1955,1955,1,1
+coverage,timespan,1968,1968,1968,1,1
+coverage,timespan,1939,1939,1939,1,1
+coverage,timespan,03.07.1959,1959,1959,1,1
+coverage,timespan,10.05.1940,1940,1940,1,1
+coverage,timespan,31.12.1982,1982,1982,1,1
+coverage,timespan,26.04.1960,1960,1960,1,1
+coverage,timespan,14.07.1942,1942,1942,1,1
+coverage,timespan,22.06.1939,1939,1939,1,1
+coverage,string,1992-1993,,,1,1
+coverage,string,1969-1973,,,1,1
+coverage,string,1905-1910,,,1,1
+coverage,string,1991-1991,,,1,1
+coverage,string,1965-1965,,,1,1
+coverage,string,1905-1906,,,1,1
+coverage,string,1970-1980,,,1,1
+coverage,string,1988-1990,,,1,1
+coverage,string,1850-1860,,,1,1
+coverage,string,1999-2004,,,1,1
+coverage,string,2008-2008,,,1,1
+coverage,string,1979-1980,,,1,1
+coverage,string,2016-2016,,,1,1
+coverage,string,2007-2008,,,1,1
+coverage,string,1970-1975,,,1,1
+coverage,string,1887-1887,,,1,1
+coverage,string,2022-2022,,,1,1
+coverage,string,2020-2022,,,1,1
+coverage,string,1880-1891,,,1,1
+coverage,string,1888-1888,,,1,1
+coverage,string,1956-1956,,,1,1
+coverage,string,1960-1970,,,1,1
+coverage,string,1987-1992,,,1,1
+coverage,string,2018-2021,,,1,1
+coverage,string,2010-2010,,,1,1
+coverage,string,2015-2015,,,1,1
+coverage,string,2011-2011,,,1,1
+coverage,string,2010-2020,,,1,1
+coverage,string,1895-1905,,,1,1
+coverage,string,2015-2016,,,1,1
+coverage,string,1955-1965,,,1,1
+coverage,string,1920-1920,,,1,1
+coverage,string,1989-1997,,,1,1
+coverage,string,1990-2022,,,1,1
+coverage,string,1960-2000,,,1,1
+date,string,2024/2025,,,100,1
+date,string,1855,,,100,1
+date,string,1938,,,97,2
+date,string,2018-03-27,,,91,1
+date,string,1939/1945,,,49,1
+date,language_value,19. Jh. (?),,,40,1
+date,language_value,undatiert,,,34,1
+date,language_value,2007,,,30,2
+date,language_value,18. - 19. Jh. (?),,,26,1
+date,language_value,1978,,,17,3
+date,language_value,[vor oder im Jahr 1905],,,16,1
+date,language_value,1952,,,14,3
+date,language_value,2001,,,14,2
+date,language_value,Mitte 19. Jh.,,,13,1
+date,string,ohne Datum,,,13,1
+date,language_value,1985,,,13,1
+date,string,um 2000 v. Chr.-1600 v. Chr.,,,11,1
+date,string,um 1600 v. Chr.-1500 v. Chr.,,,11,1
+date,string,ca. 75 v. Chr.-55 v. Chr.,,,10,1
+date,language_value,"1900,ca.- 1930,ca.",,,9,1
+date,language_value,"1900, ca.- 1930, ca.",,,9,1
+date,language_value,um 1710,,,9,1
+date,string,1890 - 1910,,,9,1
+date,string,ca. 41-130,,,9,1
+date,string,2002,,,8,3
+date,language_value,1953,,,8,2
+date,string,2025-05-25,,,8,1
+date,string,2025-05-18,,,8,1
+date,language_value,um 1850 - 1920,,,7,1
+date,language_value,18. Jh.,,,7,2
+date,string,1862-01-01,,,7,1
+date,language_value,vor oder im Jahr 1912,,,6,1
+date,string,2003,,,6,3
+date,string,1996,,,6,2
+date,string,1993,,,6,2
+date,language_value,17. Jh.,,,6,1
+date,language_value,2. Hälfte 19. Jh.,,,6,2
+date,language_value,1689,,,6,1
+date,string,2025-05-17,,,6,1
+date,string,1900,,,6,2
+date,string,um 3900 v. Chr.-2200 v. Chr.,,,6,1
+date,language_value,"1900, ca- 1930, ca",,,5,1
+date,language_value,"1850, ca- 1920, ca",,,5,1
+date,language_value,1955,,,5,3
+date,string,1999,,,5,1
+date,string,1998,,,5,2
+date,string,1992,,,5,1
+date,language_value,1710,,,5,2
+date,string,2025-05-14,,,5,2
+date,string,1985,,,5,1
+date,string,1950,,,5,2
+date,timespan,1780-1880,,,5,1
+date,language_value,18. Jh. (?),,,5,1
+date,string,1960,,,5,2
+date,string,1920,,,5,2
+date,string,1925,,,5,1
+date,language_value,1954,,,4,1
+date,language_value,1957,,,4,2
+date,language_value,1968,,,4,3
+date,string,2012,,,4,1
+date,string,2019,,,4,1
+date,string,2016,,,4,2
+date,string,2009,,,4,1
+date,string,2001,,,4,1
+date,string,2000,,,4,1
+date,string,1997,,,4,1
+date,string,1995,,,4,1
+date,string,1994,,,4,1
+date,language_value,um 1600,,,4,1
+date,language_value,1711,,,4,1
+date,string,2024-10-26,,,4,1
+date,string,1980,,,4,3
+date,string,1905,,,4,3
+date,string,1900-01-01,,,4,1
+date,language_value,1821,,,4,1
+date,string,2025-05-24,,,4,1
+date,string,2025-05-10,,,4,1
+date,timespan,1986,1986,1986,4,1
+date,timespan,undatiert,,,4,1
+date,string,1701 - 1800,,,4,1
+date,string,1890,,,4,2
+date,string,1949,,,4,1
+date,string,1957,,,4,1
+date,string,um 1200 v. Chr.-1100 v. Chr.,,,4,1
+date,string,um 800 v. Chr.-450 v. Chr.,,,4,1
+date,string,ca. 1-200,,,4,1
+date,string,ca. 40-400,,,4,1
+date,language_value,[um 1920],,,3,1
+date,language_value,1950,,,3,3
+date,language_value,1912,,,3,2
+date,string,1976,,,3,2
+date,string,2015,,,3,1
+date,string,2014,,,3,2
+date,string,2013,,,3,1
+date,string,2010,,,3,2
+date,string,2011,,,3,1
+date,string,2004,,,3,1
+date,language_value,Ende 18. Jh.,,,3,1
+date,language_value,2. Hälfte 17. Jh.,,,3,1
+date,string,1904,,,3,2
+date,string,1890-01-01,,,3,1
+date,language_value,1998-08,,,3,1
+date,language_value,ca. 1985,,,3,1
+date,language_value,2013-02-28,,,3,1
+date,language_value,2001-06-21,,,3,1
+date,language_value,1913,,,3,2
+date,language_value,1819,,,3,1
+date,language_value,1900,,,3,2
+date,language_value,1960,,,3,3
+date,string,2025-06-03,,,3,1
+date,string,2025-06-15,,,3,1
+date,string,2025-05-11,,,3,1
+date,string,2025-05-08,,,3,1
+date,string,1964,,,3,3
+date,timespan,1650-1730,,,3,1
+date,timespan,1989-1991,1989,1991,3,1
+date,timespan,1985/1988,1985,1988,3,1
+date,language_value,1922,,,3,1
+date,string,1889,,,3,2
+date,string,1965,,,3,2
+date,string,1790 - 1810,,,3,1
+date,string,1690 - 1710,,,3,1
+date,string,1935,,,3,2
+date,string,2021.06.01,,,3,1
+date,string,1953,,,3,1
+date,string,1932,,,3,1
+date,string,1966,,,3,1
+date,string,1952,,,3,2
+date,string,um 4700 v. Chr.-2200 v. Chr.,,,3,1
+date,string,ca. 75-400,,,3,1
+date,string,1880,,,3,1
+date,language_value,20. Jahrhundert,,,2,1
+date,language_value,1937,,,2,1
+date,language_value,um 1914,,,2,1
+date,language_value,1945,,,2,1
+date,language_value,1920-1961 ca.,,,2,1
+date,language_value,[1930er Jahre],,,2,1
+date,language_value,um 1920,,,2,1
+date,language_value,1936,,,2,2
+date,string,2018,,,2,1
+date,string,2017,,,2,1
+date,string,2008,,,2,1
+date,string,2007,,,2,1
+date,string,2006,,,2,1
+date,string,2005,,,2,1
+date,string,1990,,,2,2
+date,language_value,um 1680,,,2,1
+date,language_value,2. Hälfte 18. Jh.,,,2,1
+date,language_value,1670,,,2,1
+date,language_value,1. Viertel 17. Jh.,,,2,1
+date,language_value,19. Jh.,,,2,1
+date,language_value,1855,,,2,2
+date,string,2025-05-05,,,2,2
+date,string,1959,,,2,2
+date,string,1940,,,2,2
+date,string,1907,,,2,1
+date,string,1909,,,2,2
+date,string,um 1900,,,2,1
+date,string,1906,,,2,2
+date,string,1976-06-06,,,2,1
+date,string,2003-08-27,,,2,1
+date,string,1972-10-31,,,2,1
+date,string,1955-08-30,,,2,1
+date,string,1956-08-16,,,2,1
+date,string,1938-06-26,,,2,2
+date,string,1884-01-01,,,2,1
+date,string,1897-07-01,,,2,1
+date,string,1891-07-01,,,2,1
+date,string,1929-04-27,,,2,1
+date,string,1852-01-01,,,2,1
+date,string,1897-01-01,,,2,1
+date,string,1902-07-10,,,2,1
+date,string,1912-08-01,,,2,1
+date,string,1902-05-20,,,2,1
+date,language_value,1987,,,2,1
+date,language_value,August 1993,,,2,1
+date,language_value,2003-08-09,,,2,1
+date,language_value,[1980er],,,2,1
+date,language_value,[1932],,,2,1
+date,language_value,1988-08-09,,,2,1
+date,language_value,1859,,,2,1
+date,language_value,1797,,,2,1
+date,language_value,1806,,,2,1
+date,language_value,1873,,,2,1
+date,language_value,1799,,,2,1
+date,language_value,1909,,,2,1
+date,language_value,1899,,,2,1
+date,language_value,1906,,,2,2
+date,language_value,1956,,,2,1
+date,language_value,1876,,,2,1
+date,language_value,1910,,,2,2
+date,string,2025-06-25,,,2,1
+date,string,2025-06-26,,,2,1
+date,string,2025-07-04,,,2,1
+date,string,2025-06-18,,,2,1
+date,string,2025-06-23,,,2,1
+date,string,2025-06-24,,,2,1
+date,string,2025-06-10,,,2,1
+date,string,2025-05-31,,,2,1
+date,string,2025-06-04,,,2,1
+date,string,2025-06-02,,,2,1
+date,string,2025-05-27,,,2,1
+date,string,2025-05-26,,,2,1
+date,string,2025-05-23,,,2,1
+date,string,2025-05-22,,,2,1
+date,string,2025-05-09,,,2,1
+date,string,31.03.1966,,,2,1
+date,string,25.03.1966,,,2,1
+date,string,22.05.1964,,,2,1
+date,string,18.06.1964,,,2,1
+date,string,12.07.1956,,,2,1
+date,string,16.07.1953,,,2,1
+date,string,25.11.1952,,,2,1
+date,string,14.11.1951,,,2,1
+date,timespan,1945-1965,1945,1965,2,1
+date,timespan,320-321 n. Chr.,320,321,2,1
+date,timespan,1990,1990,1990,2,1
+date,timespan,1750-1820,1750,1820,2,1
+date,timespan,1. Hälfte 20. Jh.,1900,1950,2,1
+date,timespan,1930-1965,,,2,1
+date,language_value,1782 – 1787,,,2,1
+date,language_value,17. - 18. Jh. (?),,,2,1
+date,language_value,Ende 18. Jh. - Anfang 19. Jh. (?),,,2,1
+date,string,1930 - 1939,,,2,1
+date,string,1942,,,2,2
+date,string,1901 - 2000,,,2,1
+date,string,1501 - 1600,,,2,1
+date,string,1930,,,2,2
+date,string,1940 - 1960,,,2,1
+date,string,1840,,,2,2
+date,string,1991,,,2,2
+date,string,2009.09.09,,,2,1
+date,string,1870,,,2,1
+date,string,1970,,,2,1
+date,string,1841,,,2,1
+date,string,1937,,,2,1
+date,string,1934,,,2,1
+date,string,1955,,,2,1
+date,string,um 5200 v. Chr.-5000 v. Chr.,,,2,1
+date,string,um 3600 v. Chr.-3300 v. Chr.,,,2,1
+date,string,um 2400 v. Chr.-2200 v. Chr.,,,2,1
+date,string,ca. 25-130,,,2,1
+date,string,ca. 1-100,,,2,1
+date,string,ca. 1-130,,,2,1
+date,string,ca. 41-160,,,2,1
+date,string,1724,,,2,1
+date,string,1720,,,2,1
+date,language_value,um 1870,,,1,1
+date,language_value,1950 ca.,,,1,1
+date,language_value,1915-1920 ca.,,,1,1
+date,language_value,1946,,,1,1
+date,language_value,1910 ca.,,,1,1
+date,language_value,1930-1961 ca.,,,1,1
+date,language_value,1932,,,1,1
+date,language_value,1924-1929,,,1,1
+date,language_value,1925,,,1,1
+date,language_value,1920-1960,,,1,1
+date,language_value,1940-1950 ca.,,,1,1
+date,language_value,1887,,,1,1
+date,language_value,September 1928,,,1,1
+date,language_value,"1958, 1960",,,1,1
+date,language_value,1962,,,1,1
+date,language_value,1914-1918,,,1,1
+date,language_value,1933,,,1,1
+date,language_value,1944,,,1,1
+date,language_value,[1928],,,1,1
+date,language_value,1919,,,1,1
+date,language_value,"1850, ca- 1920, ca/ 1907",,,1,1
+date,language_value,um 1880 - 1920,,,1,1
+date,language_value,10.12.1933,,,1,1
+date,language_value,1930-1940 ca.,,,1,1
+date,language_value,1900 ca.,,,1,1
+date,language_value,1931,,,1,1
+date,language_value,1940 ca.,,,1,1
+date,language_value,um 1910,,,1,1
+date,language_value,1900-1905,,,1,1
+date,language_value,1925-1940 ca.,,,1,1
+date,language_value,um 1880 - 1950,,,1,1
+date,language_value,1900-1965 ca.,,,1,1
+date,language_value,1923,,,1,1
+date,language_value,um 1930 - 1950,,,1,1
+date,language_value,1893,,,1,1
+date,language_value,um 1900,,,1,1
+date,language_value,ca.1930-ca.1950,,,1,1
+date,language_value,1716,,,1,1
+date,language_value,1. Viertel 18. Jh.,,,1,1
+date,language_value,1881,,,1,1
+date,language_value,um 1790,,,1,1
+date,language_value,1898,,,1,1
+date,language_value,1974,,,1,1
+date,language_value,um 1776,,,1,1
+date,language_value,1772,,,1,1
+date,language_value,1735,,,1,1
+date,language_value,Anfang 19. Jh.,,,1,1
+date,language_value,1. Drittel 20. Jh.,,,1,1
+date,language_value,1680,,,1,1
+date,language_value,um 1720 und Ende 18. Jh.,,,1,1
+date,language_value,Ende 17. Jh.,,,1,1
+date,language_value,1877,,,1,1
+date,language_value,1. Drittel 19. Jh.,,,1,1
+date,language_value,um 1710 lt. Signatur am Mittelbild 1714,,,1,1
+date,language_value,1838,,,1,1
+date,language_value,1762,,,1,1
+date,language_value,um 1670,,,1,1
+date,language_value,1856,,,1,1
+date,language_value,1852,,,1,1
+date,string,2024-11-16,,,1,1
+date,string,2024-11-20,,,1,1
+date,string,2023-10-26,,,1,1
+date,string,2025-02-06,,,1,1
+date,string,2024-09-20,,,1,1
+date,string,2024-11-09,,,1,1
+date,string,2024-12-15,,,1,1
+date,string,2024-12-17,,,1,1
+date,string,2025-01-05,,,1,1
+date,string,2024-02-04,,,1,1
+date,string,2024-10-10,,,1,1
+date,string,2024-09-22,,,1,1
+date,string,2024-09-23,,,1,1
+date,string,2024-10-02,,,1,1
+date,string,2024-10-23,,,1,1
+date,string,2024-10-24,,,1,1
+date,string,2024-01-20,,,1,1
+date,string,1902-12-22,,,1,1
+date,string,1933,,,1,1
+date,string,1924 bzw. 1927,,,1,1
+date,string,1933-02-01,,,1,1
+date,string,vermutlich 1903,,,1,1
+date,string,1903 - 1907,,,1,1
+date,string,1935-11-16,,,1,1
+date,string,1921-08-08,,,1,1
+date,string,1902 - 1911,,,1,1
+date,string,1932 bis 1952,,,1,1
+date,string,1930-07-05; 1934-04-16; 1938-10-23; 1941-08-23,,,1,1
+date,string,1940-05-28,,,1,1
+date,string,1940-05-18; 1940-06-26; 1964-01-12;,,,1,1
+date,string,1905-08-13,,,1,1
+date,string,01: 1941-10-28; 02: 1937-04-10; 03: 1944-11-11;,,,1,1
+date,string,1941-02-17; 1941-05-02;,,,1,1
+date,string,1921-07-14,,,1,1
+date,string,1931-08-20,,,1,1
+date,string,1938-02-11,,,1,1
+date,string,1940-06-14; 1953-10-16;,,,1,1
+date,string,1922-10-12,,,1,1
+date,string,1937-10-19,,,1,1
+date,string,1937 bis 1964,,,1,1
+date,string,19??-05-01; 1937-05-19;,,,1,1
+date,string,1941-10-06,,,1,1
+date,string,1940 bis 1941,,,1,1
+date,string,1941,,,1,1
+date,string,1960-09-20,,,1,1
+date,string,1937-02-15; 1950-08-03;,,,1,1
+date,string,1956-12-04,,,1,1
+date,string,1936 bis 1956,,,1,1
+date,string,1923-12-11,,,1,1
+date,string,1948-12-02,,,1,1
+date,string,1959-09-29,,,1,1
+date,string,1951-01-10,,,1,1
+date,string,1908-10-12,,,1,1
+date,string,1952-09-14,,,1,1
+date,string,1936 bis 1975,,,1,1
+date,string,1956-11-05,,,1,1
+date,string,1934-03-02,,,1,1
+date,string,"01: 1952;
+02: 1951",,,1,1
+date,string,05: 1946-05-12,,,1,1
+date,string,1954 bis 1962,,,1,1
+date,string,03: 1952,,,1,1
+date,string,1929-12-01,,,1,1
+date,string,04:1949,,,1,1
+date,string,1942-05-21,,,1,1
+date,string,1947-12-31,,,1,1
+date,string,1924-12-29,,,1,1
+date,string,1904-10-26,,,1,1
+date,string,1913-12-23,,,1,1
+date,string,1903-07-20,,,1,1
+date,string,1901,,,1,1
+date,string,1901-10-25,,,1,1
+date,string,1901-02-10,,,1,1
+date,string,1904-12-04,,,1,1
+date,string,28.07.1907,,,1,1
+date,string,1906-09-30,,,1,1
+date,string,1903-12-06,,,1,1
+date,string,1904-09-18,,,1,1
+date,string,1902-07-21,,,1,1
+date,string,1903,,,1,1
+date,string,1904-10-14,,,1,1
+date,string,1906-06-15,,,1,1
+date,string,1902-12-21,,,1,1
+date,string,1924-12-02,,,1,1
+date,string,1902-05-19,,,1,1
+date,string,ev. 1908,,,1,1
+date,string,1902-12-24,,,1,1
+date,string,1902-01-02,,,1,1
+date,string,1901-07-17,,,1,1
+date,string,2004-08-08,,,1,1
+date,string,2004-08-04,,,1,1
+date,string,1995-06-03,,,1,1
+date,string,1976-08-24,,,1,1
+date,string,1972-08,,,1,1
+date,string,1955-09-25,,,1,1
+date,string,1974-06-21,,,1,1
+date,string,1974-08,,,1,1
+date,string,1999-08-05,,,1,1
+date,string,1976-08-03,,,1,1
+date,string,1999-07-17,,,1,1
+date,string,1979-07-06,,,1,1
+date,string,1972-06-06,,,1,1
+date,string,1936-07-25,,,1,1
+date,string,1979-07-31,,,1,1
+date,string,1978-07-14,,,1,1
+date,string,2006-09-25,,,1,1
+date,string,1954-06-25,,,1,1
+date,string,2006-07-18,,,1,1
+date,string,1948-07,,,1,1
+date,string,1935-07-24,,,1,1
+date,string,1999-08-26,,,1,1
+date,string,1994-05-31,,,1,1
+date,string,1999-08-02,,,1,1
+date,string,1944-07-12,,,1,1
+date,string,1969-11-25,,,1,1
+date,string,1953-10-04,,,1,1
+date,string,1892-08-21,,,1,1
+date,string,1979-08-11,,,1,1
+date,string,1943-08-07,,,1,1
+date,string,1944-07,,,1,1
+date,string,1978-07-15,,,1,1
+date,string,1973-08-03,,,1,1
+date,string,1984-10-23,,,1,1
+date,string,2013-10-27,,,1,1
+date,string,1954-10-13,,,1,1
+date,string,1926-07,,,1,1
+date,string,1997-08-11,,,1,1
+date,string,1960-08-31,,,1,1
+date,string,1979-07-12,,,1,1
+date,string,2001-10-03,,,1,1
+date,string,1995-08-01,,,1,1
+date,string,1987-07-08,,,1,1
+date,string,1928-11-06,,,1,1
+date,string,1956-08-25,,,1,1
+date,string,1993-08-04,,,1,1
+date,string,2009-07-16,,,1,1
+date,string,1968-11-10,,,1,1
+date,string,1979-09-10,,,1,1
+date,string,1944-07-08,,,1,1
+date,string,2017-06-24,,,1,1
+date,string,1969-05-24,,,1,1
+date,string,1944-07-18,,,1,1
+date,string,1978-07-13,,,1,1
+date,string,1860,,,1,1
+date,string,1956-10-08,,,1,1
+date,string,1975-08-16,,,1,1
+date,string,1976-08-23,,,1,1
+date,string,1955-09-06,,,1,1
+date,string,1954-03-23,,,1,1
+date,string,1979-07-13,,,1,1
+date,string,1935-08-07,,,1,1
+date,string,1956-09-27,,,1,1
+date,string,1948-03-08,,,1,1
+date,string,1999-08-21,,,1,1
+date,string,1996-11-09,,,1,1
+date,string,2005-07-14,,,1,1
+date,string,2001-08-16,,,1,1
+date,string,1976-08-02,,,1,1
+date,string,1975-08-19,,,1,1
+date,string,2005-09-06,,,1,1
+date,string,1940-05-15,,,1,1
+date,string,1944-07-20,,,1,1
+date,string,2019-10-01,,,1,1
+date,string,1957-10-08,,,1,1
+date,string,1968-09-24,,,1,1
+date,string,2000-10-14,,,1,1
+date,string,1993-08-08,,,1,1
+date,string,1979-03-18,,,1,1
+date,string,1979-09-30,,,1,1
+date,string,1911-07-19,,,1,1
+date,string,1881-04-01,,,1,1
+date,string,1995-09-30,,,1,1
+date,string,1835-05-22,,,1,1
+date,string,1881-05-01,,,1,1
+date,string,1994-07-01,,,1,1
+date,string,1931-08-29,,,1,1
+date,string,1900-08-02,,,1,1
+date,string,1908-05-01,,,1,1
+date,string,1903-01-01,,,1,1
+date,string,1945-05-13,,,1,1
+date,string,1932-08-22,,,1,1
+date,string,1882-07-18,,,1,1
+date,string,1918-08-17,,,1,1
+date,string,1933-08-25,,,1,1
+date,string,1862-05-02,,,1,1
+date,string,1922-05-04,,,1,1
+date,string,1902-01-01,,,1,1
+date,string,1912-09-08,,,1,1
+date,string,1939-06-04,,,1,1
+date,string,1874-01-01,,,1,1
+date,string,1881-01-01,,,1,1
+date,string,1905-07-01,,,1,1
+date,string,1949-04-02,,,1,1
+date,string,1910-08-22,,,1,1
+date,string,1938-07-30,,,1,1
+date,string,1935-06-30,,,1,1
+date,string,1914-07-01,,,1,1
+date,string,1863-01-01,,,1,1
+date,string,1924-06-18,,,1,1
+date,string,1904-05-10,,,1,1
+date,string,1944-04-08,,,1,1
+date,string,1908-04-20,,,1,1
+date,string,1888-01-01,,,1,1
+date,string,1865-01-01,,,1,1
+date,string,1909-05-20,,,1,1
+date,string,1909-08-28,,,1,1
+date,string,1942-08-04,,,1,1
+date,string,1929-06-19,,,1,1
+date,string,1864-01-01,,,1,1
+date,string,1903-07-01,,,1,1
+date,string,1924-01-01,,,1,1
+date,string,1928-07-29,,,1,1
+date,string,1906-05-13,,,1,1
+date,string,1943-05-16,,,1,1
+date,string,1890-05-01,,,1,1
+date,string,1931-07-06,,,1,1
+date,string,1946-05-31,,,1,1
+date,string,1902-08-20,,,1,1
+date,string,1934-04-15,,,1,1
+date,string,1951-04-18,,,1,1
+date,string,1878-01-01,,,1,1
+date,string,1899-06-01,,,1,1
+date,string,1942-07-29,,,1,1
+date,string,1930-06-08,,,1,1
+date,string,1995-09-23,,,1,1
+date,string,1892-06-01,,,1,1
+date,string,1990-04-18,,,1,1
+date,string,1942-05-09,,,1,1
+date,string,1949-05-10,,,1,1
+date,string,1932-08-07,,,1,1
+date,string,1926-09-08,,,1,1
+date,string,1946-05-13,,,1,1
+date,string,1892-01-01,,,1,1
+date,string,1925-06-28,,,1,1
+date,string,1934-08-18,,,1,1
+date,string,1940-07-20,,,1,1
+date,language_value,[1980er-08-09],,,1,1
+date,language_value,1979-12,,,1,1
+date,language_value,1975-04-08,,,1,1
+date,language_value,[ca. 1970],,,1,1
+date,language_value,1987-05-20,,,1,1
+date,language_value,1973-12-17,,,1,1
+date,language_value,1993-03,,,1,1
+date,language_value,1978-11-20,,,1,1
+date,language_value,1993-08-09,,,1,1
+date,language_value,1974-08-14,,,1,1
+date,language_value,1987-02,,,1,1
+date,language_value,1997-05,,,1,1
+date,language_value,Mai 1988,,,1,1
+date,language_value,[1990],,,1,1
+date,language_value,1972-04-09,,,1,1
+date,language_value,ca. 1984,,,1,1
+date,language_value,1972-08-02,,,1,1
+date,language_value,[1931],,,1,1
+date,language_value,1999,,,1,1
+date,language_value,[1988-03-30],,,1,1
+date,language_value,1984-07-12,,,1,1
+date,language_value,1987-09-03,,,1,1
+date,language_value,"Poststempel: Innsbruck, 04.09.1987",,,1,1
+date,language_value,1975-05,,,1,1
+date,language_value,1967-02-19,,,1,1
+date,language_value,[2004],,,1,1
+date,language_value,[1996],,,1,1
+date,language_value,1965-11-12,,,1,1
+date,language_value,X,,,1,1
+date,language_value,[1953],,,1,1
+date,language_value,1987-05-26,,,1,1
+date,language_value,1943,,,1,1
+date,language_value,1978-03-11,,,1,1
+date,language_value,"Poststempel: Augsburg, 13.03.1978",,,1,1
+date,language_value,1979-04-30,,,1,1
+date,language_value,1963-09-24,,,1,1
+date,language_value,[ca. 1990],,,1,1
+date,language_value,1995-08-09,,,1,1
+date,language_value,1980-09-13,,,1,1
+date,language_value,2003-03-02,,,1,1
+date,language_value,ca. 1984/1985,,,1,1
+date,language_value,1986-10-22,,,1,1
+date,language_value,[ca. 1930],,,1,1
+date,language_value,1984-06-29,,,1,1
+date,language_value,2003,,,1,1
+date,language_value,1978-08-31,,,1,1
+date,language_value,"Poststempel: Ingolstadt, 31.08.1978",,,1,1
+date,language_value,2002-05-01,,,1,1
+date,language_value,1970-11-02,,,1,1
+date,language_value,1984-09-10,,,1,1
+date,language_value,[2003],,,1,1
+date,language_value,1986-05-21,,,1,1
+date,language_value,1983/1984,,,1,1
+date,language_value,ca. 1983/1984,,,1,1
+date,language_value,1975-12-24,,,1,1
+date,language_value,2007-08-09,,,1,1
+date,language_value,1986-08-14,,,1,1
+date,language_value,2004,,,1,1
+date,language_value,2008-08-27,,,1,1
+date,language_value,1998-08-09,,,1,1
+date,language_value,[1998],,,1,1
+date,language_value,1982-11-21,,,1,1
+date,language_value,1683 - 1684,,,1,1
+date,language_value,1828,,,1,1
+date,language_value,1885,,,1,1
+date,language_value,1823,,,1,1
+date,language_value,1862,,,1,1
+date,language_value,1951,,,1,1
+date,language_value,1605,,,1,1
+date,language_value,1902,,,1,1
+date,language_value,1776,,,1,1
+date,language_value,1764,,,1,1
+date,language_value,1804,,,1,1
+date,language_value,1948,,,1,1
+date,language_value,1845,,,1,1
+date,language_value,1817,,,1,1
+date,language_value,1904,,,1,1
+date,language_value,1908,,,1,1
+date,language_value,1795,,,1,1
+date,language_value,1959,,,1,1
+date,language_value,1914,,,1,1
+date,language_value,1849,,,1,1
+date,language_value,1781,,,1,1
+date,language_value,1926,,,1,1
+date,language_value,1673 - 1674,,,1,1
+date,language_value,1793,,,1,1
+date,language_value,1979,,,1,1
+date,language_value,1750,,,1,1
+date,string,2025-07-10,,,1,1
+date,string,2025-06-22,,,1,1
+date,string,2025-07-03,,,1,1
+date,string,2025-08-22,,,1,1
+date,string,2025-06-21,,,1,1
+date,string,2025-06-16,,,1,1
+date,string,2025-06-01,,,1,1
+date,string,2025-07-08,,,1,1
+date,string,2025-01-18,,,1,1
+date,string,2024-12-20,,,1,1
+date,string,2025-06-11,,,1,1
+date,string,2025-06-05,,,1,1
+date,string,2025-05-28,,,1,1
+date,string,2025-06-13,,,1,1
+date,string,2025-06-17,,,1,1
+date,string,2025-06-07,,,1,1
+date,string,2025-06-12,,,1,1
+date,string,2025-05-21,,,1,1
+date,string,2025-06-06,,,1,1
+date,string,2025-05-19,,,1,1
+date,string,2025-05-20,,,1,1
+date,string,2025-05-15,,,1,1
+date,string,2025-05-16,,,1,1
+date,string,21.03.1966,,,1,1
+date,string,11.06.1970,,,1,1
+date,string,10.06.1969,,,1,1
+date,string,März 1966,,,1,1
+date,string,14.11.1969,,,1,1
+date,string,16.07.1963,,,1,1
+date,string,27.05.1970,,,1,1
+date,string,09.06.1969,,,1,1
+date,string,06.02.1964,,,1,1
+date,string,08.06.1964,,,1,1
+date,string,10.07.1963,,,1,1
+date,string,23.03.1964,,,1,1
+date,string,30.04.1963,,,1,1
+date,string,Mai 1964,,,1,1
+date,string,03.06.1964,,,1,1
+date,string,24.03.1966,,,1,1
+date,string,14.03.1962,,,1,1
+date,string,21.07.1960,,,1,1
+date,string,04.08.1960,,,1,1
+date,string,1961,,,1,1
+date,string,11.11.1963,,,1,1
+date,string,31.10.1962,,,1,1
+date,string,16.04.1962,,,1,1
+date,string,12.10.1956,,,1,1
+date,string,22.07.1963,,,1,1
+date,string,20.03.1960,,,1,1
+date,string,17.01.1962,,,1,1
+date,string,28.05.1962,,,1,1
+date,string,29.03.1955,,,1,1
+date,string,12.09.1960,,,1,1
+date,string,05.07.1961,,,1,1
+date,string,04.07.1957,,,1,1
+date,string,04.05.1959,,,1,1
+date,string,30.09.1960,,,1,1
+date,string,08.06.1960,,,1,1
+date,string,28.11.1955,,,1,1
+date,string,30.09.1955,,,1,1
+date,string,21.06.1955,,,1,1
+date,string,05.10.1956,,,1,1
+date,string,15.05.1956,,,1,1
+date,string,24.11.1955,,,1,1
+date,string,06.05.1955,,,1,1
+date,string,16.02.1955,,,1,1
+date,string,11.05.1953,,,1,1
+date,string,10.06.1953,,,1,1
+date,string,22.11.1955,,,1,1
+date,string,18.08.1853,,,1,1
+date,string,22.07.1953,,,1,1
+date,string,05.01.1953,,,1,1
+date,string,13.08.1953,,,1,1
+date,string,03.03.1953,,,1,1
+date,string,26.08.1954,,,1,1
+date,string,08.12.1952,,,1,1
+date,string,02.11.1953,,,1,1
+date,string,14.10.1953,,,1,1
+date,string,08.10.1952,,,1,1
+date,string,04.02.1957,,,1,1
+date,string,27.07.1953,,,1,1
+date,string,27.06.1951,,,1,1
+date,string,05.05.1949,,,1,1
+date,string,16.05.1953,,,1,1
+date,string,21.03.1951,,,1,1
+date,string,20.11.1952,,,1,1
+date,string,18.11.1952,,,1,1
+date,string,01.05.1950,,,1,1
+date,string,12.05.1952,,,1,1
+date,string,26.06.1952,,,1,1
+date,string,20.06.1950,,,1,1
+date,string,22.11.1951,,,1,1
+date,string,26.09.1952,,,1,1
+date,timespan,320-321 n. Chr.,325,325,1,1
+date,timespan,1979,1979,1979,1,1
+date,timespan,1760-1780,1760,1780,1,1
+date,timespan,1865-1925,,,1,1
+date,timespan,1984,1984,1984,1,1
+date,timespan,1950-1980,1950,1980,1,1
+date,timespan,19. Jhdt,1800,1899,1,1
+date,timespan,1.-4. Jh. n. Chr.,1,400,1,1
+date,timespan,1851,1851,1851,1,1
+date,timespan,126-127 n. Chr.,126,127,1,1
+date,timespan,293-491 n. Chr.,,,1,1
+date,timespan,um 1962,1957,1967,1,1
+date,timespan,1800-1860,1800,1860,1,1
+date,timespan,03.07.1818,1818,1818,1,1
+date,timespan,1858,1858,1858,1,1
+date,timespan,1988/1990,1988,1990,1,1
+date,timespan,1988,1988,1988,1,1
+date,timespan,1954,1954,1954,1,1
+date,timespan,1994,1994,1994,1,1
+date,timespan,1996,1996,1996,1,1
+date,timespan,1946-09,1946,1946,1,1
+date,timespan,1957-11,1957,1957,1,1
+date,timespan,2008,2008,2008,1,1
+date,timespan,1958-09,1958,1958,1,1
+date,timespan,vor 1995,,1995,1,1
+date,timespan,spätes 4.-frühes 5. Jh. n. Chr.,390,410,1,1
+date,timespan,1778-1798,1778,1798,1,1
+date,timespan,1960-1995,,,1,1
+date,timespan,2018,2018,2018,1,1
+date,timespan,1956-09,1956,1956,1,1
+date,timespan,1948-07,1948,1948,1,1
+date,timespan,1865-1925,1865,1925,1,1
+date,timespan,1850-1920,1850,1920,1,1
+date,timespan,1975-1976,1975,1976,1,1
+date,language_value,2017,,,1,1
+date,string,1914-01-24,,,1,1
+date,string,1889-05-29,,,1,1
+date,string,1918-10-20,,,1,1
+date,string,1920-02-16,,,1,1
+date,string,1923-10-22,,,1,1
+date,string,1921-11-19,,,1,1
+date,string,1830-04-03,,,1,1
+date,string,1910-11-23,,,1,1
+date,string,1902-12-08,,,1,1
+date,string,1873-01-26,,,1,1
+date,string,1923-10-31,,,1,1
+date,string,1899-02-26,,,1,1
+date,string,1911-04-22,,,1,1
+date,string,1918-01-20,,,1,1
+date,string,1897-03-23,,,1,1
+date,string,1851-04-06,,,1,1
+date,string,1922-02-16,,,1,1
+date,string,1879-01-28,,,1,1
+date,string,1898-11-23,,,1,1
+date,string,1912-03-25,,,1,1
+date,string,1924-01-31,,,1,1
+date,string,1862-12-21,,,1,1
+date,string,1882-12-16,,,1,1
+date,string,1879-05-15,,,1,1
+date,string,1919-04-14,,,1,1
+date,string,1914-01-25,,,1,1
+date,string,1867-12-08,,,1,1
+date,string,1904-01-10,,,1,1
+date,string,1908-12-18,,,1,1
+date,string,1835-06-15,,,1,1
+date,string,1923-03-06,,,1,1
+date,string,1924-04-08,,,1,1
+date,string,1922-12-26,,,1,1
+date,string,1911-03-20,,,1,1
+date,string,1899-11-28,,,1,1
+date,string,1921-02-28,,,1,1
+date,string,1921-11-09,,,1,1
+date,string,1914-03-03,,,1,1
+date,string,1897-01-02,,,1,1
+date,string,1908-05-31,,,1,1
+date,string,1892-03-29,,,1,1
+date,string,1896-10-30,,,1,1
+date,string,1920-11-12,,,1,1
+date,string,1914-06-10,,,1,1
+date,string,1832-02-02,,,1,1
+date,string,1865-09-06,,,1,1
+date,string,1916-03-15,,,1,1
+date,string,1841-04-25,,,1,1
+date,string,1860-03-23,,,1,1
+date,string,1881-06-28,,,1,1
+date,string,1817-03-25,,,1,1
+date,string,1912-02-16,,,1,1
+date,string,1917-04-14,,,1,1
+date,string,1922-08-28,,,1,1
+date,string,1854-12-17,,,1,1
+date,string,1865-07-19,,,1,1
+date,string,1902-11-05,,,1,1
+date,string,1908-12-06,,,1,1
+date,string,1921-04-16,,,1,1
+date,string,1877-04-08,,,1,1
+date,string,1901-03-29,,,1,1
+date,string,1863-07-08,,,1,1
+date,string,1838-05-31,,,1,1
+date,string,1895-07-22,,,1,1
+date,string,1924-01-15,,,1,1
+date,string,1915-03-25,,,1,1
+date,string,1921-12-18,,,1,1
+date,string,1843-04-06,,,1,1
+date,string,1903-01-16,,,1,1
+date,string,1913-12-11,,,1,1
+date,string,1881-08-11,,,1,1
+date,string,1867-01-25,,,1,1
+date,string,1913-12-13,,,1,1
+date,string,1923-10-07,,,1,1
+date,string,1889-07-29,,,1,1
+date,string,1921-04-05,,,1,1
+date,string,1908-03-13,,,1,1
+date,string,1901-11-21,,,1,1
+date,string,1919-05-03,,,1,1
+date,string,1918-11-10,,,1,1
+date,string,1921-02-14,,,1,1
+date,string,1893-02-13,,,1,1
+date,string,1893-02-20,,,1,1
+date,string,1855-08-11,,,1,1
+date,string,1920-01-08,,,1,1
+date,string,1918-11-30,,,1,1
+date,string,1906-12-15,,,1,1
+date,string,1903-03-03,,,1,1
+date,string,1897-03-05,,,1,1
+date,string,1899-03-01,,,1,1
+date,string,1906-11-22,,,1,1
+date,string,1866-12-16,,,1,1
+date,string,1907-12-21,,,1,1
+date,string,1908-03-24,,,1,1
+date,string,1878-12-05,,,1,1
+date,string,1915-02-26,,,1,1
+date,string,1897-12-17,,,1,1
+date,string,1911-11-28,,,1,1
+date,string,1846-01-28,,,1,1
+date,string,1924-01-20,,,1,1
+date,string,2016-06-19,,,1,1
+date,string,1838-08-14,,,1,1
+date,string,1952-06-22,,,1,1
+date,string,1893-06,,,1,1
+date,string,1965-06-25,,,1,1
+date,string,18##-4,,,1,1
+date,string,1909-10-09,,,1,1
+date,string,1851,,,1,1
+date,string,1937-06-29 - 1937-06-30,,,1,1
+date,string,1900-07-26,,,1,1
+date,string,1977-07-27 - 1977-07-30,,,1,1
+date,string,2015-04-28,,,1,1
+date,string,1885,,,1,1
+date,string,1903-08-13,,,1,1
+date,string,1936-03-21,,,1,1
+date,string,1829-09,,,1,1
+date,string,18##-12,,,1,1
+date,string,1837-09-19,,,1,1
+date,string,1942-06-12,,,1,1
+date,string,1948-06-01,,,1,1
+date,string,1883-08-09 - 1883-08-04,,,1,1
+date,string,1903-06-21,,,1,1
+date,string,1940-06-08,,,1,1
+date,string,1864-06-14,,,1,1
+date,string,1886-07,,,1,1
+date,string,1851 - 1857,,,1,1
+date,string,2016-04-22,,,1,1
+date,string,1937-06-15,,,1,1
+date,string,1918-07-05,,,1,1
+date,string,1859-08-23,,,1,1
+date,string,2005-09-08,,,1,1
+date,string,1866-07-10,,,1,1
+date,string,1842-03,,,1,1
+date,string,1992-02-12,,,1,1
+date,string,1999-05-25,,,1,1
+date,string,1877-10,,,1,1
+date,string,1907-08-22,,,1,1
+date,string,1858-07 - 1858-02,,,1,1
+date,string,1985-10-12,,,1,1
+date,string,1941-10-12,,,1,1
+date,string,1896-01-04,,,1,1
+date,string,1927-06-15,,,1,1
+date,string,1902-07-23,,,1,1
+date,string,1993-02-18,,,1,1
+date,string,1886-07-07,,,1,1
+date,string,1941-08-10,,,1,1
+date,string,1890-11-08,,,1,1
+date,string,1996-06-06,,,1,1
+date,string,2005-09-01,,,1,1
+date,string,1961-08-09,,,1,1
+date,string,1960-07-06,,,1,1
+date,string,1984-06-08,,,1,1
+date,string,2002-11-03,,,1,1
+date,string,1888-01-07,,,1,1
+date,string,2003-08-10,,,1,1
+date,string,2023-04-29,,,1,1
+date,string,2015-08-14,,,1,1
+date,string,2015-08-24,,,1,1
+date,string,1960-08-05,,,1,1
+date,string,1980-09-13,,,1,1
+date,string,1897-08-24,,,1,1
+date,string,1979-08-12,,,1,1
+date,string,2000-01-30,,,1,1
+date,string,1894-08-02,,,1,1
+date,string,1946-04-25,,,1,1
+date,string,1887-05-30,,,1,1
+date,string,1999-11-04,,,1,1
+date,string,2020-08-19,,,1,1
+date,string,1997-03-25,,,1,1
+date,string,1909-08-01,,,1,1
+date,string,1961-04-21,,,1,1
+date,string,2013-06-15,,,1,1
+date,string,1952-08-21,,,1,1
+date,string,1975-05-31,,,1,1
+date,string,2004-04-26,,,1,1
+date,string,1939-05,,,1,1
+date,string,1911-11-19,,,1,1
+date,string,2020-05-27,,,1,1
+date,string,1994-05-03,,,1,1
+date,string,1998-08-16,,,1,1
+date,string,1982-04,,,1,1
+date,string,2011-09-22,,,1,1
+date,string,1994-03-10,,,1,1
+date,string,2005-03-18,,,1,1
+date,string,1988-07-19,,,1,1
+date,string,1916-07-01,,,1,1
+date,string,1977-05-09,,,1,1
+date,string,2002-07-11,,,1,1
+date,string,2020-06-05,,,1,1
+date,string,2001-06-24,,,1,1
+date,string,1876-07,,,1,1
+date,string,1964-07-21,,,1,1
+date,string,1988-07-13,,,1,1
+date,string,1942-09-06,,,1,1
+date,string,1971-06-03,,,1,1
+date,string,2002-03-20,,,1,1
+date,string,1975-07-26,,,1,1
+date,string,1969-12,,,1,1
+date,string,1983-08-16,,,1,1
+date,string,1999-09-25,,,1,1
+date,string,1996-08-16,,,1,1
+date,string,1996-07-29,,,1,1
+date,string,1956-08-02,,,1,1
+date,string,1957-06-23,,,1,1
+date,string,1986-09-24,,,1,1
+date,string,2003-10-11,,,1,1
+date,string,2011-08-11,,,1,1
+date,string,2002-07-09,,,1,1
+date,string,1964-06-09,,,1,1
+date,language_value,Ende 19. Jh.,,,1,1
+date,language_value,1816 – 1823,,,1,1
+date,language_value,14. - 15. Jh. (?),,,1,1
+date,language_value,1875,,,1,1
+date,language_value,1. Hälfte 20. Jh.,,,1,1
+date,language_value,Ende 20. - Anfang 21 Jh. (?),,,1,1
+date,language_value,1686 – 1747,,,1,1
+date,language_value,1835 – 1848,,,1,1
+date,language_value,1797 – 1828,,,1,1
+date,language_value,1697 – 1732,,,1,1
+date,language_value,Erste Hälfte 20. Jh. (?),,,1,1
+date,language_value,18 Jh. (?),,,1,1
+date,language_value,1998 - 2007,,,1,1
+date,language_value,1840 – 1906,,,1,1
+date,language_value,1893 – 1969,,,1,1
+date,language_value,19. - 20. Jh. (?),,,1,1
+date,language_value,ab 1792,,,1,1
+date,language_value,1891 – 1892,,,1,1
+date,language_value,vor 1867,,,1,1
+date,language_value,1770 - 1815,,,1,1
+date,string,1183 - 1200,,,1,1
+date,string,2000 - 2010,,,1,1
+date,string,1990 - 2020,,,1,1
+date,string,1984,,,1,1
+date,string,1810 - 1830,,,1,1
+date,string,1520,,,1,1
+date,string,1951,,,1,1
+date,string,1090 - 1110,,,1,1
+date,string,2020,,,1,1
+date,string,101 - 200,,,1,1
+date,string,1930 - 1950,,,1,1
+date,string,501 - 600,,,1,1
+date,string,1658 - 1678,,,1,1
+date,string,1895,,,1,1
+date,string,1892,,,1,1
+date,string,1901 - 1911,,,1,1
+date,string,-60000000,,,1,1
+date,string,1901 - 1950,,,1,1
+date,string,1900 - 1950,,,1,1
+date,string,1786,,,1,1
+date,string,1970 - 1979,,,1,1
+date,string,1790,,,1,1
+date,string,1950 - 1990,,,1,1
+date,string,1830 - 1850,,,1,1
+date,string,1920 - 1930,,,1,1
+date,string,1601 - 1700,,,1,1
+date,string,1740 - 1760,,,1,1
+date,string,1554 - 1560,,,1,1
+date,string,1838,,,1,1
+date,string,-900,,,1,1
+date,string,1780 - 1800,,,1,1
+date,string,1974,,,1,1
+date,string,1640 - 1660,,,1,1
+date,string,1800 - 1839,,,1,1
+date,string,1800,,,1,1
+date,string,1840 - 1849,,,1,1
+date,string,1943 - 1944,,,1,1
+date,string,1525,,,1,1
+date,string,1872,,,1,1
+date,string,1801 - 1850,,,1,1
+date,string,1987,,,1,1
+date,string,1931 - 1932,,,1,1
+date,string,1944,,,1,1
+date,string,1884,,,1,1
+date,string,1915,,,1,1
+date,string,1645 - 1655,,,1,1
+date,string,1750 - 1760,,,1,1
+date,string,1776,,,1,1
+date,string,1863,,,1,1
+date,string,1925 - 1945,,,1,1
+date,language_value,27.01.1960,,,1,1
+date,language_value,10.06.1960,,,1,1
+date,language_value,07.07.1986,,,1,1
+date,language_value,11.1957,,,1,1
+date,language_value,1938-1945,,,1,1
+date,language_value,25.02.1964,,,1,1
+date,language_value,18.03.1929,,,1,1
+date,language_value,10.02.1968,,,1,1
+date,language_value,23.08.1938,,,1,1
+date,language_value,07.1935,,,1,1
+date,language_value,19.04.1961,,,1,1
+date,language_value,1929-1932,,,1,1
+date,language_value,20.10.1968,,,1,1
+date,language_value,20.06.1969,,,1,1
+date,language_value,12.1944,,,1,1
+date,language_value,05.10.1940,,,1,1
+date,language_value,26.04.1965,,,1,1
+date,language_value,10.12.1971,,,1,1
+date,language_value,25.09.1968,,,1,1
+date,language_value,1897-1997,,,1,1
+date,language_value,14.03.1959,,,1,1
+date,language_value,03.08.1968,,,1,1
+date,language_value,15.11.1938,,,1,1
+date,language_value,08.03.1956,,,1,1
+date,language_value,21.01.1963,,,1,1
+date,language_value,05.1961,,,1,1
+date,language_value,23.05.1941,,,1,1
+date,language_value,1961,,,1,1
+date,language_value,07.1957,,,1,1
+date,language_value,03.1950,,,1,1
+date,language_value,01.03.1941,,,1,1
+date,language_value,25.11.1985,,,1,1
+date,language_value,14.10.1965,,,1,1
+date,language_value,1963,,,1,1
+date,language_value,26.05.1959,,,1,1
+date,language_value,20.10.1960,,,1,1
+date,language_value,04.09.1956,,,1,1
+date,language_value,18.07.1960,,,1,1
+date,language_value,27.11.1939,,,1,1
+date,language_value,1938-1978,,,1,1
+date,language_value,18.11.1937,,,1,1
+date,language_value,07.10.1939,,,1,1
+date,language_value,28.11.1938,,,1,1
+date,language_value,22.10.1968,,,1,1
+date,language_value,04.07.1960,,,1,1
+date,language_value,07.03.1972,,,1,1
+date,language_value,08.03.1931,,,1,1
+date,language_value,05.1937,,,1,1
+date,language_value,12.1959,,,1,1
+date,language_value,20.12.1962,,,1,1
+date,language_value,07.08.1972,,,1,1
+date,language_value,31.08.1960,,,1,1
+date,language_value,30.05.1939,,,1,1
+date,language_value,1938-1942,,,1,1
+date,language_value,20.03.1939,,,1,1
+date,language_value,09.11.1961,,,1,1
+date,language_value,04.01.1940,,,1,1
+date,language_value,02.12.1936,,,1,1
+date,language_value,12.1936,,,1,1
+date,language_value,11.05.1939,,,1,1
+date,language_value,02.1950,,,1,1
+date,language_value,02.07.1940,,,1,1
+date,language_value,08.1952,,,1,1
+date,language_value,03.11.1939,,,1,1
+date,language_value,1920-1970,,,1,1
+date,language_value,02.08.1944,,,1,1
+date,language_value,15.02.1956,,,1,1
+date,language_value,02.10.1940,,,1,1
+date,language_value,1911,,,1,1
+date,language_value,28.12.1964,,,1,1
+date,language_value,21.09.1938,,,1,1
+date,language_value,04.1933,,,1,1
+date,language_value,11.1955,,,1,1
+date,language_value,12.1955,,,1,1
+date,language_value,1939,,,1,1
+date,language_value,03.07.1959,,,1,1
+date,language_value,10.05.1940,,,1,1
+date,language_value,31.12.1982,,,1,1
+date,language_value,26.04.1960,,,1,1
+date,language_value,14.07.1942,,,1,1
+date,language_value,22.06.1939,,,1,1
+date,string,1983.10.xx,,,1,1
+date,string,1978.05.02,,,1,1
+date,string,2016.12.01,,,1,1
+date,string,1971.09.xx,,,1,1
+date,string,1968.09.02,,,1,1
+date,string,2004.03.29,,,1,1
+date,string,1985.01.03,,,1,1
+date,string,2012.05.11,,,1,1
+date,string,2020.06.24,,,1,1
+date,string,2004.05.29,,,1,1
+date,string,1974.11.xx,,,1,1
+date,string,1984.11.xx,,,1,1
+date,string,2009.01.12,,,1,1
+date,string,2022.06.30,,,1,1
+date,string,2009.07.29,,,1,1
+date,string,2001.11.06,,,1,1
+date,string,1967.07.01,,,1,1
+date,string,1976.10.29,,,1,1
+date,string,1977.04.29,,,1,1
+date,string,1933.03.xx,,,1,1
+date,string,2017.10.17,,,1,1
+date,string,1978.05.11,,,1,1
+date,string,1948,,,1,1
+date,string,1839,,,1,1
+date,string,1850,,,1,1
+date,string,1927,,,1,1
+date,string,1835,,,1,1
+date,string,1954,,,1,1
+date,string,1891,,,1,1
+date,string,1899,,,1,1
+date,string,1888,,,1,1
+date,string,1921,,,1,1
+date,string,1912,,,1,1
+date,string,1972,,,1,1
+date,string,1958,,,1,1
+date,string,1956,,,1,1
+date,string,1926,,,1,1
+date,string,1842,,,1,1
+date,string,1864,,,1,1
+date,string,1936,,,1,1
+date,string,1923,,,1,1
+date,string,1896,,,1,1
+date,string,1865,,,1,1
+date,string,1911,,,1,1
+date,string,1910,,,1,1
+date,string,1929,,,1,1
+date,string,1986,,,1,1
+date,string,1886,,,1,1
+date,string,um 2800 v. Chr.-2600 v. Chr.,,,1,1
+date,string,um 33000 v. Chr.-11000 v. Chr.,,,1,1
+date,string,um,,,1,1
+date,string,um 3900 v. Chr.-2900 v. Chr.,,,1,1
+date,string,ca. 100 v. Chr.-40,,,1,1
+date,string,ca. 75 v. Chr.-20,,,1,1
+date,string,800 v. Chr.-450 v. Chr.,,,1,1
+date,string,ca. 120 v. Chr.-55 v. Chr.,,,1,1
+date,string,ca. 100 v. Chr.-50 v. Chr.,,,1,1
+date,string,ca. 50 v. Chr.-50,,,1,1
+date,string,ca. 1-160,,,1,1
+date,string,280-300,,,1,1
+date,string,ca. 80-114,,,1,1
+date,string,ca. 40-200,,,1,1
+date,string,ca. 360-410,,,1,1
+date,string,ca. 54-96,,,1,1
+date,string,ca. 80-270,,,1,1
+date,string,ca. 41-120,,,1,1
+date,string,ca. 41-138,,,1,1
+date,string,ca. 69-200,,,1,1
+date,string,ca. 70-260,,,1,1
+date,string,ca. 170-260,,,1,1
+date,string,ca. 50-200,,,1,1
+date,string,1530,,,1,1
+date,string,1683,,,1,1
+date,string,1784,,,1,1
+date,string,1785,,,1,1
+date,string,1609,,,1,1
+date,string,1560,,,1,1
+date,string,1711,,,1,1
+date,string,1908/1930,,,1,1
+date,string,1725,,,1,1
+date,string,1483,,,1,1
+date,string,1733,,,1,1
+date,string,1667/1700,,,1,1
+issued,string,1301-1400,,,19,1
+issued,string,1830,,,8,1
+issued,string,1290-1310,,,6,1
+issued,string,1894,,,5,1
+issued,string,1893,,,5,2
+issued,string,1450-,,,5,1
+issued,string,1201-1300,,,5,1
+issued,string,1401-1500,,,5,1
+issued,string,1844,,,5,1
+issued,string,1819,,,5,1
+issued,string,2025,,,4,2
+issued,string,1922-10-05,,,4,1
+issued,string,1914,,,4,2
+issued,string,1840,,,4,2
+issued,string,1828,,,4,1
+issued,string,1825,,,4,1
+issued,string,1907,,,3,1
+issued,string,1905,,,3,2
+issued,string,1899,,,3,2
+issued,string,1896,,,3,2
+issued,string,1898,,,3,2
+issued,string,1201-1400,,,3,1
+issued,string,1350-1400,,,3,1
+issued,string,1301-1500,,,3,1
+issued,string,1916,,,3,2
+issued,string,1929,,,3,1
+issued,string,1930,,,3,1
+issued,string,1931,,,3,1
+issued,string,1847,,,3,1
+issued,string,1843,,,3,1
+issued,string,1842,,,3,1
+issued,string,1841,,,3,1
+issued,string,1827,,,3,1
+issued,string,1818,,,3,1
+issued,string,1903,,,2,2
+issued,string,1869,,,2,1
+issued,string,1882,,,2,1
+issued,string,1897,,,2,2
+issued,string,1895-11-20,,,2,1
+issued,string,1483-03-03,,,2,1
+issued,string,1862-09-02,,,2,1
+issued,string,1684-08-26,,,2,1
+issued,string,1835-04-07,,,2,1
+issued,string,1703-03-15,,,2,1
+issued,string,1341-,,,2,1
+issued,string,1325-1350,,,2,1
+issued,string,1454-1455,,,2,1
+issued,string,1301-1310,,,2,1
+issued,string,1300-,,,2,1
+issued,string,1390-1410,,,2,1
+issued,string,1450-1500,,,2,1
+issued,string,1601-1700,,,2,1
+issued,string,1280-1300,,,2,1
+issued,string,1908,,,2,1
+issued,string,1934,,,2,1
+issued,string,1913,,,2,1
+issued,string,1936,,,2,1
+issued,string,1937,,,2,1
+issued,string,1938,,,2,1
+issued,string,1922,,,2,1
+issued,string,1884,,,2,2
+issued,string,1927,,,2,1
+issued,string,1912,,,2,1
+issued,string,1901,,,2,2
+issued,string,1915,,,2,1
+issued,string,1848,,,2,1
+issued,string,1846,,,2,1
+issued,string,1836,,,2,1
+issued,string,1834,,,2,1
+issued,string,1833,,,2,1
+issued,string,1829,,,2,1
+issued,string,[1827],,,2,1
+issued,string,1894-03-06,,,1,1
+issued,string,1892,,,1,1
+issued,string,1890,,,1,1
+issued,string,1904,,,1,1
+issued,string,1872,,,1,1
+issued,string,1908-11-26,,,1,1
+issued,string,1868,,,1,1
+issued,string,1909-11-20,,,1,1
+issued,string,1902,,,1,1
+issued,string,1909-06-05,,,1,1
+issued,string,1907-11-10,,,1,1
+issued,string,1910-06-14,,,1,1
+issued,string,1901-11-15,,,1,1
+issued,string,1902-01-04,,,1,1
+issued,string,1904-10-02,,,1,1
+issued,string,1894-12-01,,,1,1
+issued,string,1909-11-14,,,1,1
+issued,string,1905-11-11,,,1,1
+issued,string,1900-12-02,,,1,1
+issued,string,1910-11-13,,,1,1
+issued,string,1877-01-01,,,1,1
+issued,string,1907-01-06,,,1,1
+issued,string,1881-02-01,,,1,1
+issued,string,1896-04-01,,,1,1
+issued,string,1897-01-05,,,1,1
+issued,string,1874-03-01,,,1,1
+issued,string,1874-02-15,,,1,1
+issued,string,1874-01-15,,,1,1
+issued,string,1902-11-02,,,1,1
+issued,string,[1879],,,1,1
+issued,string,1910-01-06,,,1,1
+issued,string,1906-01-06,,,1,1
+issued,string,1909-01-06,,,1,1
+issued,string,1904-11-13,,,1,1
+issued,string,1871-12-03,,,1,1
+issued,string,1908-07-06,,,1,1
+issued,string,1903-11-15,,,1,1
+issued,string,1899-02-12,,,1,1
+issued,string,1908-01-05,,,1,1
+issued,string,1874-02-01,,,1,1
+issued,string,1890-11-09,,,1,1
+issued,string,1892-11-26,,,1,1
+issued,string,1904-01-05,,,1,1
+issued,string,1899-11-21,,,1,1
+issued,string,1893-08-01,,,1,1
+issued,string,1896-11-11,,,1,1
+issued,string,1897-12-05,,,1,1
+issued,string,1893-12-05,,,1,1
+issued,string,1899-01-14,,,1,1
+issued,string,1900-11-10,,,1,1
+issued,string,1891-12-16,,,1,1
+issued,string,1895-07-14,,,1,1
+issued,string,1903-01-06,,,1,1
+issued,string,1902-01-17,,,1,1
+issued,string,1895-12-22,,,1,1
+issued,string,1892-08-29,,,1,1
+issued,string,1894-10-09,,,1,1
+issued,string,1892-12-04,,,1,1
+issued,string,1894-07-15,,,1,1
+issued,string,1893-11-18,,,1,1
+issued,string,1891-07-01,,,1,1
+issued,string,1886-05-22,,,1,1
+issued,string,1886-11-20,,,1,1
+issued,string,1892-06-25,,,1,1
+issued,string,1901-01-20,,,1,1
+issued,string,1889-06-01,,,1,1
+issued,string,1891-11-15,,,1,1
+issued,string,1893-07-02,,,1,1
+issued,string,1900-01-06,,,1,1
+issued,string,1890-06-01,,,1,1
+issued,string,1888,,,1,1
+issued,string,[1885],,,1,1
+issued,string,1542-03-11,,,1,1
+issued,string,1679-04-08,,,1,1
+issued,string,1430-04-25,,,1,1
+issued,string,1865-03-28,,,1,1
+issued,string,1751-09-03,,,1,1
+issued,string,1549-05-15,,,1,1
+issued,string,1740-12-31,,,1,1
+issued,string,1436-12-09,,,1,1
+issued,string,1889-04-12,,,1,1
+issued,string,1578-06-25,,,1,1
+issued,string,1483-03-02,,,1,1
+issued,string,1688-01-13,,,1,1
+issued,string,1755-02-10,,,1,1
+issued,string,1349-01-06,,,1,1
+issued,string,1701-06-09,,,1,1
+issued,string,1729-12-24,,,1,1
+issued,string,1483-03-26,,,1,1
+issued,string,1861-12-06,,,1,1
+issued,string,1884-04-08,,,1,1
+issued,string,1559-05-01,,,1,1
+issued,string,1605-02-11,,,1,1
+issued,string,1789-11-01,,,1,1
+issued,string,1889-04-13,,,1,1
+issued,string,1430-99-99,,,1,1
+issued,string,1575-05-06,,,1,1
+issued,string,1400-06-24,,,1,1
+issued,string,1430-12-19,,,1,1
+issued,string,1360-12-09,,,1,1
+issued,string,1855-08-24,,,1,1
+issued,string,1431-05-25,,,1,1
+issued,string,1600-12-17,,,1,1
+issued,string,1693-05-13,,,1,1
+issued,string,1748-02-03,,,1,1
+issued,string,1517-01-28,,,1,1
+issued,string,1611-02-25,,,1,1
+issued,string,1431-05-12,,,1,1
+issued,string,1700-99-99,,,1,1
+issued,string,1898-12-18,,,1,1
+issued,string,1590-12-22,,,1,1
+issued,string,1528-12-18,,,1,1
+issued,string,1575-05-04,,,1,1
+issued,string,1901-04-20,,,1,1
+issued,string,1623-06-24,,,1,1
+issued,string,1318-11-25,,,1,1
+issued,string,1379-01-05,,,1,1
+issued,string,1904-04-13,,,1,1
+issued,string,1640-04-12,,,1,1
+issued,string,1522-10-17,,,1,1
+issued,string,1474-05-24,,,1,1
+issued,string,1483-06-06,,,1,1
+issued,string,1577-04-22,,,1,1
+issued,string,1471-06-07,,,1,1
+issued,string,1687-04-26,,,1,1
+issued,string,1823-08-08,,,1,1
+issued,string,1576-99-99,,,1,1
+issued,string,1448-04-19,,,1,1
+issued,string,1837-08-31,,,1,1
+issued,string,1686-01-16,,,1,1
+issued,string,1589-06-09,,,1,1
+issued,string,1483-99-99,,,1,1
+issued,string,1474-03-30,,,1,1
+issued,string,1925-11-23,,,1,1
+issued,string,1539-01-24,,,1,1
+issued,string,1526-09-05,,,1,1
+issued,string,1492-08-10,,,1,1
+issued,string,1590-08-24,,,1,1
+issued,string,1577-02-27,,,1,1
+issued,string,1366-01-21,,,1,1
+issued,string,1451-09-22,,,1,1
+issued,string,1431-06-16,,,1,1
+issued,string,1481-99-99,,,1,1
+issued,string,1463-06-15,,,1,1
+issued,string,1529-03-15,,,1,1
+issued,string,1620-06-30,,,1,1
+issued,string,1785-02-14,,,1,1
+issued,string,1708-10-31,,,1,1
+issued,string,1558-02-24,,,1,1
+issued,string,1723-04-21,,,1,1
+issued,string,1425-11-09,,,1,1
+issued,string,1580-09-30,,,1,1
+issued,string,1720-01-02,,,1,1
+issued,string,1719-03-15,,,1,1
+issued,string,1483-08-11,,,1,1
+issued,string,1652-02-10,,,1,1
+issued,string,1708-09-18,,,1,1
+issued,string,1358-08-27,,,1,1
+issued,string,1319-,,,1,1
+issued,string,1394,,,1,1
+issued,string,1350-,,,1,1
+issued,string,1351-1400,,,1,1
+issued,string,1427-,,,1,1
+issued,string,1430-,,,1,1
+issued,string,1150-,,,1,1
+issued,string,1459-,,,1,1
+issued,string,1470-,,,1,1
+issued,string,1401-1410,,,1,1
+issued,string,1570-,,,1,1
+issued,string,1701-1800,,,1,1
+issued,string,1190-1210,,,1,1
+issued,string,1693-1694,,,1,1
+issued,string,1380-1400,,,1,1
+issued,string,1301-1350,,,1,1
+issued,string,1333-1366,,,1,1
+issued,string,1505,,,1,1
+issued,string,1926,,,1,1
+issued,string,1923,,,1,1
+issued,string,[1911],,,1,1
+issued,string,1877,,,1,1
+issued,string,1895,,,1,1
+issued,string,1925,,,1,1
+issued,string,1896-1898,,,1,1
+issued,string,1885,,,1,1
+issued,string,[1921],,,1,1
+issued,string,1862,,,1,1
+issued,string,1873,,,1,1
+issued,string,1924,,,1,1
+issued,string,1917,,,1,1
+issued,string,1935,,,1,1
+issued,string,1928,,,1,1
+issued,string,1933,,,1,1
+issued,string,1909,,,1,1
+issued,string,1932,,,1,1
+issued,string,[1915/18],,,1,1
+issued,string,[1915/16],,,1,1
+issued,string,1762,,,1,1
+issued,string,1914 - 1919,,,1,1
+issued,string,1851,,,1,1
+issued,string,[1.]1856 - 2.1858[?],,,1,1
+issued,string,1887,,,1,1
+issued,string,1864,,,1,1
+issued,string,© 1894,,,1,1
+issued,string,1837,,,1,1
+issued,string,[s.a. ca. 1887],,,1,1
+issued,string,[1845],,,1,1
+issued,string,1838,,,1,1
+issued,string,1831,,,1,1
+issued,string,1.1905/06 - 5.1909/10,,,1,1
+issued,string,[1818],,,1,1
+issued,string,[1830],,,1,1
+temporal,language_value,19./20. Jahrhundert,,,100,1
+temporal,language_value,1855-1861,,,100,1
+temporal,string,2018,,,96,3
+temporal,timespan,ohne Datierung,,,92,1
+temporal,string,1938,,,91,1
+temporal,string,Late Middle Ages,,,84,1
+temporal,string,2024-01-31,,,82,1
+temporal,string,Neolithikum,,,66,1
+temporal,language_value,2023,,,57,1
+temporal,string,antik,,,49,1
+temporal,string,1939/1945,,,49,1
+temporal,language_value,19. Jh. (?),,,40,1
+temporal,string,High Middle Ages,,,36,1
+temporal,language_value,undatiert,,,34,1
+temporal,string,2010,,,33,2
+temporal,string,1876,,,32,1
+temporal,language_value,2007,,,30,2
+temporal,language_value,2024,,,28,1
+temporal,string,1981,,,26,3
+temporal,language_value,18. - 19. Jh. (?),,,26,1
+temporal,string,Unbekannt,,,23,1
+temporal,string,2011,,,22,2
+temporal,string,1980,,,21,3
+temporal,string,Spätbarock,,,21,1
+temporal,language_value,0001 - 0100,,,21,1
+temporal,string,1972,,,20,3
+temporal,string,2013,,,20,3
+temporal,string,1976,,,19,5
+temporal,string,1979,,,19,4
+temporal,string,2024-01-10,,,18,1
+temporal,language_value,1952,,,17,4
+temporal,string,1977,,,17,3
+temporal,string,1991,,,17,3
+temporal,string,1971,,,16,3
+temporal,string,Hochbarock,,,16,1
+temporal,language_value,2001,,,16,2
+temporal,string,1992,,,15,3
+temporal,language_value,1978,,,15,1
+temporal,string,um 1950,,,15,1
+temporal,language_value,1985,,,14,2
+temporal,string,1901,,,14,1
+temporal,string,1975,,,13,3
+temporal,string,Biedermeier-Realismus,,,13,1
+temporal,string,2001,,,13,2
+temporal,string,1982,,,12,2
+temporal,string,1978,,,12,3
+temporal,string,Realismus,,,12,1
+temporal,string,1974,,,12,2
+temporal,language_value,-0015 - 0230,,,11,1
+temporal,language_value,-0015 - 0200,,,11,1
+temporal,string,Early Modern Age,,,11,1
+temporal,string,1973,,,10,3
+temporal,string,1967,,,10,2
+temporal,string,1851,,,10,1
+temporal,string,1701,,,10,1
+temporal,string,1997,,,9,3
+temporal,language_value,"1900,ca.- 1930,ca.",,,9,1
+temporal,language_value,"1900, ca.- 1930, ca.",,,9,1
+temporal,language_value,1953,,,9,3
+temporal,string,2024,,,9,2
+temporal,string,2014,,,9,1
+temporal,string,1993,,,8,2
+temporal,string,1983,,,8,2
+temporal,string,1970,,,8,2
+temporal,string,2015,,,8,2
+temporal,string,2016,,,8,2
+temporal,string,Bronzezeit,,,8,1
+temporal,string,Geschichte 1830,,,8,1
+temporal,string,um 1900,,,8,1
+temporal,language_value,um 1850 - 1920,,,7,1
+temporal,language_value,1957,,,7,3
+temporal,timespan,Römische Kaiserzeit (-15-476),-15,476,7,1
+temporal,string,1984,,,6,4
+temporal,string,1995,,,6,2
+temporal,string,2008,,,6,2
+temporal,language_value,2002,,,6,1
+temporal,string,2012,,,6,2
+temporal,language_value,1960,,,6,3
+temporal,language_value,1950 - 1970,,,6,1
+temporal,language_value,1934,,,6,1
+temporal,language_value,1956,,,6,2
+temporal,string,Modern,,,6,1
+temporal,language_value,0069 - 0160,,,6,1
+temporal,string,1994,,,5,2
+temporal,string,2003,,,5,3
+temporal,string,Klassizismus,,,5,1
+temporal,language_value,"1900, ca- 1930, ca",,,5,1
+temporal,language_value,"1850, ca- 1920, ca",,,5,1
+temporal,language_value,1955,,,5,3
+temporal,language_value,1999,,,5,1
+temporal,language_value,1996,,,5,1
+temporal,language_value,1993,,,5,1
+temporal,language_value,1992,,,5,1
+temporal,string,1998,,,5,1
+temporal,language_value,1900,,,5,3
+temporal,language_value,0001 - 0045,,,5,1
+temporal,language_value,0041 - 0100,,,5,1
+temporal,string,1100-1550,,,5,1
+temporal,language_value,c. 1955,,,5,1
+temporal,language_value,um 1955,,,5,1
+temporal,language_value,18. Jh. (?),,,5,1
+temporal,string,1801,,,5,1
+temporal,string,1926,,,5,1
+temporal,string,Geschichte 1844,,,5,1
+temporal,string,Geschichte 1827,,,5,1
+temporal,string,Geschichte 1819,,,5,1
+temporal,string,1989,,,4,3
+temporal,string,1990,,,4,3
+temporal,string,Historismus,,,4,1
+temporal,string,Kunst um 1900,,,4,1
+temporal,language_value,1954,,,4,1
+temporal,language_value,2019,,,4,1
+temporal,language_value,2009,,,4,1
+temporal,language_value,2003,,,4,1
+temporal,language_value,2000,,,4,1
+temporal,language_value,1998,,,4,1
+temporal,language_value,1997,,,4,1
+temporal,language_value,1995,,,4,1
+temporal,language_value,1994,,,4,1
+temporal,string,2004,,,4,2
+temporal,string,1985,,,4,3
+temporal,string,1969,,,4,2
+temporal,string,1966,,,4,1
+temporal,string,1996,,,4,2
+temporal,string,1999,,,4,3
+temporal,language_value,1960 - 1970,,,4,1
+temporal,language_value,nach 1945,,,4,1
+temporal,language_value,1961 - 1964,,,4,1
+temporal,language_value,1950 - 1960,,,4,1
+temporal,string,1988,,,4,1
+temporal,language_value,1821,,,4,1
+temporal,timespan,Frühmittelalter (569-975),569,975,4,1
+temporal,language_value,Roman Empire,,,4,1
+temporal,language_value,Römisches Reich,,,4,1
+temporal,language_value,1933/1945,,,4,1
+temporal,language_value,0051 - 0100,,,4,1
+temporal,language_value,-0015 - 0014,,,4,1
+temporal,string,1100-1500,,,4,1
+temporal,string,Geschichte 1828,,,4,1
+temporal,string,Geschichte 1825,,,4,1
+temporal,string,Geschichte 1817-1819,,,4,1
+temporal,string,Geschichte 1818,,,4,1
+temporal,string,2000,,,3,2
+temporal,string,2007,,,3,1
+temporal,string,Renaissance,,,3,1
+temporal,string,Frühbarock,,,3,1
+temporal,string,Biedermeier,,,3,1
+temporal,language_value,[um 1920],,,3,1
+temporal,language_value,1925,,,3,3
+temporal,language_value,1936,,,3,2
+temporal,language_value,1968,,,3,2
+temporal,language_value,2016,,,3,1
+temporal,language_value,2017,,,3,2
+temporal,language_value,2015,,,3,1
+temporal,language_value,2012,,,3,1
+temporal,language_value,2013,,,3,1
+temporal,language_value,2011,,,3,1
+temporal,language_value,2004,,,3,1
+temporal,string,1965,,,3,2
+temporal,string,1968,,,3,2
+temporal,language_value,1959,,,3,2
+temporal,language_value,1963,,,3,2
+temporal,string,2023,,,3,2
+temporal,string,1987,,,3,1
+temporal,language_value,1913,,,3,2
+temporal,language_value,1819,,,3,1
+temporal,timespan,8. Jahrhundert (701-800),701,800,3,1
+temporal,language_value,1922,,,3,1
+temporal,string,19. Jhdt.,,,3,1
+temporal,language_value,0085 - 0180,,,3,1
+temporal,language_value,0001 - 0125,,,3,1
+temporal,language_value,0090 - 0150,,,3,1
+temporal,language_value,04.09.1986,,,3,1
+temporal,language_value,"23.09.1985, 24.09.1985, 05./06.10.1985, 30.10.1985",,,3,1
+temporal,string,1200-1550,,,3,1
+temporal,string,Medieval,,,3,1
+temporal,string,2017,,,3,1
+temporal,language_value,c. 1929,,,3,1
+temporal,language_value,um 1929,,,3,1
+temporal,string,100 n. Chr. - 200 n. Chr.,,,3,1
+temporal,string,50 n. Chr. - 150 n. Chr.,,,3,1
+temporal,string,1951,,,3,1
+temporal,string,Geschichte 1847,,,3,1
+temporal,string,Geschichte 1843,,,3,1
+temporal,string,Geschichte 1842,,,3,1
+temporal,string,Geschichte 1841,,,3,1
+temporal,string,Geschichte 1840,,,3,1
+temporal,string,Geschichte 1824-1828,,,3,1
+temporal,string,1880,,,3,1
+temporal,timespan,1912,1912,1912,2,2
+temporal,string,1986,,,2,2
+temporal,string,Romantik,,,2,1
+temporal,string,Stimmungsimpressionismus,,,2,1
+temporal,language_value,20. Jahrhundert,,,2,1
+temporal,language_value,1937,,,2,1
+temporal,language_value,um 1914,,,2,1
+temporal,language_value,1946,,,2,2
+temporal,language_value,1932,,,2,2
+temporal,language_value,1945,,,2,1
+temporal,language_value,1920-1961 ca.,,,2,1
+temporal,language_value,[1930er Jahre],,,2,1
+temporal,language_value,um 1920,,,2,1
+temporal,language_value,2018,,,2,1
+temporal,language_value,2014,,,2,1
+temporal,language_value,2010,,,2,1
+temporal,language_value,2008,,,2,1
+temporal,language_value,2006,,,2,1
+temporal,language_value,2005,,,2,1
+temporal,string,2025-05-13,,,2,1
+temporal,string,2021,,,2,2
+temporal,language_value,1930,,,2,1
+temporal,language_value,1961,,,2,1
+temporal,language_value,1938,,,2,1
+temporal,language_value,1976 - 1979,,,2,1
+temporal,language_value,10.1932,,,2,1
+temporal,language_value,1979,,,2,2
+temporal,language_value,1939,,,2,1
+temporal,language_value,1930 - 1937,,,2,1
+temporal,language_value,1948 - 1949,,,2,1
+temporal,language_value,1859,,,2,1
+temporal,language_value,1797,,,2,1
+temporal,language_value,1806,,,2,1
+temporal,language_value,1873,,,2,1
+temporal,language_value,1799,,,2,1
+temporal,language_value,1909,,,2,1
+temporal,language_value,1899,,,2,1
+temporal,language_value,1876,,,2,1
+temporal,string,Neuzeit,,,2,1
+temporal,timespan,Latène (-450--16),-450,-16,2,1
+temporal,language_value,-1,,,2,1
+temporal,language_value,1927,,,2,1
+temporal,string,18. Jhdt.,,,2,1
+temporal,string,Mitte 19. Jhdt.,,,2,1
+temporal,language_value,0041 - 0096,,,2,1
+temporal,language_value,-0530 - -0450,,,2,1
+temporal,language_value,"26.04.1987, 25.04.1987 (GP)",,,2,1
+temporal,language_value,"30.09.1987, 01., 03., 04.10.1987",,,2,1
+temporal,language_value,"08.12.1987, 01.04.1988",,,2,1
+temporal,language_value,29.11.1987,,,2,1
+temporal,language_value,1898,,,2,1
+temporal,string,1300-1500,,,2,1
+temporal,string,1000-1500,,,2,1
+temporal,string,1550.0,,,2,1
+temporal,string,1050-1500,,,2,1
+temporal,timespan,um 1910,,,2,1
+temporal,timespan,um 1914,,,2,1
+temporal,timespan,1911,1911,1911,2,1
+temporal,language_value,c. 1928,,,2,1
+temporal,language_value,um 1928,,,2,1
+temporal,language_value,1782 – 1787,,,2,1
+temporal,language_value,17. - 18. Jh. (?),,,2,1
+temporal,language_value,Ende 18. Jh. - Anfang 19. Jh. (?),,,2,1
+temporal,string,170 n. Chr. - 250 n. Chr.,,,2,1
+temporal,string,150 n. Chr. - 230 n. Chr. (Antoninisch-Severisch),,,2,1
+temporal,string,Antoninisch,,,2,1
+temporal,timespan,Minoan | Minoisch,,,2,1
+temporal,string,1826,,,2,1
+temporal,string,1751,,,2,1
+temporal,string,Geschichte 1847-1848,,,2,1
+temporal,string,Geschichte 1845,,,2,1
+temporal,string,Geschichte 1830-1843,,,2,1
+temporal,string,Geschichte 1836,,,2,1
+temporal,string,Geschichte 1834,,,2,1
+temporal,string,Geschichte 1833,,,2,1
+temporal,string,Geschichte 1829,,,2,1
+temporal,string,Geschichte 1812-1818,,,2,1
+temporal,string,1724,,,2,1
+temporal,string,1720,,,2,1
+temporal,string,1945-11-23,,,1,1
+temporal,string,1983-06-09,,,1,1
+temporal,string,1961-12-24,,,1,1
+temporal,string,1987-06-09,,,1,1
+temporal,string,1965-11-03,,,1,1
+temporal,string,1959-09-11,,,1,1
+temporal,string,1949-11-16,,,1,1
+temporal,string,1966-08-19,,,1,1
+temporal,string,1949-08-13,,,1,1
+temporal,string,1972-11-28,,,1,1
+temporal,string,1987-05-29,,,1,1
+temporal,string,1972-03-19,,,1,1
+temporal,string,1961-11-16,,,1,1
+temporal,string,1960-02-20,,,1,1
+temporal,string,1947-11-09,,,1,1
+temporal,string,1949-12-15,,,1,1
+temporal,string,1952-07-20,,,1,1
+temporal,string,1971-03-25,,,1,1
+temporal,string,1956-09-22,,,1,1
+temporal,string,1976-04-10,,,1,1
+temporal,string,1988-10-28,,,1,1
+temporal,string,1975-10-12,,,1,1
+temporal,string,1958-04-20,,,1,1
+temporal,string,1962-04-06,,,1,1
+temporal,string,1962-08-17,,,1,1
+temporal,string,1974-02-09,,,1,1
+temporal,string,1989-03-15,,,1,1
+temporal,string,1948-12-10,,,1,1
+temporal,string,1946-06-15,,,1,1
+temporal,string,1983-08-10,,,1,1
+temporal,string,1964-11-05,,,1,1
+temporal,string,1946-04-16,,,1,1
+temporal,string,1950-09-22,,,1,1
+temporal,string,1958-02-22,,,1,1
+temporal,string,1949-01-27,,,1,1
+temporal,string,1969-08-26,,,1,1
+temporal,string,1984-10-12,,,1,1
+temporal,string,1964-03-14,,,1,1
+temporal,string,1984-03-20,,,1,1
+temporal,string,1948-09-04,,,1,1
+temporal,string,1987-11-30,,,1,1
+temporal,string,1962-07-29,,,1,1
+temporal,string,1976-08-16,,,1,1
+temporal,string,1958-10-11,,,1,1
+temporal,string,1963-11-15,,,1,1
+temporal,string,1949-01-29,,,1,1
+temporal,string,1972-07-25,,,1,1
+temporal,string,1957-04-26,,,1,1
+temporal,string,1982-04-19,,,1,1
+temporal,string,1978-10-14,,,1,1
+temporal,string,1962-12-07,,,1,1
+temporal,string,1984-12-22,,,1,1
+temporal,string,1981-11-17,,,1,1
+temporal,string,1948-03-07,,,1,1
+temporal,string,1965-08-03,,,1,1
+temporal,string,1988-11-18,,,1,1
+temporal,string,1986-06-23,,,1,1
+temporal,string,1956-01-08,,,1,1
+temporal,string,1988-06-30,,,1,1
+temporal,string,1981-07-14,,,1,1
+temporal,string,1957-10-12,,,1,1
+temporal,string,1962-01-04,,,1,1
+temporal,string,1949-07-05,,,1,1
+temporal,string,1976-10-12,,,1,1
+temporal,string,1985-05-21,,,1,1
+temporal,string,1987-09-23,,,1,1
+temporal,string,1957-07-19,,,1,1
+temporal,string,1978-02-08,,,1,1
+temporal,string,1958-04-11,,,1,1
+temporal,string,1975-05-17,,,1,1
+temporal,string,1984-03-03,,,1,1
+temporal,string,1965-02-09,,,1,1
+temporal,string,1980-09-15,,,1,1
+temporal,string,1960-02-16,,,1,1
+temporal,string,1969-10-30,,,1,1
+temporal,string,1948-11-24,,,1,1
+temporal,string,1981-01-28,,,1,1
+temporal,string,1968-08-27,,,1,1
+temporal,string,1950-06-08,,,1,1
+temporal,string,1966-03-22,,,1,1
+temporal,string,1949-07-26,,,1,1
+temporal,string,1954-05-04,,,1,1
+temporal,string,1958-10-17,,,1,1
+temporal,string,1983-08-25,,,1,1
+temporal,string,1973-06-14,,,1,1
+temporal,string,1977-06-01,,,1,1
+temporal,string,1985-08-01,,,1,1
+temporal,string,1967-11-10,,,1,1
+temporal,string,1954-08-14,,,1,1
+temporal,string,1972-09-14,,,1,1
+temporal,string,1973-04-07,,,1,1
+temporal,string,1980-05-20,,,1,1
+temporal,string,1969-02-18,,,1,1
+temporal,string,1977-06-11,,,1,1
+temporal,string,1966-03-29,,,1,1
+temporal,string,1969-10-12,,,1,1
+temporal,string,1962-09-27,,,1,1
+temporal,string,1987-09-18,,,1,1
+temporal,string,1985-10-02,,,1,1
+temporal,string,1950-09-24,,,1,1
+temporal,timespan,1985–1989,1985,1989,1,1
+temporal,timespan,1901–1902,1901,1902,1,1
+temporal,timespan,1985–1987,1985,1987,1,1
+temporal,timespan,1931–1932,1931,1932,1,1
+temporal,timespan,1968,1968,1968,1,1
+temporal,string,Naturalismus,,,1,1
+temporal,string,Expressionismus,,,1,1
+temporal,string,Spätgotik,,,1,1
+temporal,language_value,um 1870,,,1,1
+temporal,language_value,1950 ca.,,,1,1
+temporal,language_value,1915-1920 ca.,,,1,1
+temporal,language_value,1910 ca.,,,1,1
+temporal,language_value,1930-1961 ca.,,,1,1
+temporal,language_value,1924-1929,,,1,1
+temporal,language_value,1920-1960,,,1,1
+temporal,language_value,1940-1950 ca.,,,1,1
+temporal,language_value,1887,,,1,1
+temporal,language_value,September 1928,,,1,1
+temporal,language_value,"1958, 1960",,,1,1
+temporal,language_value,1962,,,1,1
+temporal,language_value,1914-1918,,,1,1
+temporal,language_value,1933,,,1,1
+temporal,language_value,1944,,,1,1
+temporal,language_value,[1928],,,1,1
+temporal,language_value,1950,,,1,1
+temporal,language_value,1919,,,1,1
+temporal,language_value,"1850, ca- 1920, ca/ 1907",,,1,1
+temporal,language_value,um 1880 - 1920,,,1,1
+temporal,language_value,10.12.1933,,,1,1
+temporal,language_value,1930-1940 ca.,,,1,1
+temporal,language_value,1900 ca.,,,1,1
+temporal,language_value,1931,,,1,1
+temporal,language_value,1940 ca.,,,1,1
+temporal,language_value,um 1910,,,1,1
+temporal,language_value,1900-1905,,,1,1
+temporal,language_value,1925-1940 ca.,,,1,1
+temporal,language_value,um 1880 - 1950,,,1,1
+temporal,language_value,1900-1965 ca.,,,1,1
+temporal,language_value,1923,,,1,1
+temporal,language_value,um 1930 - 1950,,,1,1
+temporal,language_value,1893,,,1,1
+temporal,language_value,um 1900,,,1,1
+temporal,language_value,ca.1930-ca.1950,,,1,1
+temporal,language_value,1990,,,1,1
+temporal,string,2022-03-01/2022-06-30,,,1,1
+temporal,string,2002,,,1,1
+temporal,string,2024-04-16,,,1,1
+temporal,string,2024-11-20/2024-12-04,,,1,1
+temporal,string,2025-11-17,,,1,1
+temporal,string,2025-01-14,,,1,1
+temporal,string,2006,,,1,1
+temporal,string,2026-01-11,,,1,1
+temporal,string,2024-11-20,,,1,1
+temporal,language_value,1945 - 2000,,,1,1
+temporal,language_value,1967,,,1,1
+temporal,language_value,22.01.1991,,,1,1
+temporal,language_value,10.06.1951,,,1,1
+temporal,language_value,25.05.1940,,,1,1
+temporal,language_value,1934 - 1936,,,1,1
+temporal,language_value,1965,,,1,1
+temporal,language_value,05.03.1953,,,1,1
+temporal,language_value,"1985 Korrespondenz
+04.06.1985 Sendung",,,1,1
+temporal,language_value,25.12.1963,,,1,1
+temporal,language_value,30.09.1965,,,1,1
+temporal,language_value,11.01.1965,,,1,1
+temporal,language_value,1928,,,1,1
+temporal,language_value,1964 - 1969,,,1,1
+temporal,language_value,02.11.1920,,,1,1
+temporal,language_value,1938 - 1939,,,1,1
+temporal,language_value,1969,,,1,1
+temporal,language_value,1938 - 1946,,,1,1
+temporal,language_value,1924,,,1,1
+temporal,language_value,1935 - 1936,,,1,1
+temporal,language_value,1967 - 1969,,,1,1
+temporal,language_value,19.11.1950 - 01.07.1952,,,1,1
+temporal,language_value,1947 - 1969,,,1,1
+temporal,language_value,1947,,,1,1
+temporal,language_value,11.1919,,,1,1
+temporal,language_value,07.1935,,,1,1
+temporal,language_value,22.01.1987,,,1,1
+temporal,language_value,ab 1964,,,1,1
+temporal,language_value,1929,,,1,1
+temporal,language_value,1959 - 1960,,,1,1
+temporal,language_value,05.1918,,,1,1
+temporal,string,1690-04-18,,,1,1
+temporal,string,1450-06-28,,,1,1
+temporal,string,1661-11-11,,,1,1
+temporal,string,1528-10-01,,,1,1
+temporal,string,1295-01-01/1295-12-31,,,1,1
+temporal,string,1559-04-06,,,1,1
+temporal,string,1547-01-01/1547-12-31,,,1,1
+temporal,string,1310-05-25,,,1,1
+temporal,string,1656-02-25,,,1,1
+temporal,string,1418-01-06,,,1,1
+temporal,string,1424-04-04,,,1,1
+temporal,string,1646-11-11,,,1,1
+temporal,string,1447-07-22,,,1,1
+temporal,string,1689-08-10,,,1,1
+temporal,string,1609-01-01/1849-12-31,,,1,1
+temporal,string,1490-08-20,,,1,1
+temporal,string,1649-01-01/1649-12-31,,,1,1
+temporal,string,1535-08-18,,,1,1
+temporal,string,1727-04-04,,,1,1
+temporal,string,1724-03-18,,,1,1
+temporal,string,1707-07-16,,,1,1
+temporal,string,1741-06-08,,,1,1
+temporal,string,1366-09-15,,,1,1
+temporal,string,1458-05-13,,,1,1
+temporal,string,1433-01-25,,,1,1
+temporal,string,1559-01-27,,,1,1
+temporal,string,1641-09-23,,,1,1
+temporal,string,1698-04-23,,,1,1
+temporal,string,1515-06-15,,,1,1
+temporal,string,1620-08-15,,,1,1
+temporal,string,1643-03-20,,,1,1
+temporal,string,1664-01-05,,,1,1
+temporal,string,1299-02-22,,,1,1
+temporal,string,1458-03-15,,,1,1
+temporal,string,1775-08-06,,,1,1
+temporal,string,1662-06-01,,,1,1
+temporal,string,um 1100,,,1,1
+temporal,string,2025,,,1,1
+temporal,string,1954,,,1,1
+temporal,string,1964,,,1,1
+temporal,string,1961,,,1,1
+temporal,string,1963,,,1,1
+temporal,string,1962,,,1,1
+temporal,string,2020,,,1,1
+temporal,string,2005,,,1,1
+temporal,language_value,1683 - 1684,,,1,1
+temporal,language_value,1828,,,1,1
+temporal,language_value,1885,,,1,1
+temporal,language_value,1823,,,1,1
+temporal,language_value,1862,,,1,1
+temporal,language_value,1951,,,1,1
+temporal,language_value,1605,,,1,1
+temporal,language_value,1902,,,1,1
+temporal,language_value,1776,,,1,1
+temporal,language_value,1764,,,1,1
+temporal,language_value,1804,,,1,1
+temporal,language_value,1906,,,1,1
+temporal,language_value,1948,,,1,1
+temporal,language_value,1845,,,1,1
+temporal,language_value,1817,,,1,1
+temporal,language_value,1710,,,1,1
+temporal,language_value,1904,,,1,1
+temporal,language_value,1908,,,1,1
+temporal,language_value,1795,,,1,1
+temporal,language_value,1855,,,1,1
+temporal,language_value,1914,,,1,1
+temporal,language_value,1849,,,1,1
+temporal,language_value,1781,,,1,1
+temporal,language_value,1926,,,1,1
+temporal,language_value,1910,,,1,1
+temporal,language_value,1673 - 1674,,,1,1
+temporal,language_value,1793,,,1,1
+temporal,language_value,1750,,,1,1
+temporal,string,Eisenzeit,,,1,1
+temporal,timespan,16. Jahrhundert (1500-1599),1500,1599,1,1
+temporal,timespan,Neolithikum (-5600--2201),-5600,-2201,1,1
+temporal,timespan,17. Jahrhundert (1601-1700),1601,1700,1,1
+temporal,timespan,Neolithikum ? (-5600--2201),-5600,-2201,1,1
+temporal,timespan,Mittelalter (976-1499),976,1499,1,1
+temporal,timespan,Frühe Bronzezeit (-2200--1601),-2200,-1601,1,1
+temporal,timespan,Mittelneolithikum (-4800--4301),-4800,-4301,1,1
+temporal,timespan,Spätneolithikum (-4250--2201),-4250,-2201,1,1
+temporal,timespan,13. Jahrhundert (1201-1300),1201,1300,1,1
+temporal,language_value,1950–1959,,,1,1
+temporal,language_value,1934/1938,,,1,1
+temporal,language_value,1987,,,1,1
+temporal,language_value,1868/1927,,,1,1
+temporal,language_value,1858/1938,,,1,1
+temporal,language_value,1950/1959,,,1,1
+temporal,string,Jugendstil,,,1,1
+temporal,string,Ende 19. Jhdt.,,,1,1
+temporal,string,Anfang 19. Jhdt.,,,1,1
+temporal,language_value,0041 - 0160,,,1,1
+temporal,language_value,0001 - 0054,,,1,1
+temporal,language_value,0001 - 0138,,,1,1
+temporal,language_value,0085 - 0150,,,1,1
+temporal,language_value,0151 - 0300,,,1,1
+temporal,language_value,0069 - 0200,,,1,1
+temporal,language_value,0330 - 0415,,,1,1
+temporal,language_value,0266 - 0450,,,1,1
+temporal,language_value,0138 - 0200,,,1,1
+temporal,language_value,0101 - 0200,,,1,1
+temporal,language_value,-0120 - -0001,,,1,1
+temporal,language_value,0069 - 0125,,,1,1
+temporal,language_value,0066 - 0125,,,1,1
+temporal,language_value,0025 - 0090,,,1,1
+temporal,language_value,-0020 - 0100,,,1,1
+temporal,language_value,-0100 - 0600,,,1,1
+temporal,language_value,-0010 - 0070,,,1,1
+temporal,language_value,-0620 - -0530,,,1,1
+temporal,language_value,0001 - 0150,,,1,1
+temporal,language_value,0201 - 0275,,,1,1
+temporal,language_value,13.06.1987,,,1,1
+temporal,language_value,"21.05.1987, 22., 23.05.1987",,,1,1
+temporal,language_value,"1963, 1992 (Korrekturliste)",,,1,1
+temporal,language_value,07.12.1987,,,1,1
+temporal,language_value,18.10.1987,,,1,1
+temporal,language_value,"10.02.1987, 11.02.1987",,,1,1
+temporal,language_value,"18.06.1987, 19.06.1987",,,1,1
+temporal,language_value,"12.11.1987, 13.11.1987",,,1,1
+temporal,language_value,"23.04.1987, 24.04.1987",,,1,1
+temporal,language_value,02.12.1987,,,1,1
+temporal,language_value,"1960 (Eintragungen), 22222",,,1,1
+temporal,language_value,29.03.1987,,,1,1
+temporal,language_value,24.03.1987,,,1,1
+temporal,language_value,"31.03.1987, 01.04.1987",,,1,1
+temporal,language_value,"18.03.1987, 19.03.1987",,,1,1
+temporal,language_value,08.12.1987,,,1,1
+temporal,language_value,21.01.1988,,,1,1
+temporal,language_value,03.09.1987,,,1,1
+temporal,language_value,"08.08.1987, 08.–18.08.1987",,,1,1
+temporal,language_value,"21.05.1987, 22./23.05.1987",,,1,1
+temporal,language_value,27.07.1986,,,1,1
+temporal,language_value,"31.07.1986, 31.07.1986 (Eröffnung), 31.07.–31.08.1986 (Ausstellung)",,,1,1
+temporal,language_value,"13.03.1986, 14.03.1986",,,1,1
+temporal,language_value,05.03.1986,,,1,1
+temporal,language_value,14.05.1986,,,1,1
+temporal,language_value,26.02.1986,,,1,1
+temporal,language_value,"24.01.1986, 25.01.1986",,,1,1
+temporal,language_value,14.01.1986,,,1,1
+temporal,language_value,"16.01.1986, 17.01.1986",,,1,1
+temporal,language_value,"13.11.1986, 14., 15., 22., 23.11.1986",,,1,1
+temporal,language_value,"08.01.1987, 09.01.1987",,,1,1
+temporal,language_value,"11.12.1986, 12., 13., 15.12.1986",,,1,1
+temporal,language_value,"18.09.1986, 19.09.1986",,,1,1
+temporal,language_value,11.01.1987,,,1,1
+temporal,language_value,02.10.1986,,,1,1
+temporal,language_value,"09.10.1986, 10.10.1986",,,1,1
+temporal,language_value,04.12.1986,,,1,1
+temporal,language_value,"23.01.1985, 24./26.01.1985",,,1,1
+temporal,language_value,"14.12.1986, 13.12.1986 (GP)",,,1,1
+temporal,language_value,08.10.1985,,,1,1
+temporal,language_value,05.10.1985,,,1,1
+temporal,language_value,03.02.1985,,,1,1
+temporal,language_value,11.06.1985,,,1,1
+temporal,language_value,"25.03.1985, 26.03.1985",,,1,1
+temporal,language_value,09.10.1985,,,1,1
+temporal,language_value,"13.06.1985, 14.06.1985",,,1,1
+temporal,language_value,"13.10.1985, 14–10–1985",,,1,1
+temporal,language_value,06.06.1985,,,1,1
+temporal,language_value,"09.05.1985, 10.05.1985",,,1,1
+temporal,language_value,02.07.1985,,,1,1
+temporal,language_value,"04.10.1985, 26.09.–10.10.1985 (Festivaldauer)",,,1,1
+temporal,language_value,"11.04.1985, 12.04.1985",,,1,1
+temporal,language_value,"06.02.1985, 07–02–1985",,,1,1
+temporal,language_value,"16.05.1985, 18.05.1985",,,1,1
+temporal,language_value,17.05.1985,,,1,1
+temporal,language_value,1982,,,1,1
+temporal,language_value,1970,,,1,1
+temporal,language_value,01.06.1985,,,1,1
+temporal,language_value,03.04.1985,,,1,1
+temporal,language_value,19.05.1985,,,1,1
+temporal,language_value,10.01.1985,,,1,1
+temporal,language_value,"13.09.1985, 14./15./16.09.1985",,,1,1
+temporal,language_value,"02.11.1985, 03.11.1985",,,1,1
+temporal,language_value,"16.10.1985, 17.10.1985",,,1,1
+temporal,language_value,01.11.1985,,,1,1
+temporal,language_value,"06.10.1985, 05.10.1985 (GP)",,,1,1
+temporal,language_value,"11.11.1985, 12.11.1985",,,1,1
+temporal,language_value,"11.10.1985, 12.10.1985, 13.10.1985",,,1,1
+temporal,language_value,17.01.1985,,,1,1
+temporal,language_value,23.10.1985,,,1,1
+temporal,language_value,27.10.1985,,,1,1
+temporal,language_value,"25.09.1985, 26.09.1985",,,1,1
+temporal,language_value,15.04.1985,,,1,1
+temporal,language_value,"23.02.1989, 24.02.1989",,,1,1
+temporal,language_value,"17.01.1985, 18.01.1985",,,1,1
+temporal,language_value,"14.02.1989, 15.02.1989",,,1,1
+temporal,language_value,20.02.1989,,,1,1
+temporal,language_value,"29.09.1989, 30.09.1989",,,1,1
+temporal,language_value,"17.03.1989, 18.03.1989, 19.03.1989",,,1,1
+temporal,language_value,01.10.1989,,,1,1
+temporal,language_value,15.05.1989,,,1,1
+temporal,language_value,"06.12.1989, 16.12.1989, 27.01.1990",,,1,1
+temporal,language_value,"20.02.1989, 21.02.1989",,,1,1
+temporal,string,1220-1408,,,1,1
+temporal,string,1100-1650,,,1,1
+temporal,string,1280-1550,,,1,1
+temporal,string,1200,,,1,1
+temporal,string,1100-1700,,,1,1
+temporal,string,1300-1600,,,1,1
+temporal,string,1530.0,,,1,1
+temporal,string,1320-1700,,,1,1
+temporal,string,1250-1490,,,1,1
+temporal,string,1230,,,1,1
+temporal,string,1200-1600,,,1,1
+temporal,string,1000-1600,,,1,1
+temporal,string,1540.0,,,1,1
+temporal,string,1250-1550,,,1,1
+temporal,string,1130,,,1,1
+temporal,string,1100-1600,,,1,1
+temporal,string,1210-1500,,,1,1
+temporal,string,1250-1465,,,1,1
+temporal,string,1080-1600,,,1,1
+temporal,string,1180,,,1,1
+temporal,string,1350-1550,,,1,1
+temporal,string,1050-1550,,,1,1
+temporal,string,1330.0,,,1,1
+temporal,string,1270-1550,,,1,1
+temporal,string,1250-1340,,,1,1
+temporal,string,1300-1550,,,1,1
+temporal,string,1171-1400,,,1,1
+temporal,string,1070-1500,,,1,1
+temporal,string,1300.0,,,1,1
+temporal,timespan,1913,1913,1913,1,1
+temporal,language_value,c. 1961,,,1,1
+temporal,language_value,um 1961,,,1,1
+temporal,language_value,1935/1937,,,1,1
+temporal,language_value,c. 1930,,,1,1
+temporal,language_value,um 1930,,,1,1
+temporal,language_value,c. 1925,,,1,1
+temporal,language_value,um 1925,,,1,1
+temporal,language_value,c. 1926,,,1,1
+temporal,language_value,um 1926,,,1,1
+temporal,language_value,Ende 19. Jh.,,,1,1
+temporal,language_value,1816 – 1823,,,1,1
+temporal,language_value,14. - 15. Jh. (?),,,1,1
+temporal,language_value,1875,,,1,1
+temporal,language_value,1. Hälfte 20. Jh.,,,1,1
+temporal,language_value,18. Jh.,,,1,1
+temporal,language_value,Ende 20. - Anfang 21 Jh. (?),,,1,1
+temporal,language_value,1686 – 1747,,,1,1
+temporal,language_value,1835 – 1848,,,1,1
+temporal,language_value,1797 – 1828,,,1,1
+temporal,language_value,1697 – 1732,,,1,1
+temporal,language_value,Erste Hälfte 20. Jh. (?),,,1,1
+temporal,language_value,18 Jh. (?),,,1,1
+temporal,language_value,1998 - 2007,,,1,1
+temporal,language_value,2. Hälfte 19. Jh.,,,1,1
+temporal,language_value,1840 – 1906,,,1,1
+temporal,language_value,1893 – 1969,,,1,1
+temporal,language_value,19. - 20. Jh. (?),,,1,1
+temporal,language_value,ab 1792,,,1,1
+temporal,language_value,1891 – 1892,,,1,1
+temporal,language_value,vor 1867,,,1,1
+temporal,language_value,1770 - 1815,,,1,1
+temporal,string,20 n. Chr. - 50 n. Chr. (Iulisch-Claudisch),,,1,1
+temporal,string,244 n. Chr. (Soldatenkaiser),,,1,1
+temporal,string,200 n. Chr. - 300 n. Chr.,,,1,1
+temporal,string,350 n. Chr. - 450 n. Chr. (Frühchristlich),,,1,1
+temporal,string,27 v. Chr. - 10 v. Chr. (Augusteisch),,,1,1
+temporal,string,201 n. Chr. (Severisch),,,1,1
+temporal,string,147 n. Chr. - 150 n. Chr. (Antoninisch),,,1,1
+temporal,string,14 n. Chr. - 20 n. Chr. (Tiberisch),,,1,1
+temporal,string,200 n. Chr. - 250 n. Chr. (Severisch-Soldatenkaiser),,,1,1
+temporal,string,170 n. Chr. - 300 n. Chr.,,,1,1
+temporal,string,Antoninisch-Severisch,,,1,1
+temporal,string,250 n. Chr. - 300 n. Chr.,,,1,1
+temporal,string,100 n. Chr. - 150 n. Chr.,,,1,1
+temporal,string,50 n. Chr. - 100 n. Chr.,,,1,1
+temporal,string,200 n. Chr. - 230 n. Chr. (Severisch),,,1,1
+temporal,string,70 n. Chr. - 150 n. Chr.,,,1,1
+temporal,string,27 n. Chr. (Augusteisch),,,1,1
+temporal,string,170 n. Chr. - 200 n. Chr. (Antoninisch-Severisch),,,1,1
+temporal,string,150 n. Chr. - 200 n. Chr. (Antoninisch-Severisch),,,1,1
+temporal,string,180 n. Chr. - 220 n. Chr. (Antoninisch-Severisch),,,1,1
+temporal,string,70 n. Chr. - 100 n. Chr. (Flavisch),,,1,1
+temporal,string,312 n. Chr. - 315 n. Chr. (Constantinisch),,,1,1
+temporal,string,8 v. Chr. - 7 v. Chr. (Augusteisch),,,1,1
+temporal,string,70 n. Chr. - 120 n. Chr.,,,1,1
+temporal,string,Tetrarchisch,,,1,1
+temporal,string,198 n. Chr. (Severisch),,,1,1
+temporal,string,128 n. Chr. - 138 n. Chr. (Hadrianisch),,,1,1
+temporal,string,340 n. Chr. - 350 n. Chr. (Frühchristlich),,,1,1
+temporal,string,231 n. Chr. - 233 n. Chr. (Severisch),,,1,1
+temporal,string,1 n. Chr. - 100 n. Chr.,,,1,1
+temporal,string,76 n. Chr. - 97 n. Chr.,,,1,1
+temporal,string,1 n. Chr. - 50 n. Chr.,,,1,1
+temporal,string,100 n. Chr. - 130 n. Chr.,,,1,1
+temporal,string,Hellenistisch,,,1,1
+temporal,string,220 n. Chr. - 222 n. Chr.,,,1,1
+temporal,string,209 n. Chr. (Severisch),,,1,1
+temporal,string,150 n. Chr. - 250 n. Chr.,,,1,1
+temporal,string,70 n. Chr. - 140 n. Chr.,,,1,1
+temporal,string,200 n. Chr. - 250 n. Chr.,,,1,1
+temporal,timespan,Middle Minoan | Mittelminoisch,,,1,1
+temporal,timespan,Early Minoan | Frühminoisch,,,1,1
+temporal,string,Wiener Herbstmesse 1948,,,1,1
+temporal,string,1776,,,1,1
+temporal,string,1601,,,1,1
+temporal,string,1726,,,1,1
+temporal,string,Geschichte 1740-1780,,,1,1
+temporal,string,Geschichte 1901,,,1,1
+temporal,string,Geschichte 1903,,,1,1
+temporal,string,Geschichte 1884,,,1,1
+temporal,string,Geschichte 1886,,,1,1
+temporal,string,Geschichte 1843-1864,,,1,1
+temporal,string,Geschichte 1864,,,1,1
+temporal,string,Geschichte 1845-1846,,,1,1
+temporal,string,Geschichte 1846,,,1,1
+temporal,string,Geschichte 1837,,,1,1
+temporal,string,Geschichte 1838,,,1,1
+temporal,string,Geschichte 1826-1828,,,1,1
+temporal,string,Geschichte 1831,,,1,1
+temporal,string,Geschichte 1817-1818,,,1,1
+temporal,string,nach 1945,,,1,1
+temporal,string,1530,,,1,1
+temporal,string,1683,,,1,1
+temporal,string,1784,,,1,1
+temporal,string,1785,,,1,1
+temporal,string,1952,,,1,1
+temporal,string,1609,,,1,1
+temporal,string,1909,,,1,1
+temporal,string,1560,,,1,1
+temporal,string,1711,,,1,1
+temporal,string,um 1640,,,1,1
+temporal,string,nach 1700,,,1,1
+temporal,string,1908/1930,,,1,1
+temporal,string,1725,,,1,1
+temporal,string,1483,,,1,1
+temporal,string,1733,,,1,1
+temporal,string,1667/1700,,,1,1
+temporal,string,1905,,,1,1
