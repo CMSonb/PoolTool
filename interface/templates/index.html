@@ -10,9 +10,10 @@
 <body>
   <header class="site-header">
     <div class="header-inner">
+      <img class="site-logo" src="{{ url_for('static', filename='logo.png') }}" alt="Kulturpool Logo">
       <p class="eyebrow">Kulturpool · Datenwerkzeug</p>
       <h1>Metadaten normalisieren</h1>
-      <p>Werte im Feld <strong>{{ field_label }}</strong> mit einem kontrollierten Vokabular abgleichen.</p>
+      <p>Werte im Feld <strong id="field-label">{{ field_label }}</strong> mit einem kontrollierten Vokabular abgleichen.</p>
     </div>
   </header>
 
@@ -32,12 +33,19 @@
           <input id="file-input" name="file" type="file" accept=".jsonl,.ndjson,.json" required>
         </label>
         <div class="upload-controls">
+          <label for="field-select">Metadatenfeld
+            <select id="field-select" name="field">
+              {% for key, cfg in fields.items() %}
+              <option value="{{ key }}" data-label="{{ cfg.label }}" data-vocab="{{ cfg.vocab_file }}" data-split="{{ 'true' if cfg.split_on_commas else 'false' }}"{% if key == field %} selected{% endif %}>{{ cfg.label }}</option>
+              {% endfor %}
+            </select>
+          </label>
           <label for="threshold">Ähnlichkeitsschwelle <output id="threshold-value">{{ threshold }}</output></label>
           <input id="threshold" name="threshold" type="range" min="0" max="1" step="0.01" value="{{ threshold }}">
           <button class="button button-primary" type="submit">Datei analysieren</button>
         </div>
       </form>
-      <p class="hint">Vokabular: <code>{{ vocab_file }}</code>. Bei <em>medium</em> werden durch Beistriche getrennte Werte einzeln abgeglichen.</p>
+      <p class="hint">Vokabular: <code id="vocab-file">{{ vocab_file }}</code>. Bei <em>medium</em> werden durch Beistriche getrennte Werte einzeln abgeglichen.</p>
       <div id="status-message" class="notice" role="status" hidden></div>
       <div id="analysis-progress" class="analysis-progress" hidden>
         <progress id="analysis-progress-bar" max="100" value="0" aria-label="Fortschritt der Analyse"></progress>

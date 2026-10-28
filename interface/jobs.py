@@ -27,6 +27,7 @@ from data_utils import (
     apply_mapping,
     collect_variants,
     get_record_id,
+    get_record_url,
     load_records,
     load_vocabulary,
 )
@@ -54,7 +55,7 @@ REPORT_FONT =config.BASE_DIR / "static" / "fonts" / "AtkinsonHyperlegibleNext.tt
 
 
 class Job:
-    def __init__(self, filename: str, threshold: float):
+    def __init__(self, filename: str, threshold: float, field: str | None = None):
         self.id = uuid.uuid4().hex[:12]
         self.filename = filename
         self.stem = secure_filename(Path(filename).stem) or "daten"
@@ -62,9 +63,9 @@ class Job:
         self.created = time.time()
         self.lock = threading.RLock()
 
-        self.field = config.FIELD
-        self.split = config.field_cfg()["split_on_commas"]
-        self.vocab_file = config.field_cfg()["vocab_file"]
+        self.field = field or config.FIELD
+        self.split = config.field_cfg(self.field)["split_on_commas"]
+        self.vocab_file = config.field_cfg(self.field)["vocab_file"]
 
         self.status = "processing"  # processing | ready | error
         self.message = "Wird gestartet …"
@@ -73,6 +74,7 @@ class Job:
 
         self.records: list[dict] = []
         self.ids: list[str] = []
+        self.urls: list[str] = []
         self.steps: list[dict] = []  # {term, uri, candidates:[{variant,score,rec_idx}], state, applied}
         self.current: int | None = None
         self.log: list[dict] = []
@@ -97,10 +99,11 @@ class Job:
                 raise ValueError("Die Datei enthält keine Datensätze.")
 
             self._set(message="Datensatz-IDs werden gelesen …", progress=0.15)
-            ids, missing = [], 0
+            ids, urls, missing = [], [], 0
             for n, rec in enumerate(records, 1):
                 rid, found = get_record_id(rec, n)
                 ids.append(rid)
+                urls.append(get_record_url(rec))
                 missing += 0 if found else 1
             if missing:
                 self.warnings.append(
@@ -112,9 +115,14 @@ class Job:
             variants = collect_variants(records, self.field, self.split)
             if not variants:
                 raise ValueError(
-                    f"Im Feld '{self.field}' wurden keine Werte gefunden "
-                    f"(Pfad: {'.'.join(config.RECORD_PATH)}.{self.field}). Bitte config.py prüfen."
+                    f"Das Feld '{config.field_cfg(self.field)['label']}' ist in dieser Datei nicht "
+                    "vorhanden. Bitte wählen Sie ein anderes Metadatenfeld aus."
                 )
+
+            if self.field == "subject":
+                vocab = self._choose_subject_vocabulary(variants, vocab)
+                vocab_terms = [v["term"] for v in vocab]
+                vocab_set = set(vocab_terms)
 
             to_match = [v for v in variants if v not in vocab_set]
             matcher = get_matcher(config.MATCHER)
@@ -154,6 +162,7 @@ class Job:
             with self.lock:
                 self.records = records
                 self.ids = ids
+                self.urls = urls
                 self.steps = steps
                 self.possible_records = {
                     idx
@@ -196,6 +205,33 @@ class Job:
                 f"Sprachprüfung: \"{lang}\" kommt {counts[lang]}-mal in der Datei vor "
                 f"(book: {counts['book']}, Buch: {counts['buch']}); Vokabular: {self.vocab_file}."
             )
+
+    def _choose_subject_vocabulary(self, variants: dict, vocab: list[dict]) -> list[dict]:
+        """Sprachprüfung für subject: Wie viele Werte der Datei stehen wörtlich im deutschen bzw. englischen Vokabular?"""
+        en_file = config.field_cfg(self.field).get("vocab_file_en")
+        if not en_file:
+            return vocab
+        try:
+            en_vocab = load_vocabulary(config.VOCAB_DIR / en_file)
+        except FileNotFoundError:
+            return vocab
+        de_terms = {v["term"] for v in vocab}
+        en_terms = {v["term"] for v in en_vocab}
+        counts = {
+            "de": sum(1 for v in variants if v in de_terms),
+            "en": sum(1 for v in variants if v in en_terms),
+        }
+        if max(counts.values()) <= BOOK_THRESHOLD:
+            return vocab
+        lang = max(counts, key=counts.get)
+        if lang == "en":
+            self.vocab_file = en_file
+            vocab = en_vocab
+        self.warnings.append(
+            f"Sprachprüfung: {counts[lang]} Werte stimmen mit dem {'englischen' if lang == 'en' else 'deutschen'} "
+            f"Vokabular überein (Deutsch: {counts['de']}, Englisch: {counts['en']}); Vokabular: {self.vocab_file}."
+        )
+        return vocab
 
     def _set(self, **kw) -> None:
         with self.lock:
@@ -254,19 +290,22 @@ class Job:
             "records": len(candidate["rec_idx"]),
         }
 
-    def all_ids(self, step_index: int, variant: str) -> list[str]:
+    def _id_entry(self, i: int) -> dict:
+        return {"id": self.ids[i], "url": self.urls[i]}
+
+    def all_ids(self, step_index: int, variant: str) -> list[dict]:
         with self.lock:
             if not 0 <= step_index < len(self.steps):
                 raise ValueError("Unbekannter Schritt.")
             for c in self.steps[step_index]["candidates"]:
                 if c["variant"] == variant:
-                    return [self.ids[i] for i in c["rec_idx"]]
+                    return [self._id_entry(i) for i in c["rec_idx"]]
         raise ValueError("Unbekannte Variante.")
 
     # ------------------------------------------------------------------ Zustand für das Interface
     def to_state(self) -> dict:
         with self.lock:
-            cfg = config.field_cfg()
+            cfg = config.field_cfg(self.field)
             state = {
                 "job_id": self.id,
                 "status": self.status,
@@ -301,7 +340,7 @@ class Job:
                             "variant": c["variant"],
                             "score": c["score"],
                             "id_total": len(c["rec_idx"]),
-                            "ids_preview": [self.ids[i] for i in c["rec_idx"][: config.IDS_PREVIEW]],
+                            "ids_preview": [self._id_entry(i) for i in c["rec_idx"][: config.IDS_PREVIEW]],
                         }
                         for c in s["candidates"]
                     ],
@@ -384,7 +423,7 @@ class Job:
         ]
         return {
             "filename": self.filename,
-            "field_label": config.field_cfg()["label"],
+            "field_label": config.field_cfg(self.field)["label"],
             "vocab_file": self.vocab_file,
             "threshold": self.threshold,
             "created": time.strftime("%Y-%m-%d %H:%M"),
@@ -578,8 +617,8 @@ class Job:
         doc.build(story)
 
 
-def create_job(filename: str, threshold: float) -> Job:
-    job = Job(filename, threshold)
+def create_job(filename: str, threshold: float, field: str | None = None) -> Job:
+    job = Job(filename, threshold, field)
     JOBS[job.id] = job
     return job
 

@@ -1,0 +1,2141 @@
+term,uri
+General works and philosophy,http://uri.gbv.de/terminology/bk/0
+General,http://uri.gbv.de/terminology/bk/01
+Humanities,http://uri.gbv.de/terminology/bk/1-2
+General,http://uri.gbv.de/terminology/bk/01.00
+Bibliography: General,http://uri.gbv.de/terminology/bk/01.10
+"General bibliographies, universal bibliographies",http://uri.gbv.de/terminology/bk/01.11
+"National bibliographies, regional bibliographies",http://uri.gbv.de/terminology/bk/01.14
+Subject bibliographies,http://uri.gbv.de/terminology/bk/01.18
+General reference works: General,http://uri.gbv.de/terminology/bk/01.20
+"General encyclopedias, universal lexicons",http://uri.gbv.de/terminology/bk/01.22
+Directories,http://uri.gbv.de/terminology/bk/01.24
+Lists of abbreviations,http://uri.gbv.de/terminology/bk/01.25
+General reference works: Other,http://uri.gbv.de/terminology/bk/01.29
+"Biography, biographical reference works",http://uri.gbv.de/terminology/bk/01.30
+Biographical reference works,http://uri.gbv.de/terminology/bk/01.31
+General collected works,http://uri.gbv.de/terminology/bk/01.40
+General: Other,http://uri.gbv.de/terminology/bk/01.99
+Science and culture in general,http://uri.gbv.de/terminology/bk/02
+Science and culture in general: General,http://uri.gbv.de/terminology/bk/02.00
+History of science and culture,http://uri.gbv.de/terminology/bk/02.01
+Philosophy of science,http://uri.gbv.de/terminology/bk/02.02
+Science and society,http://uri.gbv.de/terminology/bk/02.10
+Scientific practice,http://uri.gbv.de/terminology/bk/02.13
+Organization of science and culture,http://uri.gbv.de/terminology/bk/02.14
+"Science policy, cultural policy",http://uri.gbv.de/terminology/bk/02.15
+Scientific and cultural cooperation,http://uri.gbv.de/terminology/bk/02.16
+Scientific information,http://uri.gbv.de/terminology/bk/02.20
+Museology,http://uri.gbv.de/terminology/bk/02.30
+Futurology,http://uri.gbv.de/terminology/bk/02.40
+Esotericism,http://uri.gbv.de/terminology/bk/02.50
+Freemasonry,http://uri.gbv.de/terminology/bk/02.60
+Science and culture in general: Other,http://uri.gbv.de/terminology/bk/02.99
+Natural sciences,http://uri.gbv.de/terminology/bk/3-4
+Engineering,http://uri.gbv.de/terminology/bk/5
+Communication science,http://uri.gbv.de/terminology/bk/05
+Communication science: General,http://uri.gbv.de/terminology/bk/05.00
+History of communication science,http://uri.gbv.de/terminology/bk/05.01
+Communication theory,http://uri.gbv.de/terminology/bk/05.02
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/05.04
+Communication processes,http://uri.gbv.de/terminology/bk/05.12
+Reading research,http://uri.gbv.de/terminology/bk/05.15
+Communication and society,http://uri.gbv.de/terminology/bk/05.20
+"Mass communication, mass media: General",http://uri.gbv.de/terminology/bk/05.30
+Public sphere,http://uri.gbv.de/terminology/bk/05.31
+Public opinion,http://uri.gbv.de/terminology/bk/05.32
+Press,http://uri.gbv.de/terminology/bk/05.33
+Broadcasting in general,http://uri.gbv.de/terminology/bk/05.34
+Radio,http://uri.gbv.de/terminology/bk/05.35
+Television,http://uri.gbv.de/terminology/bk/05.36
+"Film, video",http://uri.gbv.de/terminology/bk/05.37
+New electronic media,http://uri.gbv.de/terminology/bk/05.38
+"Mass communication, mass media: Other",http://uri.gbv.de/terminology/bk/05.39
+News services,http://uri.gbv.de/terminology/bk/05.40
+Telecommunications,http://uri.gbv.de/terminology/bk/05.42
+Communication science: Other,http://uri.gbv.de/terminology/bk/05.99
+Information and documentation,http://uri.gbv.de/terminology/bk/06
+Information and documentation: General,http://uri.gbv.de/terminology/bk/06.00
+History of information and documentation,http://uri.gbv.de/terminology/bk/06.01
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/06.04
+Manuscript studies: General,http://uri.gbv.de/terminology/bk/06.10
+Western manuscript studies: General,http://uri.gbv.de/terminology/bk/06.11
+Codicology,http://uri.gbv.de/terminology/bk/06.12
+Palaeography,http://uri.gbv.de/terminology/bk/06.13
+"Catalogs, inventories",http://uri.gbv.de/terminology/bk/06.14
+Facsimiles,http://uri.gbv.de/terminology/bk/06.15
+Western manuscript studies: Other,http://uri.gbv.de/terminology/bk/06.16
+Oriental manuscript studies,http://uri.gbv.de/terminology/bk/06.17
+"Writing, scripts",http://uri.gbv.de/terminology/bk/06.18
+Manuscript studies: Other,http://uri.gbv.de/terminology/bk/06.19
+Book trade and book studies: General,http://uri.gbv.de/terminology/bk/06.20
+History of the book,http://uri.gbv.de/terminology/bk/06.21
+Book design,http://uri.gbv.de/terminology/bk/06.22
+"Book production, book restoration",http://uri.gbv.de/terminology/bk/06.23
+"Bibliophily, private book collections",http://uri.gbv.de/terminology/bk/06.24
+Book trade,http://uri.gbv.de/terminology/bk/06.25
+Book trade and book studies: Other,http://uri.gbv.de/terminology/bk/06.29
+"Library science, documentation: General",http://uri.gbv.de/terminology/bk/06.30
+Information management,http://uri.gbv.de/terminology/bk/06.35
+Cooperation,http://uri.gbv.de/terminology/bk/06.38
+"Types of libraries, information and documentation institutions: General",http://uri.gbv.de/terminology/bk/06.40
+Academic libraries,http://uri.gbv.de/terminology/bk/06.41
+Public libraries,http://uri.gbv.de/terminology/bk/06.42
+Special libraries,http://uri.gbv.de/terminology/bk/06.43
+Information and documentation institutions,http://uri.gbv.de/terminology/bk/06.44
+"Types of libraries, information and documentation institutions: Other",http://uri.gbv.de/terminology/bk/06.49
+Library administration,http://uri.gbv.de/terminology/bk/06.50
+"Library technology, library equipment",http://uri.gbv.de/terminology/bk/06.51
+"Acquisition, collection development",http://uri.gbv.de/terminology/bk/06.53
+Library automation,http://uri.gbv.de/terminology/bk/06.54
+Library use,http://uri.gbv.de/terminology/bk/06.60
+"Cataloging, collection indexing",http://uri.gbv.de/terminology/bk/06.70
+Information systems,http://uri.gbv.de/terminology/bk/06.74
+Library catalogs,http://uri.gbv.de/terminology/bk/06.80
+"Archives, archival science",http://uri.gbv.de/terminology/bk/06.90
+Information and documentation: Other,http://uri.gbv.de/terminology/bk/06.99
+Social sciences,http://uri.gbv.de/terminology/bk/7-8
+Philosophy,http://uri.gbv.de/terminology/bk/08
+Philosophy: General,http://uri.gbv.de/terminology/bk/08.00
+Foundations and methods of philosophy,http://uri.gbv.de/terminology/bk/08.03
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/08.04
+Non-Western philosophy: General,http://uri.gbv.de/terminology/bk/08.10
+History of Western philosophy: General,http://uri.gbv.de/terminology/bk/08.20
+"Greek philosophy, Roman philosophy",http://uri.gbv.de/terminology/bk/08.21
+Medieval philosophy,http://uri.gbv.de/terminology/bk/08.22
+Renaissance philosophy,http://uri.gbv.de/terminology/bk/08.23
+Modern Western philosophy,http://uri.gbv.de/terminology/bk/08.24
+Contemporary Western philosophy,http://uri.gbv.de/terminology/bk/08.25
+Systematic philosophy: General,http://uri.gbv.de/terminology/bk/08.30
+"Metaphysics, ontology",http://uri.gbv.de/terminology/bk/08.31
+Epistemology,http://uri.gbv.de/terminology/bk/08.32
+Logic,http://uri.gbv.de/terminology/bk/08.33
+Philosophy of language,http://uri.gbv.de/terminology/bk/08.34
+Philosophical anthropology,http://uri.gbv.de/terminology/bk/08.36
+Philosophy of religion,http://uri.gbv.de/terminology/bk/08.37
+Ethics,http://uri.gbv.de/terminology/bk/08.38
+Aesthetics,http://uri.gbv.de/terminology/bk/08.41
+Philosophy of culture,http://uri.gbv.de/terminology/bk/08.42
+Philosophy of history,http://uri.gbv.de/terminology/bk/08.43
+Social philosophy,http://uri.gbv.de/terminology/bk/08.44
+Political philosophy,http://uri.gbv.de/terminology/bk/08.45
+Philosophy of nature,http://uri.gbv.de/terminology/bk/08.46
+Pseudophilosophy,http://uri.gbv.de/terminology/bk/08.47
+Systematic philosophy: Other,http://uri.gbv.de/terminology/bk/08.49
+Philosophy: Other,http://uri.gbv.de/terminology/bk/08.99
+Humanities in general,http://uri.gbv.de/terminology/bk/10
+Humanities in general: General,http://uri.gbv.de/terminology/bk/10.00
+History of the humanities,http://uri.gbv.de/terminology/bk/10.01
+Philosophy and theory of the humanities,http://uri.gbv.de/terminology/bk/10.02
+Methods and techniques of humanities research,http://uri.gbv.de/terminology/bk/10.03
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/10.04
+Humanities in general: Other,http://uri.gbv.de/terminology/bk/10.99
+"Theology, religious studies",http://uri.gbv.de/terminology/bk/11
+"Theology, religious studies: General",http://uri.gbv.de/terminology/bk/11.00
+Systematic religious studies: General,http://uri.gbv.de/terminology/bk/11.01
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/11.04
+Sociology of religion,http://uri.gbv.de/terminology/bk/11.05
+Psychology of religion,http://uri.gbv.de/terminology/bk/11.06
+Interreligious relations,http://uri.gbv.de/terminology/bk/11.07
+"Critique of religion, atheism",http://uri.gbv.de/terminology/bk/11.08
+Systematic religious studies: Other,http://uri.gbv.de/terminology/bk/11.09
+Ancient religions: General,http://uri.gbv.de/terminology/bk/11.10
+Egyptian religion,http://uri.gbv.de/terminology/bk/11.11
+Mesopotamian religion,http://uri.gbv.de/terminology/bk/11.12
+Canaanite religion,http://uri.gbv.de/terminology/bk/11.13
+Persian religion,http://uri.gbv.de/terminology/bk/11.14
+Greek religion,http://uri.gbv.de/terminology/bk/11.15
+Hellenistic religion,http://uri.gbv.de/terminology/bk/11.16
+Roman religion,http://uri.gbv.de/terminology/bk/11.17
+Ancient religions: Other,http://uri.gbv.de/terminology/bk/11.19
+Judaism: General,http://uri.gbv.de/terminology/bk/11.20
+Pre-rabbinic Judaism,http://uri.gbv.de/terminology/bk/11.21
+Rabbinica,http://uri.gbv.de/terminology/bk/11.22
+"Rites, religious customs",http://uri.gbv.de/terminology/bk/11.23
+Jewish-Christian relations,http://uri.gbv.de/terminology/bk/11.24
+Judaism: Other,http://uri.gbv.de/terminology/bk/11.29
+Bible: General,http://uri.gbv.de/terminology/bk/11.30
+"Bible text, Bible translations",http://uri.gbv.de/terminology/bk/11.31
+"Textual criticism, historical criticism",http://uri.gbv.de/terminology/bk/11.33
+"Exegesis, hermeneutics",http://uri.gbv.de/terminology/bk/11.34
+Biblical theology,http://uri.gbv.de/terminology/bk/11.36
+"Apocrypha, pseudepigrapha",http://uri.gbv.de/terminology/bk/11.37
+Old Testament,http://uri.gbv.de/terminology/bk/11.38
+"Textual criticism, historical criticism",http://uri.gbv.de/terminology/bk/11.39
+"Exegesis, hermeneutics",http://uri.gbv.de/terminology/bk/11.40
+Theology of the Old Testament,http://uri.gbv.de/terminology/bk/11.41
+Old Testament in relation to other cultures,http://uri.gbv.de/terminology/bk/11.43
+New Testament,http://uri.gbv.de/terminology/bk/11.44
+"Textual criticism, historical criticism",http://uri.gbv.de/terminology/bk/11.45
+"Exegesis, hermeneutics",http://uri.gbv.de/terminology/bk/11.46
+Theology of the New Testament,http://uri.gbv.de/terminology/bk/11.47
+Cultural-historical background,http://uri.gbv.de/terminology/bk/11.48
+Bible: Other,http://uri.gbv.de/terminology/bk/11.49
+"Church history, history of dogma",http://uri.gbv.de/terminology/bk/11.50
+Early Christianity,http://uri.gbv.de/terminology/bk/11.51
+Medieval Christianity,http://uri.gbv.de/terminology/bk/11.52
+Modern Christianity,http://uri.gbv.de/terminology/bk/11.53
+Catholicism,http://uri.gbv.de/terminology/bk/11.54
+Protestantism,http://uri.gbv.de/terminology/bk/11.55
+Eastern Christianity,http://uri.gbv.de/terminology/bk/11.57
+Other Christian communities,http://uri.gbv.de/terminology/bk/11.58
+Systematic theology: General,http://uri.gbv.de/terminology/bk/11.60
+"Dogmatics, comparative denominational studies",http://uri.gbv.de/terminology/bk/11.61
+Christian ethics,http://uri.gbv.de/terminology/bk/11.62
+Christian devotional literature,http://uri.gbv.de/terminology/bk/11.63
+Systematic theology: Other,http://uri.gbv.de/terminology/bk/11.69
+Practical theology: General,http://uri.gbv.de/terminology/bk/11.70
+Pastoral care,http://uri.gbv.de/terminology/bk/11.71
+Sociology of the church,http://uri.gbv.de/terminology/bk/11.72
+Church organization,http://uri.gbv.de/terminology/bk/11.73
+Liturgics,http://uri.gbv.de/terminology/bk/11.74
+Homiletics,http://uri.gbv.de/terminology/bk/11.75
+Ministry,http://uri.gbv.de/terminology/bk/11.76
+Religious education,http://uri.gbv.de/terminology/bk/11.77
+Missiology,http://uri.gbv.de/terminology/bk/11.78
+Practical theology: Other,http://uri.gbv.de/terminology/bk/11.79
+Islam: General,http://uri.gbv.de/terminology/bk/11.80
+Koran,http://uri.gbv.de/terminology/bk/11.81
+Traditional literature,http://uri.gbv.de/terminology/bk/11.82
+"Movements, denominations",http://uri.gbv.de/terminology/bk/11.83
+Islam: Other,http://uri.gbv.de/terminology/bk/11.84
+Chinese religions,http://uri.gbv.de/terminology/bk/11.87
+Shintoism,http://uri.gbv.de/terminology/bk/11.88
+Indian religions: General,http://uri.gbv.de/terminology/bk/11.90
+"Vedism, Brahmanism",http://uri.gbv.de/terminology/bk/11.91
+Hinduism,http://uri.gbv.de/terminology/bk/11.92
+Buddhism,http://uri.gbv.de/terminology/bk/11.93
+Indian religions: Other,http://uri.gbv.de/terminology/bk/11.94
+"New religious movements, sects",http://uri.gbv.de/terminology/bk/11.97
+Other religions,http://uri.gbv.de/terminology/bk/11.98
+"Theology, religious studies: Other",http://uri.gbv.de/terminology/bk/11.99
+History,http://uri.gbv.de/terminology/bk/15
+History: General,http://uri.gbv.de/terminology/bk/15.00
+Historiography,http://uri.gbv.de/terminology/bk/15.01
+Theory and methods of historical science,http://uri.gbv.de/terminology/bk/15.03
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/15.04
+Political history,http://uri.gbv.de/terminology/bk/15.06
+Cultural history,http://uri.gbv.de/terminology/bk/15.07
+Social history,http://uri.gbv.de/terminology/bk/15.08
+Economic history,http://uri.gbv.de/terminology/bk/15.09
+Auxiliary historical sciences,http://uri.gbv.de/terminology/bk/15.10
+Chronology,http://uri.gbv.de/terminology/bk/15.11
+"Genealogy, heraldry",http://uri.gbv.de/terminology/bk/15.12
+"Numismatics, sphragistics",http://uri.gbv.de/terminology/bk/15.13
+"Diplomatics, epigraphy",http://uri.gbv.de/terminology/bk/15.14
+Archaeology,http://uri.gbv.de/terminology/bk/15.15
+"Ancient Near Eastern archaeology, Christian archaeology",http://uri.gbv.de/terminology/bk/15.16
+Classical archaeology,http://uri.gbv.de/terminology/bk/15.17
+"Medieval archaeology, modern archaeology",http://uri.gbv.de/terminology/bk/15.18
+Prehistory and early history,http://uri.gbv.de/terminology/bk/15.19
+General world history,http://uri.gbv.de/terminology/bk/15.20
+History of large regions,http://uri.gbv.de/terminology/bk/15.21
+History of discoveries,http://uri.gbv.de/terminology/bk/15.22
+First World War,http://uri.gbv.de/terminology/bk/15.23
+Second World War,http://uri.gbv.de/terminology/bk/15.24
+Ancient history,http://uri.gbv.de/terminology/bk/15.25
+"Ancient Near East, North Africa",http://uri.gbv.de/terminology/bk/15.26
+Greek world,http://uri.gbv.de/terminology/bk/15.27
+Roman Empire,http://uri.gbv.de/terminology/bk/15.28
+Byzantine Empire,http://uri.gbv.de/terminology/bk/15.29
+European history in the Middle Ages and modern era: General,http://uri.gbv.de/terminology/bk/15.30
+Early Middle Ages,http://uri.gbv.de/terminology/bk/15.31
+Frankish Empire,http://uri.gbv.de/terminology/bk/15.32
+High and Late Middle Ages,http://uri.gbv.de/terminology/bk/15.33
+European history 1492-1789,http://uri.gbv.de/terminology/bk/15.34
+European history 1789-1815,http://uri.gbv.de/terminology/bk/15.35
+European history 1815-1914,http://uri.gbv.de/terminology/bk/15.36
+European history 1914-1945,http://uri.gbv.de/terminology/bk/15.37
+European history after 1945,http://uri.gbv.de/terminology/bk/15.38
+German history: General,http://uri.gbv.de/terminology/bk/15.40
+German history to 1499,http://uri.gbv.de/terminology/bk/15.41
+German history 1500-1800,http://uri.gbv.de/terminology/bk/15.42
+German history from the 19th century to the present,http://uri.gbv.de/terminology/bk/15.43
+History of the German states and cities: General,http://uri.gbv.de/terminology/bk/15.45
+"Brandenburg, Prussia, Berlin",http://uri.gbv.de/terminology/bk/15.46
+"Mecklenburg-Vorpommern, Pomerania",http://uri.gbv.de/terminology/bk/15.47
+"Saxony, Saxony-Anhalt, Thuringia",http://uri.gbv.de/terminology/bk/15.48
+East Central Europe,http://uri.gbv.de/terminology/bk/15.49
+"Schleswig-Holstein, Lübeck, Hamburg",http://uri.gbv.de/terminology/bk/15.50
+"Lower Saxony, Bremen",http://uri.gbv.de/terminology/bk/15.51
+Hesse,http://uri.gbv.de/terminology/bk/15.52
+North Rhine-Westphalia,http://uri.gbv.de/terminology/bk/15.53
+"Rhineland-Palatinate, Saarland",http://uri.gbv.de/terminology/bk/15.54
+Baden-Württemberg,http://uri.gbv.de/terminology/bk/15.55
+Bavaria,http://uri.gbv.de/terminology/bk/15.56
+"Switzerland, Austria-Hungary, Austria",http://uri.gbv.de/terminology/bk/15.60
+"Czech Republic, Slovakia, Hungary",http://uri.gbv.de/terminology/bk/15.61
+"Scandinavia, Northern Europe",http://uri.gbv.de/terminology/bk/15.62
+"Belgium, Netherlands, Luxembourg",http://uri.gbv.de/terminology/bk/15.63
+"Great Britain, Ireland",http://uri.gbv.de/terminology/bk/15.64
+France,http://uri.gbv.de/terminology/bk/15.65
+"Spain, Portugal",http://uri.gbv.de/terminology/bk/15.66
+Italy,http://uri.gbv.de/terminology/bk/15.67
+Turkey,http://uri.gbv.de/terminology/bk/15.68
+Greece,http://uri.gbv.de/terminology/bk/15.69
+Balkan states,http://uri.gbv.de/terminology/bk/15.70
+Eastern Europe,http://uri.gbv.de/terminology/bk/15.71
+Poland,http://uri.gbv.de/terminology/bk/15.72
+Baltic republics,http://uri.gbv.de/terminology/bk/15.73
+Russia,http://uri.gbv.de/terminology/bk/15.74
+Asia: General,http://uri.gbv.de/terminology/bk/15.75
+Near and Middle East,http://uri.gbv.de/terminology/bk/15.76
+Indian subcontinent,http://uri.gbv.de/terminology/bk/15.77
+Southeast Asia,http://uri.gbv.de/terminology/bk/15.78
+China,http://uri.gbv.de/terminology/bk/15.79
+Japan,http://uri.gbv.de/terminology/bk/15.80
+Korea,http://uri.gbv.de/terminology/bk/15.81
+America: General,http://uri.gbv.de/terminology/bk/15.85
+Canada,http://uri.gbv.de/terminology/bk/15.86
+USA,http://uri.gbv.de/terminology/bk/15.87
+"Central America, South America",http://uri.gbv.de/terminology/bk/15.88
+Africa: General,http://uri.gbv.de/terminology/bk/15.90
+North Africa,http://uri.gbv.de/terminology/bk/15.91
+Sub-Saharan Africa,http://uri.gbv.de/terminology/bk/15.92
+"Australia, New Zealand, Oceania",http://uri.gbv.de/terminology/bk/15.95
+History of the Jewish people outside the State of Israel,http://uri.gbv.de/terminology/bk/15.96
+History: Other,http://uri.gbv.de/terminology/bk/15.99
+Linguistics and literary studies,http://uri.gbv.de/terminology/bk/17
+Linguistics and literary studies: General,http://uri.gbv.de/terminology/bk/17.00
+History of linguistics and literary studies,http://uri.gbv.de/terminology/bk/17.01
+Theory and methods of linguistics and literary studies,http://uri.gbv.de/terminology/bk/17.03
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/17.04
+Linguistics: General,http://uri.gbv.de/terminology/bk/17.06
+Semiotics,http://uri.gbv.de/terminology/bk/17.08
+Language in relation to other areas of science and culture,http://uri.gbv.de/terminology/bk/17.10
+Linguistic typology,http://uri.gbv.de/terminology/bk/17.13
+Comparative linguistics,http://uri.gbv.de/terminology/bk/17.14
+Historical linguistics,http://uri.gbv.de/terminology/bk/17.15
+Etymology,http://uri.gbv.de/terminology/bk/17.16
+Dialectology,http://uri.gbv.de/terminology/bk/17.18
+Sociolinguistics: General,http://uri.gbv.de/terminology/bk/17.20
+"Language planning, language policy",http://uri.gbv.de/terminology/bk/17.22
+Multilingualism,http://uri.gbv.de/terminology/bk/17.23
+"Group languages, technical languages, special languages",http://uri.gbv.de/terminology/bk/17.24
+Sociolinguistics: Other,http://uri.gbv.de/terminology/bk/17.25
+Ethnolinguistics,http://uri.gbv.de/terminology/bk/17.28
+Psycholinguistics: General,http://uri.gbv.de/terminology/bk/17.30
+Language acquisition,http://uri.gbv.de/terminology/bk/17.31
+Psycholinguistics: Other,http://uri.gbv.de/terminology/bk/17.34
+Neurolinguistics,http://uri.gbv.de/terminology/bk/17.35
+Applied linguistics: General,http://uri.gbv.de/terminology/bk/17.40
+Language teaching methodology,http://uri.gbv.de/terminology/bk/17.41
+Language proficiency,http://uri.gbv.de/terminology/bk/17.42
+Second language acquisition,http://uri.gbv.de/terminology/bk/17.43
+Translation studies,http://uri.gbv.de/terminology/bk/17.45
+Mathematical linguistics,http://uri.gbv.de/terminology/bk/17.46
+Applied linguistics: Other,http://uri.gbv.de/terminology/bk/17.49
+General grammar,http://uri.gbv.de/terminology/bk/17.50
+Individual theories of grammar,http://uri.gbv.de/terminology/bk/17.51
+Syntax,http://uri.gbv.de/terminology/bk/17.52
+"Phonetics, phonology",http://uri.gbv.de/terminology/bk/17.53
+Orthography,http://uri.gbv.de/terminology/bk/17.54
+"Morphology, word formation",http://uri.gbv.de/terminology/bk/17.55
+Semantics,http://uri.gbv.de/terminology/bk/17.56
+Onomastics,http://uri.gbv.de/terminology/bk/17.57
+Lexicology,http://uri.gbv.de/terminology/bk/17.59
+Lexicography,http://uri.gbv.de/terminology/bk/17.60
+"Pragmatics, speech act theory",http://uri.gbv.de/terminology/bk/17.61
+"Rhetoric, stylistics",http://uri.gbv.de/terminology/bk/17.62
+Text linguistics,http://uri.gbv.de/terminology/bk/17.63
+Linguistics: Other,http://uri.gbv.de/terminology/bk/17.69
+Literary studies: General,http://uri.gbv.de/terminology/bk/17.70
+Literary history,http://uri.gbv.de/terminology/bk/17.71
+Literary theory: General,http://uri.gbv.de/terminology/bk/17.73
+Schools of literary studies,http://uri.gbv.de/terminology/bk/17.74
+Literary criticism,http://uri.gbv.de/terminology/bk/17.75
+"Stylistics, rhetoric",http://uri.gbv.de/terminology/bk/17.77
+Textual criticism,http://uri.gbv.de/terminology/bk/17.78
+Literary genres: General,http://uri.gbv.de/terminology/bk/17.80
+"Epic, prose",http://uri.gbv.de/terminology/bk/17.81
+Drama,http://uri.gbv.de/terminology/bk/17.82
+Poetry,http://uri.gbv.de/terminology/bk/17.83
+Other literary genres,http://uri.gbv.de/terminology/bk/17.84
+Special literary categories,http://uri.gbv.de/terminology/bk/17.87
+Literary theory: Other,http://uri.gbv.de/terminology/bk/17.89
+Literature in relation to other areas of science and culture,http://uri.gbv.de/terminology/bk/17.90
+Sociology of literature,http://uri.gbv.de/terminology/bk/17.91
+Comparative literature: General,http://uri.gbv.de/terminology/bk/17.92
+"Literary subjects, literary motifs, literary themes",http://uri.gbv.de/terminology/bk/17.93
+"Literary influences and relations, reception",http://uri.gbv.de/terminology/bk/17.94
+Literary translation,http://uri.gbv.de/terminology/bk/17.95
+Comparative literature: Other,http://uri.gbv.de/terminology/bk/17.96
+Texts by a single author,http://uri.gbv.de/terminology/bk/17.97
+Text collections,http://uri.gbv.de/terminology/bk/17.98
+Literary studies: Other,http://uri.gbv.de/terminology/bk/17.99
+Individual languages and literatures,http://uri.gbv.de/terminology/bk/18
+Individual languages and literatures in general,http://uri.gbv.de/terminology/bk/18.00
+Indo-European languages and literatures: General,http://uri.gbv.de/terminology/bk/18.01
+Germanic languages and literatures: General,http://uri.gbv.de/terminology/bk/18.02
+English language and literature,http://uri.gbv.de/terminology/bk/18.03
+English language,http://uri.gbv.de/terminology/bk/18.04
+English literature,http://uri.gbv.de/terminology/bk/18.05
+Anglo-American literature,http://uri.gbv.de/terminology/bk/18.06
+English literature outside Great Britain and the USA,http://uri.gbv.de/terminology/bk/18.07
+German language and literature,http://uri.gbv.de/terminology/bk/18.08
+German language,http://uri.gbv.de/terminology/bk/18.09
+German literature,http://uri.gbv.de/terminology/bk/18.10
+Dutch language and literature,http://uri.gbv.de/terminology/bk/18.11
+Dutch language,http://uri.gbv.de/terminology/bk/18.12
+Dutch literature,http://uri.gbv.de/terminology/bk/18.13
+Scandinavian languages and literatures,http://uri.gbv.de/terminology/bk/18.15
+Norwegian language and literature,http://uri.gbv.de/terminology/bk/18.16
+Swedish language and literature,http://uri.gbv.de/terminology/bk/18.17
+Danish language and literature,http://uri.gbv.de/terminology/bk/18.18
+Germanic languages and literatures: Other,http://uri.gbv.de/terminology/bk/18.19
+Romance languages and literatures: General,http://uri.gbv.de/terminology/bk/18.20
+French language and literature,http://uri.gbv.de/terminology/bk/18.21
+French language,http://uri.gbv.de/terminology/bk/18.22
+French literature,http://uri.gbv.de/terminology/bk/18.23
+French literature outside Europe,http://uri.gbv.de/terminology/bk/18.24
+Italian language and literature,http://uri.gbv.de/terminology/bk/18.25
+Italian language,http://uri.gbv.de/terminology/bk/18.26
+Italian literature,http://uri.gbv.de/terminology/bk/18.27
+Spanish language and literature,http://uri.gbv.de/terminology/bk/18.30
+Spanish language,http://uri.gbv.de/terminology/bk/18.31
+Spanish literature,http://uri.gbv.de/terminology/bk/18.32
+Spanish literature outside Spain,http://uri.gbv.de/terminology/bk/18.33
+Catalan language and literature,http://uri.gbv.de/terminology/bk/18.34
+Portuguese language and literature,http://uri.gbv.de/terminology/bk/18.35
+Portuguese language,http://uri.gbv.de/terminology/bk/18.36
+Portuguese literature,http://uri.gbv.de/terminology/bk/18.37
+Portuguese literature outside Portugal,http://uri.gbv.de/terminology/bk/18.38
+Romance languages and literatures: Other,http://uri.gbv.de/terminology/bk/18.39
+Classical languages and literatures: General,http://uri.gbv.de/terminology/bk/18.40
+Greek language,http://uri.gbv.de/terminology/bk/18.41
+Classical Greek literature,http://uri.gbv.de/terminology/bk/18.42
+Byzantine language and literature,http://uri.gbv.de/terminology/bk/18.43
+Latin language,http://uri.gbv.de/terminology/bk/18.44
+Classical Latin literature,http://uri.gbv.de/terminology/bk/18.45
+Medieval Latin literature,http://uri.gbv.de/terminology/bk/18.46
+Neo-Latin literature,http://uri.gbv.de/terminology/bk/18.47
+Modern Greek language and literature,http://uri.gbv.de/terminology/bk/18.48
+Slavic languages and literatures: General,http://uri.gbv.de/terminology/bk/18.50
+East Slavic languages and literatures: General,http://uri.gbv.de/terminology/bk/18.51
+Russian language,http://uri.gbv.de/terminology/bk/18.52
+Russian literature,http://uri.gbv.de/terminology/bk/18.53
+East Slavic languages and literatures: Other,http://uri.gbv.de/terminology/bk/18.54
+West Slavic languages and literatures: General,http://uri.gbv.de/terminology/bk/18.55
+Czech language and literature,http://uri.gbv.de/terminology/bk/18.56
+Slovak language and literature,http://uri.gbv.de/terminology/bk/18.57
+Polish language and literature,http://uri.gbv.de/terminology/bk/18.58
+West Slavic languages and literatures: Other,http://uri.gbv.de/terminology/bk/18.59
+South Slavic languages and literatures,http://uri.gbv.de/terminology/bk/18.60
+Bulgarian language and literature,http://uri.gbv.de/terminology/bk/18.61
+Macedonian language and literature,http://uri.gbv.de/terminology/bk/18.62
+Serbo-Croatian language and literature,http://uri.gbv.de/terminology/bk/18.63
+Slovenian language and literature,http://uri.gbv.de/terminology/bk/18.64
+Baltic languages and literatures,http://uri.gbv.de/terminology/bk/18.65
+Indic languages and literatures,http://uri.gbv.de/terminology/bk/18.66
+Sanskrit: Language and literature,http://uri.gbv.de/terminology/bk/18.67
+"Middle Indic languages and literatures, modern Indic languages and literatures",http://uri.gbv.de/terminology/bk/18.68
+Iranian languages and literatures,http://uri.gbv.de/terminology/bk/18.69
+Indo-European languages and literatures: Other,http://uri.gbv.de/terminology/bk/18.70
+Hamito-Semitic languages and literatures: General,http://uri.gbv.de/terminology/bk/18.71
+Egyptian language and literature,http://uri.gbv.de/terminology/bk/18.72
+Semitic languages and literatures: General,http://uri.gbv.de/terminology/bk/18.73
+Arabic language and literature,http://uri.gbv.de/terminology/bk/18.74
+Hebrew language and literature,http://uri.gbv.de/terminology/bk/18.75
+Modern Hebrew language and literature,http://uri.gbv.de/terminology/bk/18.77
+Semitic languages and literatures: Other,http://uri.gbv.de/terminology/bk/18.78
+Hamito-Semitic languages and literatures: Other,http://uri.gbv.de/terminology/bk/18.79
+Ural-Altaic languages and literatures: General,http://uri.gbv.de/terminology/bk/18.80
+Uralic languages and literatures,http://uri.gbv.de/terminology/bk/18.81
+Finno-Ugric languages and literatures,http://uri.gbv.de/terminology/bk/18.82
+Hungarian language and literature,http://uri.gbv.de/terminology/bk/18.83
+Finnish language and literature,http://uri.gbv.de/terminology/bk/18.84
+Estonian language and literature,http://uri.gbv.de/terminology/bk/18.85
+Altaic languages and literatures,http://uri.gbv.de/terminology/bk/18.86
+Turkic languages and literatures,http://uri.gbv.de/terminology/bk/18.87
+Korean language and literature,http://uri.gbv.de/terminology/bk/18.88
+Ural-Altaic languages and literatures: Other,http://uri.gbv.de/terminology/bk/18.89
+Chinese language and literature,http://uri.gbv.de/terminology/bk/18.90
+Japanese language and literature,http://uri.gbv.de/terminology/bk/18.91
+Other Asian languages and literatures,http://uri.gbv.de/terminology/bk/18.92
+"Native American languages and literatures, Eskimo languages and literatures",http://uri.gbv.de/terminology/bk/18.93
+African languages and literatures,http://uri.gbv.de/terminology/bk/18.94
+"Austronesian languages and literatures, Australian languages and literatures",http://uri.gbv.de/terminology/bk/18.95
+Constructed international languages,http://uri.gbv.de/terminology/bk/18.97
+Other languages and literatures,http://uri.gbv.de/terminology/bk/18.99
+Art studies,http://uri.gbv.de/terminology/bk/20
+Art studies: General,http://uri.gbv.de/terminology/bk/20.00
+History of art studies,http://uri.gbv.de/terminology/bk/20.01
+Methods and techniques of art studies,http://uri.gbv.de/terminology/bk/20.03
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/20.04
+Art in relation to other fields of study,http://uri.gbv.de/terminology/bk/20.05
+"Philosophy of art, art theory",http://uri.gbv.de/terminology/bk/20.06
+"Art criticism, art interpretation",http://uri.gbv.de/terminology/bk/20.07
+Psychology of art,http://uri.gbv.de/terminology/bk/20.08
+Art and society,http://uri.gbv.de/terminology/bk/20.10
+Art collection,http://uri.gbv.de/terminology/bk/20.11
+Art museum,http://uri.gbv.de/terminology/bk/20.12
+Art exhibition,http://uri.gbv.de/terminology/bk/20.13
+Art trade,http://uri.gbv.de/terminology/bk/20.14
+"Restoration, conservation, forgery",http://uri.gbv.de/terminology/bk/20.15
+Promotion of the arts,http://uri.gbv.de/terminology/bk/20.16
+Iconography,http://uri.gbv.de/terminology/bk/20.20
+"Religion, magic",http://uri.gbv.de/terminology/bk/20.21
+Nature,http://uri.gbv.de/terminology/bk/20.22
+Humans,http://uri.gbv.de/terminology/bk/20.23
+"Society, culture",http://uri.gbv.de/terminology/bk/20.24
+Abstract subjects,http://uri.gbv.de/terminology/bk/20.25
+History,http://uri.gbv.de/terminology/bk/20.26
+Bible,http://uri.gbv.de/terminology/bk/20.27
+Literature,http://uri.gbv.de/terminology/bk/20.28
+Ancient mythology,http://uri.gbv.de/terminology/bk/20.29
+Art history: General,http://uri.gbv.de/terminology/bk/20.30
+Visual artists,http://uri.gbv.de/terminology/bk/20.31
+Folk art,http://uri.gbv.de/terminology/bk/20.33
+Non-European art,http://uri.gbv.de/terminology/bk/20.40
+Asian art,http://uri.gbv.de/terminology/bk/20.41
+Jewish art,http://uri.gbv.de/terminology/bk/20.48
+Hindu art,http://uri.gbv.de/terminology/bk/20.49
+Islamic art,http://uri.gbv.de/terminology/bk/20.50
+Buddhist art,http://uri.gbv.de/terminology/bk/20.51
+African art,http://uri.gbv.de/terminology/bk/20.52
+American art,http://uri.gbv.de/terminology/bk/20.54
+"Australian art, New Zealand art, Oceanic art",http://uri.gbv.de/terminology/bk/20.56
+Art of antiquity: General,http://uri.gbv.de/terminology/bk/20.60
+Greek art,http://uri.gbv.de/terminology/bk/20.61
+"Italic art, Etruscan art, Roman art",http://uri.gbv.de/terminology/bk/20.62
+"Late antique art, early Christian art, Byzantine art",http://uri.gbv.de/terminology/bk/20.63
+Art of the Migration Period,http://uri.gbv.de/terminology/bk/20.64
+Art of antiquity: Other,http://uri.gbv.de/terminology/bk/20.69
+European art: General,http://uri.gbv.de/terminology/bk/20.70
+Art history: Other,http://uri.gbv.de/terminology/bk/20.89
+Art studies: Other,http://uri.gbv.de/terminology/bk/20.99
+Individual art forms,http://uri.gbv.de/terminology/bk/21
+Painting: General,http://uri.gbv.de/terminology/bk/21.00
+"Painting technique, painting materials",http://uri.gbv.de/terminology/bk/21.01
+History of painting,http://uri.gbv.de/terminology/bk/21.02
+Miniature painting,http://uri.gbv.de/terminology/bk/21.10
+Mural painting,http://uri.gbv.de/terminology/bk/21.11
+Glass painting,http://uri.gbv.de/terminology/bk/21.12
+Panel painting,http://uri.gbv.de/terminology/bk/21.13
+Painting: Other,http://uri.gbv.de/terminology/bk/21.19
+Drawing: General,http://uri.gbv.de/terminology/bk/21.20
+"Drawing technique, drawing materials",http://uri.gbv.de/terminology/bk/21.21
+History of drawing,http://uri.gbv.de/terminology/bk/21.22
+Drawing: Other,http://uri.gbv.de/terminology/bk/21.29
+Graphic arts: General,http://uri.gbv.de/terminology/bk/21.30
+"Graphic techniques, graphic materials",http://uri.gbv.de/terminology/bk/21.31
+History of graphic arts,http://uri.gbv.de/terminology/bk/21.32
+Graphic design,http://uri.gbv.de/terminology/bk/21.37
+Graphic arts: Other,http://uri.gbv.de/terminology/bk/21.39
+Photography: General,http://uri.gbv.de/terminology/bk/21.40
+"Photographic technique, photographic materials",http://uri.gbv.de/terminology/bk/21.41
+History of photography,http://uri.gbv.de/terminology/bk/21.42
+Photography: Other,http://uri.gbv.de/terminology/bk/21.49
+Sculpture: General,http://uri.gbv.de/terminology/bk/21.50
+"Sculpture technique, sculpture materials",http://uri.gbv.de/terminology/bk/21.51
+History of sculpture,http://uri.gbv.de/terminology/bk/21.52
+Sculpture: Other,http://uri.gbv.de/terminology/bk/21.59
+Architectural history: General,http://uri.gbv.de/terminology/bk/21.60
+History of sacred architecture,http://uri.gbv.de/terminology/bk/21.70
+History of public buildings,http://uri.gbv.de/terminology/bk/21.71
+History of housing construction,http://uri.gbv.de/terminology/bk/21.72
+"History of urban development, history of rural settlements",http://uri.gbv.de/terminology/bk/21.73
+"Landscape design, garden art",http://uri.gbv.de/terminology/bk/21.74
+"Monument preservation, preservation of townscapes",http://uri.gbv.de/terminology/bk/21.75
+Architectural history: Other,http://uri.gbv.de/terminology/bk/21.79
+"Arts and crafts, decorative arts: General",http://uri.gbv.de/terminology/bk/21.80
+History of arts and crafts and decorative arts,http://uri.gbv.de/terminology/bk/21.81
+Industrial design,http://uri.gbv.de/terminology/bk/21.82
+Ornament,http://uri.gbv.de/terminology/bk/21.83
+Interior design,http://uri.gbv.de/terminology/bk/21.84
+Fashion design,http://uri.gbv.de/terminology/bk/21.85
+Textile art,http://uri.gbv.de/terminology/bk/21.86
+Woodwork,http://uri.gbv.de/terminology/bk/21.87
+Ceramics,http://uri.gbv.de/terminology/bk/21.88
+Glass art,http://uri.gbv.de/terminology/bk/21.90
+Metalwork,http://uri.gbv.de/terminology/bk/21.91
+Precious metalwork,http://uri.gbv.de/terminology/bk/21.92
+Calligraphy and lettering,http://uri.gbv.de/terminology/bk/21.93
+"Arts and crafts, decorative arts: Other",http://uri.gbv.de/terminology/bk/21.97
+Media art,http://uri.gbv.de/terminology/bk/21.98
+Other art forms,http://uri.gbv.de/terminology/bk/21.99
+"Theater, film, music",http://uri.gbv.de/terminology/bk/24
+"Theater, film, music: General",http://uri.gbv.de/terminology/bk/24.00
+Performing artists,http://uri.gbv.de/terminology/bk/24.01
+Theater: General,http://uri.gbv.de/terminology/bk/24.02
+Theory and aesthetics of theater,http://uri.gbv.de/terminology/bk/24.03
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/24.04
+Systematic theater studies,http://uri.gbv.de/terminology/bk/24.05
+Theater history,http://uri.gbv.de/terminology/bk/24.06
+"Theater facilities, stage technology",http://uri.gbv.de/terminology/bk/24.07
+"Sociology of theater, psychology of theater",http://uri.gbv.de/terminology/bk/24.08
+Acting,http://uri.gbv.de/terminology/bk/24.10
+"Directing, dramaturgy",http://uri.gbv.de/terminology/bk/24.12
+"Theater genres, theater branches",http://uri.gbv.de/terminology/bk/24.13
+"Dance, movement arts",http://uri.gbv.de/terminology/bk/24.15
+"Small-stage art, cabaret, revue",http://uri.gbv.de/terminology/bk/24.23
+"Puppet theater, marionette theater",http://uri.gbv.de/terminology/bk/24.24
+"Variety show, circus",http://uri.gbv.de/terminology/bk/24.25
+Theater: Other,http://uri.gbv.de/terminology/bk/24.29
+Film: General,http://uri.gbv.de/terminology/bk/24.30
+Systematic film studies,http://uri.gbv.de/terminology/bk/24.31
+Film history,http://uri.gbv.de/terminology/bk/24.32
+"Film production, film technology",http://uri.gbv.de/terminology/bk/24.33
+"Film genres, film branches",http://uri.gbv.de/terminology/bk/24.34
+Film: Other,http://uri.gbv.de/terminology/bk/24.37
+"Television, radio",http://uri.gbv.de/terminology/bk/24.38
+Music: General,http://uri.gbv.de/terminology/bk/24.40
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/24.41
+Systematic musicology: General,http://uri.gbv.de/terminology/bk/24.42
+"Philosophy of music, music aesthetics",http://uri.gbv.de/terminology/bk/24.43
+Psychology of music,http://uri.gbv.de/terminology/bk/24.44
+Sociology of music,http://uri.gbv.de/terminology/bk/24.45
+Musical acoustics,http://uri.gbv.de/terminology/bk/24.46
+Systematic musicology: Other,http://uri.gbv.de/terminology/bk/24.49
+Historical musicology,http://uri.gbv.de/terminology/bk/24.50
+"Composers, musicians, singers",http://uri.gbv.de/terminology/bk/24.55
+"Musical forms, musical genres: General",http://uri.gbv.de/terminology/bk/24.60
+Vocal music,http://uri.gbv.de/terminology/bk/24.61
+"Music theater, theater music",http://uri.gbv.de/terminology/bk/24.62
+Light music,http://uri.gbv.de/terminology/bk/24.63
+Instrumental music,http://uri.gbv.de/terminology/bk/24.64
+"Jazz, pop music, rock music",http://uri.gbv.de/terminology/bk/24.65
+"Religious music, sacred music",http://uri.gbv.de/terminology/bk/24.66
+"Musical forms, musical genres: Other",http://uri.gbv.de/terminology/bk/24.68
+Music theory,http://uri.gbv.de/terminology/bk/24.75
+Composition,http://uri.gbv.de/terminology/bk/24.76
+Musical interpretation,http://uri.gbv.de/terminology/bk/24.77
+Musical instruments and their music: General,http://uri.gbv.de/terminology/bk/24.80
+Keyboard instruments,http://uri.gbv.de/terminology/bk/24.81
+String instruments,http://uri.gbv.de/terminology/bk/24.82
+Wind instruments,http://uri.gbv.de/terminology/bk/24.83
+Percussion instruments,http://uri.gbv.de/terminology/bk/24.84
+"Mechanical musical instruments, electronic musical instruments",http://uri.gbv.de/terminology/bk/24.85
+Musical instruments and their music: Other,http://uri.gbv.de/terminology/bk/24.89
+Singing,http://uri.gbv.de/terminology/bk/24.90
+Music: Other,http://uri.gbv.de/terminology/bk/24.98
+"Theater, film, music: Other",http://uri.gbv.de/terminology/bk/24.99
+Natural sciences in general,http://uri.gbv.de/terminology/bk/30
+Natural sciences in general: General,http://uri.gbv.de/terminology/bk/30.00
+History of the natural sciences,http://uri.gbv.de/terminology/bk/30.01
+Philosophy and theory of the natural sciences,http://uri.gbv.de/terminology/bk/30.02
+Methods and techniques in the natural sciences,http://uri.gbv.de/terminology/bk/30.03
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/30.04
+Systems theory,http://uri.gbv.de/terminology/bk/30.10
+Nonlinear dynamics,http://uri.gbv.de/terminology/bk/30.20
+Natural sciences in relation to other fields,http://uri.gbv.de/terminology/bk/30.30
+Natural sciences in general: Other,http://uri.gbv.de/terminology/bk/30.99
+Mathematics,http://uri.gbv.de/terminology/bk/31
+Mathematics: General,http://uri.gbv.de/terminology/bk/31.00
+History of mathematics,http://uri.gbv.de/terminology/bk/31.01
+Philosophy and philosophy of science of mathematics,http://uri.gbv.de/terminology/bk/31.02
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/31.04
+Recreational mathematics,http://uri.gbv.de/terminology/bk/31.08
+"Mathematical logic, set theory",http://uri.gbv.de/terminology/bk/31.10
+"Orders, general mathematical systems",http://uri.gbv.de/terminology/bk/31.11
+"Combinatorics, graph theory",http://uri.gbv.de/terminology/bk/31.12
+Number theory,http://uri.gbv.de/terminology/bk/31.14
+Algebra: General,http://uri.gbv.de/terminology/bk/31.20
+Group theory,http://uri.gbv.de/terminology/bk/31.21
+"Ideals, rings, modules, algebras",http://uri.gbv.de/terminology/bk/31.23
+"Fields, polynomials",http://uri.gbv.de/terminology/bk/31.24
+"Linear algebra, multilinear algebra",http://uri.gbv.de/terminology/bk/31.25
+Category theory,http://uri.gbv.de/terminology/bk/31.27
+Algebra: Other,http://uri.gbv.de/terminology/bk/31.29
+"Topological groups, Lie groups",http://uri.gbv.de/terminology/bk/31.30
+Harmonic analysis,http://uri.gbv.de/terminology/bk/31.35
+Analysis: General,http://uri.gbv.de/terminology/bk/31.40
+Real analysis,http://uri.gbv.de/terminology/bk/31.41
+Functions of one complex variable,http://uri.gbv.de/terminology/bk/31.42
+Functions of several complex variables,http://uri.gbv.de/terminology/bk/31.43
+Ordinary differential equations,http://uri.gbv.de/terminology/bk/31.44
+Partial differential equations,http://uri.gbv.de/terminology/bk/31.45
+Functional analysis,http://uri.gbv.de/terminology/bk/31.46
+Operator theory,http://uri.gbv.de/terminology/bk/31.47
+Calculus of variations,http://uri.gbv.de/terminology/bk/31.48
+Analysis: Other,http://uri.gbv.de/terminology/bk/31.49
+Geometry: General,http://uri.gbv.de/terminology/bk/31.50
+Algebraic geometry,http://uri.gbv.de/terminology/bk/31.51
+Differential geometry,http://uri.gbv.de/terminology/bk/31.52
+Global analysis,http://uri.gbv.de/terminology/bk/31.55
+Geometry: Other,http://uri.gbv.de/terminology/bk/31.59
+Topology: General,http://uri.gbv.de/terminology/bk/31.60
+Algebraic topology,http://uri.gbv.de/terminology/bk/31.61
+Categorical topology,http://uri.gbv.de/terminology/bk/31.62
+"Manifolds, cell complexes",http://uri.gbv.de/terminology/bk/31.65
+Topology: Other,http://uri.gbv.de/terminology/bk/31.69
+Probability theory,http://uri.gbv.de/terminology/bk/31.70
+Mathematical statistics,http://uri.gbv.de/terminology/bk/31.73
+Numerical mathematics,http://uri.gbv.de/terminology/bk/31.76
+"Fuzzy sets, fuzzy theory",http://uri.gbv.de/terminology/bk/31.78
+Applied mathematics,http://uri.gbv.de/terminology/bk/31.80
+Mathematics: Other,http://uri.gbv.de/terminology/bk/31.99
+Physics,http://uri.gbv.de/terminology/bk/33
+Physics: General,http://uri.gbv.de/terminology/bk/33.00
+History of physics,http://uri.gbv.de/terminology/bk/33.01
+Philosophy of physics,http://uri.gbv.de/terminology/bk/33.02
+"Physical units, physical constants",http://uri.gbv.de/terminology/bk/33.03
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/33.04
+Experimental physics,http://uri.gbv.de/terminology/bk/33.05
+Mathematical methods of physics,http://uri.gbv.de/terminology/bk/33.06
+Spectroscopy,http://uri.gbv.de/terminology/bk/33.07
+Physics under special conditions,http://uri.gbv.de/terminology/bk/33.09
+Theoretical physics: General,http://uri.gbv.de/terminology/bk/33.10
+Mechanics,http://uri.gbv.de/terminology/bk/33.11
+Acoustics,http://uri.gbv.de/terminology/bk/33.12
+Continuum physics,http://uri.gbv.de/terminology/bk/33.14
+"Electricity, magnetism",http://uri.gbv.de/terminology/bk/33.16
+Optics,http://uri.gbv.de/terminology/bk/33.18
+Theoretical physics: Other,http://uri.gbv.de/terminology/bk/33.19
+Modern physics: General,http://uri.gbv.de/terminology/bk/33.20
+"Relativity, gravitation",http://uri.gbv.de/terminology/bk/33.21
+Quantum physics,http://uri.gbv.de/terminology/bk/33.23
+Quantum field theory,http://uri.gbv.de/terminology/bk/33.24
+"Thermodynamics, statistical physics",http://uri.gbv.de/terminology/bk/33.25
+"Transport processes, irreversible thermodynamics",http://uri.gbv.de/terminology/bk/33.28
+Modern physics: Other,http://uri.gbv.de/terminology/bk/33.29
+"Atomic physics, molecular physics",http://uri.gbv.de/terminology/bk/33.30
+"Quantum optics, nonlinear optics",http://uri.gbv.de/terminology/bk/33.38
+Nuclear physics,http://uri.gbv.de/terminology/bk/33.40
+Radioactivity,http://uri.gbv.de/terminology/bk/33.43
+High-energy nuclear physics,http://uri.gbv.de/terminology/bk/33.46
+Physics of elementary particles and fields: General,http://uri.gbv.de/terminology/bk/33.50
+Field theories,http://uri.gbv.de/terminology/bk/33.52
+Elementary particle physics,http://uri.gbv.de/terminology/bk/33.56
+Physics of elementary particles and fields: Other,http://uri.gbv.de/terminology/bk/33.59
+Condensed matter: General,http://uri.gbv.de/terminology/bk/33.60
+Solid state physics,http://uri.gbv.de/terminology/bk/33.61
+"Mechanical properties, acoustic properties, thermal properties",http://uri.gbv.de/terminology/bk/33.62
+"Equations of state, phase transitions",http://uri.gbv.de/terminology/bk/33.64
+"Amorphous state, glasses",http://uri.gbv.de/terminology/bk/33.66
+"Surfaces, thin films, interfaces",http://uri.gbv.de/terminology/bk/33.68
+Liquids,http://uri.gbv.de/terminology/bk/33.69
+Liquid crystals,http://uri.gbv.de/terminology/bk/33.70
+Semiconductor physics,http://uri.gbv.de/terminology/bk/33.72
+Superconductivity,http://uri.gbv.de/terminology/bk/33.74
+Magnetic materials,http://uri.gbv.de/terminology/bk/33.75
+Dielectrics,http://uri.gbv.de/terminology/bk/33.77
+Condensed matter: Other,http://uri.gbv.de/terminology/bk/33.79
+Plasma physics,http://uri.gbv.de/terminology/bk/33.80
+Nuclear fusion,http://uri.gbv.de/terminology/bk/33.81
+Physics in relation to other fields,http://uri.gbv.de/terminology/bk/33.90
+Physics: Other,http://uri.gbv.de/terminology/bk/33.99
+Chemistry,http://uri.gbv.de/terminology/bk/35
+Chemistry: General,http://uri.gbv.de/terminology/bk/35.00
+History of chemistry,http://uri.gbv.de/terminology/bk/35.01
+Philosophy of chemistry,http://uri.gbv.de/terminology/bk/35.02
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/35.04
+"Mathematical chemistry, chemical statistics",http://uri.gbv.de/terminology/bk/35.05
+Computer applications,http://uri.gbv.de/terminology/bk/35.06
+"Chemical laboratory, chemical methods",http://uri.gbv.de/terminology/bk/35.07
+Laboratory safety,http://uri.gbv.de/terminology/bk/35.08
+Physical chemistry: General,http://uri.gbv.de/terminology/bk/35.10
+"Quantum chemistry, chemical bonding",http://uri.gbv.de/terminology/bk/35.11
+"Chemical thermodynamics, phase theory",http://uri.gbv.de/terminology/bk/35.12
+Reaction kinetics,http://uri.gbv.de/terminology/bk/35.13
+Electrochemistry,http://uri.gbv.de/terminology/bk/35.14
+Radiochemistry,http://uri.gbv.de/terminology/bk/35.15
+Photochemistry,http://uri.gbv.de/terminology/bk/35.16
+Catalysis,http://uri.gbv.de/terminology/bk/35.17
+"Colloid chemistry, interface chemistry",http://uri.gbv.de/terminology/bk/35.18
+Exchange reactions,http://uri.gbv.de/terminology/bk/35.19
+Magnetochemistry,http://uri.gbv.de/terminology/bk/35.20
+"Solutions, liquids",http://uri.gbv.de/terminology/bk/35.21
+Physical chemistry: Other,http://uri.gbv.de/terminology/bk/35.22
+Analytical chemistry: General,http://uri.gbv.de/terminology/bk/35.23
+Classical analytical chemistry,http://uri.gbv.de/terminology/bk/35.24
+Spectrochemical analysis,http://uri.gbv.de/terminology/bk/35.25
+Mass spectrometry,http://uri.gbv.de/terminology/bk/35.26
+Electrochemical analysis,http://uri.gbv.de/terminology/bk/35.27
+Radiochemical analysis,http://uri.gbv.de/terminology/bk/35.28
+"Chromatographic analysis, electrophoresis",http://uri.gbv.de/terminology/bk/35.29
+"Microanalysis, trace analysis",http://uri.gbv.de/terminology/bk/35.30
+Inorganic analysis,http://uri.gbv.de/terminology/bk/35.31
+Organic analysis,http://uri.gbv.de/terminology/bk/35.33
+Analytical chemistry: Other,http://uri.gbv.de/terminology/bk/35.39
+Inorganic chemistry: General,http://uri.gbv.de/terminology/bk/35.40
+"Inorganic reactions, stereochemistry",http://uri.gbv.de/terminology/bk/35.41
+Preparative inorganic chemistry,http://uri.gbv.de/terminology/bk/35.42
+"Coordination compounds, complex chemistry",http://uri.gbv.de/terminology/bk/35.43
+"Alkali metals, alkaline earth metals and their compounds",http://uri.gbv.de/terminology/bk/35.44
+Transition elements and their compounds,http://uri.gbv.de/terminology/bk/35.45
+Halogens and their compounds,http://uri.gbv.de/terminology/bk/35.46
+Chalcogens and their compounds,http://uri.gbv.de/terminology/bk/35.47
+Other inorganic elements and their compounds,http://uri.gbv.de/terminology/bk/35.48
+Inorganic chemistry: Other,http://uri.gbv.de/terminology/bk/35.49
+Organic chemistry: General,http://uri.gbv.de/terminology/bk/35.50
+"Organic reactions, stereochemistry",http://uri.gbv.de/terminology/bk/35.51
+Preparative organic chemistry,http://uri.gbv.de/terminology/bk/35.52
+Supramolecular chemistry,http://uri.gbv.de/terminology/bk/35.53
+Aliphatic compounds,http://uri.gbv.de/terminology/bk/35.55
+Isocyclic compounds,http://uri.gbv.de/terminology/bk/35.57
+Heterocyclic compounds,http://uri.gbv.de/terminology/bk/35.59
+Organometallic compounds,http://uri.gbv.de/terminology/bk/35.60
+Functional groups,http://uri.gbv.de/terminology/bk/35.61
+"Amino acids, peptides, proteins",http://uri.gbv.de/terminology/bk/35.62
+Carbohydrates,http://uri.gbv.de/terminology/bk/35.63
+Nucleic acids,http://uri.gbv.de/terminology/bk/35.65
+"Terpenes, steroids, alkaloids",http://uri.gbv.de/terminology/bk/35.66
+Organic compounds: Other,http://uri.gbv.de/terminology/bk/35.68
+Organic chemistry: Other,http://uri.gbv.de/terminology/bk/35.69
+Biochemistry: General,http://uri.gbv.de/terminology/bk/35.70
+Biochemical methods,http://uri.gbv.de/terminology/bk/35.71
+Bioenergetics,http://uri.gbv.de/terminology/bk/35.72
+Biochemical reactions,http://uri.gbv.de/terminology/bk/35.73
+"Enzymes, hormones, vitamins",http://uri.gbv.de/terminology/bk/35.74
+Nucleic acids,http://uri.gbv.de/terminology/bk/35.75
+"Amino acids, peptides, proteins",http://uri.gbv.de/terminology/bk/35.76
+Carbohydrates,http://uri.gbv.de/terminology/bk/35.77
+Lipids,http://uri.gbv.de/terminology/bk/35.78
+Biochemistry: Other,http://uri.gbv.de/terminology/bk/35.79
+Macromolecular chemistry,http://uri.gbv.de/terminology/bk/35.80
+Solid state chemistry,http://uri.gbv.de/terminology/bk/35.90
+Chemistry: Other,http://uri.gbv.de/terminology/bk/35.99
+Earth sciences,http://uri.gbv.de/terminology/bk/38
+Earth sciences: General,http://uri.gbv.de/terminology/bk/38.00
+History of the earth sciences,http://uri.gbv.de/terminology/bk/38.01
+Methods and techniques of the earth sciences,http://uri.gbv.de/terminology/bk/38.03
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/38.04
+Physical geography,http://uri.gbv.de/terminology/bk/38.09
+Geology: General,http://uri.gbv.de/terminology/bk/38.10
+Historical geology: General,http://uri.gbv.de/terminology/bk/38.15
+Stratigraphy,http://uri.gbv.de/terminology/bk/38.16
+Geochronology,http://uri.gbv.de/terminology/bk/38.17
+Historical geology: Other,http://uri.gbv.de/terminology/bk/38.19
+Paleontology: General,http://uri.gbv.de/terminology/bk/38.20
+Paleobotany,http://uri.gbv.de/terminology/bk/38.21
+Paleozoology,http://uri.gbv.de/terminology/bk/38.22
+Paleoecology,http://uri.gbv.de/terminology/bk/38.23
+Paleontology: Other,http://uri.gbv.de/terminology/bk/38.24
+Petrology: General,http://uri.gbv.de/terminology/bk/38.25
+Igneous rocks,http://uri.gbv.de/terminology/bk/38.26
+Metamorphic rocks,http://uri.gbv.de/terminology/bk/38.27
+Sedimentary rocks,http://uri.gbv.de/terminology/bk/38.28
+Petrology: Other,http://uri.gbv.de/terminology/bk/38.29
+Mineralogy,http://uri.gbv.de/terminology/bk/38.30
+Crystallography,http://uri.gbv.de/terminology/bk/38.31
+Geochemistry,http://uri.gbv.de/terminology/bk/38.32
+Endogenic geology: General,http://uri.gbv.de/terminology/bk/38.35
+Tectonics,http://uri.gbv.de/terminology/bk/38.36
+"Magmatism, volcanology",http://uri.gbv.de/terminology/bk/38.37
+Seismology,http://uri.gbv.de/terminology/bk/38.38
+Endogenic geology: Other,http://uri.gbv.de/terminology/bk/38.39
+Exogenic geology: General,http://uri.gbv.de/terminology/bk/38.40
+Sedimentation,http://uri.gbv.de/terminology/bk/38.41
+"Weathering, erosion",http://uri.gbv.de/terminology/bk/38.42
+Glaciology,http://uri.gbv.de/terminology/bk/38.43
+Exogenic geology: Other,http://uri.gbv.de/terminology/bk/38.44
+Geomorphology,http://uri.gbv.de/terminology/bk/38.45
+"Karst phenomena, speleology",http://uri.gbv.de/terminology/bk/38.46
+Bogs and moors,http://uri.gbv.de/terminology/bk/38.47
+Marine geology,http://uri.gbv.de/terminology/bk/38.48
+Glacial morphology,http://uri.gbv.de/terminology/bk/38.49
+Geology of mineral resources: General,http://uri.gbv.de/terminology/bk/38.50
+Geology of fossil fuels,http://uri.gbv.de/terminology/bk/38.51
+Geology of ores,http://uri.gbv.de/terminology/bk/38.52
+Geology of industrial minerals,http://uri.gbv.de/terminology/bk/38.53
+Geology of mineral resources: Other,http://uri.gbv.de/terminology/bk/38.54
+Regional geology,http://uri.gbv.de/terminology/bk/38.55
+Geomechanics,http://uri.gbv.de/terminology/bk/38.58
+Geology: Other,http://uri.gbv.de/terminology/bk/38.59
+Soil science: General,http://uri.gbv.de/terminology/bk/38.60
+"Soil formation, soil development",http://uri.gbv.de/terminology/bk/38.61
+Soil properties,http://uri.gbv.de/terminology/bk/38.63
+"Soil genetics, soil classification",http://uri.gbv.de/terminology/bk/38.65
+Soil science: Other,http://uri.gbv.de/terminology/bk/38.69
+Geophysics: General,http://uri.gbv.de/terminology/bk/38.70
+"Geomagnetics, geoelectrics, geothermics",http://uri.gbv.de/terminology/bk/38.71
+Seismics,http://uri.gbv.de/terminology/bk/38.72
+Geodesy,http://uri.gbv.de/terminology/bk/38.73
+Geophysics: Other,http://uri.gbv.de/terminology/bk/38.79
+Meteorology: General,http://uri.gbv.de/terminology/bk/38.80
+Atmosphere,http://uri.gbv.de/terminology/bk/38.81
+Climatology,http://uri.gbv.de/terminology/bk/38.82
+Meteorology: Other,http://uri.gbv.de/terminology/bk/38.84
+Hydrology: General,http://uri.gbv.de/terminology/bk/38.85
+Groundwater,http://uri.gbv.de/terminology/bk/38.86
+Surface water,http://uri.gbv.de/terminology/bk/38.87
+Regional hydrology,http://uri.gbv.de/terminology/bk/38.88
+Hydrology: Other,http://uri.gbv.de/terminology/bk/38.89
+"Oceanology, oceanography",http://uri.gbv.de/terminology/bk/38.90
+"Environmental geology, geoecology",http://uri.gbv.de/terminology/bk/38.95
+Earth sciences: Other,http://uri.gbv.de/terminology/bk/38.99
+Astronomy,http://uri.gbv.de/terminology/bk/39
+Astronomy: General,http://uri.gbv.de/terminology/bk/39.00
+History of astronomy,http://uri.gbv.de/terminology/bk/39.01
+Philosophy and theory of astronomy,http://uri.gbv.de/terminology/bk/39.02
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/39.04
+Practical astronomy: General,http://uri.gbv.de/terminology/bk/39.10
+"Astronomical observation, observatories, planetariums",http://uri.gbv.de/terminology/bk/39.11
+Astronomical instruments,http://uri.gbv.de/terminology/bk/39.12
+Radio astronomy,http://uri.gbv.de/terminology/bk/39.13
+Practical astronomy: Other,http://uri.gbv.de/terminology/bk/39.19
+Theoretical astronomy: General,http://uri.gbv.de/terminology/bk/39.20
+Astrophysics,http://uri.gbv.de/terminology/bk/39.22
+"Celestial mechanics, astrodynamics",http://uri.gbv.de/terminology/bk/39.23
+Theoretical astronomy: Other,http://uri.gbv.de/terminology/bk/39.29
+Cosmology,http://uri.gbv.de/terminology/bk/39.30
+"Stellar systems, stars",http://uri.gbv.de/terminology/bk/39.40
+"Extragalactic systems, galaxies",http://uri.gbv.de/terminology/bk/39.41
+Milky Way system,http://uri.gbv.de/terminology/bk/39.42
+Interstellar matter,http://uri.gbv.de/terminology/bk/39.43
+Solar system: General,http://uri.gbv.de/terminology/bk/39.50
+Sun,http://uri.gbv.de/terminology/bk/39.51
+Moon,http://uri.gbv.de/terminology/bk/39.52
+Planets,http://uri.gbv.de/terminology/bk/39.53
+Interplanetary matter,http://uri.gbv.de/terminology/bk/39.54
+Solar system: Other,http://uri.gbv.de/terminology/bk/39.59
+Astronomy: Other,http://uri.gbv.de/terminology/bk/39.99
+Biology,http://uri.gbv.de/terminology/bk/42
+Biology: General,http://uri.gbv.de/terminology/bk/42.00
+History of biology,http://uri.gbv.de/terminology/bk/42.01
+Philosophy and theory of biology,http://uri.gbv.de/terminology/bk/42.02
+Methods and techniques of biology,http://uri.gbv.de/terminology/bk/42.03
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/42.04
+Natural history,http://uri.gbv.de/terminology/bk/42.05
+Biogeography,http://uri.gbv.de/terminology/bk/42.07
+Theoretical biology,http://uri.gbv.de/terminology/bk/42.10
+"Biomathematics, biocybernetics",http://uri.gbv.de/terminology/bk/42.11
+Biophysics,http://uri.gbv.de/terminology/bk/42.12
+Molecular biology,http://uri.gbv.de/terminology/bk/42.13
+Radiation biology,http://uri.gbv.de/terminology/bk/42.14
+Cell biology,http://uri.gbv.de/terminology/bk/42.15
+General physiology,http://uri.gbv.de/terminology/bk/42.17
+"Physiology of enzymes, hormones, secretions",http://uri.gbv.de/terminology/bk/42.18
+Genetics,http://uri.gbv.de/terminology/bk/42.20
+Evolution,http://uri.gbv.de/terminology/bk/42.21
+Exobiology,http://uri.gbv.de/terminology/bk/42.22
+Developmental biology,http://uri.gbv.de/terminology/bk/42.23
+Special biology,http://uri.gbv.de/terminology/bk/42.25
+Microbiology,http://uri.gbv.de/terminology/bk/42.30
+Virology,http://uri.gbv.de/terminology/bk/42.32
+Protistology,http://uri.gbv.de/terminology/bk/42.35
+Parasitology,http://uri.gbv.de/terminology/bk/42.36
+Botany: General,http://uri.gbv.de/terminology/bk/42.38
+"Plant cytology, plant histology, plant morphology",http://uri.gbv.de/terminology/bk/42.40
+Plant physiology,http://uri.gbv.de/terminology/bk/42.41
+"Reproduction, development",http://uri.gbv.de/terminology/bk/42.42
+Plant genetics,http://uri.gbv.de/terminology/bk/42.43
+"Plant geography, plant ecology, plant sociology",http://uri.gbv.de/terminology/bk/42.44
+"Botanical gardens, herbaria",http://uri.gbv.de/terminology/bk/42.45
+Special botany: General,http://uri.gbv.de/terminology/bk/42.47
+Cryptogams,http://uri.gbv.de/terminology/bk/42.48
+Prokaryota,http://uri.gbv.de/terminology/bk/42.49
+Phycophyta,http://uri.gbv.de/terminology/bk/42.50
+"Mycophyta, Lichenes",http://uri.gbv.de/terminology/bk/42.51
+Bryophyta,http://uri.gbv.de/terminology/bk/42.52
+Pteridophyta,http://uri.gbv.de/terminology/bk/42.53
+Spermatophyta,http://uri.gbv.de/terminology/bk/42.54
+Gymnospermae,http://uri.gbv.de/terminology/bk/42.55
+Angiospermae,http://uri.gbv.de/terminology/bk/42.56
+Monocotyledoneae,http://uri.gbv.de/terminology/bk/42.57
+Dicotyledoneae,http://uri.gbv.de/terminology/bk/42.58
+Botany: Other,http://uri.gbv.de/terminology/bk/42.59
+Zoology: General,http://uri.gbv.de/terminology/bk/42.60
+"Animal cytology, animal histology",http://uri.gbv.de/terminology/bk/42.61
+"Animal morphology, animal anatomy",http://uri.gbv.de/terminology/bk/42.62
+Animal physiology,http://uri.gbv.de/terminology/bk/42.63
+Animal genetics,http://uri.gbv.de/terminology/bk/42.64
+"Animal geography, animal ecology",http://uri.gbv.de/terminology/bk/42.65
+Ethology,http://uri.gbv.de/terminology/bk/42.66
+"Reproduction, development",http://uri.gbv.de/terminology/bk/42.67
+"Zoos, aquariums, terrariums",http://uri.gbv.de/terminology/bk/42.68
+Special zoology: General,http://uri.gbv.de/terminology/bk/42.69
+Protozoa,http://uri.gbv.de/terminology/bk/42.70
+Invertebrata: General,http://uri.gbv.de/terminology/bk/42.71
+"Porifera, Coelenterata",http://uri.gbv.de/terminology/bk/42.72
+Mollusca,http://uri.gbv.de/terminology/bk/42.73
+Articulata,http://uri.gbv.de/terminology/bk/42.74
+Insecta,http://uri.gbv.de/terminology/bk/42.75
+"Plathelminthes, Aschelminthes, Nemertini",http://uri.gbv.de/terminology/bk/42.76
+Echinodermata,http://uri.gbv.de/terminology/bk/42.78
+Invertebrata: Other,http://uri.gbv.de/terminology/bk/42.79
+Vertebrata: General,http://uri.gbv.de/terminology/bk/42.80
+Pisces,http://uri.gbv.de/terminology/bk/42.81
+"Amphibia, Reptilia",http://uri.gbv.de/terminology/bk/42.82
+Aves,http://uri.gbv.de/terminology/bk/42.83
+Mammalia,http://uri.gbv.de/terminology/bk/42.84
+Special zoology: Other,http://uri.gbv.de/terminology/bk/42.86
+Physical anthropology,http://uri.gbv.de/terminology/bk/42.88
+Zoology: Other,http://uri.gbv.de/terminology/bk/42.89
+Ecology: General,http://uri.gbv.de/terminology/bk/42.90
+Terrestrial ecology,http://uri.gbv.de/terminology/bk/42.91
+Hydrobiology,http://uri.gbv.de/terminology/bk/42.92
+Limnology,http://uri.gbv.de/terminology/bk/42.93
+Marine biology,http://uri.gbv.de/terminology/bk/42.94
+Ecology: Other,http://uri.gbv.de/terminology/bk/42.97
+Biology: Other,http://uri.gbv.de/terminology/bk/42.99
+"Environmental research, environmental protection",http://uri.gbv.de/terminology/bk/43
+"Environmental research, environmental protection: General",http://uri.gbv.de/terminology/bk/43.00
+History of environmental research and environmental protection,http://uri.gbv.de/terminology/bk/43.01
+Philosophy and theory of environmental research and environmental protection,http://uri.gbv.de/terminology/bk/43.02
+Methods of environmental research and environmental protection,http://uri.gbv.de/terminology/bk/43.03
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/43.04
+Environmental monitoring,http://uri.gbv.de/terminology/bk/43.11
+Environmental chemistry,http://uri.gbv.de/terminology/bk/43.12
+Environmental toxicology,http://uri.gbv.de/terminology/bk/43.13
+Environmental policy,http://uri.gbv.de/terminology/bk/43.30
+Nature conservation,http://uri.gbv.de/terminology/bk/43.31
+Environmentally friendly use of natural resources,http://uri.gbv.de/terminology/bk/43.33
+"Environmental guidelines, environmental standards",http://uri.gbv.de/terminology/bk/43.35
+Global environmental problems,http://uri.gbv.de/terminology/bk/43.47
+Regional environmental problems,http://uri.gbv.de/terminology/bk/43.48
+Environmental pollution,http://uri.gbv.de/terminology/bk/43.50
+Environmental pollution from agriculture and forestry,http://uri.gbv.de/terminology/bk/43.61
+Environmental pollution from transport and traffic,http://uri.gbv.de/terminology/bk/43.62
+"Environmental pollution from industry, mining and energy production",http://uri.gbv.de/terminology/bk/43.63
+Environmental pollution from urban development,http://uri.gbv.de/terminology/bk/43.64
+Environmental pollution from leisure and recreation,http://uri.gbv.de/terminology/bk/43.65
+Environmental pollution from private households,http://uri.gbv.de/terminology/bk/43.66
+Environmental pollution from radiation,http://uri.gbv.de/terminology/bk/43.68
+Environmental pollution from other causes,http://uri.gbv.de/terminology/bk/43.69
+Developing countries and the environment,http://uri.gbv.de/terminology/bk/43.70
+"Environmental research, environmental protection: Other",http://uri.gbv.de/terminology/bk/43.99
+Medicine,http://uri.gbv.de/terminology/bk/44
+Medicine: General,http://uri.gbv.de/terminology/bk/44.00
+History of medicine,http://uri.gbv.de/terminology/bk/44.01
+Philosophy and theory of medicine,http://uri.gbv.de/terminology/bk/44.02
+Methods and techniques of medicine,http://uri.gbv.de/terminology/bk/44.03
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/44.04
+Health economics,http://uri.gbv.de/terminology/bk/44.05
+Medical sociology,http://uri.gbv.de/terminology/bk/44.06
+Medical psychology,http://uri.gbv.de/terminology/bk/44.07
+Medical meteorology,http://uri.gbv.de/terminology/bk/44.08
+Medical technology,http://uri.gbv.de/terminology/bk/44.09
+Health care: General,http://uri.gbv.de/terminology/bk/44.10
+Preventive medicine,http://uri.gbv.de/terminology/bk/44.11
+"Occupational medicine, occupational health care",http://uri.gbv.de/terminology/bk/44.12
+Medical ecology,http://uri.gbv.de/terminology/bk/44.13
+Health promotion,http://uri.gbv.de/terminology/bk/44.14
+Primary medical care,http://uri.gbv.de/terminology/bk/44.15
+"Inpatient care, hospital system",http://uri.gbv.de/terminology/bk/44.17
+Health care: Other,http://uri.gbv.de/terminology/bk/44.19
+"Personal health care, personal hygiene",http://uri.gbv.de/terminology/bk/44.20
+Nutrition,http://uri.gbv.de/terminology/bk/44.21
+Basic medical sciences: General,http://uri.gbv.de/terminology/bk/44.30
+Medical physics,http://uri.gbv.de/terminology/bk/44.31
+"Medical mathematics, medical statistics",http://uri.gbv.de/terminology/bk/44.32
+Physiological chemistry,http://uri.gbv.de/terminology/bk/44.33
+Anatomy,http://uri.gbv.de/terminology/bk/44.34
+Histology,http://uri.gbv.de/terminology/bk/44.35
+Embryology,http://uri.gbv.de/terminology/bk/44.36
+Physiology,http://uri.gbv.de/terminology/bk/44.37
+Pharmacology,http://uri.gbv.de/terminology/bk/44.38
+Toxicology,http://uri.gbv.de/terminology/bk/44.39
+"Pharmacy, pharmaceuticals",http://uri.gbv.de/terminology/bk/44.40
+Pharmaceutical biology,http://uri.gbv.de/terminology/bk/44.41
+Pharmaceutical chemistry,http://uri.gbv.de/terminology/bk/44.42
+Medical microbiology,http://uri.gbv.de/terminology/bk/44.43
+Parasitology,http://uri.gbv.de/terminology/bk/44.44
+Immunology,http://uri.gbv.de/terminology/bk/44.45
+Clinical pathology,http://uri.gbv.de/terminology/bk/44.46
+Pathology,http://uri.gbv.de/terminology/bk/44.47
+Medical genetics,http://uri.gbv.de/terminology/bk/44.48
+Basic medical sciences: Other,http://uri.gbv.de/terminology/bk/44.49
+Diagnostics,http://uri.gbv.de/terminology/bk/44.51
+Therapy,http://uri.gbv.de/terminology/bk/44.52
+Medical specialties: General,http://uri.gbv.de/terminology/bk/44.60
+Internal medicine,http://uri.gbv.de/terminology/bk/44.61
+General practice,http://uri.gbv.de/terminology/bk/44.62
+Nursing,http://uri.gbv.de/terminology/bk/44.63
+Radiology,http://uri.gbv.de/terminology/bk/44.64
+Surgery,http://uri.gbv.de/terminology/bk/44.65
+Anesthesiology,http://uri.gbv.de/terminology/bk/44.66
+Pediatrics,http://uri.gbv.de/terminology/bk/44.67
+"Gerontology, geriatrics",http://uri.gbv.de/terminology/bk/44.68
+Intensive care medicine,http://uri.gbv.de/terminology/bk/44.69
+Sports medicine,http://uri.gbv.de/terminology/bk/44.70
+Traffic medicine,http://uri.gbv.de/terminology/bk/44.71
+Forensic medicine,http://uri.gbv.de/terminology/bk/44.72
+Geomedicine,http://uri.gbv.de/terminology/bk/44.73
+Sexual medicine,http://uri.gbv.de/terminology/bk/44.74
+"Infectious diseases, parasitic diseases",http://uri.gbv.de/terminology/bk/44.75
+"Nutritional disorders, deficiency diseases",http://uri.gbv.de/terminology/bk/44.76
+Metabolic diseases,http://uri.gbv.de/terminology/bk/44.77
+Immune diseases,http://uri.gbv.de/terminology/bk/44.78
+"Trauma medicine, emergency medicine",http://uri.gbv.de/terminology/bk/44.80
+Oncology,http://uri.gbv.de/terminology/bk/44.81
+"Rheumatology, orthopedics",http://uri.gbv.de/terminology/bk/44.83
+Pulmonology,http://uri.gbv.de/terminology/bk/44.84
+"Cardiology, angiology",http://uri.gbv.de/terminology/bk/44.85
+Hematology,http://uri.gbv.de/terminology/bk/44.86
+Gastroenterology,http://uri.gbv.de/terminology/bk/44.87
+"Urology, nephrology",http://uri.gbv.de/terminology/bk/44.88
+Endocrinology,http://uri.gbv.de/terminology/bk/44.89
+Neurology,http://uri.gbv.de/terminology/bk/44.90
+"Psychiatry, psychopathology",http://uri.gbv.de/terminology/bk/44.91
+Gynecology,http://uri.gbv.de/terminology/bk/44.92
+Dermatology,http://uri.gbv.de/terminology/bk/44.93
+Otorhinolaryngology,http://uri.gbv.de/terminology/bk/44.94
+Ophthalmology,http://uri.gbv.de/terminology/bk/44.95
+Dentistry,http://uri.gbv.de/terminology/bk/44.96
+Medical specialties: Other,http://uri.gbv.de/terminology/bk/44.97
+Alternative medicine,http://uri.gbv.de/terminology/bk/44.98
+Medicine: Other,http://uri.gbv.de/terminology/bk/44.99
+Veterinary medicine,http://uri.gbv.de/terminology/bk/46
+Veterinary medicine: General,http://uri.gbv.de/terminology/bk/46.00
+History of veterinary medicine,http://uri.gbv.de/terminology/bk/46.01
+Philosophy and theory of veterinary medicine,http://uri.gbv.de/terminology/bk/46.02
+Methods and techniques of veterinary medicine,http://uri.gbv.de/terminology/bk/46.03
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/46.04
+Basic veterinary sciences,http://uri.gbv.de/terminology/bk/46.10
+"Veterinary pharmacology, veterinary toxicology",http://uri.gbv.de/terminology/bk/46.14
+Veterinary hygiene,http://uri.gbv.de/terminology/bk/46.20
+Preventive veterinary medicine,http://uri.gbv.de/terminology/bk/46.30
+Veterinary pathology,http://uri.gbv.de/terminology/bk/46.40
+Veterinary microbiology,http://uri.gbv.de/terminology/bk/46.50
+"Infectious diseases, parasitic diseases",http://uri.gbv.de/terminology/bk/46.52
+Veterinary immunology,http://uri.gbv.de/terminology/bk/46.54
+"Reproduction, development",http://uri.gbv.de/terminology/bk/46.60
+Geography of animal diseases,http://uri.gbv.de/terminology/bk/46.70
+Clinical veterinary medicine,http://uri.gbv.de/terminology/bk/46.80
+Laboratory animal science,http://uri.gbv.de/terminology/bk/46.90
+Veterinary medicine: Other,http://uri.gbv.de/terminology/bk/46.99
+Agriculture and forestry,http://uri.gbv.de/terminology/bk/48
+Agriculture and forestry: General,http://uri.gbv.de/terminology/bk/48.00
+History of agriculture and forestry,http://uri.gbv.de/terminology/bk/48.01
+Methods and techniques of agriculture and forestry,http://uri.gbv.de/terminology/bk/48.03
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/48.04
+Regional agriculture and forestry,http://uri.gbv.de/terminology/bk/48.10
+Agricultural systems,http://uri.gbv.de/terminology/bk/48.16
+Agricultural and forestry business management,http://uri.gbv.de/terminology/bk/48.18
+"Agricultural engineering, forestry engineering",http://uri.gbv.de/terminology/bk/48.20
+Natural resources,http://uri.gbv.de/terminology/bk/48.30
+"Soil science, soil evaluation",http://uri.gbv.de/terminology/bk/48.32
+"Irrigation, drainage",http://uri.gbv.de/terminology/bk/48.34
+Tillage,http://uri.gbv.de/terminology/bk/48.36
+Forestry,http://uri.gbv.de/terminology/bk/48.40
+Wood,http://uri.gbv.de/terminology/bk/48.46
+Forest damage,http://uri.gbv.de/terminology/bk/48.47
+Crop production: General,http://uri.gbv.de/terminology/bk/48.50
+"Plant nutrition, fertilization",http://uri.gbv.de/terminology/bk/48.52
+Plant pathology,http://uri.gbv.de/terminology/bk/48.54
+Plant propagation,http://uri.gbv.de/terminology/bk/48.56
+Plant breeding,http://uri.gbv.de/terminology/bk/48.58
+Crop production: Other,http://uri.gbv.de/terminology/bk/48.59
+"Livestock production, animal husbandry: General",http://uri.gbv.de/terminology/bk/48.60
+"Animal nutrition, animal feed",http://uri.gbv.de/terminology/bk/48.61
+"Beneficial organisms, pests",http://uri.gbv.de/terminology/bk/48.63
+Animal breeding,http://uri.gbv.de/terminology/bk/48.64
+Hunting,http://uri.gbv.de/terminology/bk/48.66
+Fisheries,http://uri.gbv.de/terminology/bk/48.67
+Aquaculture,http://uri.gbv.de/terminology/bk/48.68
+"Livestock production, animal husbandry: Other",http://uri.gbv.de/terminology/bk/48.69
+Agriculture and forestry: Other,http://uri.gbv.de/terminology/bk/48.99
+Home economics,http://uri.gbv.de/terminology/bk/49
+Home economics: General,http://uri.gbv.de/terminology/bk/49.00
+History of home economics,http://uri.gbv.de/terminology/bk/49.01
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/49.04
+Household economics,http://uri.gbv.de/terminology/bk/49.15
+"Household appliances, household technology",http://uri.gbv.de/terminology/bk/49.20
+"Food science, nutrition science",http://uri.gbv.de/terminology/bk/49.25
+Housing,http://uri.gbv.de/terminology/bk/49.30
+Textile crafts,http://uri.gbv.de/terminology/bk/49.35
+"Hospitality industry, catering",http://uri.gbv.de/terminology/bk/49.55
+Home economics: Other,http://uri.gbv.de/terminology/bk/49.99
+Technology in general,http://uri.gbv.de/terminology/bk/50
+Technology in general: General,http://uri.gbv.de/terminology/bk/50.00
+History of technology,http://uri.gbv.de/terminology/bk/50.01
+Philosophy of technology,http://uri.gbv.de/terminology/bk/50.02
+Methods and techniques of engineering,http://uri.gbv.de/terminology/bk/50.03
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/50.04
+"Patent system, inventions",http://uri.gbv.de/terminology/bk/50.06
+"Standardization, technical rules",http://uri.gbv.de/terminology/bk/50.07
+Technology in relation to other fields,http://uri.gbv.de/terminology/bk/50.14
+Design engineering,http://uri.gbv.de/terminology/bk/50.15
+"Technical reliability, maintenance",http://uri.gbv.de/terminology/bk/50.16
+Safety engineering,http://uri.gbv.de/terminology/bk/50.17
+Automation engineering,http://uri.gbv.de/terminology/bk/50.20
+Measurement technology,http://uri.gbv.de/terminology/bk/50.21
+Sensor technology,http://uri.gbv.de/terminology/bk/50.22
+"Control engineering, systems engineering",http://uri.gbv.de/terminology/bk/50.23
+Robotics,http://uri.gbv.de/terminology/bk/50.25
+Technical physics: General,http://uri.gbv.de/terminology/bk/50.30
+Technical mechanics,http://uri.gbv.de/terminology/bk/50.31
+"Dynamics, vibration theory",http://uri.gbv.de/terminology/bk/50.32
+Technical fluid mechanics,http://uri.gbv.de/terminology/bk/50.33
+"Gas dynamics, aerodynamics",http://uri.gbv.de/terminology/bk/50.34
+Mechanics of other media,http://uri.gbv.de/terminology/bk/50.35
+Technical acoustics,http://uri.gbv.de/terminology/bk/50.36
+Technical optics,http://uri.gbv.de/terminology/bk/50.37
+Technical thermodynamics,http://uri.gbv.de/terminology/bk/50.38
+Technical physics: Other,http://uri.gbv.de/terminology/bk/50.39
+Energy: General,http://uri.gbv.de/terminology/bk/50.70
+Other technical fields,http://uri.gbv.de/terminology/bk/50.90
+Military technology,http://uri.gbv.de/terminology/bk/50.91
+Marine technology,http://uri.gbv.de/terminology/bk/50.92
+Space research,http://uri.gbv.de/terminology/bk/50.93
+"Microsystems technology, nanotechnology",http://uri.gbv.de/terminology/bk/50.94
+Craft techniques,http://uri.gbv.de/terminology/bk/50.95
+"Technical toys, model building",http://uri.gbv.de/terminology/bk/50.97
+Technology in general: Other,http://uri.gbv.de/terminology/bk/50.99
+Materials science,http://uri.gbv.de/terminology/bk/51
+Materials science: General,http://uri.gbv.de/terminology/bk/51.00
+History of materials science,http://uri.gbv.de/terminology/bk/51.01
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/51.04
+Metal physics,http://uri.gbv.de/terminology/bk/51.10
+Material surface properties,http://uri.gbv.de/terminology/bk/51.20
+Corrosion,http://uri.gbv.de/terminology/bk/51.24
+"Materials testing, materials analysis",http://uri.gbv.de/terminology/bk/51.30
+Mechanics of materials,http://uri.gbv.de/terminology/bk/51.32
+Materials for specific fields of application,http://uri.gbv.de/terminology/bk/51.40
+Materials with special properties,http://uri.gbv.de/terminology/bk/51.45
+Metallic materials: General,http://uri.gbv.de/terminology/bk/51.50
+"Ferrous materials, steels",http://uri.gbv.de/terminology/bk/51.52
+Non-ferrous metals and their alloys,http://uri.gbv.de/terminology/bk/51.54
+"Ceramic materials, hard materials",http://uri.gbv.de/terminology/bk/51.60
+"Polymer materials, plastics",http://uri.gbv.de/terminology/bk/51.70
+"Composite materials, laminates",http://uri.gbv.de/terminology/bk/51.75
+Other materials,http://uri.gbv.de/terminology/bk/51.79
+Materials science: Other,http://uri.gbv.de/terminology/bk/51.99
+"Mechanical engineering, energy technology, production engineering",http://uri.gbv.de/terminology/bk/52
+"Mechanical engineering, energy technology, production engineering: General",http://uri.gbv.de/terminology/bk/52.00
+"History of mechanical engineering, energy technology and production engineering",http://uri.gbv.de/terminology/bk/52.01
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/52.04
+Mechanical engineering: General,http://uri.gbv.de/terminology/bk/52.10
+Tribology,http://uri.gbv.de/terminology/bk/52.12
+"Machine elements, machine assemblies",http://uri.gbv.de/terminology/bk/52.15
+"Drive technology, gear theory",http://uri.gbv.de/terminology/bk/52.20
+Fluid power technology,http://uri.gbv.de/terminology/bk/52.23
+"Vessels, pipelines, fittings",http://uri.gbv.de/terminology/bk/52.25
+"Fluid-flow machinery, turbomachinery",http://uri.gbv.de/terminology/bk/52.30
+Reciprocating engines,http://uri.gbv.de/terminology/bk/52.35
+Working machines,http://uri.gbv.de/terminology/bk/52.38
+"Heating technology, ventilation technology, air conditioning technology",http://uri.gbv.de/terminology/bk/52.42
+Refrigeration technology,http://uri.gbv.de/terminology/bk/52.43
+"Conveying technology, storage technology",http://uri.gbv.de/terminology/bk/52.47
+Mechanical engineering: Other,http://uri.gbv.de/terminology/bk/52.49
+Energy technology: General,http://uri.gbv.de/terminology/bk/52.50
+Combustion technology,http://uri.gbv.de/terminology/bk/52.51
+"Thermal energy generation, heat engineering",http://uri.gbv.de/terminology/bk/52.52
+Power plant technology,http://uri.gbv.de/terminology/bk/52.53
+Thermal power plants,http://uri.gbv.de/terminology/bk/52.54
+"Nuclear engineering, reactor technology",http://uri.gbv.de/terminology/bk/52.55
+"Renewable energy forms, alternative energy forms",http://uri.gbv.de/terminology/bk/52.56
+Energy storage,http://uri.gbv.de/terminology/bk/52.57
+Gas technology,http://uri.gbv.de/terminology/bk/52.58
+Energy technology: Other,http://uri.gbv.de/terminology/bk/52.59
+Production engineering: General,http://uri.gbv.de/terminology/bk/52.70
+Quality assurance,http://uri.gbv.de/terminology/bk/52.71
+Production automation,http://uri.gbv.de/terminology/bk/52.72
+"Materials processing, machine tools: General",http://uri.gbv.de/terminology/bk/52.74
+Machining,http://uri.gbv.de/terminology/bk/52.75
+Forming technology,http://uri.gbv.de/terminology/bk/52.76
+Primary shaping,http://uri.gbv.de/terminology/bk/52.77
+"Surface technology, heat treatment",http://uri.gbv.de/terminology/bk/52.78
+"Materials processing, machine tools: Other",http://uri.gbv.de/terminology/bk/52.79
+"Assembly, handling technology",http://uri.gbv.de/terminology/bk/52.80
+Joining technology,http://uri.gbv.de/terminology/bk/52.82
+Production engineering: Other,http://uri.gbv.de/terminology/bk/52.85
+Packaging technology,http://uri.gbv.de/terminology/bk/52.86
+Graphic technology,http://uri.gbv.de/terminology/bk/52.87
+"Precision engineering, mechatronics",http://uri.gbv.de/terminology/bk/52.88
+"Mechanical engineering, energy technology, production engineering: Other",http://uri.gbv.de/terminology/bk/52.99
+Electrical engineering,http://uri.gbv.de/terminology/bk/53
+Electrical engineering: General,http://uri.gbv.de/terminology/bk/53.00
+History of electrical engineering,http://uri.gbv.de/terminology/bk/53.01
+Methods and techniques of electrical engineering,http://uri.gbv.de/terminology/bk/53.03
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/53.04
+Materials of electrical engineering,http://uri.gbv.de/terminology/bk/53.09
+Electromagnetic fields,http://uri.gbv.de/terminology/bk/53.11
+Components of electrical engineering,http://uri.gbv.de/terminology/bk/53.12
+Electrical networks and circuits,http://uri.gbv.de/terminology/bk/53.13
+Electrical measurement and testing technology,http://uri.gbv.de/terminology/bk/53.15
+Electrical and electronic control systems,http://uri.gbv.de/terminology/bk/53.16
+Electrical power engineering: General,http://uri.gbv.de/terminology/bk/53.30
+Electrical power transmission,http://uri.gbv.de/terminology/bk/53.31
+"Low-voltage systems, electrical installation",http://uri.gbv.de/terminology/bk/53.32
+Electrical machines and drives,http://uri.gbv.de/terminology/bk/53.33
+"Power converters, transformers",http://uri.gbv.de/terminology/bk/53.35
+"Direct energy converters, electrical energy storage",http://uri.gbv.de/terminology/bk/53.36
+High-voltage engineering,http://uri.gbv.de/terminology/bk/53.37
+Lighting technology,http://uri.gbv.de/terminology/bk/53.38
+Electrical power engineering: Other,http://uri.gbv.de/terminology/bk/53.39
+Electronics: General,http://uri.gbv.de/terminology/bk/53.50
+Electronic components,http://uri.gbv.de/terminology/bk/53.51
+Electronic circuits,http://uri.gbv.de/terminology/bk/53.52
+"Printed circuit boards, connection technology in electronics",http://uri.gbv.de/terminology/bk/53.53
+Optoelectronics,http://uri.gbv.de/terminology/bk/53.54
+Microelectronics,http://uri.gbv.de/terminology/bk/53.55
+Semiconductor technology,http://uri.gbv.de/terminology/bk/53.56
+Electronics: Other,http://uri.gbv.de/terminology/bk/53.59
+"Telecommunications engineering, communications technology: General",http://uri.gbv.de/terminology/bk/53.70
+Theoretical telecommunications engineering,http://uri.gbv.de/terminology/bk/53.71
+Message switching,http://uri.gbv.de/terminology/bk/53.72
+Message transmission,http://uri.gbv.de/terminology/bk/53.73
+"High-frequency engineering, radio technology",http://uri.gbv.de/terminology/bk/53.74
+Optical communications engineering,http://uri.gbv.de/terminology/bk/53.75
+"Communication services, telecommunications technology",http://uri.gbv.de/terminology/bk/53.76
+Broadcasting technology,http://uri.gbv.de/terminology/bk/53.77
+Television technology,http://uri.gbv.de/terminology/bk/53.78
+"Electroacoustics, sound studio technology",http://uri.gbv.de/terminology/bk/53.79
+"Microwave engineering, extremely high frequency engineering",http://uri.gbv.de/terminology/bk/53.82
+"Surveillance technology, control technology",http://uri.gbv.de/terminology/bk/53.83
+"Positioning technology, radar technology",http://uri.gbv.de/terminology/bk/53.84
+"Telecommunications engineering, communications technology: Other",http://uri.gbv.de/terminology/bk/53.89
+Electrical engineering: Other,http://uri.gbv.de/terminology/bk/53.99
+Computer science,http://uri.gbv.de/terminology/bk/54
+Computer science: General,http://uri.gbv.de/terminology/bk/54.00
+History of computer science,http://uri.gbv.de/terminology/bk/54.01
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/54.04
+Computer science in relation to humans and society,http://uri.gbv.de/terminology/bk/54.08
+Theoretical computer science,http://uri.gbv.de/terminology/bk/54.10
+Data processing systems: General,http://uri.gbv.de/terminology/bk/54.20
+"Computer peripherals, data communication hardware",http://uri.gbv.de/terminology/bk/54.21
+Data storage,http://uri.gbv.de/terminology/bk/54.22
+Computer hardware,http://uri.gbv.de/terminology/bk/54.23
+Parallel data processing,http://uri.gbv.de/terminology/bk/54.25
+Microcomputers,http://uri.gbv.de/terminology/bk/54.26
+Process computers,http://uri.gbv.de/terminology/bk/54.27
+Non-electronic data processing,http://uri.gbv.de/terminology/bk/54.28
+Data processing systems: Other,http://uri.gbv.de/terminology/bk/54.29
+System architecture: General,http://uri.gbv.de/terminology/bk/54.30
+Computer architecture,http://uri.gbv.de/terminology/bk/54.31
+Computer communication,http://uri.gbv.de/terminology/bk/54.32
+Computer evaluation,http://uri.gbv.de/terminology/bk/54.33
+Computer security,http://uri.gbv.de/terminology/bk/54.38
+System architecture: Other,http://uri.gbv.de/terminology/bk/54.39
+Programming: General,http://uri.gbv.de/terminology/bk/54.50
+Programming methodology,http://uri.gbv.de/terminology/bk/54.51
+Software engineering,http://uri.gbv.de/terminology/bk/54.52
+Programming languages,http://uri.gbv.de/terminology/bk/54.53
+Operating systems,http://uri.gbv.de/terminology/bk/54.54
+Markup languages,http://uri.gbv.de/terminology/bk/54.55
+Programming: Other,http://uri.gbv.de/terminology/bk/54.59
+Data processing management,http://uri.gbv.de/terminology/bk/54.61
+Data structures,http://uri.gbv.de/terminology/bk/54.62
+Databases,http://uri.gbv.de/terminology/bk/54.64
+"Web development, web applications",http://uri.gbv.de/terminology/bk/54.65
+Computing methodology: General,http://uri.gbv.de/terminology/bk/54.70
+Logic programming,http://uri.gbv.de/terminology/bk/54.71
+Artificial intelligence,http://uri.gbv.de/terminology/bk/54.72
+Computer graphics,http://uri.gbv.de/terminology/bk/54.73
+Computer vision,http://uri.gbv.de/terminology/bk/54.74
+Natural language processing,http://uri.gbv.de/terminology/bk/54.75
+Computer simulation,http://uri.gbv.de/terminology/bk/54.76
+Computing methodology: Other,http://uri.gbv.de/terminology/bk/54.79
+Applied computer science,http://uri.gbv.de/terminology/bk/54.80
+Application software,http://uri.gbv.de/terminology/bk/54.81
+Word processing,http://uri.gbv.de/terminology/bk/54.82
+Web management,http://uri.gbv.de/terminology/bk/54.84
+Multimedia,http://uri.gbv.de/terminology/bk/54.87
+Computers in leisure,http://uri.gbv.de/terminology/bk/54.88
+Applied computer science: Other,http://uri.gbv.de/terminology/bk/54.89
+Computer science: Other,http://uri.gbv.de/terminology/bk/54.99
+"Transport engineering, transport",http://uri.gbv.de/terminology/bk/55
+"Vehicle technology, transport: General",http://uri.gbv.de/terminology/bk/55.00
+History of transport,http://uri.gbv.de/terminology/bk/55.01
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/55.04
+"Vehicle technology, transport engineering: General",http://uri.gbv.de/terminology/bk/55.10
+Road vehicle technology,http://uri.gbv.de/terminology/bk/55.20
+Motor vehicles,http://uri.gbv.de/terminology/bk/55.21
+"Motor vehicle maintenance, motor vehicle repair",http://uri.gbv.de/terminology/bk/55.23
+"Vehicle operation, driving technique",http://uri.gbv.de/terminology/bk/55.24
+"Rail vehicle technology, railway engineering",http://uri.gbv.de/terminology/bk/55.30
+Rail vehicles,http://uri.gbv.de/terminology/bk/55.31
+Railway operations technology,http://uri.gbv.de/terminology/bk/55.34
+Special railways,http://uri.gbv.de/terminology/bk/55.39
+"Ship technology, shipbuilding",http://uri.gbv.de/terminology/bk/55.40
+Ships,http://uri.gbv.de/terminology/bk/55.41
+Ship navigation,http://uri.gbv.de/terminology/bk/55.44
+"Amphibious vehicles, hovercraft",http://uri.gbv.de/terminology/bk/55.45
+Aircraft technology,http://uri.gbv.de/terminology/bk/55.50
+Airplanes,http://uri.gbv.de/terminology/bk/55.51
+Flight navigation,http://uri.gbv.de/terminology/bk/55.54
+"Balloons, airships, parachutes",http://uri.gbv.de/terminology/bk/55.59
+Space technology,http://uri.gbv.de/terminology/bk/55.60
+Spacecraft,http://uri.gbv.de/terminology/bk/55.61
+Spacecraft navigation,http://uri.gbv.de/terminology/bk/55.64
+"Vehicle technology, transport engineering: Other",http://uri.gbv.de/terminology/bk/55.79
+"Transport, transport systems: General",http://uri.gbv.de/terminology/bk/55.80
+Passenger transport,http://uri.gbv.de/terminology/bk/55.81
+Freight transport,http://uri.gbv.de/terminology/bk/55.82
+"Urban transport, local transport",http://uri.gbv.de/terminology/bk/55.83
+Road transport,http://uri.gbv.de/terminology/bk/55.84
+Rail transport,http://uri.gbv.de/terminology/bk/55.85
+"Shipping, navigation",http://uri.gbv.de/terminology/bk/55.86
+"Air transport, space travel",http://uri.gbv.de/terminology/bk/55.88
+"Transport, transportation: Other",http://uri.gbv.de/terminology/bk/55.89
+"Vehicle technology, transport: Other",http://uri.gbv.de/terminology/bk/55.99
+Construction engineering,http://uri.gbv.de/terminology/bk/56
+Construction engineering: General,http://uri.gbv.de/terminology/bk/56.00
+History of civil engineering,http://uri.gbv.de/terminology/bk/56.01
+Methods in civil engineering,http://uri.gbv.de/terminology/bk/56.03
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/56.04
+Construction preparation,http://uri.gbv.de/terminology/bk/56.08
+Structural engineering: General,http://uri.gbv.de/terminology/bk/56.10
+Building construction,http://uri.gbv.de/terminology/bk/56.11
+Concrete construction,http://uri.gbv.de/terminology/bk/56.12
+"Steel construction, metal construction",http://uri.gbv.de/terminology/bk/56.13
+Timber construction,http://uri.gbv.de/terminology/bk/56.14
+"Solid construction, masonry construction",http://uri.gbv.de/terminology/bk/56.15
+Structural engineering: Other,http://uri.gbv.de/terminology/bk/56.19
+"Engineering geology, soil mechanics",http://uri.gbv.de/terminology/bk/56.20
+"Earthworks, civil engineering, foundation engineering",http://uri.gbv.de/terminology/bk/56.21
+"Underground construction, tunnel construction",http://uri.gbv.de/terminology/bk/56.22
+Bridge construction,http://uri.gbv.de/terminology/bk/56.23
+Road construction,http://uri.gbv.de/terminology/bk/56.24
+"Railway construction, track construction",http://uri.gbv.de/terminology/bk/56.25
+Hydraulic engineering,http://uri.gbv.de/terminology/bk/56.30
+"Hydraulic engineering geology, hydraulic engineering hydrology",http://uri.gbv.de/terminology/bk/56.31
+"Urban water management, industrial water management",http://uri.gbv.de/terminology/bk/56.35
+Construction management,http://uri.gbv.de/terminology/bk/56.40
+Building materials science,http://uri.gbv.de/terminology/bk/56.45
+"Building finishing, finishing trades",http://uri.gbv.de/terminology/bk/56.46
+"Building maintenance, building renovation, structural damage",http://uri.gbv.de/terminology/bk/56.47
+Building services engineering,http://uri.gbv.de/terminology/bk/56.50
+"Building physics, structural protection",http://uri.gbv.de/terminology/bk/56.55
+"Civil engineering, construction technology: Other",http://uri.gbv.de/terminology/bk/56.59
+Architecture: General,http://uri.gbv.de/terminology/bk/56.60
+Architectural drawing,http://uri.gbv.de/terminology/bk/56.61
+"Architectural theory, architectural development",http://uri.gbv.de/terminology/bk/56.62
+"Architects, master builders",http://uri.gbv.de/terminology/bk/56.63
+Architectural design,http://uri.gbv.de/terminology/bk/56.64
+"Building ecology, building biology",http://uri.gbv.de/terminology/bk/56.65
+Building components,http://uri.gbv.de/terminology/bk/56.66
+Building typology: General,http://uri.gbv.de/terminology/bk/56.80
+Housing construction,http://uri.gbv.de/terminology/bk/56.81
+"Administrative buildings, commercial buildings",http://uri.gbv.de/terminology/bk/56.82
+Industrial construction,http://uri.gbv.de/terminology/bk/56.83
+"School buildings, library buildings, museum buildings, theatre buildings",http://uri.gbv.de/terminology/bk/56.84
+"Sports facilities, leisure facilities",http://uri.gbv.de/terminology/bk/56.85
+"Social buildings, hospital construction",http://uri.gbv.de/terminology/bk/56.86
+"Hotel construction, trade fair architecture",http://uri.gbv.de/terminology/bk/56.87
+Sacred buildings,http://uri.gbv.de/terminology/bk/56.88
+Building typology: Other,http://uri.gbv.de/terminology/bk/56.89
+Architecture: Other,http://uri.gbv.de/terminology/bk/56.90
+Construction engineering: Other,http://uri.gbv.de/terminology/bk/56.99
+Mining,http://uri.gbv.de/terminology/bk/57
+Mining: General,http://uri.gbv.de/terminology/bk/57.00
+History of mining,http://uri.gbv.de/terminology/bk/57.01
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/57.04
+"Mine surveying, mining damage studies",http://uri.gbv.de/terminology/bk/57.08
+"Underground mining, mines",http://uri.gbv.de/terminology/bk/57.10
+"Mine safety, mine climate",http://uri.gbv.de/terminology/bk/57.11
+Open-cast mining,http://uri.gbv.de/terminology/bk/57.12
+Marine mining,http://uri.gbv.de/terminology/bk/57.14
+Deep drilling technology,http://uri.gbv.de/terminology/bk/57.18
+Exploration and prospecting of mineral resources,http://uri.gbv.de/terminology/bk/57.20
+Extraction of mineral resources: General,http://uri.gbv.de/terminology/bk/57.30
+Ore mining,http://uri.gbv.de/terminology/bk/57.31
+Extraction of fossil fuels,http://uri.gbv.de/terminology/bk/57.35
+"Oil extraction, natural gas extraction",http://uri.gbv.de/terminology/bk/57.36
+Coal mining,http://uri.gbv.de/terminology/bk/57.37
+Extraction of stone and earth,http://uri.gbv.de/terminology/bk/57.40
+Salt extraction,http://uri.gbv.de/terminology/bk/57.45
+Extraction of other mineral resources,http://uri.gbv.de/terminology/bk/57.49
+Processing of mineral resources,http://uri.gbv.de/terminology/bk/57.50
+Waste disposal mining,http://uri.gbv.de/terminology/bk/57.60
+Mining: Other,http://uri.gbv.de/terminology/bk/57.99
+"Chemical engineering, environmental engineering, various technologies",http://uri.gbv.de/terminology/bk/58
+Chemical engineering: General,http://uri.gbv.de/terminology/bk/58.00
+History of chemical engineering,http://uri.gbv.de/terminology/bk/58.01
+Methods and techniques of chemical engineering,http://uri.gbv.de/terminology/bk/58.03
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/58.04
+Process engineering: General,http://uri.gbv.de/terminology/bk/58.10
+Mechanical process engineering,http://uri.gbv.de/terminology/bk/58.11
+Thermal process engineering,http://uri.gbv.de/terminology/bk/58.13
+Chemical reaction engineering,http://uri.gbv.de/terminology/bk/58.14
+Chemical plant construction,http://uri.gbv.de/terminology/bk/58.16
+Chemical process engineering,http://uri.gbv.de/terminology/bk/58.17
+Chemical plant operation,http://uri.gbv.de/terminology/bk/58.18
+Process engineering: Other,http://uri.gbv.de/terminology/bk/58.19
+Chemical technologies: General,http://uri.gbv.de/terminology/bk/58.20
+"Fuels, motor fuels, explosives",http://uri.gbv.de/terminology/bk/58.21
+Plastics technology,http://uri.gbv.de/terminology/bk/58.22
+Paint and varnish technology,http://uri.gbv.de/terminology/bk/58.26
+Agricultural and forestry chemicals technology,http://uri.gbv.de/terminology/bk/58.27
+Pharmaceutical technology,http://uri.gbv.de/terminology/bk/58.28
+Chemical technologies: Other,http://uri.gbv.de/terminology/bk/58.29
+Biotechnology,http://uri.gbv.de/terminology/bk/58.30
+Food technology,http://uri.gbv.de/terminology/bk/58.34
+Various industries: General,http://uri.gbv.de/terminology/bk/58.40
+Metallurgy,http://uri.gbv.de/terminology/bk/58.41
+Rock metallurgy,http://uri.gbv.de/terminology/bk/58.45
+Wood industry,http://uri.gbv.de/terminology/bk/58.46
+"Pulp industry, paper industry",http://uri.gbv.de/terminology/bk/58.47
+Textile industry,http://uri.gbv.de/terminology/bk/58.48
+Various industries: Other,http://uri.gbv.de/terminology/bk/58.49
+Environmental engineering: General,http://uri.gbv.de/terminology/bk/58.50
+"Wastewater engineering, water treatment",http://uri.gbv.de/terminology/bk/58.51
+"Technical soil protection, technical water protection",http://uri.gbv.de/terminology/bk/58.52
+Waste management,http://uri.gbv.de/terminology/bk/58.53
+Radioactive waste and its treatment,http://uri.gbv.de/terminology/bk/58.54
+Air pollution control,http://uri.gbv.de/terminology/bk/58.55
+"Noise protection, vibration damping",http://uri.gbv.de/terminology/bk/58.56
+Environmental engineering: Other,http://uri.gbv.de/terminology/bk/58.59
+Chemical engineering: Other,http://uri.gbv.de/terminology/bk/58.99
+Social sciences in general,http://uri.gbv.de/terminology/bk/70
+Social sciences in general: General,http://uri.gbv.de/terminology/bk/70.00
+History of the social sciences,http://uri.gbv.de/terminology/bk/70.01
+Philosophy and theory of the social sciences,http://uri.gbv.de/terminology/bk/70.02
+"Methods, techniques and organization of social science research",http://uri.gbv.de/terminology/bk/70.03
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/70.04
+Social sciences in general: Other,http://uri.gbv.de/terminology/bk/70.99
+Sociology,http://uri.gbv.de/terminology/bk/71
+Sociology: General,http://uri.gbv.de/terminology/bk/71.00
+History of sociology,http://uri.gbv.de/terminology/bk/71.01
+Theory of sociology,http://uri.gbv.de/terminology/bk/71.02
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/71.04
+Sociological schools,http://uri.gbv.de/terminology/bk/71.05
+Sociography,http://uri.gbv.de/terminology/bk/71.07
+Social structure: General,http://uri.gbv.de/terminology/bk/71.10
+Society,http://uri.gbv.de/terminology/bk/71.11
+"Social stratification, social mobility",http://uri.gbv.de/terminology/bk/71.12
+Social milieu,http://uri.gbv.de/terminology/bk/71.13
+Urban society,http://uri.gbv.de/terminology/bk/71.14
+Rural society,http://uri.gbv.de/terminology/bk/71.15
+Social structure: Other,http://uri.gbv.de/terminology/bk/71.19
+Forms of living together: General,http://uri.gbv.de/terminology/bk/71.20
+"Family, kinship",http://uri.gbv.de/terminology/bk/71.21
+Marriage,http://uri.gbv.de/terminology/bk/71.22
+Non-marital cohabitation,http://uri.gbv.de/terminology/bk/71.23
+Single people,http://uri.gbv.de/terminology/bk/71.24
+Sexuality,http://uri.gbv.de/terminology/bk/71.25
+Forms of living together: Other,http://uri.gbv.de/terminology/bk/71.29
+Social groups: General,http://uri.gbv.de/terminology/bk/71.30
+Genders and their behaviour,http://uri.gbv.de/terminology/bk/71.31
+Men,http://uri.gbv.de/terminology/bk/71.32
+Women,http://uri.gbv.de/terminology/bk/71.33
+Age groups,http://uri.gbv.de/terminology/bk/71.34
+"Sociology of childhood, sociology of youth",http://uri.gbv.de/terminology/bk/71.35
+Sociology of ageing,http://uri.gbv.de/terminology/bk/71.36
+Ethnosociology,http://uri.gbv.de/terminology/bk/71.37
+Social movements,http://uri.gbv.de/terminology/bk/71.38
+Social groups: Other,http://uri.gbv.de/terminology/bk/71.39
+Social processes: General,http://uri.gbv.de/terminology/bk/71.40
+Social change,http://uri.gbv.de/terminology/bk/71.41
+Economic factors,http://uri.gbv.de/terminology/bk/71.42
+Technological factors,http://uri.gbv.de/terminology/bk/71.43
+Group processes,http://uri.gbv.de/terminology/bk/71.44
+Social processes: Other,http://uri.gbv.de/terminology/bk/71.49
+Sociology of culture: General,http://uri.gbv.de/terminology/bk/71.50
+"Values, norms",http://uri.gbv.de/terminology/bk/71.51
+Cultural processes,http://uri.gbv.de/terminology/bk/71.52
+Sociology of culture: Other,http://uri.gbv.de/terminology/bk/71.59
+"Social issues, social conflicts: General",http://uri.gbv.de/terminology/bk/71.60
+Discrimination,http://uri.gbv.de/terminology/bk/71.61
+Ethnic relations,http://uri.gbv.de/terminology/bk/71.62
+Minority issues,http://uri.gbv.de/terminology/bk/71.63
+Deviant behaviour,http://uri.gbv.de/terminology/bk/71.64
+Crime as a social problem,http://uri.gbv.de/terminology/bk/71.65
+Addiction as a social problem,http://uri.gbv.de/terminology/bk/71.66
+Sexuality as a social problem,http://uri.gbv.de/terminology/bk/71.67
+Socially disadvantaged people,http://uri.gbv.de/terminology/bk/71.68
+People with disabilities,http://uri.gbv.de/terminology/bk/71.70
+"Social issues, social conflicts: Other",http://uri.gbv.de/terminology/bk/71.79
+Social policy: General,http://uri.gbv.de/terminology/bk/71.80
+Social assistance,http://uri.gbv.de/terminology/bk/71.81
+Housing policy,http://uri.gbv.de/terminology/bk/71.83
+Social security,http://uri.gbv.de/terminology/bk/71.85
+Social policy: Other,http://uri.gbv.de/terminology/bk/71.89
+Sociology: Other,http://uri.gbv.de/terminology/bk/71.99
+"Ethnology, folklore",http://uri.gbv.de/terminology/bk/73
+Ethnology: General,http://uri.gbv.de/terminology/bk/73.00
+History of ethnology,http://uri.gbv.de/terminology/bk/73.01
+Philosophy and theory of ethnology,http://uri.gbv.de/terminology/bk/73.02
+Methods and techniques of ethnology,http://uri.gbv.de/terminology/bk/73.03
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/73.04
+Ethnological museums,http://uri.gbv.de/terminology/bk/73.05
+Ethnography,http://uri.gbv.de/terminology/bk/73.06
+Development ethnology,http://uri.gbv.de/terminology/bk/73.07
+Regional ethnology,http://uri.gbv.de/terminology/bk/73.08
+"Environment and culture, cultural ecology: General",http://uri.gbv.de/terminology/bk/73.10
+Natural environment,http://uri.gbv.de/terminology/bk/73.11
+Demography,http://uri.gbv.de/terminology/bk/73.12
+Settlement patterns,http://uri.gbv.de/terminology/bk/73.13
+"Environment and culture, cultural ecology: Other",http://uri.gbv.de/terminology/bk/73.19
+Material culture: General,http://uri.gbv.de/terminology/bk/73.20
+Everyday objects,http://uri.gbv.de/terminology/bk/73.21
+Clothing,http://uri.gbv.de/terminology/bk/73.22
+"Dwellings, buildings",http://uri.gbv.de/terminology/bk/73.24
+"Nutrition, food preparation",http://uri.gbv.de/terminology/bk/73.25
+Material culture: Other,http://uri.gbv.de/terminology/bk/73.29
+Economic ethnology: General,http://uri.gbv.de/terminology/bk/73.30
+"Agriculture, animal husbandry",http://uri.gbv.de/terminology/bk/73.31
+"Hunting, gathering",http://uri.gbv.de/terminology/bk/73.32
+"Crafts, trade, exchange",http://uri.gbv.de/terminology/bk/73.34
+Economic ethnology: Other,http://uri.gbv.de/terminology/bk/73.39
+Social ethnology: General,http://uri.gbv.de/terminology/bk/73.40
+Descent,http://uri.gbv.de/terminology/bk/73.41
+"Age groups, initiation, socialization",http://uri.gbv.de/terminology/bk/73.42
+"Family, kinship, marriage",http://uri.gbv.de/terminology/bk/73.43
+"Sexuality, gender",http://uri.gbv.de/terminology/bk/73.44
+"Individual social groups, outsiders, marginal groups",http://uri.gbv.de/terminology/bk/73.45
+Social ethnology: Other,http://uri.gbv.de/terminology/bk/73.49
+Cultural change,http://uri.gbv.de/terminology/bk/73.50
+Intangible culture,http://uri.gbv.de/terminology/bk/73.53
+Ethnology of religion: General,http://uri.gbv.de/terminology/bk/73.55
+Mythology,http://uri.gbv.de/terminology/bk/73.56
+"Cults, rites",http://uri.gbv.de/terminology/bk/73.57
+Magic,http://uri.gbv.de/terminology/bk/73.58
+Ethnology of religion: Other,http://uri.gbv.de/terminology/bk/73.59
+Ethnotheory,http://uri.gbv.de/terminology/bk/73.61
+"Ethnology of art, ethnomusicology",http://uri.gbv.de/terminology/bk/73.62
+Oral traditions,http://uri.gbv.de/terminology/bk/73.63
+"Language, communication",http://uri.gbv.de/terminology/bk/73.64
+Education,http://uri.gbv.de/terminology/bk/73.65
+"Games, festivals, movement culture",http://uri.gbv.de/terminology/bk/73.66
+Political ethnology: General,http://uri.gbv.de/terminology/bk/73.70
+"Law, norms",http://uri.gbv.de/terminology/bk/73.71
+Political forms of organization,http://uri.gbv.de/terminology/bk/73.72
+Ethnic identity,http://uri.gbv.de/terminology/bk/73.73
+Interethnic relations,http://uri.gbv.de/terminology/bk/73.74
+Political ethnology: Other,http://uri.gbv.de/terminology/bk/73.76
+Ethnopsychology,http://uri.gbv.de/terminology/bk/73.78
+Ethnology: Other,http://uri.gbv.de/terminology/bk/73.79
+Folklore: General,http://uri.gbv.de/terminology/bk/73.80
+"History, theory and methods of folklore",http://uri.gbv.de/terminology/bk/73.81
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/73.82
+Regional folklore,http://uri.gbv.de/terminology/bk/73.83
+Environment and culture,http://uri.gbv.de/terminology/bk/73.84
+Material culture: General,http://uri.gbv.de/terminology/bk/73.85
+"Clothing, fashion",http://uri.gbv.de/terminology/bk/73.86
+"Architecture, building, housing",http://uri.gbv.de/terminology/bk/73.87
+"Nutrition, food preparation",http://uri.gbv.de/terminology/bk/73.88
+Material culture: Other,http://uri.gbv.de/terminology/bk/73.89
+Cultural aspects of economy and working life,http://uri.gbv.de/terminology/bk/73.90
+Customs and traditions,http://uri.gbv.de/terminology/bk/73.91
+"Life course, family",http://uri.gbv.de/terminology/bk/73.92
+Intangible culture,http://uri.gbv.de/terminology/bk/73.93
+"Folk knowledge, cultural techniques",http://uri.gbv.de/terminology/bk/73.94
+"Signs, symbols",http://uri.gbv.de/terminology/bk/73.95
+Ethnic identity,http://uri.gbv.de/terminology/bk/73.96
+Interethnic relations,http://uri.gbv.de/terminology/bk/73.97
+Folklore: Other,http://uri.gbv.de/terminology/bk/73.99
+"Geography, regional planning, urban planning",http://uri.gbv.de/terminology/bk/74
+"Geography, human geography: General",http://uri.gbv.de/terminology/bk/74.00
+History of geography and human geography,http://uri.gbv.de/terminology/bk/74.01
+Theory of geography and human geography,http://uri.gbv.de/terminology/bk/74.02
+Methods and techniques of geography and human geography,http://uri.gbv.de/terminology/bk/74.03
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/74.04
+"Travel accounts, history of travel",http://uri.gbv.de/terminology/bk/74.05
+Historical geography,http://uri.gbv.de/terminology/bk/74.07
+Economic geography,http://uri.gbv.de/terminology/bk/74.08
+Social geography,http://uri.gbv.de/terminology/bk/74.09
+Political geography,http://uri.gbv.de/terminology/bk/74.10
+Cultural landscape,http://uri.gbv.de/terminology/bk/74.11
+"Urban geography, settlement geography",http://uri.gbv.de/terminology/bk/74.12
+Earth,http://uri.gbv.de/terminology/bk/74.13
+Large regions,http://uri.gbv.de/terminology/bk/74.15
+World oceans,http://uri.gbv.de/terminology/bk/74.17
+Europe,http://uri.gbv.de/terminology/bk/74.19
+"Germany, Austria, Switzerland",http://uri.gbv.de/terminology/bk/74.20
+Asia,http://uri.gbv.de/terminology/bk/74.21
+Africa,http://uri.gbv.de/terminology/bk/74.23
+America,http://uri.gbv.de/terminology/bk/74.24
+North America,http://uri.gbv.de/terminology/bk/74.25
+"Central America, South America",http://uri.gbv.de/terminology/bk/74.26
+"Australia, Oceania",http://uri.gbv.de/terminology/bk/74.27
+Polar regions,http://uri.gbv.de/terminology/bk/74.28
+"Geography, human geography: Other",http://uri.gbv.de/terminology/bk/74.29
+Cartography: General,http://uri.gbv.de/terminology/bk/74.30
+History of cartography,http://uri.gbv.de/terminology/bk/74.31
+Topographic cartography,http://uri.gbv.de/terminology/bk/74.35
+Thematic cartography,http://uri.gbv.de/terminology/bk/74.37
+Map production,http://uri.gbv.de/terminology/bk/74.40
+"Aerial photographs, photogrammetry",http://uri.gbv.de/terminology/bk/74.41
+Map use,http://uri.gbv.de/terminology/bk/74.47
+Geographic information systems,http://uri.gbv.de/terminology/bk/74.48
+Cartography: Other,http://uri.gbv.de/terminology/bk/74.49
+"Atlases, maps",http://uri.gbv.de/terminology/bk/74.50X
+"Regional planning, urban planning: General",http://uri.gbv.de/terminology/bk/74.60
+History of regional planning,http://uri.gbv.de/terminology/bk/74.61
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/74.64
+"National planning, supranational planning",http://uri.gbv.de/terminology/bk/74.69
+State planning,http://uri.gbv.de/terminology/bk/74.70
+Regional planning,http://uri.gbv.de/terminology/bk/74.71
+"Urban planning, municipal planning",http://uri.gbv.de/terminology/bk/74.72
+"Urban renewal, urban regeneration",http://uri.gbv.de/terminology/bk/74.73
+Rural planning,http://uri.gbv.de/terminology/bk/74.74
+"Transport planning, transport policy",http://uri.gbv.de/terminology/bk/74.75
+"Landscape planning, landscape conservation",http://uri.gbv.de/terminology/bk/74.77
+"Regional planning, urban planning: Other",http://uri.gbv.de/terminology/bk/74.79
+Demography,http://uri.gbv.de/terminology/bk/74.80
+Population policy,http://uri.gbv.de/terminology/bk/74.95
+"Sport, leisure, recreation",http://uri.gbv.de/terminology/bk/76
+"Sport, leisure, recreation: General",http://uri.gbv.de/terminology/bk/76.00
+"History of sport, leisure and recreation",http://uri.gbv.de/terminology/bk/76.01
+"Philosophy and theory of sport, leisure and recreation",http://uri.gbv.de/terminology/bk/76.02
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/76.04
+"Sport, sports science: General",http://uri.gbv.de/terminology/bk/76.10
+"Sociology of sport, sport psychology",http://uri.gbv.de/terminology/bk/76.11
+"Biomechanics, movement science",http://uri.gbv.de/terminology/bk/76.12
+Types of sport: General,http://uri.gbv.de/terminology/bk/76.13
+Team sports,http://uri.gbv.de/terminology/bk/76.14
+Athletics,http://uri.gbv.de/terminology/bk/76.15
+Swimming,http://uri.gbv.de/terminology/bk/76.16
+"Gymnastics, callisthenics",http://uri.gbv.de/terminology/bk/76.17
+"Strength sports, combat sports",http://uri.gbv.de/terminology/bk/76.18
+Types of sport: Other,http://uri.gbv.de/terminology/bk/76.19
+Sports organization,http://uri.gbv.de/terminology/bk/76.20
+Sports clubs,http://uri.gbv.de/terminology/bk/76.21
+Sports facilities,http://uri.gbv.de/terminology/bk/76.22
+"Sports equipment, sports gear",http://uri.gbv.de/terminology/bk/76.23
+Sport for special target groups,http://uri.gbv.de/terminology/bk/76.24
+Competitions,http://uri.gbv.de/terminology/bk/76.25
+"Sport, sports science: Other",http://uri.gbv.de/terminology/bk/76.29
+Games,http://uri.gbv.de/terminology/bk/76.30
+"Leisure activities, hobbies: General",http://uri.gbv.de/terminology/bk/76.40
+Gardening,http://uri.gbv.de/terminology/bk/76.41
+"Crafts, do-it-yourself",http://uri.gbv.de/terminology/bk/76.44
+"Leisure activities, hobbies: Other",http://uri.gbv.de/terminology/bk/76.49
+Club life,http://uri.gbv.de/terminology/bk/76.50
+"Recreation, tourism: General",http://uri.gbv.de/terminology/bk/76.60
+Public entertainment events,http://uri.gbv.de/terminology/bk/76.61
+Leisure facilities,http://uri.gbv.de/terminology/bk/76.62
+Tourist accommodation,http://uri.gbv.de/terminology/bk/76.70
+"Holiday planning, holiday travel behaviour",http://uri.gbv.de/terminology/bk/76.72
+Recreation and tourism: Other,http://uri.gbv.de/terminology/bk/76.79
+"Sport, leisure, recreation: Other",http://uri.gbv.de/terminology/bk/76.99
+Psychology,http://uri.gbv.de/terminology/bk/77
+Psychology: General,http://uri.gbv.de/terminology/bk/77.00
+History of psychology,http://uri.gbv.de/terminology/bk/77.01
+Philosophy and theory of psychology,http://uri.gbv.de/terminology/bk/77.02
+Methods and techniques of psychology,http://uri.gbv.de/terminology/bk/77.03
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/77.04
+Experimental psychology,http://uri.gbv.de/terminology/bk/77.05
+Psychological assessment,http://uri.gbv.de/terminology/bk/77.08
+Trends and schools in psychology: General,http://uri.gbv.de/terminology/bk/77.10
+Psychology of consciousness,http://uri.gbv.de/terminology/bk/77.11
+Gestalt psychology,http://uri.gbv.de/terminology/bk/77.12
+Depth psychology,http://uri.gbv.de/terminology/bk/77.13
+Psychoanalysis,http://uri.gbv.de/terminology/bk/77.14
+Analytical psychology,http://uri.gbv.de/terminology/bk/77.15
+Individual psychology,http://uri.gbv.de/terminology/bk/77.16
+Neo-psychoanalysis,http://uri.gbv.de/terminology/bk/77.17
+Ego psychology,http://uri.gbv.de/terminology/bk/77.18
+Behaviorism,http://uri.gbv.de/terminology/bk/77.20
+Humanistic psychology,http://uri.gbv.de/terminology/bk/77.21
+Phenomenological psychology,http://uri.gbv.de/terminology/bk/77.22
+Historical psychology,http://uri.gbv.de/terminology/bk/77.23
+Critical psychology,http://uri.gbv.de/terminology/bk/77.24
+Trends and schools in psychology: Other,http://uri.gbv.de/terminology/bk/77.29
+General psychology: General,http://uri.gbv.de/terminology/bk/77.30
+Cognition,http://uri.gbv.de/terminology/bk/77.31
+Psychology of learning,http://uri.gbv.de/terminology/bk/77.34
+Attention,http://uri.gbv.de/terminology/bk/77.37
+Psychology of perception,http://uri.gbv.de/terminology/bk/77.40
+Psychology of motivation,http://uri.gbv.de/terminology/bk/77.45
+Emotion,http://uri.gbv.de/terminology/bk/77.46
+States of consciousness,http://uri.gbv.de/terminology/bk/77.47
+Psychomotor skills,http://uri.gbv.de/terminology/bk/77.48
+General psychology: Other,http://uri.gbv.de/terminology/bk/77.49
+Psychophysiology,http://uri.gbv.de/terminology/bk/77.50
+Comparative psychology,http://uri.gbv.de/terminology/bk/77.51
+Differential psychology,http://uri.gbv.de/terminology/bk/77.52
+Developmental psychology: General,http://uri.gbv.de/terminology/bk/77.53
+Child psychology,http://uri.gbv.de/terminology/bk/77.55
+Adolescent psychology,http://uri.gbv.de/terminology/bk/77.56
+Adult psychology,http://uri.gbv.de/terminology/bk/77.57
+Psychology of ageing,http://uri.gbv.de/terminology/bk/77.58
+Developmental psychology: Other,http://uri.gbv.de/terminology/bk/77.59
+Social psychology: General,http://uri.gbv.de/terminology/bk/77.60
+"Attitude, prejudice, influence",http://uri.gbv.de/terminology/bk/77.61
+"Social perception, attribution",http://uri.gbv.de/terminology/bk/77.62
+"Social interaction, social relationships",http://uri.gbv.de/terminology/bk/77.63
+Group dynamics,http://uri.gbv.de/terminology/bk/77.64
+Mass psychology,http://uri.gbv.de/terminology/bk/77.65
+Social psychology: Other,http://uri.gbv.de/terminology/bk/77.69
+Clinical psychology,http://uri.gbv.de/terminology/bk/77.70
+"Treatment, rehabilitation: General",http://uri.gbv.de/terminology/bk/77.71
+Psychotherapy: General,http://uri.gbv.de/terminology/bk/77.72
+"Autogenic training, relaxation therapy",http://uri.gbv.de/terminology/bk/77.73
+Cognitive psychotherapy,http://uri.gbv.de/terminology/bk/77.74
+Behavioural therapy,http://uri.gbv.de/terminology/bk/77.75
+Group therapy,http://uri.gbv.de/terminology/bk/77.76
+Humanistic therapy,http://uri.gbv.de/terminology/bk/77.77
+Psychoanalytic therapy,http://uri.gbv.de/terminology/bk/77.78
+Psychotherapy: Other,http://uri.gbv.de/terminology/bk/77.79
+Special interventions,http://uri.gbv.de/terminology/bk/77.80
+Rehabilitation,http://uri.gbv.de/terminology/bk/77.82
+"Treatment, rehabilitation: Other",http://uri.gbv.de/terminology/bk/77.83
+Crisis management,http://uri.gbv.de/terminology/bk/77.84
+Sexual psychology,http://uri.gbv.de/terminology/bk/77.85
+Ecological psychology,http://uri.gbv.de/terminology/bk/77.91
+Parapsychology,http://uri.gbv.de/terminology/bk/77.92
+Applied psychology,http://uri.gbv.de/terminology/bk/77.93
+Psychology: Other,http://uri.gbv.de/terminology/bk/77.99
+"Social pedagogy, social work",http://uri.gbv.de/terminology/bk/79
+"Social pedagogy, social work: General",http://uri.gbv.de/terminology/bk/79.00
+History of social pedagogy and social work,http://uri.gbv.de/terminology/bk/79.01
+Theory of social pedagogy and social work,http://uri.gbv.de/terminology/bk/79.02
+Methods and techniques of social pedagogy and social work,http://uri.gbv.de/terminology/bk/79.03
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/79.04
+Social work: General,http://uri.gbv.de/terminology/bk/79.10
+Social services,http://uri.gbv.de/terminology/bk/79.12
+Services for older people,http://uri.gbv.de/terminology/bk/79.13
+Services for people with disabilities,http://uri.gbv.de/terminology/bk/79.14
+Family support services,http://uri.gbv.de/terminology/bk/79.15
+Youth services,http://uri.gbv.de/terminology/bk/79.16
+Social work in life and family crises,http://uri.gbv.de/terminology/bk/79.17
+Social work with minorities,http://uri.gbv.de/terminology/bk/79.18
+Rehabilitation of offenders,http://uri.gbv.de/terminology/bk/79.20
+Services for the homeless,http://uri.gbv.de/terminology/bk/79.21
+Social work with people with addictions,http://uri.gbv.de/terminology/bk/79.22
+"Assistance for victims of wars, disasters or accidents",http://uri.gbv.de/terminology/bk/79.23
+Social work: Other,http://uri.gbv.de/terminology/bk/79.29
+Counselling studies,http://uri.gbv.de/terminology/bk/79.30
+Occupational social work,http://uri.gbv.de/terminology/bk/79.40
+Community work,http://uri.gbv.de/terminology/bk/79.50
+Educational work: General,http://uri.gbv.de/terminology/bk/79.60
+"Club work, neighbourhood work",http://uri.gbv.de/terminology/bk/79.61
+Cultural work,http://uri.gbv.de/terminology/bk/79.62
+Adult education,http://uri.gbv.de/terminology/bk/79.63
+Adult education institutions,http://uri.gbv.de/terminology/bk/79.64
+Lifelong learning,http://uri.gbv.de/terminology/bk/79.65
+Educational work: Other,http://uri.gbv.de/terminology/bk/79.69
+"Social pedagogy, social work: Other",http://uri.gbv.de/terminology/bk/79.99
+Pedagogy,http://uri.gbv.de/terminology/bk/80
+Pedagogy: General,http://uri.gbv.de/terminology/bk/80.00
+History of pedagogy and education,http://uri.gbv.de/terminology/bk/80.01
+Philosophy and theory of pedagogy,http://uri.gbv.de/terminology/bk/80.02
+Methods and techniques of pedagogy,http://uri.gbv.de/terminology/bk/80.03
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/80.04
+Main trends in pedagogy,http://uri.gbv.de/terminology/bk/80.10
+Subfields of pedagogy,http://uri.gbv.de/terminology/bk/80.20
+Special education: General,http://uri.gbv.de/terminology/bk/80.25
+Education for people with intellectual disabilities,http://uri.gbv.de/terminology/bk/80.26
+Education for people with physical disabilities,http://uri.gbv.de/terminology/bk/80.27
+Education for people with behavioural disorders,http://uri.gbv.de/terminology/bk/80.28
+Education for the hearing impaired,http://uri.gbv.de/terminology/bk/80.29
+Education for the visually impaired,http://uri.gbv.de/terminology/bk/80.30
+Speech therapy education,http://uri.gbv.de/terminology/bk/80.31
+Special education: Other,http://uri.gbv.de/terminology/bk/80.34
+Comparative education,http://uri.gbv.de/terminology/bk/80.35
+Education and society,http://uri.gbv.de/terminology/bk/80.36
+Subfields of pedagogy: Other,http://uri.gbv.de/terminology/bk/80.39
+Educational content: General,http://uri.gbv.de/terminology/bk/80.40
+Personality education,http://uri.gbv.de/terminology/bk/80.41
+Affective education,http://uri.gbv.de/terminology/bk/80.42
+Intellectual education,http://uri.gbv.de/terminology/bk/80.43
+Social education,http://uri.gbv.de/terminology/bk/80.44
+Ethical education,http://uri.gbv.de/terminology/bk/80.45
+Physical education,http://uri.gbv.de/terminology/bk/80.46
+Sex education,http://uri.gbv.de/terminology/bk/80.47
+Aesthetic education,http://uri.gbv.de/terminology/bk/80.48
+Media education,http://uri.gbv.de/terminology/bk/80.49
+Health education,http://uri.gbv.de/terminology/bk/80.50
+Religious education,http://uri.gbv.de/terminology/bk/80.51
+Work studies,http://uri.gbv.de/terminology/bk/80.55
+Intercultural education,http://uri.gbv.de/terminology/bk/80.57
+Educational content: Other,http://uri.gbv.de/terminology/bk/80.59
+"Writing instruction, reading instruction",http://uri.gbv.de/terminology/bk/80.60
+Educational practice,http://uri.gbv.de/terminology/bk/80.70
+Educational environment: General,http://uri.gbv.de/terminology/bk/80.80
+Social environment,http://uri.gbv.de/terminology/bk/80.81
+Education within the family,http://uri.gbv.de/terminology/bk/80.82
+Education in educational institutions,http://uri.gbv.de/terminology/bk/80.83
+Educational environment: Other,http://uri.gbv.de/terminology/bk/80.89
+Pedagogy: Other,http://uri.gbv.de/terminology/bk/80.99
+Education system,http://uri.gbv.de/terminology/bk/81
+Education system: General,http://uri.gbv.de/terminology/bk/81.00
+History of the education system,http://uri.gbv.de/terminology/bk/81.01
+Philosophy and theory of the education system,http://uri.gbv.de/terminology/bk/81.02
+Educational research,http://uri.gbv.de/terminology/bk/81.05
+Education policy: General,http://uri.gbv.de/terminology/bk/81.10
+Right to education,http://uri.gbv.de/terminology/bk/81.11
+Development of the education system,http://uri.gbv.de/terminology/bk/81.12
+Educational planning,http://uri.gbv.de/terminology/bk/81.13
+Economics of education,http://uri.gbv.de/terminology/bk/81.14
+Student financial aid,http://uri.gbv.de/terminology/bk/81.17
+Education policy: Other,http://uri.gbv.de/terminology/bk/81.19
+Sociology of education: General,http://uri.gbv.de/terminology/bk/81.20
+Social inequality in the education system,http://uri.gbv.de/terminology/bk/81.21
+Gender differences in the education system,http://uri.gbv.de/terminology/bk/81.22
+Social processes in educational settings,http://uri.gbv.de/terminology/bk/81.23
+Education and occupation,http://uri.gbv.de/terminology/bk/81.24
+Sociology of education: Other,http://uri.gbv.de/terminology/bk/81.29
+"Teaching staff, educational staff",http://uri.gbv.de/terminology/bk/81.31
+Parent involvement,http://uri.gbv.de/terminology/bk/81.32
+"School system, higher education system, training system: General",http://uri.gbv.de/terminology/bk/81.40
+Admission to educational institutions,http://uri.gbv.de/terminology/bk/81.41
+"Organization of teaching, organization of training",http://uri.gbv.de/terminology/bk/81.42
+"Grade promotion, school leaving qualification",http://uri.gbv.de/terminology/bk/81.43
+"School attendance, university study",http://uri.gbv.de/terminology/bk/81.44
+School administration,http://uri.gbv.de/terminology/bk/81.45
+"Educational counselling, training counselling",http://uri.gbv.de/terminology/bk/81.46
+"School system, higher education system, training system: Other",http://uri.gbv.de/terminology/bk/81.49
+"Educational psychology, instructional psychology, school psychology: General",http://uri.gbv.de/terminology/bk/81.50
+Learning process,http://uri.gbv.de/terminology/bk/81.51
+Learning achievement,http://uri.gbv.de/terminology/bk/81.52
+Learning assessment,http://uri.gbv.de/terminology/bk/81.53
+"Pupil behaviour, student behaviour",http://uri.gbv.de/terminology/bk/81.55
+School psychological service,http://uri.gbv.de/terminology/bk/81.57
+Support for gifted students,http://uri.gbv.de/terminology/bk/81.58
+"Educational psychology, instructional psychology, school psychology: Other",http://uri.gbv.de/terminology/bk/81.59
+Teaching process: General,http://uri.gbv.de/terminology/bk/81.60
+"Didactics, higher education didactics",http://uri.gbv.de/terminology/bk/81.61
+Curriculum,http://uri.gbv.de/terminology/bk/81.62
+Teaching process: Other,http://uri.gbv.de/terminology/bk/81.64
+"Teaching aids, learning materials: General",http://uri.gbv.de/terminology/bk/81.65
+"School textbook, textbook",http://uri.gbv.de/terminology/bk/81.66
+Audiovisual media,http://uri.gbv.de/terminology/bk/81.67
+Computer use in teaching and training,http://uri.gbv.de/terminology/bk/81.68
+"Teaching aids, learning materials: Other",http://uri.gbv.de/terminology/bk/81.69
+"Education systems, educational institutions: General",http://uri.gbv.de/terminology/bk/81.70
+"Public schools, private schools",http://uri.gbv.de/terminology/bk/81.71
+School education,http://uri.gbv.de/terminology/bk/81.72
+Preschool education,http://uri.gbv.de/terminology/bk/81.73
+"Primary school, primary level",http://uri.gbv.de/terminology/bk/81.74
+Secondary level,http://uri.gbv.de/terminology/bk/81.75
+Lower secondary level,http://uri.gbv.de/terminology/bk/81.76
+Upper secondary level,http://uri.gbv.de/terminology/bk/81.77
+Vocational education,http://uri.gbv.de/terminology/bk/81.78
+"Universities, universities of applied sciences",http://uri.gbv.de/terminology/bk/81.80
+Out-of-school education,http://uri.gbv.de/terminology/bk/81.81
+Schools for special groups,http://uri.gbv.de/terminology/bk/81.82
+Distance learning,http://uri.gbv.de/terminology/bk/81.85
+"Alternative school forms, private schools",http://uri.gbv.de/terminology/bk/81.90
+Workplace vocational training,http://uri.gbv.de/terminology/bk/81.91
+Continuing vocational education,http://uri.gbv.de/terminology/bk/81.92
+"Education systems, educational institutions: Other",http://uri.gbv.de/terminology/bk/81.94
+Education system: Other,http://uri.gbv.de/terminology/bk/81.99
+National economy,http://uri.gbv.de/terminology/bk/83
+National economy: General,http://uri.gbv.de/terminology/bk/83.00
+History of the national economy,http://uri.gbv.de/terminology/bk/83.01
+Philosophy and theory of the national economy,http://uri.gbv.de/terminology/bk/83.02
+Methods and techniques of the national economy,http://uri.gbv.de/terminology/bk/83.03
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/83.04
+"Economic sociology, economic psychology",http://uri.gbv.de/terminology/bk/83.05
+Economic theory: General,http://uri.gbv.de/terminology/bk/83.10
+Microeconomics,http://uri.gbv.de/terminology/bk/83.11
+Macroeconomics,http://uri.gbv.de/terminology/bk/83.12
+"Theory of economic policy, welfare theory",http://uri.gbv.de/terminology/bk/83.13
+"Income, employment, labour market",http://uri.gbv.de/terminology/bk/83.14
+Economic theory: Other,http://uri.gbv.de/terminology/bk/83.19
+Economic systems: General,http://uri.gbv.de/terminology/bk/83.20
+Market economy,http://uri.gbv.de/terminology/bk/83.21
+"Socialist economics, Marxist economics",http://uri.gbv.de/terminology/bk/83.22
+Economic systems: Other,http://uri.gbv.de/terminology/bk/83.29
+"Economic development, economic structure: General",http://uri.gbv.de/terminology/bk/83.30
+Economic growth,http://uri.gbv.de/terminology/bk/83.31
+Competition,http://uri.gbv.de/terminology/bk/83.32
+Business cycle,http://uri.gbv.de/terminology/bk/83.33
+"Economic development, economic structure: Other",http://uri.gbv.de/terminology/bk/83.39
+Foreign trade and international economy: General,http://uri.gbv.de/terminology/bk/83.40
+Currency,http://uri.gbv.de/terminology/bk/83.44
+Development economics,http://uri.gbv.de/terminology/bk/83.46
+International economic organizations,http://uri.gbv.de/terminology/bk/83.48
+Foreign trade and international economy: Other,http://uri.gbv.de/terminology/bk/83.49
+"Money, inflation, capital market",http://uri.gbv.de/terminology/bk/83.50
+Public finance,http://uri.gbv.de/terminology/bk/83.52
+Economic sectors: General,http://uri.gbv.de/terminology/bk/83.60
+"National economic resources, environmental economics",http://uri.gbv.de/terminology/bk/83.63
+Regional economy,http://uri.gbv.de/terminology/bk/83.64
+Utilities,http://uri.gbv.de/terminology/bk/83.65
+Agricultural economy,http://uri.gbv.de/terminology/bk/83.66
+Manufacturing industry,http://uri.gbv.de/terminology/bk/83.67
+Services: General,http://uri.gbv.de/terminology/bk/83.68
+"Banks, insurance",http://uri.gbv.de/terminology/bk/83.70
+Trade,http://uri.gbv.de/terminology/bk/83.71
+Transport economy,http://uri.gbv.de/terminology/bk/83.72
+Services: Other,http://uri.gbv.de/terminology/bk/83.73
+Economic sectors: Other,http://uri.gbv.de/terminology/bk/83.79
+National economy: Other,http://uri.gbv.de/terminology/bk/83.99
+Business administration,http://uri.gbv.de/terminology/bk/85
+Business administration: General,http://uri.gbv.de/terminology/bk/85.00
+History of business administration,http://uri.gbv.de/terminology/bk/85.01
+Philosophy and theory of business administration,http://uri.gbv.de/terminology/bk/85.02
+Methods and techniques of business administration,http://uri.gbv.de/terminology/bk/85.03
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/85.04
+"Industrial sociology, industrial psychology",http://uri.gbv.de/terminology/bk/85.05
+Corporate management,http://uri.gbv.de/terminology/bk/85.06
+Corporate organization,http://uri.gbv.de/terminology/bk/85.09
+"Corporate planning, corporate control",http://uri.gbv.de/terminology/bk/85.10
+Research and development,http://uri.gbv.de/terminology/bk/85.15
+Corporate information and communication,http://uri.gbv.de/terminology/bk/85.20
+Corporate accounting,http://uri.gbv.de/terminology/bk/85.25
+"Business taxation, corporate auditing",http://uri.gbv.de/terminology/bk/85.27
+"Investment, financing",http://uri.gbv.de/terminology/bk/85.30
+"Procurement, materials management",http://uri.gbv.de/terminology/bk/85.32
+Production,http://uri.gbv.de/terminology/bk/85.35
+Quality management,http://uri.gbv.de/terminology/bk/85.38
+Marketing,http://uri.gbv.de/terminology/bk/85.40
+"Human resources management, labour economics: General",http://uri.gbv.de/terminology/bk/85.50
+Ergonomics and work science,http://uri.gbv.de/terminology/bk/85.52
+Personnel management,http://uri.gbv.de/terminology/bk/85.62
+Labour relations,http://uri.gbv.de/terminology/bk/85.63
+Occupations,http://uri.gbv.de/terminology/bk/85.64
+"Human resources management, labour economics: Other",http://uri.gbv.de/terminology/bk/85.69
+Business administration: Other,http://uri.gbv.de/terminology/bk/85.99
+Law,http://uri.gbv.de/terminology/bk/86
+Law: General,http://uri.gbv.de/terminology/bk/86.00
+History of legal science,http://uri.gbv.de/terminology/bk/86.01
+Philosophy of law,http://uri.gbv.de/terminology/bk/86.02
+"Legal theory, legal methodology, general jurisprudence",http://uri.gbv.de/terminology/bk/86.03
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/86.04
+"Sociology of law, psychology of law",http://uri.gbv.de/terminology/bk/86.05
+"Comparative law, harmonization of law",http://uri.gbv.de/terminology/bk/86.06
+Theory of legal sources,http://uri.gbv.de/terminology/bk/86.07
+"Administration of justice, theory of adjudication",http://uri.gbv.de/terminology/bk/86.08
+Legal history,http://uri.gbv.de/terminology/bk/86.09
+"Law of individual countries, regions and peoples",http://uri.gbv.de/terminology/bk/86.10
+Roman law,http://uri.gbv.de/terminology/bk/86.11
+Common law,http://uri.gbv.de/terminology/bk/86.12
+Judicial system,http://uri.gbv.de/terminology/bk/86.13
+Legal assistance,http://uri.gbv.de/terminology/bk/86.14
+"General procedural law, civil procedure",http://uri.gbv.de/terminology/bk/86.15
+Enforcement of judgments,http://uri.gbv.de/terminology/bk/86.16
+"Non-contentious jurisdiction, arbitration",http://uri.gbv.de/terminology/bk/86.17
+Private law: General,http://uri.gbv.de/terminology/bk/86.18
+General part of the German Civil Code,http://uri.gbv.de/terminology/bk/86.19
+Law of obligations,http://uri.gbv.de/terminology/bk/86.20
+Property law,http://uri.gbv.de/terminology/bk/86.21
+Family law,http://uri.gbv.de/terminology/bk/86.22
+Law of succession,http://uri.gbv.de/terminology/bk/86.23
+Commercial law,http://uri.gbv.de/terminology/bk/86.24
+"Banking law, stock exchange law",http://uri.gbv.de/terminology/bk/86.25
+Insurance law,http://uri.gbv.de/terminology/bk/86.26
+Company law,http://uri.gbv.de/terminology/bk/86.27
+"Intellectual property law, publishing law",http://uri.gbv.de/terminology/bk/86.28
+"Competition law, antitrust law",http://uri.gbv.de/terminology/bk/86.29
+Private international law,http://uri.gbv.de/terminology/bk/86.30
+Private law: Other,http://uri.gbv.de/terminology/bk/86.32
+Criminal law: General,http://uri.gbv.de/terminology/bk/86.33
+Criminal law: General part,http://uri.gbv.de/terminology/bk/86.34
+Criminal law: Special part,http://uri.gbv.de/terminology/bk/86.35
+Criminal procedure law,http://uri.gbv.de/terminology/bk/86.36
+Penal system,http://uri.gbv.de/terminology/bk/86.37
+Ancillary criminal law,http://uri.gbv.de/terminology/bk/86.38
+Juvenile criminal law,http://uri.gbv.de/terminology/bk/86.39
+"International criminal law, international criminal procedure law",http://uri.gbv.de/terminology/bk/86.40
+Criminology,http://uri.gbv.de/terminology/bk/86.41
+Criminal law: Other,http://uri.gbv.de/terminology/bk/86.42
+Public law: General,http://uri.gbv.de/terminology/bk/86.43
+Constitutional law: General,http://uri.gbv.de/terminology/bk/86.44
+Fundamental rights,http://uri.gbv.de/terminology/bk/86.45
+Constitutional law: Other,http://uri.gbv.de/terminology/bk/86.46
+General administrative law: General,http://uri.gbv.de/terminology/bk/86.47
+"Administrative organization law, administrative procedure",http://uri.gbv.de/terminology/bk/86.48
+Administrative procedural law,http://uri.gbv.de/terminology/bk/86.49
+General administrative law: Other,http://uri.gbv.de/terminology/bk/86.50
+Special administrative law: General,http://uri.gbv.de/terminology/bk/86.51
+Public service law,http://uri.gbv.de/terminology/bk/86.52
+"Aliens law, asylum law",http://uri.gbv.de/terminology/bk/86.53
+"Police law, public order law",http://uri.gbv.de/terminology/bk/86.54
+Data protection law,http://uri.gbv.de/terminology/bk/86.55
+"Health law, food law",http://uri.gbv.de/terminology/bk/86.56
+Local government law,http://uri.gbv.de/terminology/bk/86.57
+"Education law, school law, higher education law",http://uri.gbv.de/terminology/bk/86.58
+Media law,http://uri.gbv.de/terminology/bk/86.59
+"Spatial planning law, building law",http://uri.gbv.de/terminology/bk/86.60
+"Road law, highway law",http://uri.gbv.de/terminology/bk/86.61
+"Nature conservation law, landscape protection law, environmental law",http://uri.gbv.de/terminology/bk/86.62
+"Defence law, civil protection law",http://uri.gbv.de/terminology/bk/86.63
+Special administrative law: Other,http://uri.gbv.de/terminology/bk/86.64
+Economic law,http://uri.gbv.de/terminology/bk/86.65
+"Economic constitution, economic administration",http://uri.gbv.de/terminology/bk/86.66
+Trade and industry law,http://uri.gbv.de/terminology/bk/86.67
+"Mining law, energy law, radiation protection law",http://uri.gbv.de/terminology/bk/86.68
+"Agricultural law, water law, hunting law",http://uri.gbv.de/terminology/bk/86.69
+International economic law,http://uri.gbv.de/terminology/bk/86.70
+Transport law,http://uri.gbv.de/terminology/bk/86.71
+"Budgetary law, financial law",http://uri.gbv.de/terminology/bk/86.72
+Tax law,http://uri.gbv.de/terminology/bk/86.73
+Labour law: General,http://uri.gbv.de/terminology/bk/86.74
+Individual labour law,http://uri.gbv.de/terminology/bk/86.75
+Collective labour law,http://uri.gbv.de/terminology/bk/86.76
+Labour law: Other,http://uri.gbv.de/terminology/bk/86.77
+Social law: General,http://uri.gbv.de/terminology/bk/86.78
+Social insurance law,http://uri.gbv.de/terminology/bk/86.79
+Youth law,http://uri.gbv.de/terminology/bk/86.80
+Social assistance law,http://uri.gbv.de/terminology/bk/86.81
+Social law: Other,http://uri.gbv.de/terminology/bk/86.82
+Public law: Other,http://uri.gbv.de/terminology/bk/86.83
+International law: General,http://uri.gbv.de/terminology/bk/86.84
+Human rights,http://uri.gbv.de/terminology/bk/86.85
+European law: General,http://uri.gbv.de/terminology/bk/86.86
+"Community tasks, harmonization of law",http://uri.gbv.de/terminology/bk/86.88
+European law: Other,http://uri.gbv.de/terminology/bk/86.90
+Law of international organizations,http://uri.gbv.de/terminology/bk/86.91
+States and territories in international law,http://uri.gbv.de/terminology/bk/86.92
+Special fields of international law,http://uri.gbv.de/terminology/bk/86.93
+"Law of war, law on the prevention of war",http://uri.gbv.de/terminology/bk/86.94
+International jurisdiction,http://uri.gbv.de/terminology/bk/86.95
+International law: Other,http://uri.gbv.de/terminology/bk/86.96
+Canon law,http://uri.gbv.de/terminology/bk/86.97
+Law: Other,http://uri.gbv.de/terminology/bk/86.99
+Administrative science,http://uri.gbv.de/terminology/bk/88
+"Administrative science, public administration studies: General",http://uri.gbv.de/terminology/bk/88.00
+History of administrative science,http://uri.gbv.de/terminology/bk/88.01
+Philosophy and theory of administrative science,http://uri.gbv.de/terminology/bk/88.02
+Methods and techniques of administrative science,http://uri.gbv.de/terminology/bk/88.03
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/88.04
+Public administration: General,http://uri.gbv.de/terminology/bk/88.10
+Central government administration,http://uri.gbv.de/terminology/bk/88.11
+"Territorial administration, regional administration",http://uri.gbv.de/terminology/bk/88.12
+Local government administration,http://uri.gbv.de/terminology/bk/88.13
+"Functional authorities, government agencies",http://uri.gbv.de/terminology/bk/88.14
+Law enforcement forces,http://uri.gbv.de/terminology/bk/88.17
+Public administration: Other,http://uri.gbv.de/terminology/bk/88.19
+"Organization of government institutions, management of government institutions",http://uri.gbv.de/terminology/bk/88.20
+Public service,http://uri.gbv.de/terminology/bk/88.30
+Policy measures,http://uri.gbv.de/terminology/bk/88.60
+Comparative administrative science,http://uri.gbv.de/terminology/bk/88.70
+"Administrative science, public administration studies: Other",http://uri.gbv.de/terminology/bk/88.99
+Political science,http://uri.gbv.de/terminology/bk/89
+Political science: General,http://uri.gbv.de/terminology/bk/89.00
+History of political science,http://uri.gbv.de/terminology/bk/89.01
+Theory and methods of political science,http://uri.gbv.de/terminology/bk/89.03
+"Education, profession, organizations",http://uri.gbv.de/terminology/bk/89.04
+Political theory,http://uri.gbv.de/terminology/bk/89.05
+Political ideologies: General,http://uri.gbv.de/terminology/bk/89.10
+Conservatism,http://uri.gbv.de/terminology/bk/89.11
+Liberalism,http://uri.gbv.de/terminology/bk/89.12
+Christian democracy,http://uri.gbv.de/terminology/bk/89.13
+Socialism,http://uri.gbv.de/terminology/bk/89.14
+Communism,http://uri.gbv.de/terminology/bk/89.15
+Socialist movements,http://uri.gbv.de/terminology/bk/89.19
+Anarchism,http://uri.gbv.de/terminology/bk/89.20
+Fascism,http://uri.gbv.de/terminology/bk/89.21
+Nationalism,http://uri.gbv.de/terminology/bk/89.22
+Political ideologies: Other,http://uri.gbv.de/terminology/bk/89.29
+Political systems: General,http://uri.gbv.de/terminology/bk/89.30
+Political theory of the state,http://uri.gbv.de/terminology/bk/89.31
+"Forms of state, forms of government",http://uri.gbv.de/terminology/bk/89.32
+Monarchy,http://uri.gbv.de/terminology/bk/89.33
+Republic,http://uri.gbv.de/terminology/bk/89.34
+Democracy,http://uri.gbv.de/terminology/bk/89.35
+Authoritarian systems,http://uri.gbv.de/terminology/bk/89.36
+Federalism,http://uri.gbv.de/terminology/bk/89.37
+Political systems: Other,http://uri.gbv.de/terminology/bk/89.39
+Internal relations of the state: General,http://uri.gbv.de/terminology/bk/89.40
+State and individual groups,http://uri.gbv.de/terminology/bk/89.41
+State and citizens,http://uri.gbv.de/terminology/bk/89.42
+Internal relations of the state: Other,http://uri.gbv.de/terminology/bk/89.49
+Political processes: General,http://uri.gbv.de/terminology/bk/89.50
+Parliament,http://uri.gbv.de/terminology/bk/89.51
+"Political psychology, political sociology",http://uri.gbv.de/terminology/bk/89.52
+Political culture,http://uri.gbv.de/terminology/bk/89.53
+Political influence,http://uri.gbv.de/terminology/bk/89.54
+Political decision-making,http://uri.gbv.de/terminology/bk/89.55
+Political communication,http://uri.gbv.de/terminology/bk/89.56
+Political participation,http://uri.gbv.de/terminology/bk/89.57
+Political violence,http://uri.gbv.de/terminology/bk/89.58
+Political processes: Other,http://uri.gbv.de/terminology/bk/89.59
+Political organizations: General,http://uri.gbv.de/terminology/bk/89.60
+Political parties,http://uri.gbv.de/terminology/bk/89.61
+Political movements,http://uri.gbv.de/terminology/bk/89.62
+Pressure groups,http://uri.gbv.de/terminology/bk/89.63
+Political organizations: Other,http://uri.gbv.de/terminology/bk/89.69
+International relations: General,http://uri.gbv.de/terminology/bk/89.70
+International cooperation: General,http://uri.gbv.de/terminology/bk/89.71
+International organizations,http://uri.gbv.de/terminology/bk/89.72
+"European policy, European Union",http://uri.gbv.de/terminology/bk/89.73
+International cooperation: Other,http://uri.gbv.de/terminology/bk/89.74
+International conflicts: General,http://uri.gbv.de/terminology/bk/89.75
+"Peace research, conflict research",http://uri.gbv.de/terminology/bk/89.76
+Armaments policy,http://uri.gbv.de/terminology/bk/89.77
+Peace movement,http://uri.gbv.de/terminology/bk/89.78
+International conflicts: Other,http://uri.gbv.de/terminology/bk/89.79
+Military affairs: General,http://uri.gbv.de/terminology/bk/89.80
+Armed forces,http://uri.gbv.de/terminology/bk/89.81
+Military personnel,http://uri.gbv.de/terminology/bk/89.82
+Warfare,http://uri.gbv.de/terminology/bk/89.83
+"Strategy, tactics",http://uri.gbv.de/terminology/bk/89.84
+"Military logistics, stockpiling",http://uri.gbv.de/terminology/bk/89.85
+"Intelligence services, military intelligence",http://uri.gbv.de/terminology/bk/89.86
+"Weapons, combat equipment",http://uri.gbv.de/terminology/bk/89.87
+Military affairs: Other,http://uri.gbv.de/terminology/bk/89.89
+"Foreign policy, international politics",http://uri.gbv.de/terminology/bk/89.90
+Imperialism,http://uri.gbv.de/terminology/bk/89.91
+East-West relations,http://uri.gbv.de/terminology/bk/89.92
+North-South relations,http://uri.gbv.de/terminology/bk/89.93
+International relations: Other,http://uri.gbv.de/terminology/bk/89.94
+Political science: Other,http://uri.gbv.de/terminology/bk/89.99

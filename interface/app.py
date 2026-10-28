@@ -39,6 +39,7 @@ def index():
         "index.html",
         field=config.FIELD,
         field_label=cfg["label"],
+        fields=config.FIELDS,
         vocab_file=cfg["vocab_file"],
         split=cfg["split_on_commas"],
         threshold=config.DEFAULT_THRESHOLD,
@@ -58,8 +59,11 @@ def upload():
     if not math.isfinite(threshold):
         return jsonify(error="Die Ähnlichkeitsschwelle muss eine endliche Zahl sein."), 400
     threshold = min(max(threshold, 0.0), 1.0)
+    field = request.form.get("field") or config.FIELD
+    if field not in config.FIELDS:
+        return jsonify(error="Unbekanntes Feld."), 400
 
-    job = jobs.create_job(file.filename, threshold)
+    job = jobs.create_job(file.filename, threshold, field)
     folder = config.UPLOAD_DIR / job.id
     folder.mkdir(parents=True, exist_ok=True)
     path = folder / ("upload" + Path(file.filename).suffix.lower())

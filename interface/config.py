@@ -29,6 +29,7 @@ FIELDS = {
     "subject": {
         "label": "Thema (subject)",
         "vocab_file": "subject.csv",
+        "vocab_file_en": "subject_en.csv",
         "split_on_commas": False,
     },
 }
@@ -54,6 +55,10 @@ ID_FIELDS = [
     "content.aggregatedCHO.identifier",
 ]
 
+# Felder mit dem Link zum Original-Objekt (Reihenfolge = Priorität). Gesucht wird in
+# RECORD_PATH, dann in "content", dann an der Wurzel des Datensatzes.
+URL_FIELDS = ["isShownAt"]
+
 # Was passiert mit der Konzept-URI (z. B. Getty AAT in "id"), wenn ein Label ersetzt
 # wird und im Vokabular KEINE URI hinterlegt ist?
 #   "remove_id" -> alte URI entfernen (sie gehörte zum alten Begriff); im Log vermerkt
@@ -73,9 +78,9 @@ MAX_UPLOAD_MB = 2048
 IDS_PREVIEW = 3             # Anzahl der direkt angezeigten IDs je Kandidat
 
 
-def field_cfg():
-    return FIELDS[FIELD]
+def field_cfg(field=None):
+    return FIELDS[field or FIELD]
 
 
-def vocab_path():
-    return VOCAB_DIR / field_cfg()["vocab_file"]
+def vocab_path(field=None):
+    return VOCAB_DIR / field_cfg(field)["vocab_file"]

@@ -42,6 +42,9 @@ body {
   margin: 0 auto;
 }
 
+.site-header { text-align: center; }
+.site-logo { display: block; width: auto; max-width: 100%; height: 110px; margin: 0 auto 1.4rem; }
+
 .eyebrow {
   margin: 0 0 .45rem;
   color: #b6d9cd;
@@ -186,6 +189,7 @@ select { min-height: 40px; padding: .45rem 2rem .45rem .6rem; border: 1px solid 
 
 @media (max-width: 460px) {
   .site-header { padding: 2rem 1rem; }
+  .site-logo { height: 80px; }
   .header-inner, main { width: min(100% - 1rem, 1120px); }
   .panel { padding: 1rem; }
   .upload-controls { grid-template-columns: 1fr; }

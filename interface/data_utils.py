@@ -152,6 +152,21 @@ def get_record_id(record: dict, line_no: int) -> tuple[str, bool]:
     return f"Datensatz Nr. {line_no}", False
 
 
+def get_record_url(record: dict) -> str:
+    """Link zum Original-Objekt (isShownAt) oder "" – nur http(s)-Links."""
+    nodes = [_dig(record, ".".join(config.RECORD_PATH)), record.get("content"), record]
+    for key in config.URL_FIELDS:
+        for node in nodes:
+            val = node.get(key) if isinstance(node, dict) else None
+            if isinstance(val, list):
+                val = val[0] if val else None
+            if isinstance(val, dict):
+                val = val.get("@value") or val.get("id")
+            if isinstance(val, str) and val.strip().lower().startswith(("http://", "https://")):
+                return val.strip()
+    return ""
+
+
 def get_cho(record: dict):
     node = record
     for key in config.RECORD_PATH:

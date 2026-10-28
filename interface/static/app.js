@@ -3,6 +3,9 @@
 const form = document.querySelector("#upload-form");
 const fileInput = document.querySelector("#file-input");
 const fileName = document.querySelector("#file-name");
+const fieldSelect = document.querySelector("#field-select");
+const fieldLabel = document.querySelector("#field-label");
+const vocabFile = document.querySelector("#vocab-file");
 const threshold = document.querySelector("#threshold");
 const thresholdValue = document.querySelector("#threshold-value");
 const notice = document.querySelector("#status-message");
@@ -44,6 +47,7 @@ function showProgress(fraction) {
 
 function setBusy(value) {
   busy = value;
+  fieldSelect.disabled = value;
   goButton.disabled = value;
   form.querySelector('button[type="submit"]').disabled = value;
 }
@@ -56,6 +60,12 @@ async function requestJson(url, options) {
   }
   return payload;
 }
+
+fieldSelect.addEventListener("change", () => {
+  const option = fieldSelect.selectedOptions[0];
+  fieldLabel.textContent = option.dataset.label;
+  vocabFile.textContent = option.dataset.vocab;
+});
 
 threshold.addEventListener("input", () => {
   thresholdValue.value = Number(threshold.value).toFixed(2);
@@ -90,11 +100,12 @@ form.addEventListener("submit", async (event) => {
   warnings.replaceChildren();
   exportPanel.hidden = true;
   currentReview.hidden = true;
+  const body = new FormData(form); // vor setBusy: deaktivierte Felder (field) würden fehlen
   setBusy(true);
   showNotice("Datei wird hochgeladen und analysiert …");
   showProgress(0);
   try {
-    const result = await requestJson("/api/upload", { method: "POST", body: new FormData(form) });
+    const result = await requestJson("/api/upload", { method: "POST", body });
     activeJobId = result.job_id;
     await pollJob();
   } catch (error) {
@@ -188,6 +199,22 @@ function renderState(state) {
   updateSelection();
 }
 
+function makeIdItem(entry) {
+  const item = document.createElement("li");
+  if (/^https?:\/\//i.test(entry.url || "")) {
+    const link = document.createElement("a");
+    link.href = entry.url;
+    link.textContent = entry.url;
+    link.target = "_blank";
+    link.rel = "noopener noreferrer";
+    link.title = `ID: ${entry.id}`;
+    item.append(link);
+  } else {
+    item.textContent = entry.id; // kein Link vorhanden: ID anzeigen
+  }
+  return item;
+}
+
 function makeCandidateCard(candidate, stepIndex) {
   const card = document.createElement("article");
   card.className = "candidate-card";
@@ -210,11 +237,7 @@ function makeCandidateCard(candidate, stepIndex) {
   const summary = document.createElement("summary");
   summary.textContent = `${candidate.id_total} Treffer · Ähnlichkeit ${Number(candidate.score).toFixed(3)}`;
   const ids = document.createElement("ol");
-  for (const id of candidate.ids_preview || []) {
-    const item = document.createElement("li");
-    item.textContent = id;
-    ids.append(item);
-  }
+  for (const entry of candidate.ids_preview || []) ids.append(makeIdItem(entry));
   details.append(summary, ids);
   if (candidate.id_total > (candidate.ids_preview || []).length) {
     details.addEventListener("toggle", async () => {
@@ -223,11 +246,7 @@ function makeCandidateCard(candidate, stepIndex) {
         const query = new URLSearchParams({ step: String(stepIndex), variant: candidate.variant });
         const result = await requestJson(`/api/jobs/${encodeURIComponent(activeJobId)}/ids?${query}`);
         ids.replaceChildren();
-        for (const id of result.ids) {
-          const item = document.createElement("li");
-          item.textContent = id;
-          ids.append(item);
-        }
+        for (const entry of result.ids) ids.append(makeIdItem(entry));
         details.dataset.loaded = "true";
       } catch (error) {
         const message = document.createElement("li");
