@@ -12,7 +12,7 @@ PERIODO_PATH = DATA_DIR / "periodo_periods.csv"  # von build_period_table.py erz
 # Der ISO-8601-String verwendet die astronomische Zählung (1 v. Chr. = 0000, 2 v. Chr. = -0001).
 # Unschärfe-Markierungen ("~" ungefähr, "?" unsicher) und offene Intervalle ("..") sind EDTF.
 
-NO_DATE = {"ohne datierung", "ohne datum", "undatiert", "unbekannt", "unknown", "o. j.", "o.j.", "x", "geschichte", "sozialgeschichte", "div.", "9999", "african", "afrikanisch"}
+NO_DATE = {"ohne datierung", "ohne datum", "undatiert", "unbekannt", "unknown", "o. j.", "o.j.", "x", "geschichte", "sozialgeschichte", "div.", "9999", "african", "afrikanisch", "nicht datiert"}
 
 MONTHS = {
     "januar": 1, "jänner": 1, "jaenner": 1, "februar": 2, "märz": 3, "maerz": 3, "april": 4, "mai": 5, "juni": 6,
@@ -101,6 +101,7 @@ def build(begin: tuple, end: tuple, qualifier: str, method: str = "rule") -> Tim
 def clean(text: str) -> tuple[str, str]:
     """Text bereinigen und Qualifier (approx/uncertain) ermitteln."""
     text = text.replace("\n", " ").replace("–", "-").replace("—", "-").replace("©", " ").strip()
+    text = text.strip("\"\u201c\u201d\u201e ")  # Anführungszeichen um den ganzen Wert ("vor 1914")
     qualifier = set()
     if "(?)" in text or (text.endswith("?") and not text.endswith("??")):  # "19??" ist eine Maske
         qualifier.add("uncertain")

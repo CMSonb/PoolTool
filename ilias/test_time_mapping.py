@@ -81,6 +81,8 @@ CASES = [
     ("-195000000", -195000000, -195000000, "Y-195000000", "table"),
     ("Roman Imperial | Römische Kaiserzeit", -27, 476, "-0026/0476", "table"),
     ("Spätklassizismus", 1810, 1850, "1810/1850", "table"),
+    ('"vor 1914"', None, 1914, "../1914", "rule"),
+    ("nicht datiert", None, None, "", "no_date"),
     ("ohne Datierung", None, None, "", "no_date"),
     ("Unbekannt", None, None, "", "no_date"),
     ("ca. 70 v. Chr.-25", None, None, "", "unmapped"),
